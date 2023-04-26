@@ -154,7 +154,7 @@ BẢNG ID STRING TRONG GAME
       <!-- 500 - 549: Unit roles -->
       <String _locID='500' category='Code' subtitle='false'>Bộ Binh Chính</String>
       <String _locID='501' category='Code' subtitle='false'>Phương Tiện Chính</String>
-      <String _locID='502' category='Code' subtitle='false'>Máy Bay Không Kích Chính</String>
+      <String _locID='502' category='Code' subtitle='false'>Máy Bay Cường Kích Chính</String>
       <String _locID='503' category='Code' subtitle='false'>Lực Lượng Chống Bộ Binh</String>
       <String _locID='504' category='Code' subtitle='false'>Lực Lượng Chống Phương Tiện</String>
       <String _locID='505' category='Code' subtitle='false'>Lực Lượng Phòng Không</String>
@@ -165,7 +165,7 @@ BẢNG ID STRING TRONG GAME
       <String _locID='510' category='Code' subtitle='false'>Cung Cấp Tài Nguyên</String>
       <String _locID='511' category='Code' subtitle='false'>Huấn Luyện Bộ Binh</String>
       <String _locID='512' category='Code' subtitle='false'>Đào Tạo Phương Tiện</String>
-      <String _locID='513' category='Code' subtitle='false'>Đào Tạo Máy Bay Không Kích</String>
+      <String _locID='513' category='Code' subtitle='false'>Đào Tạo Máy Bay Cường Kích</String>
       <String _locID='514' category='Code' subtitle='false'>Những Nâng Cấp Đặc Biệt</String>
       <String _locID='515' category='Code' subtitle='false'>Tăng Mức Độ Công Nghệ</String>
       <String _locID='516' category='Code' subtitle='false'>Phòng Thủ Căn Cứ</String>
@@ -919,7 +919,7 @@ BẢNG ID STRING TRONG GAME
       <String _locID='10030' category='Objects' subtitle='false'>KHO PHƯƠNG TIỆN</String>
       <String _locID='10031' category='Objects' subtitle='false'>Kho Phương Tiện Của UNSC là nơi xây dựng các phương tiện mặt đất dành cho quân đội UNSC. Những công nghệ dành cho Phương Tiện cũng có thể được nâng cấp ở đây.</String>
       <String _locID='10032' category='Objects' subtitle='false'>SÂN BAY</String>
-      <String _locID='10033' category='Objects' subtitle='false'>Sân Bay là nơi tạo ra nhiều loại đơn vị không kích của UNSC. Những công nghệ dành cho Máy Bay Không Kích cũng có thể được nâng cấp ở đây.</String>
+      <String _locID='10033' category='Objects' subtitle='false'>Sân Bay là nơi tạo ra nhiều loại đơn vị không kích của UNSC. Những công nghệ dành cho Máy Bay Cường Kích cũng có thể được nâng cấp ở đây.</String>
       <String _locID='10034' category='Objects' subtitle='false'>
       </String>
       <String _locID='10035' category='Objects' subtitle='false'>Trains Aircraft</String>
@@ -4094,8 +4094,8 @@ BẢNG ID STRING TRONG GAME
       <String _locID='25246' subtitle='false'>%1!d! friend(s) are playing Halo Wars</String>
       <String _locID='25247' subtitle='false' category='UI'>No gamer profile signed in.</String>
       <String _locID='25248' subtitle='false' category='UI'>DEPRECATED Cannot join game.</String>
-      <String _locID='25249' category='UI' subtitle='false'>Could not join that lobby, it is full.</String>
-      <String _locID='25250' category='UI' subtitle='false'>Could not join that lobby, you have a different version than the host.</String>
+      <String _locID='25249' category='UI' subtitle='false'>Không thể tham gia phòng chơi này, vì nó hết chỗ rồi.</String>
+      <String _locID='25250' category='UI' subtitle='false'>Không thể tham gia phòng chơi này, bạn hiện đang chơi một phiên bản khác với chủ phòng.</String>
       <String _locID='25251' subtitle='false' category='UI'>Could not join that lobby, please try again.</String>
       <String _locID='25252' subtitle='false' category='UI'>Failed to launch the game. Please try again or you may need to leave and recreate your lobby.</String>
       <String _locID='25253' subtitle='false' category='UI'>Could not join that lobby, could not connect to host.</String>
@@ -5361,21 +5361,21 @@ BẢNG ID STRING TRONG GAME
       <String _locID='26672' subtitle='false'>%1!d!x%2!d!</String>
       <String _locID='26673' subtitle='false'>APPLY RESOLUTION</String>
       <String _locID='26674' subtitle='false'>Độ phân giải bạn vừa mới chọn sẽ được áp dụng ngay sau khi trò chơi ở chế độ toàn màn hình.</String>
-      <String _locID='26675' category='steamVersion' originally='25045 and 23441' subtitle='false'>PROFILE</String>
+      <String _locID='26675' category='steamVersion' originally='25045 and 23441' subtitle='false'>HỒ SƠ</String>
       <String _locID='26676' category='steamVersion' originally='25316' subtitle='false'>Xem hồ sơ của người chơi</String>
       <String _locID='26677' category='steamVersion' originally='26179' subtitle='false'>Xem Hồ Sơ Của Chủ Phòng</String>
-      <String _locID='26678' category='steamVersion' originally='25566' subtitle='false'>Your status in Steam is currently Offline. Please make sure your internet connection and Steam connection is active.</String>
-      <String _locID='26679' category='steamVersion' originally='25254' subtitle='false'>Could not join that lobby, due to issues with Steam. Please try again.</String>
-      <String _locID='26680' category='steamVersion' originally='25442' subtitle='false'>You have lost your connection to Steam. Unable to continue matchmaking.</String>
-      <String _locID='26681' category='steamVersion' originally='25443' subtitle='false'>You have lost your connection to Steam. Unable to maintain your online session.</String>
-      <String _locID='26682' category='steamVersion' originally='25450' subtitle='false'>There was a problem servicing your request through Steam. Please check your network connection and try again.</String>
-      <String _locID='26683' category='steamVersion' originally='25933' subtitle='false'>Could not contact Steam. Please try again.</String>
+      <String _locID='26678' category='steamVersion' originally='25566' subtitle='false'>Trạng thái trong Steam của bạn hiện tại là Ngoại Tuyến. Xin hãy đảm bảo rằng đường truyền mạng của bạn ổn định để duy trì kết nối tới máy chủ Steam.</String>
+      <String _locID='26679' category='steamVersion' originally='25254' subtitle='false'>Không thể tham gia phòng chơi, vì có một số vấn đề xảy ra với Steam. Xin hãy thử lại.</String>
+      <String _locID='26680' category='steamVersion' originally='25442' subtitle='false'>Bạn đã bị mất kết nối tới Steam. Không thể tiếp tục tìm trận.</String>
+      <String _locID='26681' category='steamVersion' originally='25443' subtitle='false'>Bạn đã bị mất kết nối tới Steam. Không thể tiếp tục duy trì phòng chơi trực tuyến của bạn.</String>
+      <String _locID='26682' category='steamVersion' originally='25450' subtitle='false'>Có một vấn đề xảy ra khi xử lý yêu cầu của bạn thông qua Steam. Xin hãy kiểm tra đường truyền mạng của bạn và thử lại.</String>
+      <String _locID='26683' category='steamVersion' originally='25933' subtitle='false'>Không thể kết nối với máy chủ Steam. Xin hãy thử lại.</String>
       <String _locID='26684' category='UI' subtitle='false'>Enjoy early access to Campaign and Skirmish.&lt;br&gt;&lt;br&gt;Multiplayer and Co-op access will be added soon.</String>
       <String _locID='26685' category='UI' subtitle='false'>Enjoy early access to Campaign and Skirmish.&lt;br&gt;&lt;br&gt;Multiplayer and Co-op access will be added soon.</String>
-      <String _locID='26686' subtitle='false' category='UI'>Could not join the lobby. The lobby no longer exists.</String>
-      <String _locID='26687' subtitle='false' category='UI'>Some players were not able to join the lobby.</String>
-      <String _locID='26688' subtitle='false' category='UI'>The host of the lobby has kicked you from the session.</String>
-      <String _locID='26689' subtitle='false' category='UI'>The host of the lobby has left the session and it no longer exists.</String>
+      <String _locID='26686' subtitle='false' category='UI'>Không thể tham gia phòng chơi. Phòng này không còn tồn tại.</String>
+      <String _locID='26687' subtitle='false' category='UI'>Một vài người chơi không thể tham gia phòng chơi.</String>
+      <String _locID='26688' subtitle='false' category='UI'>Chủ phòng đã đuổi bạn ra khỏi phòng chơi.</String>
+      <String _locID='26689' subtitle='false' category='UI'>Chủ phòng đã rời và phòng chơi không còn tồn tại.</String>
       <String _locID='26690' subtitle='false' category='UI'>Khi bạn tùy chỉnh xong cài đặt phòng đấu, ấn nút MỞ PHÒNG ĐẤU để mở phòng và bắt đầu trò chơi.</String>
       <String _locID='26691' subtitle='false' category='UI'>Khi bạn tùy chỉnh xong cài đặt phòng đấu, ấn nút TÌM TRẬN để tìm trận đấu.</String>
       <String _locID='26692' subtitle='false' category='UI'>Khi bạn tùy chỉnh xong cài đặt phòng đấu, ấn nút SẴN SÀNG để bắt đầu chơi.</String>
