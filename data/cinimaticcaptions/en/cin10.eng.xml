@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<!--Việt hóa bởi kecox15670.-->
+<cinimaticCaption>
+	<caption startFrame="470" endFrame="500" color="4294967295">CUTTER: Va chạm nặng ở mạn phải!</caption>
+	<caption startFrame="500" endFrame="545" color="4294967295">SERINA: Va chạm nặng ở mạn phải, rõ!</caption>
+	<caption startFrame="910" endFrame="965" color="4294967295">SERINA: Thuyền trưởng! Bọn chúng đang sạc vũ khí!</caption>
+	<caption startFrame="970" endFrame="1030" color="4294967295">CUTTER: Tất cả các trạm chiến đấu! Kích hoạt vũ khí đi.</caption>
+	<caption startFrame="1030" endFrame="1100" color="4294967295">Nói với Forge rằng anh ta chưa xong việc ở ngoài đó đâu.</caption>
+	<caption startFrame="1110" endFrame="1160" color="4294967295">SERINA: Đang báo cáo với trung sĩ - rõ thưa ngài.</caption>
+	<caption startFrame="1330" endFrame="1405" color="4294967295">SERINA: Vậy...có phải tôi là người duy nhất phát hoảng bởi sự thật là</caption>
+	<caption startFrame="1405" endFrame="1450" color="4294967295"> chúng ta đang ở trong một hành tinh không?</caption>
+</cinimaticCaption>
