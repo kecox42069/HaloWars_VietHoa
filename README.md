@@ -1,3 +1,6 @@
-# HaloWars_VietHoa
+// insert ảnh ở đây
 Halo Wars: Definitive Edition Việt hóa dành cho PC.
-# test
+# CÁCH CÀI ĐẶT
+dsuadusahdsu
+# GHI CÔNG
+dúahđihaduash
