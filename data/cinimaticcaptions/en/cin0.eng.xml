@@ -1,13 +1,21 @@
 ﻿<?xml version='1.0' encoding='utf-8'?>
 <cinimaticCaption>
 <!--Việt hóa bởi kecox15670.-->
-	<caption startFrame="10" endFrame="140" color="4294967295">CUTTER: Báo cáo của thuyền trưởng - 4/2/2531.</caption>
+	<caption startFrame="10" endFrame="145" color="4294967295">CUTTER: Báo cáo của thuyền trưởng - 4/2/2531.</caption>
 	<caption startFrame="145" endFrame="270" color="4294967295">5 năm. 5 năm dài.</caption>
-	<caption startFrame="270" endFrame="400" color="4294967295">Đó là khoảng thời gian để chúng ta chiếm lấy lại Harvest.</caption>
-	<caption startFrame="1110" endFrame="1180" color="4294967295">Ban đầu, mọi chuyện đều đang suôn sẻ...</caption>
+	<caption startFrame="270" endFrame="340" color="4294967295">Đó là khoảng thời gian để chúng ta chiếm lấy lại Harvest.</caption>
+	<caption startFrame="370" endFrame="385" color="4294967295">THỦY QUÂN: Di chuyển nào!</caption>
+	<caption startFrame="385" endFrame="410" color="4294967295">Đi nào! Đi nào!</caption>
+	<caption startFrame="420" endFrame="445" color="4294967295">Cúi xuống! Cúi xuống!</caption>
+	<caption startFrame="480" endFrame="510" color="4294967295">Tôi đang tấn công chúng!</caption>
+	<caption startFrame="530" endFrame="555" color="4294967295">Nổ súng!</caption>
+	<caption startFrame="575" endFrame="600" color="4294967295">Tôi bị trúng đạn rồi!</caption>
+	<caption startFrame="770" endFrame="805" color="4294967295">Tiếp tục bắn đi!</caption>
+	<caption startFrame="925" endFrame="965" color="4294967295">Đi nào! Đi nào!</caption>
+	<caption startFrame="1110" endFrame="1180" color="4294967295">CUTTER: Ban đầu, mọi chuyện đều đang suôn sẻ...</caption>
 	<caption startFrame="1190" endFrame="1310" color="4294967295">...nhưng rồi sau đó là chuỗi ngày thụt lùi...</caption>
-	<caption startFrame="1440" endFrame="1560" color="4294967295">...thất bại nối tiếp thất bại...</caption>
-	<caption startFrame="1620" endFrame="1750" color="4294967295">...từ cuộc chiến tưởng như sẽ thắng nhanh chóng và quyết đoán...</caption>
+	<caption startFrame="1440" endFrame="1560" color="4294967295">...mất mát nối tiếp mất mát...</caption>
+	<caption startFrame="1620" endFrame="1750" color="4294967295">...từ cuộc chiến tưởng như sẽ chiến thắng nhanh chóng và quyết đoán...</caption>
 	<caption startFrame="1790" endFrame="1910" color="4294967295">...trở thành 5 năm của địa ngục.</caption>
 	<caption startFrame="2040" endFrame="2160" color="4294967295">Dĩ nhiên, đó là những gì Harvest còn lại bây giờ...</caption>
 	<caption startFrame="2163" endFrame="2240" color="4294967295">...dưới đó không khác gì địa ngục.</caption>
