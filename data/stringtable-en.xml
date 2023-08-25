@@ -2598,7 +2598,7 @@ BẢNG ID STRING TRONG GAME
       <String _locID='23672' category='Squads' subtitle='false'>NEEDLER ELITE</String>
       <String _locID='23673' category='Squads' subtitle='false'>
       </String>
-      <String _locID='23674' category='UI' scenario='2' subtitle='false'>Use Marines' $$Y$$ Ability vs. Turrets</String>
+      <String _locID='23674' category='UI' scenario='2' subtitle='false'>Sử dụng kĩ năng $$Y$$ của Thủy Quân Lục Chiến để tấn công Pháo Phòng Thủ</String>
       <String _locID='23675' category='Squads' subtitle='false'>PELICAN</String>
       <String _locID='23676' category='Squads' subtitle='false'>
       </String>
@@ -2875,7 +2875,7 @@ BẢNG ID STRING TRONG GAME
       <String _locID='23937' category='Campaign' scenario='2' subtitle='false'>Xây một Doanh trại</String>
       <String _locID='23939' category='UI' scenario='2' subtitle='false'>Sử dụng $$LS$$ để chọn bộ binh Thủy Quân Lục Chiến </String>
       <String _locID='23940' category='Campaign' scenario='2' subtitle='true'>Chúng ta cần xây dựng quân sự lớn hơn trên mặt đất.</String>
-      <String _locID='23941' category='Campaign' scenario='2' subtitle='false'>Destroy Generator</String>
+      <String _locID='23941' category='Campaign' scenario='2' subtitle='false'>Phá Hủy Nguồn Năng Lượng</String>
       <String _locID='23942' category='Squads' subtitle='false'>HEALING PROTECTOR</String>
       <String _locID='23943' category='Squads' subtitle='false'>Attach this to a single squad to have the Protector heal the protected squad out of combat.</String>
       <String _locID='23944' category='Squads' subtitle='false'>OFFENSIVE PROTECTOR</String>
@@ -3380,16 +3380,16 @@ BẢNG ID STRING TRONG GAME
       <String _locID='24473' category='Campaign' scenario='1' subtitle='false'>Covenant đã dựng lên cửa năng lượng trên con đường dẫn đến Căn cứ Alpha. Cửa năng lượng sẽ chặn các phương tiện, nhưng Thủy quân lục chiến có thể di chuyển qua và phá hủy nguồn năng lượng ở trong.</String>
       <String _locID='24474' category='Campaign' scenario='1' subtitle='false'>Căn cứ Alpha là cơ sở chính của UNSC trên hành tinh Harvest và đã bị lực lượng Covenant chiếm đóng. Đánh bại lực lượng Covenant trong khu vực này là nhiệm vụ được ưu tiên cấp cao.</String>
       <String _locID='24475' category='Campaign' scenario='1' subtitle='false'>Grunt, còn được gọi là Unggoy trong ngôn ngữ của Covenant, chúng hèn nhát nhưng nguy hiểm với số lượng lớn. Cùng với Máy thở khí mê-tan, chúng thường được thấy trong các đội binh của Covenant. Chống lại chúng bằng bộ binh của riêng bạn, hoặc bằng súng phun lửa.</String>
-      <String _locID='24476' category='Campaign' scenario='2' subtitle='false'>The Covenant attack has heavily damaged Alpha Base. Get it back up and running by building Supply Pads and military buildings.</String>
-      <String _locID='24477' category='Campaign' scenario='2' subtitle='false'>A Supply Pad is a key component of any military base. Stockpiling supplies will let us build additional structures and train military forces.</String>
-      <String _locID='24478' category='Campaign' scenario='2' subtitle='false'>A Barracks at Alpha Base will allow military units to be trained there.</String>
-      <String _locID='24479' category='Campaign' scenario='2' subtitle='false'>With enough boots on the ground, Alpha Base will be safe once more. After the Marines are trained, patrols can be sent out and the surrounding area secured.</String>
-      <String _locID='24480' category='Campaign' scenario='2' subtitle='false'>The structure is north of Alpha Base, past the Covenant forces. You will have to fight your way through enemy forces to get there.</String>
-      <String _locID='24481' category='Campaign' scenario='2' subtitle='false'>The Covenant were after the secrets buried in the Forerunner structure. Enter and learn what you can.</String>
-      <String _locID='24482' category='Campaign' scenario='2' subtitle='false'>The Covenant are planning to destroy the Forerunner structure. Take out the detonator.</String>
-      <String _locID='24483' category='Campaign' scenario='2' subtitle='false'>Jackals are birdlike aliens who serve as Covenant scouts and sharpshooters. Lacking durability, they often carry energy shields. Counter them with armed Warthogs or Flamethrowers.</String>
-      <String _locID='24484' category='Campaign' scenario='2' subtitle='false'>The Covenant are refining methane on Harvest to supply their Grunt squads. Taking out the refinery would slow them down.</String>
-      <String _locID='24485' category='Campaign' scenario='2' subtitle='false'>Several UNSC units are trapped. Rescue them to bolster your forces.</String>
+      <String _locID='24476' category='Campaign' scenario='2' subtitle='false'>Cuộc tấn công của Covenant đã gây thiệt hại nặng nề vào Căn cứ Alpha. Hãy đưa căn cứ hoạt động trở lại bằng cách xây thêm Trạm Cung Cấp và các cấu trúc quân sự.</String>
+      <String _locID='24477' category='Campaign' scenario='2' subtitle='false'>Trạm cung cấp là thành phần quan trọng của mọi căn cứ quân sự. Dự trữ vật tư sẽ cho phép chúng ta xây dựng thêm các công trình và huấn luyện lực lượng quân sự.</String>
+      <String _locID='24478' category='Campaign' scenario='2' subtitle='false'>Doanh trại tại Căn cứ Alpha sẽ cho phép các đơn vị quân đội được huấn luyện ở đó.</String>
+      <String _locID='24479' category='Campaign' scenario='2' subtitle='false'>Ngay khi có đầy đủ binh lính, Căn cứ Alpha sẽ một lần nữa được an toàn. Sau khi Thủy quân lục chiến được huấn luyện, các cuộc tuần tra có thể được cử đi và khu vực xung quanh căn cứ hiện đã được đảm bảo an ninh.</String>
+      <String _locID='24480' category='Campaign' scenario='2' subtitle='false'>Cấu trúc nằm ở phía bắc Căn cứ Alpha, phía trước lực lượng Covenant. Bạn sẽ phải chiến đấu để vượt qua lực lượng của kẻ thù và rồi đến đó.</String>
+      <String _locID='24481' category='Campaign' scenario='2' subtitle='false'>Covenant đang nhắm đến những bí mật được chôn giấu trong cấu trúc của Forerunner. Tiến vào cấu trúc và tìm hiểu những gì bạn có thêr.</String>
+      <String _locID='24482' category='Campaign' scenario='2' subtitle='false'>Covenant đang lên kế hoạch phá hủy cấu trúc của Forerunner. Hãy phá hủy ngòi nổ ngay lập tức.</String>
+      <String _locID='24483' category='Campaign' scenario='2' subtitle='false'>Đám Jackal là những người ngoài hành tinh giống như chim, đóng vai trò là trinh sát và lính bắn tỉa của Covenant. Vì sự yếu đuối, chúng thường mang theo lá chắn năng lượng. Chống lại chúng bằng những chiếc Warthog có vũ trang hoặc bằng Súng phun lửa.</String>
+      <String _locID='24484' category='Campaign' scenario='2' subtitle='false'>Covenant đang tinh chế khí methan trên hành tinh Harvest để cung cấp cho đội Grunt của chúng. Phá hủy máy lọc khí methan sẽ làm chúng chậm lại.</String>
+      <String _locID='24485' category='Campaign' scenario='2' subtitle='false'>Một vài đơn vị của UNSC đang bị mắc kẹt. Giải cứu họ sẽ củng cố lực lượng của bạn.</String>
       <String _locID='24486' category='Campaign' scenario='3' subtitle='false'>Anders will need time to activate the hardlight bridge. Keep the Covenant forces at bay until she succeeds.</String>
       <String _locID='24487' category='Campaign' scenario='3' subtitle='false'>Get Forge and Anders to the exit. The Covenant will overwhelm you if you wait too long.</String>
       <String _locID='24488' category='Campaign' scenario='3' subtitle='false'>Anders may still be able to activate the second bridge and give the UNSC forces a chance to escape.</String>
@@ -4274,7 +4274,7 @@ BẢNG ID STRING TRONG GAME
       <String _locID='25427' category='UI' scenario='Campaign' subtitle='false'>CƠ BẢN</String>
       <String _locID='25428' category='UI' scenario='Campaign' subtitle='false'>NÂNG CAO</String>
       <String _locID='25440' category='UI' subtitle='false'>Please sign-in with an Xbox Live gamer profile.</String>
-      <String _locID='25441' category='UI' scenario='' subtitle='false'>Bạn có chắc muốn chạy tiến trình chơi này? Những tiến trình chưa được lưu sẽ bị mất.</String>
+      <String _locID='25441' category='UI' scenario='' subtitle='false'>Bạn có chắc là muốn chạy tiến trình chơi này? Những tiến trình chưa được lưu sẽ bị mất.</String>
       <String _locID='25442' category='UI' scenario='MP modes' subtitle='false'>You have lost your connection to Xbox Live. Không thể tiếp tục tìm trận.</String>
       <String _locID='25443' category='UI' scenario='MP modes' subtitle='false'>Bạn đã bị mất kết nối tới máy chủ Xbox Live. Không thể tiếp tục phòng chơi trực tuyến.</String>
       <String _locID='25444' category='UI' scenario='MP modes' subtitle='false'>Bạn đã bị mất kết nối mạng.</String>
@@ -4552,7 +4552,7 @@ BẢNG ID STRING TRONG GAME
       <String _locID='25721' category='UI' scenario='Ticker' subtitle='false'>temp</String>
       <String _locID='25722' category='UI' scenario='Ticker' subtitle='false'>Insert Text Here</String>
       <String _locID='25723' category='UI' scenario='InGameUI' subtitle='false'>Dormant</String>
-      <String _locID='25724' category='UI' subtitle='false'>Bạn có chắc muốn là muốn lưu tiến trình chơi này? Bản lưu trước đó sẽ bị ghi đè.</String>
+      <String _locID='25724' category='UI' subtitle='false'>Bạn có chắc là muốn lưu tiến trình chơi này? Bản lưu trước đó sẽ bị ghi đè.</String>
       <String _locID='25725' scenario='Release' subtitle='false'>South Containment Unit Open</String>
       <String _locID='25726' scenario='Release' subtitle='false'>North Containment Unit Open</String>
       <String _locID='25727' category='UI' scenario='InGameUI' subtitle='false'>Bạn đã nhặt được Skull %1!s!</String>
@@ -5127,7 +5127,7 @@ BẢNG ID STRING TRONG GAME
       <String _locID='26332' subtitle='false' category='UI'>With a unit or multiple units selected press ALT + (0-9). The selected units will make a new control group and are removed from other control groups.</String>
       <String _locID='26333' category='UI' subtitle='false'>Đồng Bộ Hóa Theo Chiều Dọc (VSync)</String>
       <String _locID='26334' category='UI' subtitle='false'>Chọn bật hoặc tắt VSync, tắt cài đặt này sẽ cải thiện hiệu năng.</String>
-      <String _locID='26335' category='UI' subtitle='false'>Bạn có chắc bạn muốn thoát trò chơi?</String>
+      <String _locID='26335' category='UI' subtitle='false'>Bạn có chắc là bạn muốn thoát trò chơi?</String>
       <String _locID='26400' subtitle='false' category='Code'>Left Stick Up</String>
       <String _locID='26401' subtitle='false' category='Code'>Left Stick Down</String>
       <String _locID='26402' subtitle='false' category='Code'>Left Stick Left</String>
