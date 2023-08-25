@@ -1510,8 +1510,8 @@ BẢNG ID STRING TRONG GAME
       <String _locID='22578' category='Campaign' scenario='13' subtitle='false'>17</String>
       <String _locID='22579' category='Campaign' subtitle='false'>Help text stand-in for Mega Turret.</String>
       <String _locID='22591' category='Campaign' scenario='15' subtitle='false'>Hold off the Flood until your men can evac.</String>
-      <String _locID='22592' category='Techs' subtitle='false'>MEGA BARRAGE</String>
-      <String _locID='22593' category='Techs' subtitle='false'>Doubles the number of missiles in each salvo of the active Barrage Ability.</String>
+      <String _locID='22592' category='Techs' subtitle='false'>SIÊU PHÁO KÍCH CÀN QUÉT</String>
+      <String _locID='22593' category='Techs' subtitle='false'>Gấp đôi số lượng tên lửa trong mỗi lượt bắn của kĩ năng Pháo Kích Càn Quét.</String>
       <String _locID='22594' category='Techs' subtitle='false'>Market 3</String>
       <String _locID='22595' category='Techs' subtitle='false'>Removes market and tribute penalty</String>
       <String _locID='22596' category='Techs' subtitle='false'>Market 3</String>
@@ -3449,7 +3449,7 @@ BẢNG ID STRING TRONG GAME
       <String _locID='24544' category='Objects' subtitle='false'>FORERUNNER RELIC</String>
       <String _locID='24545' category='Objects' subtitle='false'>FORERUNNER RELIC</String>
       <String _locID='24546' category='Objects' subtitle='false'>Opens Containment Unit</String>
-      <String _locID='24547' category='Campaign' scenario='2' subtitle='false'>A Covenant base is between our forces and our primary objective. Destroying it will secure the path to the Forerunner structure.</String>
+      <String _locID='24547' category='Campaign' scenario='2' subtitle='false'>Có một căn cứ của Covenant nằm giữa lực lượng và mục tiêu chính của chúng ta. Phá hủy nó sẽ giúp phe ta dễ dàng tới cấu trúc của Forerunner.</String>
       <String _locID='24548' category='Abilities' subtitle='false'>FLASH BANG</String>
       <String _locID='24549' category='Abilities' subtitle='false'>SHOTGUN BURST</String>
       <String _locID='24550' category='Abilities' subtitle='false'>REPAIR</String>
@@ -4577,12 +4577,12 @@ BẢNG ID STRING TRONG GAME
       <String _locID='25746' subtitle='false'>Spartan có một vài nâng cấp sẽ thay đổi vũ khí của họ, từ Súng tiểu niên thành Súng máy, và cuối cùng là vũ khí Spartan Laser.</String>
       <String _locID='25747' subtitle='false'>Chiếc Warthog của UNSC là một đơn vị cơ động cao, nó sẽ rất hiệu quả nếu bạn sử dụng nó để do thám và gặt hái tài nguyên từ hòm tiếp tế.</String>
       <String _locID='25748' subtitle='false'>Bạn cứ bị kẻ địch đâm suốt ư? Vậy thì hãy làm điều tương tự bằng kĩ năng Đâm của Warthog! Kĩ năng này sẽ gây sát thương vào lực lượng của địch xung quanh bản đồ.</String>
-      <String _locID='25749' subtitle='false'>The main UNSC vehicle is the Scorpion. Its Canister Shell ability enhances its attack power against infantry.</String>
-      <String _locID='25750' subtitle='false'>Cobras are very effective against other vehicles. Build them to neutralize enemy tanks.</String>
-      <String _locID='25751' subtitle='false'>Cobras can lock down, which increases their range. Lock them down by enemy bases and shell the buildings from a distance.</String>
-      <String _locID='25752' subtitle='false'>If you're having trouble dealing with enemy air power, try building Wolverines. They excel at taking down air units.</String>
-      <String _locID='25753' subtitle='false'>The Hornet is the mainline UNSC air unit, and is effective at both offense and recon.</String>
-      <String _locID='25754' subtitle='false'>The Vulture's Barrage ability is a deadly area attack with multiple missiles. Use Barrage against enemy groups or bases.</String>
+      <String _locID='25749' subtitle='false'>Phương tiện chính của UNSC là chiếc xe tăng Scorpion. Kĩ năng Canister Shell của nó sẽ tăng cường sức tấn công chống lại bộ binh.</String>
+      <String _locID='25750' subtitle='false'>Cobra rất hiệu quả trong việc chống lại những phương tiện khác. Hãy chế tạo chúng để tiêu diệt xe tăng của địch.</String>
+      <String _locID='25751' subtitle='false'>Cobra có thể khóa vị trí, giúp tăng phạm vi tấn công của chúng. Bạn nên khóa nó vào vị trí nào đó xa và rồi phá hủy cấu trúc của địch.</String>
+      <String _locID='25752' subtitle='false'>Nếu bạn gặp khó khăn trong việc đối phó với sức mạnh của lực lượng cường kích của đối phương, hãy thử chế tạo Wolverine. Chúng rất xuất sắc trong việc hạ gục các đơn vị cường kích.</String>
+      <String _locID='25753' subtitle='false'>Hornet là đơn vị cường kích chủ lực của UNSC, họ rất hiệu quả trong việc tấn công và cả do thám.</String>
+      <String _locID='25754' subtitle='false'>Kĩ năng "Pháo Kích Càn Quét" của Vulture là cú tấn công cực kỳ chết người bằng nhiều tên lửa. Bạn nên sử dụng kĩ năng này để chống lại bộ binh hoặc căn cứ của kẻ thù.</String>
       <String _locID='25755' subtitle='false'>The Elephant is difficult to destroy and can help lock down an area. Use it as a forward base.</String>
       <String _locID='25756' subtitle='false'>When Elephants are locked down, they can train infantry. Use them to quickly get fresh troops to the front lines.</String>
       <String _locID='25757' subtitle='false'>In addition to effectively damaging enemy buildings, the Cyclops can pick up and throw enemy units.</String>
