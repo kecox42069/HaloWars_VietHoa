@@ -6,8 +6,8 @@ BẢNG ID STRING TRONG GAME
    ID's      0 -    999  là menu + string dùng chung cho toàn bộ menu
    ID's   1000 -   2999  là tên của những công nghệ, nâng cấp và cả mô tả của nó
    ID's   3000 -   4999  là tên của đội quân và cả mô tả
-   ID's   5000 -   5999  là kĩ năng của thủ lĩnh
-   ID's   6000 -   6999  là kĩ năng của bộ binh
+   ID's   5000 -   5999  là kỹ năng của thủ lĩnh
+   ID's   6000 -   6999  là kỹ năng của bộ binh
    ID's   7000 -   7999  là tên thủ lĩnh và mô tả
    ID's   8000 -   8100  là tên và mô tả chế độ chơi
    ID's   9000 -   9999  là 
@@ -175,7 +175,7 @@ BẢNG ID STRING TRONG GAME
       <String _locID='520' category='Code' subtitle='false'>Thủ Lĩnh</String>
       <!-- ID's  1000 -  2999  reserved for technology names and descriptions -->
       <String _locID='1000' category='Techs' subtitle='false'>TRẠM</String>
-      <String _locID='1001' category='Techs' subtitle='false'>Nâng cấp căn cứ thành Binh Trạm, nâng cấp này sẽ cho bạn thêm hai ô xây. Mỗi ô xây mới sẽ giúp bạn mở rộng sức mạnh của bạn.</String>
+      <String _locID='1001' category='Techs' subtitle='false'>Nâng cấp căn cứ thành Trạm Quân Sự, nâng cấp này sẽ cho bạn thêm hai ô xây. Mỗi ô xây mới sẽ giúp bạn mở rộng sức mạnh của bạn.</String>
       <String _locID='1002' category='Techs' subtitle='false'>PHÁO ĐÀI</String>
       <String _locID='1003' category='Techs' subtitle='false'>Nâng cấp căn cứ thành Pháo Đài Quân Sự, nâng cấp này sẽ cho bạn thêm hai ô xây. Mỗi ô xây mới sẽ giúp bạn mở rộng sức mạnh của bạn.</String>
       <String _locID='1004' category='Techs' subtitle='false'>
@@ -191,11 +191,11 @@ BẢNG ID STRING TRONG GAME
       <String _locID='1011' category='Techs' subtitle='false'>
       </String>
       <String _locID='1012' category='Techs' subtitle='false'>PHÁO PHÒNG THỦ</String>
-      <String _locID='1013' category='Techs' subtitle='false'>Adds a light auto-cannon to all Elephants. This turret is only operable when the Elephant is deployed.</String>
-      <String _locID='1014' category='Techs' subtitle='false'>NEW BLOOD</String>
-      <String _locID='1015' category='Techs' subtitle='false'>Adds another Marine to the squad. This increases the combat effectiveness of the squad.</String>
+      <String _locID='1013' category='Techs' subtitle='false'>Gắn pháo phòng thủ hạng nhẹ vào toàn bộ những Elephant trên chiến trường. Khẩu pháo chỉ có thể hoạt động khi Elephant đã khóa vị trí.</String>
+      <String _locID='1014' category='Techs' subtitle='false'>THÀNH VIÊN MỚI</String>
+      <String _locID='1015' category='Techs' subtitle='false'>Thêm một anh lính từ Thủy Quân Lục Chiến khác vào đội. Điều này sẽ làm tăng hiệu quả chiến đấu của đội hình.</String>
       <String _locID='1016' category='Techs' subtitle='false'>KĨ NĂNG RPG</String>
-      <String _locID='1017' category='Techs' subtitle='false'>Marine active Grenade Ability upgraded to active Rocket Ability. Rockets can attack from a longer range than Grenades.</String>
+      <String _locID='1017' category='Techs' subtitle='false'>Kỹ năng Ném Lựu Đạn của Thủy Quân Lục Chiến sẽ được nâng cấp thành Kỹ năng Bắn Tên Lửa. Tên lửa có phạm vi tấn công rộng hơn lựu đạn.</String>
       <String _locID='1018' category='Techs' subtitle='false'>
       </String>
       <String _locID='1019' category='Techs' subtitle='false'>
@@ -205,17 +205,19 @@ BẢNG ID STRING TRONG GAME
       <String _locID='1021' category='Techs' subtitle='false'>
       </String>
       <String _locID='1022' category='Techs' subtitle='false'>SÚNG MÁY</String>
-      <String _locID='1023' category='Techs' subtitle='false'>Adds Machine Gun attack to the Warthogs, giving them combat capability.</String>
+      <String _locID='1023' category='Techs' subtitle='false'>Gắn Súng Máy vào những chiếc Warthog, giúp họ có khả năng chiến đấu.</String>
       <String _locID='1024' category='Techs' subtitle='false'>SÚNG PHÓNG LỰU</String>
-      <String _locID='1025' category='Techs' subtitle='false'>Adds a Marine armed with a Grenade Launcher to improve attack strength.</String>
+      <String _locID='1025' category='Techs' subtitle='false'>Gắn Súng Phóng Lựu vào những chiếc Warthog để cải thiện sức mạnh tấn công.</String>
+	  <!-- hình như đây là placeholder của game, ko dịch. -->
       <String _locID='1026' category='Techs' subtitle='false'>WOLVERINE 1</String>
       <String _locID='1027' category='Techs' subtitle='false'>Improves Wolverine damage and defense (for now).</String>
-      <String _locID='1028' category='Techs' subtitle='false'>VOLLEY ABILITY</String>
-      <String _locID='1029' category='Techs' subtitle='false'>Enables the active Volley Ability on Wolverines. The Volley Ability can be used to deal big damage to any ground target.</String>
+      <String _locID='1028' category='Techs' subtitle='false'>KĨ NĂNG BẮN MỘT LOẠT</String>
+      <String _locID='1029' category='Techs' subtitle='false'>Kích hoạt Kỹ năng Bắn Một Loạt của Wolverine. Kỹ năng Bắn Một Loạt có thể được sử dụng để gây một lượng sát thương lớn vào mục tiêu ở mặt đất.</String>
+	  <!-- hình như đây là placeholder của game, ko dịch. -->
       <String _locID='1030' category='Techs' subtitle='false'>SCORPION 1</String>
       <String _locID='1031' category='Techs' subtitle='false'>Improves Scorpion damage and defense (for now).</String>
-      <String _locID='1032' category='Techs' subtitle='false'>CANISTER SHELL ABILITY</String>
-      <String _locID='1033' category='Techs' subtitle='false'>Equips Scorpions with a secondary Canister Shell attack. This attack is devastating to any infantry in its blast area.</String>
+      <String _locID='1032' category='Techs' subtitle='false'>KĨ NĂNG PHÁO CANISTER</String>
+      <String _locID='1033' category='Techs' subtitle='false'>Cung cấp cho xe tăng Scorpion đạn pháo Canister. Pháo Canister có sức tàn phá lớn đối với bất kỳ bộ binh nào trong khu vực vụ nổ của nó.</String>
       <String _locID='1034' category='Techs' subtitle='false'>
       </String>
       <String _locID='1035' category='Techs' subtitle='false'>
@@ -224,20 +226,24 @@ BẢNG ID STRING TRONG GAME
       </String>
       <String _locID='1037' category='Techs' subtitle='false'>
       </String>
+	  <!-- hình như đây là placeholder của game, ko dịch. -->
       <String _locID='1038' category='Techs' subtitle='false'>HORNET 1</String>
       <String _locID='1039' category='Techs' subtitle='false'>Improves Hornet damage and defense.</String>
-      <String _locID='1040' category='Techs' subtitle='false'>WINGMEN</String>
-      <String _locID='1041' category='Techs' subtitle='false'>Adds a couple of Marines riding shotgun to augment damage capabilities.</String>
+      <String _locID='1040' category='Techs' subtitle='false'>BẠN ĐỒNG HÀNH</String>
+      <String _locID='1041' category='Techs' subtitle='false'>Đưa một vài Thủy Quân Lục Chiến ngồi cùng chiếc trực thăng và cho họ trang bị shotgun để tăng cường khả năng sát thương.</String>
+	  <!-- hình như đây là placeholder của game, ko dịch. -->
       <String _locID='1042' category='Techs' subtitle='false'>Hawk 1</String>
       <String _locID='1043' category='Techs' subtitle='false'>Improves Hawk damage and defense.</String>
       <String _locID='1044' category='Techs' subtitle='false'>Hawk 2</String>
       <String _locID='1045' category='Techs' subtitle='false'>Improves Hawk damage and defense.</String>
-      <String _locID='1046' category='Techs' subtitle='false'>MEDIC</String>
-      <String _locID='1047' category='Techs' subtitle='false'>Adds a Combat Medic to the squad. The Medic heals the squad after combat.</String>
+      <String _locID='1046' category='Techs' subtitle='false'>BÁC SĨ</String>
+      <String _locID='1047' category='Techs' subtitle='false'>Cử một Bác Sĩ Quân Y vào đội hình của Thủy Quân Lục Chiến. Bác sĩ sẽ hồi toàn bộ đội sau khi chiến đấu xong.</String>
+	  <!-- hình như đây là placeholder của game, ko dịch. -->
       <String _locID='1048' category='Techs' subtitle='false'>COBRA 1</String>
       <String _locID='1049' category='Techs' subtitle='false'>Improves Cobra damage and defense (for now).</String>
-      <String _locID='1050' category='Techs' subtitle='false'>DEFLECTION PLATING</String>
-      <String _locID='1051' category='Techs' subtitle='false'>Hardened steel plates give the Cobra extra protection when locked down.</String>
+      <String _locID='1050' category='Techs' subtitle='false'>BỌC THÉP</String>
+      <String _locID='1051' category='Techs' subtitle='false'>Khi đã khóa vị trí, những tấm bọc thép sẽ giúp cho Cobra có thêm khả năng phòng ngự.</String>
+	  <!-- nhiều placeholder vl -->
       <String _locID='1052' category='Techs' subtitle='false'>Fort Turret upgrade</String>
       <String _locID='1053' category='Techs' subtitle='false'>
       </String>
@@ -247,14 +253,14 @@ BẢNG ID STRING TRONG GAME
       <String _locID='1057' category='Techs' subtitle='false'>Increases Grizzly damage and defense.</String>
       <String _locID='1058' category='Techs' subtitle='false'>LEADER UPGRADE 1</String>
       <String _locID='1059' category='Techs' subtitle='false'>Increases the attack and defense of your Leader.</String>
-      <String _locID='1060' category='Techs' subtitle='false'>MEDIUM TURRET</String>
-      <String _locID='1061' category='Techs' subtitle='false'>Upgrades all Turrets to Medium Turrets, increasing their hitpoints and damage.</String>
-      <String _locID='1062' category='Techs' subtitle='false'>LARGE TURRET</String>
-      <String _locID='1063' category='Techs' subtitle='false'>Upgrades all Turrets to Large Turrets, increasing their hitpoints and damage.</String>
-      <String _locID='1064' category='Techs' subtitle='false'>MEDIUM TURRET</String>
-      <String _locID='1065' category='Techs' subtitle='false'>Upgrades all Turrets to Medium Turrets, increasing their hitpoints and damage.</String>
-      <String _locID='1066' category='Techs' subtitle='false'>LARGE TURRET</String>
-      <String _locID='1067' category='Techs' subtitle='false'>Upgrades all Turrets to Large Turrets, increasing their hitpoints and damage.</String>
+      <String _locID='1060' category='Techs' subtitle='false'>PHÁO THƯỜNG</String>
+      <String _locID='1061' category='Techs' subtitle='false'>Nâng cấp toàn bộ Pháo Phòng Thủ lên mức Thường, cải thiện sát thương và độ bền của chúng.</String>
+      <String _locID='1062' category='Techs' subtitle='false'>PHÁO HẠNG NẶNG</String>
+      <String _locID='1063' category='Techs' subtitle='false'>Nâng cấp toàn bộ Pháo Phòng Thủ thành Pháo Phòng Thủ Hạng Nặng, cải thiện sát thương và độ bền của chúng.</String>
+      <String _locID='1064' category='Techs' subtitle='false'>PHÁO THƯỜNG</String>
+      <String _locID='1065' category='Techs' subtitle='false'>Nâng cấp toàn bộ Pháo Phòng Thủ lên mức Thường, cải thiện sát thương và độ bền của chúng.</String>
+      <String _locID='1066' category='Techs' subtitle='false'>PHÁO HẠNG NẶNG</String>
+      <String _locID='1067' category='Techs' subtitle='false'>Nâng cấp toàn bộ Pháo Phòng Thủ thành Pháo Phòng Thủ Hạng Nặng, cải thiện sát thương và độ bền của chúng.</String>
       <String _locID='1068' category='Techs' subtitle='false'>
       </String>
       <String _locID='1069' category='Techs' subtitle='false'>
@@ -379,7 +385,7 @@ BẢNG ID STRING TRONG GAME
       </String>
       <!-- ID's  3000 -  4999  reserved for squad names and descriptions -->
       <String _locID='3000' category='Squads' subtitle='false'>THỦY QUÂN</String>
-      <String _locID='3001' category='Squads' subtitle='false'>Thủy quân lục chiến là bộ binh chính của UNSC. Họ rất giỏi trong việc chống lại gần như mọi thứ. Họ có Kĩ Năng Ném Lựu Đạn và có thể được nâng cấp thành Kĩ Năng Bắn Tên Lửa.</String>
+      <String _locID='3001' category='Squads' subtitle='false'>Thủy quân lục chiến là bộ binh chính của UNSC. Họ rất giỏi trong việc chống lại gần như mọi thứ. Họ có Kỹ Năng Ném Lựu Đạn và có thể được nâng cấp thành Kỹ Năng Bắn Tên Lửa.</String>
       <String _locID='3002' category='Squads' subtitle='false'>
       </String>
       <String _locID='3003' category='Squads' subtitle='false'>
@@ -388,8 +394,8 @@ BẢNG ID STRING TRONG GAME
       </String>
       <String _locID='3005' category='Squads' subtitle='false'>
       </String>
-      <String _locID='3006' category='Squads' subtitle='false'>NEEDLER GRUNTS</String>
-      <String _locID='3007' category='Squads' subtitle='false'>Mainline troop, slow and short range, yet still the best returns per cost in combat.</String>
+      <String _locID='3006' category='Squads' subtitle='false'>GRUNT CẦM NEEDLER</String>
+      <String _locID='3007' category='Squads' subtitle='false'>Đội quân chủ lực, chậm và chỉ có thể tấn công ở phạm vi nhỏ, nhưng vẫn có ích để bù cái giá mà bạn đã bỏ ra để huấn luyện chúng.</String>
       <String _locID='3008' category='Squads' subtitle='false'>
       </String>
       <String _locID='3009' category='Squads' subtitle='false'>
@@ -399,9 +405,9 @@ BẢNG ID STRING TRONG GAME
       <String _locID='3011' category='Squads' subtitle='false'>
       </String>
       <String _locID='3012' category='Squads' subtitle='false'>ODST</String>
-      <String _locID='3013' category='Squads' subtitle='false'>ODSTs are an elite version of UNSC Marines. They excel at everything a Marine is good at, but can also be hot-dropped anywhere on the battlefield from Spirit of Fire.</String>
+      <String _locID='3013' category='Squads' subtitle='false'>Những ODST (Orbital Drop Shock Trooper - Bộ Binh Xung Kích Từ Quỹ Đạo) là phiên bản mạnh mẽ hơn của Thủy Quân Lục Chiến. Họ giỏi hơn Thủy Quân Lục Chiến ở tất cả mọi thứ, và họ có thể đưa thả xuống từ tàu Spirit of Fire xuống bất cứ đâu trên chiến trường.</String>
       <String _locID='3014' category='Squads' subtitle='false'>SPARTAN</String>
-      <String _locID='3015' category='Squads' subtitle='false'>Prototype UNSC super soldiers, the Spartans possess extreme combat skills. Spartans have an active ability to Jack enemy vehicles and Commandeer friendly vehicles. This boosts the combat power of those vehicles.</String>
+      <String _locID='3015' category='Squads' subtitle='false'>Những siêu chiến binh nguyên mẫu của UNSC, Spartan sở hữu kỹ năng chiến đấu cực đỉnh. Spartan có khả năng Chiếm lấy phương tiện của địch và điều khiển phương tiện của phe ta. Những phương tiện được Spartan điều khiển sẽ được tăng sức mạnh chiến đấu.</String>
       <String _locID='3016' category='Squads' subtitle='false'>WARTHOG</String>
       <String _locID='3017' category='Squads' subtitle='false'>Warthogs are the UNSC's fast scout units. They start with an active Ram Ability, but can be upgraded to get various guns for extra attack power.</String>
       <String _locID='3018' category='Squads' subtitle='false'>
@@ -1511,7 +1517,7 @@ BẢNG ID STRING TRONG GAME
       <String _locID='22579' category='Campaign' subtitle='false'>Help text stand-in for Mega Turret.</String>
       <String _locID='22591' category='Campaign' scenario='15' subtitle='false'>Hold off the Flood until your men can evac.</String>
       <String _locID='22592' category='Techs' subtitle='false'>SIÊU PHÁO KÍCH CÀN QUÉT</String>
-      <String _locID='22593' category='Techs' subtitle='false'>Gấp đôi số lượng tên lửa trong mỗi lượt bắn của kĩ năng Pháo Kích Càn Quét.</String>
+      <String _locID='22593' category='Techs' subtitle='false'>Gấp đôi số lượng tên lửa trong mỗi lượt bắn của kỹ năng Pháo Kích Càn Quét.</String>
       <String _locID='22594' category='Techs' subtitle='false'>Market 3</String>
       <String _locID='22595' category='Techs' subtitle='false'>Removes market and tribute penalty</String>
       <String _locID='22596' category='Techs' subtitle='false'>Market 3</String>
@@ -2477,7 +2483,7 @@ BẢNG ID STRING TRONG GAME
       </String>
       <String _locID='23560' category='Campaign' scenario='' subtitle='false'>
       </String>
-      <String _locID='23561' category='Campaign' scenario='1' subtitle='false'>Kĩ Năng $$Y$$ Của Warthog</String>
+      <String _locID='23561' category='Campaign' scenario='1' subtitle='false'>Kỹ Năng $$Y$$ Của Warthog</String>
       <String _locID='23562' category='Campaign' scenario='3' subtitle='false'>Grizzly $$Y$$ Ability</String>
       <String _locID='23563' category='Campaign' scenario='' subtitle='false'>
       </String>
@@ -2598,7 +2604,7 @@ BẢNG ID STRING TRONG GAME
       <String _locID='23672' category='Squads' subtitle='false'>NEEDLER ELITE</String>
       <String _locID='23673' category='Squads' subtitle='false'>
       </String>
-      <String _locID='23674' category='UI' scenario='2' subtitle='false'>Sử dụng kĩ năng $$Y$$ của Thủy Quân Lục Chiến để tấn công Pháo Phòng Thủ</String>
+      <String _locID='23674' category='UI' scenario='2' subtitle='false'>Sử dụng kỹ năng $$Y$$ của Thủy Quân Lục Chiến để tấn công Pháo Phòng Thủ</String>
       <String _locID='23675' category='Squads' subtitle='false'>PELICAN</String>
       <String _locID='23676' category='Squads' subtitle='false'>
       </String>
@@ -2885,16 +2891,16 @@ BẢNG ID STRING TRONG GAME
       <String _locID='23948' category='Objects' subtitle='false'>FORTRESS</String>
       <String _locID='23949' category='Objects' subtitle='false'>
       </String>
-      <String _locID='23950' category='Objects' subtitle='false'>MEDIUM TURRET</String>
+      <String _locID='23950' category='Objects' subtitle='false'>PHÁO PHƯỜNG</String>
       <String _locID='23951' category='Objects' subtitle='false'>
       </String>
-      <String _locID='23952' category='Objects' subtitle='false'>LARGE TURRET</String>
+      <String _locID='23952' category='Objects' subtitle='false'>PHÁO HẠNG NẶNG</String>
       <String _locID='23953' category='Objects' subtitle='false'>
       </String>
-      <String _locID='23954' category='Objects' subtitle='false'>MEDIUM TURRET</String>
+      <String _locID='23954' category='Objects' subtitle='false'>PHÁO PHƯỜNG</String>
       <String _locID='23955' category='Objects' subtitle='false'>
       </String>
-      <String _locID='23956' category='Objects' subtitle='false'>LARGE TURRET</String>
+      <String _locID='23956' category='Objects' subtitle='false'>PHÁO HẠNG NẶNG</String>
       <String _locID='23957' category='Objects' subtitle='false'>
       </String>
       <String _locID='23958' category='Objects' subtitle='false'>BASE RALLY POINT</String>
@@ -3629,7 +3635,7 @@ BẢNG ID STRING TRONG GAME
       <String _locID='24742' category='Objects' subtitle='false'>SENSOR</String>
       <String _locID='24743' category='Objects' subtitle='false'>TURRET</String>
       <String _locID='24744' category='Campaign' scenario='9' subtitle='true'>This didn't go as I planned. Fall back to Spirit of Fire.</String>
-      <String _locID='24745' category='Campaign' scenario='1' subtitle='false'>$$Y$$ Kĩ Năng Ném Lựu Đạn Của Thủy Quân</String>
+      <String _locID='24745' category='Campaign' scenario='1' subtitle='false'>$$Y$$ Kỹ Năng Ném Lựu Đạn Của Thủy Quân</String>
       <String _locID='24748' subtitle='false'>Tấn công vào Nguồn Năng Lượng</String>
       <String _locID='24749' category='Techs' subtitle='false'>MEDIUM CRYO</String>
       <String _locID='24750' category='Techs' subtitle='false'>Increases the duration of the freeze effect and instantly kills more air units.</String>
@@ -3638,7 +3644,7 @@ BẢNG ID STRING TRONG GAME
       <String _locID='24753' category='Techs' subtitle='false'>SUPER CRYO</String>
       <String _locID='24754' category='Techs' subtitle='false'>Increases the duration of the freeze effect and instantly kills more air units.</String>
       <String _locID='24755' category='UI' subtitle='false'>$$A$$ Fire Cryo Bomb&lt;br&gt;$$B$$ CANCEL</String>
-      <String _locID='24756' scenario='1' category='Campaign' subtitle='false'>$$Y$$ Kĩ Năng Ném Lựu Đạn Của Thủy Quân</String>
+      <String _locID='24756' scenario='1' category='Campaign' subtitle='false'>$$Y$$ Kỹ Năng Ném Lựu Đạn Của Thủy Quân</String>
       <String _locID='24757' category='Campaign' scenario='15' subtitle='true'>Forge to Cutter. I'm beginning my ascent. Estimate 30 minutes to the detonation site.</String>
       <String _locID='24758' category='Campaign' scenario='15' subtitle='true'>Forge here. I’m at the access point to the sun. Will need some time to break through.</String>
       <String _locID='24759' category='Campaign' scenario='15' subtitle='true'>I’m in the sun. You heard Serina. I’ll wait ten minutes, then detonate the core. That’s all the time I can give you.</String>
@@ -4079,7 +4085,7 @@ BẢNG ID STRING TRONG GAME
       <String _locID='25230' category='Skirmish' scenario='Tutorial' subtitle='false'>Số nhiệm vụ nâng cấp đã hoàn thành</String>
       <String _locID='25231' category='Skirmish' scenario='Tutorial' subtitle='false'>Locusts hot dropped</String>
       <String _locID='25232' category='Skirmish' scenario='Tutorial' subtitle='false'>Ấn $$X$$ để tấn công</String>
-      <String _locID='25233' category='Skirmish' scenario='Tutorial' subtitle='false'>Ấn $$Y$$ để sử dụng kĩ năng Càn Quét</String>
+      <String _locID='25233' category='Skirmish' scenario='Tutorial' subtitle='false'>Ấn $$Y$$ để sử dụng kỹ năng Càn Quét</String>
       <String _locID='25234' category='Skirmish' scenario='Tutorial' subtitle='false'>Ấn $$X$$ to use Hot Drop Pad</String>
       <String _locID='25235' category='Campaign' scenario='10' subtitle='false'>Swarmers Killed:</String>
       <String _locID='25236' category='Campaign' scenario='10' subtitle='false'>Alpha Clear</String>
@@ -4571,22 +4577,22 @@ BẢNG ID STRING TRONG GAME
       <String _locID='25740' category='Campaign' scenario='All' subtitle='false'>Move near to revive</String>
       <String _locID='25741' category='UI' scenario='Postgame UI' subtitle='false'>BASE</String>
       <String _locID='25742' category='Campaign' scenario='Tutorial hint' subtitle='false'>Press $$A$$ to select</String>
-      <String _locID='25743' subtitle='false'>Kĩ năng ném Lựu đạn của Thủy quân lục chiến sẽ gây sát thương lớn vào những cấu trúc và cả bộ binh.</String>
-      <String _locID='25744' subtitle='false'>Súng phun lửa có thể làm choáng bộ binh của địch bằng kĩ năng Lựu đạn choáng.</String>
-      <String _locID='25745' subtitle='false'>Spartan có thể chiếm lấy phương tiện của địch với kĩ năng "Chiếm" của họ, khả năng chiến đấu của phương tiện đó cũng sẽ được cải thiện đáng kể.</String>
+      <String _locID='25743' subtitle='false'>Kỹ năng ném Lựu đạn của Thủy quân lục chiến sẽ gây sát thương lớn vào những cấu trúc và cả bộ binh.</String>
+      <String _locID='25744' subtitle='false'>Súng phun lửa có thể làm choáng bộ binh của địch bằng kỹ năng Lựu đạn choáng.</String>
+      <String _locID='25745' subtitle='false'>Spartan có thể chiếm lấy phương tiện của địch với kỹ năng "Chiếm" của họ, khả năng chiến đấu của phương tiện đó cũng sẽ được cải thiện đáng kể.</String>
       <String _locID='25746' subtitle='false'>Spartan có một vài nâng cấp sẽ thay đổi vũ khí của họ, từ Súng tiểu niên thành Súng máy, và cuối cùng là vũ khí Spartan Laser.</String>
       <String _locID='25747' subtitle='false'>Chiếc Warthog của UNSC là một đơn vị cơ động cao, nó sẽ rất hiệu quả nếu bạn sử dụng nó để do thám và gặt hái tài nguyên từ hòm tiếp tế.</String>
-      <String _locID='25748' subtitle='false'>Bạn cứ bị kẻ địch đâm suốt ư? Vậy thì hãy làm điều tương tự bằng kĩ năng Đâm của Warthog! Kĩ năng này sẽ gây sát thương vào lực lượng của địch xung quanh bản đồ.</String>
-      <String _locID='25749' subtitle='false'>Phương tiện chính của UNSC là chiếc xe tăng Scorpion. Kĩ năng Canister Shell của nó sẽ tăng cường sức tấn công chống lại bộ binh.</String>
+      <String _locID='25748' subtitle='false'>Bạn cứ bị kẻ địch đâm suốt ư? Vậy thì hãy làm điều tương tự bằng kỹ năng Đâm của Warthog! Kỹ năng này sẽ gây sát thương vào lực lượng của địch xung quanh bản đồ.</String>
+      <String _locID='25749' subtitle='false'>Phương tiện chính của UNSC là chiếc xe tăng Scorpion. Kỹ năng Canister Shell của nó sẽ tăng cường sức tấn công chống lại bộ binh.</String>
       <String _locID='25750' subtitle='false'>Cobra rất hiệu quả trong việc chống lại những phương tiện khác. Hãy chế tạo chúng để tiêu diệt xe tăng của địch.</String>
       <String _locID='25751' subtitle='false'>Cobra có thể khóa vị trí, giúp tăng phạm vi tấn công của chúng. Bạn nên khóa nó vào vị trí nào đó xa và rồi phá hủy cấu trúc của địch.</String>
       <String _locID='25752' subtitle='false'>Nếu bạn gặp khó khăn trong việc đối phó với sức mạnh của lực lượng cường kích của đối phương, hãy thử chế tạo Wolverine. Chúng rất xuất sắc trong việc hạ gục các đơn vị cường kích.</String>
       <String _locID='25753' subtitle='false'>Hornet là đơn vị cường kích chủ lực của UNSC, họ rất hiệu quả trong việc tấn công và cả do thám.</String>
-      <String _locID='25754' subtitle='false'>Kĩ năng "Pháo Kích Càn Quét" của Vulture là cú tấn công cực kỳ chết người bằng nhiều tên lửa. Bạn nên sử dụng kĩ năng này để chống lại bộ binh hoặc căn cứ của kẻ thù.</String>
-      <String _locID='25755' subtitle='false'>The Elephant is difficult to destroy and can help lock down an area. Use it as a forward base.</String>
-      <String _locID='25756' subtitle='false'>When Elephants are locked down, they can train infantry. Use them to quickly get fresh troops to the front lines.</String>
-      <String _locID='25757' subtitle='false'>In addition to effectively damaging enemy buildings, the Cyclops can pick up and throw enemy units.</String>
-      <String _locID='25758' subtitle='false'>The Cyclops was originally designed for heavy lifting at UNSC shipyards, but has recently been repurposed for combat roles.</String>
+      <String _locID='25754' subtitle='false'>Kỹ năng "Pháo Kích Càn Quét" của Vulture là cú tấn công cực kỳ chết người bằng nhiều tên lửa. Bạn nên sử dụng kỹ năng này để chống lại bộ binh hoặc căn cứ của kẻ thù.</String>
+      <String _locID='25755' subtitle='false'>Elephant là một phương tiện rất khó bị phá hủy và nó có thể dễ dàng chiếm đóng một khu vực nào đó. Vì vậy, hãy sử dụng nó như là tiền đồn.</String>
+      <String _locID='25756' subtitle='false'>Khi Elephant đã khóa vị trí, nó có thể huấn luyện bộ binh. Hãy sử dụng nó để đưa những bộ binh mới và đưa họ tới tiền tuyến.</String>
+      <String _locID='25757' subtitle='false'>Ngoài việc gây sát thương hiệu quả vào các công trình của kẻ thù, Cyclop có thể cầm và ném các đơn vị của kẻ thù.</String>
+      <String _locID='25758' subtitle='false'>Cyclop ban đầu được thiết kế để nâng vật nặng tại các xưởng đóng tàu của UNSC, nhưng gần đây đã được tái sử dụng cho vai trò chiến đấu.</String>
       <String _locID='25759' subtitle='false'>The Chain Amplifier upgrade allows the Gremlin to hit up to three targets with each EMP blast.</String>
       <String _locID='25760' subtitle='false'>Professor Anders' special unit, the lightly-armored Gremlin, is good against vehicles.</String>
       <String _locID='25761' subtitle='false'>The Hawk is an improved Hornet, available only to Professor Anders.</String>
