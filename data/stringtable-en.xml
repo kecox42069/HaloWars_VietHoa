@@ -409,25 +409,26 @@ BẢNG ID STRING TRONG GAME
       <String _locID='3014' category='Squads' subtitle='false'>SPARTAN</String>
       <String _locID='3015' category='Squads' subtitle='false'>Những siêu chiến binh nguyên mẫu của UNSC, Spartan sở hữu kỹ năng chiến đấu cực đỉnh. Spartan có khả năng Chiếm lấy phương tiện của địch và điều khiển phương tiện của phe ta. Những phương tiện được Spartan điều khiển sẽ được tăng sức mạnh chiến đấu.</String>
       <String _locID='3016' category='Squads' subtitle='false'>WARTHOG</String>
-      <String _locID='3017' category='Squads' subtitle='false'>Warthogs are the UNSC's fast scout units. They start with an active Ram Ability, but can be upgraded to get various guns for extra attack power.</String>
+      <String _locID='3017' category='Squads' subtitle='false'>Warthog là đơn vị do thám cực kỳ nhanh nhẹn của UNSC. Họ có cho mình Kỹ năng Đâm, nhưng dần sẽ có thể được nâng cấp và được gắn nhiều loại súng khác nhau để có thêm hỏa lực.</String>
       <String _locID='3018' category='Squads' subtitle='false'>
       </String>
       <String _locID='3019' category='Squads' subtitle='false'>
       </String>
       <String _locID='3020' category='Squads' subtitle='false'>SCORPION</String>
-      <String _locID='3021' category='Squads' subtitle='false'>Scorpions are the main UNSC vehicle. They can stand toe-to-toe with the toughest enemies, but are mobile enough to get where they're needed quickly.</String>
+      <String _locID='3021' category='Squads' subtitle='false'>Scorpion là chiếc xe tăng đóng vai trò là phương tiện chủ lực của UNSC. Họ có thể đối đầu trực diện với những kẻ thù khó nhằn nhất, nhưng cũng đủ cơ động để nhanh chóng đến nơi cần thiết.</String>
       <String _locID='3022' category='Squads' subtitle='false'>WOLVERINE</String>
-      <String _locID='3023' category='Squads' subtitle='false'>Anti-air missile pods cover the UNSC Wolverine's shell. Devastatingly effective against air units, Wolverines can also unleash a fusillade of rockets against buildings.</String>
+      <String _locID='3023' category='Squads' subtitle='false'>Được trang bị với những tên lửa phòng không. Có hiệu quả khủng khiếp đối với các đơn vị không quân và cường kích, Wolverine cũng có thể phóng một loạt tên lửa vào các cấu trúc của địch.</String>
       <String _locID='3024' category='Squads' subtitle='false'>PLASMA RHINO</String>
-      <String _locID='3025' category='Squads' subtitle='false'>The Plasma Rhino is a secret UNSC weapon just now entering field tests. Unpacking the Rhino turns it into a long-range artillery unit that fires heated plasma, decimating anything it hits.</String>
+      <String _locID='3025' category='Squads' subtitle='false'>Plasma Rhino là vũ khí tối mật mới được đưa vào thử nghiệm của UNSC. Khi chiếc Rhino đã khóa vị trí nó sẽ trở thành một đơn vị pháo binh tầm xa bắn ra tia plasma nóng, tiêu diệt bất cứ thứ gì mà nó bắn trúng.</String>
       <String _locID='3026' category='Squads' subtitle='false'>
       </String>
       <String _locID='3027' category='Squads' subtitle='false'>
       </String>
+	  <!-- tôi không biết cái mô tả của Hawk này có phải là placeholder hay ko nhưng mà ehhh tôi cứ dịch vậy -->
       <String _locID='3028' category='Squads' subtitle='false'>HAWK</String>
-      <String _locID='3029' category='Squads' subtitle='false'>Mainline air unit, the Hawk is a sophisticated laser-armed attack craft.</String>
+      <String _locID='3029' category='Squads' subtitle='false'>Đơn vị cường kích chủ lực, Hawk là máy bay chiến đấu được trang bị laser.</String>
       <String _locID='3030' category='Squads' subtitle='false'>VULTURE</String>
-      <String _locID='3031' category='Squads' subtitle='false'>Vultures are the most advanced UNSC war machine. Costly to produce, the Vultures dish out damage at an alarming rate.</String>
+      <String _locID='3031' category='Squads' subtitle='false'>Vulture là cỗ máy chiến tranh tiên tiến nhất của UNSC. Chi phí sản xuất cực kỳ tốn kém, nhưng Vulture không hề làm mọi người thất vọng, nó có thể gây sát thương ở mức đáng báo động.</String>
       <String _locID='3032' category='Squads' subtitle='false'>Shortsword</String>
       <String _locID='3033' category='Squads' subtitle='false'>
       </String>
@@ -1290,7 +1291,7 @@ BẢNG ID STRING TRONG GAME
       <String _locID='22339' category='Skirmish' subtitle='false'>Barren lands leave few natural defenses for your base and there is a node with many sockets located in the center.</String>
       <String _locID='22341' category='Campaign' scenario='1' subtitle='false'>01- CĂN CỨ ALPHA</String>
       <String _locID='22342' category='UI' scenario='2' subtitle='false'>02 - TIẾP CẬN DI TÍCH</String>
-      <String _locID='22343' category='Campaign' scenario='3' subtitle='false'>03 - BÊN TRONG THÁNH TÍCH</String>
+      <String _locID='22343' category='Campaign' scenario='3' subtitle='false'>03 - BÊN TRONG DI TÍCH</String>
       <String _locID='22344' category='Campaign' scenario='4' subtitle='false'>04 - THÀNH PHỐ ARCADIA</String>
       <String _locID='22345' category='Campaign' scenario='5' subtitle='false'>05 - NGOẠI Ô ARCADIA</String>
       <String _locID='22346' category='Campaign' scenario='6' subtitle='false'>06 - DOME OF LIGHT</String>
@@ -1351,8 +1352,8 @@ BẢNG ID STRING TRONG GAME
       </String>
       <String _locID='22399' category='Techs' subtitle='false'>
       </String>
-      <String _locID='22400' category='Campaign' scenario='3' subtitle='false'>Fight your Way to Forge and Anders' Location</String>
-      <String _locID='22401' category='Campaign' scenario='3' subtitle='false'>Forge and Anders must survive.</String>
+      <String _locID='22400' category='Campaign' scenario='3' subtitle='false'>Tìm đường để tới vị trí của Forge và Anders</String>
+      <String _locID='22401' category='Campaign' scenario='3' subtitle='false'>Forge và Anders phải sống sót.</String>
       <String _locID='22408' category='Techs' subtitle='false'>MONUMENT 1</String>
       <String _locID='22409' category='Techs' subtitle='false'>Increases energy rate at all Monuments.</String>
       <String _locID='22410' category='Techs' subtitle='false'>MONUMENT 2</String>
@@ -1564,7 +1565,7 @@ BẢNG ID STRING TRONG GAME
       <String _locID='22640' category='Objects' subtitle='false'>Prophet description</String>
       <String _locID='22641' category='Campaign' scenario='1' subtitle='false'>Trung sĩ Forge phải cố gắng giúp đỡ những bộ binh đang bị tấn công và chiếm lại căn cứ Alpha.</String>
       <String _locID='22642' category='Campaign' scenario='2' subtitle='false'>Sau khi xung quanh Căn cứ Alpha được đảm bảo an toàn, căn cứ cần phải được hoạt động trở lại. Các đơn vị quân đội sau đó phải được huấn luyện và cử đi điều tra di tích.</String>
-      <String _locID='22643' category='Campaign' scenario='3' subtitle='false'>Anders and Forge have been cut off inside the structure. They must be rescued.</String>
+      <String _locID='22643' category='Campaign' scenario='3' subtitle='false'>Anders và Forge đã bị cắt đứt liên lạc bên trong cấu trúc. Họ phải được giải cứu.</String>
       <String _locID='22644' category='Campaign' scenario='4' subtitle='false'>The Covenant has attacked Arcadia in force, and the civilian population is evacuating. Spirit of Fire's ground troops will provide cover.</String>
       <String _locID='22645' category='Campaign' scenario='5' subtitle='false'>Covenant forces have overrun the city. Spirit of Fire's troops must fall back and hold a defensive position until Omega Team arrives.</String>
       <String _locID='22646' category='Campaign' scenario='6' subtitle='false'>The Covenant have constructed a large energy dome on Arcadia. Enemy forces must be defeated and the dome destroyed.</String>
@@ -1579,7 +1580,7 @@ BẢNG ID STRING TRONG GAME
       <String _locID='22655' category='Campaign' scenario='15' subtitle='false'>The reactor core must be brought to the Apex. At the same time, a way for Spirit of Fire to escape must be found.</String>
       <String _locID='22656' category='Campaign' scenario='1' subtitle='false'>Forge phải tập hợp đội quân và rồi chiếm lại Căn cứ Alpha</String>
       <String _locID='22657' category='Campaign' scenario='2' subtitle='false'>Đưa Căn cứ Alpha hoạt động trở lại và tìm hiểu xem Covenant đang làm gì.</String>
-      <String _locID='22658' category='Campaign' scenario='3' subtitle='false'>Forge and Anders are trapped inside the relic. They must be rescued.</String>
+      <String _locID='22658' category='Campaign' scenario='3' subtitle='false'>Forge và Anders đã bị mắc kẹt bên trong di tích. Họ phải được giải cứu.</String>
       <String _locID='22659' category='Campaign' scenario='4' subtitle='false'>The Covenant invasion of Arcadia is in full swing. Evacuation of its civilian population is the UNSC's top priority. </String>
       <String _locID='22660' category='Campaign' scenario='5' subtitle='false'>The civilian evacuation is complete. UNSC forces must safely withdraw from the city.</String>
       <String _locID='22661' category='Campaign' scenario='6' subtitle='false'>Uncover what the Covenant were after on Arcadia.</String>
@@ -2122,34 +2123,34 @@ BẢNG ID STRING TRONG GAME
       <String _locID='23159' category='Campaign' scenario='8' subtitle='false'>INDIA signs are offline as well. How very ominous.</String>
       <String _locID='23160' category='Campaign' scenario='8' subtitle='true'>ECHO signs are offline - quite suddenly I might add.</String>
       <String _locID='23161' category='Campaign' scenario='8' subtitle='true'>Aye aye sir. Location marked and pods launched. Don't do it wrong, boys.</String>
-      <String _locID='23166' category='Campaign' scenario='3' subtitle='false'>Base, I can hold 'em off for now, but not forever. I need those reinforcements!</String>
-      <String _locID='23167' category='Campaign' scenario='3' subtitle='true'>Base, this is Forge. We're under heavy fire...</String>
-      <String _locID='23168' category='Campaign' scenario='3' subtitle='false'>Base, reinforcements are here. Clear the area so I can move Anders safely.</String>
-      <String _locID='23169' category='Campaign' scenario='3' subtitle='false'>We're falling back!</String>
-      <String _locID='23170' category='Campaign' scenario='3' subtitle='false'>Base, I need covering fire over here!</String>
-      <String _locID='23171' category='Campaign' scenario='3' subtitle='false'>Forge here. Cover us - I'm getting Anders out of here.</String>
-      <String _locID='23172' category='Campaign' scenario='3' subtitle='false'>We're pinned down near the back of the structure!</String>
-      <String _locID='23173' category='Campaign' scenario='3' subtitle='false'>Hold them off while Anders rests for a moment.</String>
-      <String _locID='23174' category='Campaign' scenario='3' subtitle='false'>I won't move Anders until the area is cleared of enemy units!</String>
-      <String _locID='23175' category='Campaign' scenario='3' subtitle='false'>All right, we're moving - cover us!</String>
-      <String _locID='23177' category='Campaign' scenario='3' subtitle='true'>I've got men down - where are those reinforcements?</String>
-      <String _locID='23178' category='Campaign' scenario='3' subtitle='false'>Base? Can I get a little help here?</String>
-      <String _locID='23179' category='Campaign' scenario='3' subtitle='true'>Forge here...we made it! Ready for extraction!</String>
-      <String _locID='23181' category='Campaign' scenario='3' subtitle='false'>This is Forge. We're pinned down inside the Artifact. Anders is hurt...need assistance.....</String>
-      <String _locID='23182' category='Campaign' scenario='3' subtitle='false'>This is Forge. It's over - I've lost Anders...</String>
-      <String _locID='23183' category='Campaign' scenario='3' subtitle='false'>Falling back again.</String>
-      <String _locID='23184' category='Campaign' scenario='3' subtitle='false'>We're taking too much enemy fire, you've got to keep them busy.</String>
-      <String _locID='23185' category='Campaign' scenario='3' subtitle='false'>I'm falling back.</String>
-      <String _locID='23186' category='Campaign' scenario='3' subtitle='false'>Door breach at our location! </String>
-      <String _locID='23187' category='Campaign' scenario='3' subtitle='false'>They've cut us off! The bridge is down!</String>
-      <String _locID='23188' category='Campaign' scenario='3' subtitle='false'>We're doubling back to the other bridge!</String>
-      <String _locID='23192' category='Campaign' scenario='3' subtitle='false'>Covenant units are breaking though entrances we thought were sealed. Keep an eye on those doors in there.</String>
-      <String _locID='23193' category='Campaign' scenario='3' subtitle='false'>Pelican incoming.</String>
-      <String _locID='23195' category='Campaign' scenario='3' subtitle='false'>This is Cutter. Get some men in there and reinforce Forge's position! Get Anders out of there!</String>
-      <String _locID='23196' category='Campaign' scenario='3' subtitle='false'>Hunters are heavily armored. Get that Scorpion in there and help Forge take 'em down.</String>
-      <String _locID='23197' category='Campaign' scenario='3' subtitle='true'>The Covenant have surprised us and counterattacked, trapping Forge and Anders inside the relic. Get in there and escort them out.</String>
-      <String _locID='23199' category='Campaign' scenario='3' subtitle='true'>A Pelican is standing by to evac Forge and Anders once they reach the relic entrance.</String>
-      <String _locID='23200' category='Campaign' scenario='5' subtitle='true'>The Covenant are right on our ass! Keep moving!</String>
+      <String _locID='23166' category='Campaign' scenario='3' subtitle='false'>Căn cứ, giờ tôi có thể giữ chân bọn chúng, nhưng không phải mãi mãi đâu. Tôi cần quân tiếp viện tới đây!</String>
+      <String _locID='23167' category='Campaign' scenario='3' subtitle='true'>Căn cứ, đây là Forge. Chúng tôi đang bị bao vây...</String>
+      <String _locID='23168' category='Campaign' scenario='3' subtitle='false'>Căn cứ, quân tiếp viện tới rồi. Tiêu diệt địch xung quanh khu vực này để tôi có thể đưa Anders ra khỏi đây.</String>
+      <String _locID='23169' category='Campaign' scenario='3' subtitle='false'>Lùi lại nào mọi người!</String>
+      <String _locID='23170' category='Campaign' scenario='3' subtitle='false'>Căn cứ, tôi cần yểm trợ ngay lập tức!</String>
+      <String _locID='23171' category='Campaign' scenario='3' subtitle='false'>Forge đây. Yểm trợ chúng tôi - tôi đang đưa Anders ra khỏi đây.</String>
+      <String _locID='23172' category='Campaign' scenario='3' subtitle='false'>Chúng tôi đang bị bao vây ở gần phía sau công trình!</String>
+      <String _locID='23173' category='Campaign' scenario='3' subtitle='false'>Giữ chúng lại trong khi Anders nghỉ một lát.</String>
+      <String _locID='23174' category='Campaign' scenario='3' subtitle='false'>Tôi sẽ không để Anders đi cho đến khi khu vực đó không còn quân địch!</String>
+      <String _locID='23175' category='Campaign' scenario='3' subtitle='false'>Được rồi, chúng tôi đang di chuyển - yểm trợ cho chúng tôi!</String>
+      <String _locID='23177' category='Campaign' scenario='3' subtitle='true'>Bộ binh bị thương nặng rồi - quân tiếp viện sao vẫn chưa tới?</String>
+      <String _locID='23178' category='Campaign' scenario='3' subtitle='false'>Căn cứ? Cho tôi một chút sự hỗ trợ được không?</String>
+      <String _locID='23179' category='Campaign' scenario='3' subtitle='true'>Đây là Forge...chúng tôi làm được rồi! Chúng tôi đã sẵn sàng để rút quân!</String>
+      <String _locID='23181' category='Campaign' scenario='3' subtitle='false'>Đây là Forge. Chúng tôi đang bị bao vây ở trong Di Tích. Anders bị thương rồi...cô ấy cần giúp đỡ.....</String>
+      <String _locID='23182' category='Campaign' scenario='3' subtitle='false'>Đây là Forge. Kết thúc rồi - Anders đi rồi...</String>
+      <String _locID='23183' category='Campaign' scenario='3' subtitle='false'>Lùi lại lần nữa nào.</String>
+      <String _locID='23184' category='Campaign' scenario='3' subtitle='false'>Chúng ta đang hứng chịu quá nhiều hỏa lực của kẻ thù, (xưng hô) phải giữ chân bọn chúng.</String>
+      <String _locID='23185' category='Campaign' scenario='3' subtitle='false'>Tôi đang lùi lại.</String>
+      <String _locID='23186' category='Campaign' scenario='3' subtitle='false'>Kẻ địch đang đột kích vào cánh cửa ở vị trí của chúng ta! </String>
+      <String _locID='23187' category='Campaign' scenario='3' subtitle='false'>Bọn chúng cắt đứt đường đi của chúng ta rồi! Cây câu sập rồi!</String>
+      <String _locID='23188' category='Campaign' scenario='3' subtitle='false'>Chúng ta sẽ tới cây cầu đằng kia!</String>
+      <String _locID='23192' category='Campaign' scenario='3' subtitle='false'>Các đơn vị của Covenant đang đột nhập bằng những lối vào mà chúng ta tưởng đã bị đóng. Hãy để ý đến những cánh cửa ở đó.</String>
+      <String _locID='23193' category='Campaign' scenario='3' subtitle='false'>Pelican đang tới.</String>
+      <String _locID='23195' category='Campaign' scenario='3' subtitle='false'>Đây là Cutter. Đưa bộ binh vào trong đó và tìm ra vị trí của Forge! Đưa Anders ra khỏi đó!</String>
+      <String _locID='23196' category='Campaign' scenario='3' subtitle='false'>Đám Hunter được trang bị giáp hạng nặng. Đưa chiếc Scorpion đó vào trong và giúp Forge tiêu diệt chúng.</String>
+      <String _locID='23197' category='Campaign' scenario='3' subtitle='true'>Covenant đã mai phục phe ta, chúng đang nhốt Forge và Anders bên trong di tích. Hãy vào đó và hộ tống họ ra ngoài.</String>
+      <String _locID='23199' category='Campaign' scenario='3' subtitle='true'>Chiếc Pelican đang giữ vững vị trí để đưa Forge và Anders ra khỏi đây ngay sau khi họ đến lối thoát của di tích.</String>
+      <String _locID='23200' category='Campaign' scenario='5' subtitle='true'>Covenant đang ở ngay sau đít chúng ta rồi! Cứ tiếp tục di chuyển đi!</String>
       <String _locID='23201' category='Campaign' scenario='5' subtitle='false'>Snipers! Behind the base!</String>
       <String _locID='23202' category='Campaign' scenario='5' subtitle='true'>That Covenant artillery is getting awfully close...</String>
       <String _locID='23205' category='Campaign' scenario='5' subtitle='true'>Get to that crater. Do not engage the enemy behind us! Keep moving!</String>
@@ -2472,7 +2473,7 @@ BẢNG ID STRING TRONG GAME
       <String _locID='23551' category='Skirmish' scenario='Hint Chat' subtitle='false'>There's another Crate nearby. Use $$X$$ to gather those Supplies with your Warthog.</String>
       <String _locID='23552' category='Skirmish' scenario='Hint Chat' subtitle='false'>As you collect Supplies, they go into your bank. Let's use those Supplies you just gathered to expand your Base.</String>
       <String _locID='23553' subtitle='false'>Construct a Scorpion Tank</String>
-      <String _locID='23556' category='Campaign' scenario='3' subtitle='false'>Cover Anders as she Hacks the Bridge Controls</String>
+      <String _locID='23556' category='Campaign' scenario='3' subtitle='false'>Yểm trợ Anders trong khi cô ấy hack vào Bảng Điều Khiển của Cây Cầu</String>
       <String _locID='23554' category='Campaign' scenario='2' subtitle='false'>Tìm đường vào cấu trúc trong lớp băng</String>
       <String _locID='23555' category='Campaign' scenario='2' subtitle='false'>Tiến vào cấu trúc</String>
       <String _locID='23557' category='Campaign' scenario='' subtitle='false'>
@@ -2483,14 +2484,14 @@ BẢNG ID STRING TRONG GAME
       </String>
       <String _locID='23560' category='Campaign' scenario='' subtitle='false'>
       </String>
-      <String _locID='23561' category='Campaign' scenario='1' subtitle='false'>Kỹ Năng $$Y$$ Của Warthog</String>
-      <String _locID='23562' category='Campaign' scenario='3' subtitle='false'>Grizzly $$Y$$ Ability</String>
+      <String _locID='23561' category='Campaign' scenario='1' subtitle='false'>Kỹ Năng $$Y$$ của Warthog</String>
+      <String _locID='23562' category='Campaign' scenario='3' subtitle='false'>Kỹ Năng $$Y$$ của Grizzly</String>
       <String _locID='23563' category='Campaign' scenario='' subtitle='false'>
       </String>
       <String _locID='23564' category='Campaign' scenario='' subtitle='false'>
       </String>
-      <String _locID='23565' category='Campaign' scenario='3' subtitle='false'>Select the Vehicle Depot $$A$$</String>
-      <String _locID='23566' category='Campaign' scenario='3' subtitle='false'>Use $$LS$$ to select the Scorpion and the $$A$$ button to start training.</String>
+      <String _locID='23565' category='Campaign' scenario='3' subtitle='false'>Chọn Kho Phương Tiện $$A$$</String>
+      <String _locID='23566' category='Campaign' scenario='3' subtitle='false'>Sử dụng $$LS$$ để chọn Scorpion và nhấn nút $$A$$ để bắt đầu huấn luyện.</String>
       <String _locID='23568' category='Campaign' scenario='' subtitle='false'>
       </String>
       <String _locID='23567' subtitle='false'>
@@ -2513,7 +2514,7 @@ BẢNG ID STRING TRONG GAME
       <String _locID='23588' category='Techs' subtitle='false'>Building Veterancy 3</String>
       <String _locID='23589' category='Techs' subtitle='false'>Upgrade this building to level 4; units produced will start with 3 stars of veterancy.</String>
       <String _locID='23590' category='Campaign' scenario='2' subtitle='false'>Đưa Thủy Quân Lục Chiến vào chỗ nấp</String>
-      <String _locID='23591' category='Campaign' scenario='3' subtitle='false'>Escort Professor Anders here</String>
+      <String _locID='23591' category='Campaign' scenario='3' subtitle='false'>Hộ tống Tiến sĩ Anders ở đây</String>
       <String _locID='23595' category='Campaign' scenario='2' subtitle='true'>Tiếp viện tới rồi đấy.</String>
       <String _locID='23596' category='Objects' subtitle='false'>Super Sentinel</String>
       <String _locID='23597' category='Objects' subtitle='false'>Has a special attack that stuns and slows enemy units.</String>
@@ -2563,9 +2564,9 @@ BẢNG ID STRING TRONG GAME
       </String>
       <String _locID='23637' category='Objects' subtitle='false'>Ô XÂY CĂN CỨ</String>
       <String _locID='23638' category='Objects' subtitle='false'>You can request to have a small base dropped in from orbit. Eventually, you can expand that into a full base.</String>
-      <String _locID='23639' category='Campaign' scenario='3' subtitle='false'>Escape the Chamber with Forge and Anders</String>
-      <String _locID='23640' category='Campaign' scenario='3' subtitle='false'>Press $$A$$ to construct a Scorpion Tank</String>
-      <String _locID='23641' category='Campaign' scenario='3' subtitle='false'>Bridge Controls</String>
+      <String _locID='23639' category='Campaign' scenario='3' subtitle='false'>Dẫn Forge và Anders tới lối thoát</String>
+      <String _locID='23640' category='Campaign' scenario='3' subtitle='false'>Nhấn $$A$$ để chế tạo một chiếc xe tăng Scorpion</String>
+      <String _locID='23641' category='Campaign' scenario='3' subtitle='false'>Bảng Điều Khiển Cây Cầu</String>
       <String _locID='23642' category='Campaign' scenario='1' subtitle='true'>Đừng lo - kỵ binh tới rồi đây.</String>
       <String _locID='23643' category='Campaign' scenario='1' subtitle='true'>Chúng ta an toàn rồi!</String>
       <String _locID='23644' category='UI' subtitle='false'>BẮT ĐẦU CHƠI</String>
@@ -2581,8 +2582,8 @@ BẢNG ID STRING TRONG GAME
       </String>
       <String _locID='23653' category='Campaign' scenario='6' subtitle='false'>Request a Rhino at the Landing Pad</String>
       <String _locID='23654' category='Campaign' scenario='6' subtitle='false'>Request a Rhino from the Pilar of Autumn at the Landing Pad</String>
-      <String _locID='23655' category='Campaign' scenario='3' subtitle='false'>Protect</String>
-      <String _locID='23656' category='Campaign' scenario='3' subtitle='false'>Optional: Use the Bridge to Kill Covenant Units</String>
+      <String _locID='23655' category='Campaign' scenario='3' subtitle='false'>Bảo Vệ</String>
+      <String _locID='23656' category='Campaign' scenario='3' subtitle='false'>Tùy ý: Sử dụng Cây Cầu để giết những đơn vị của Covenant</String>
       <String _locID='23657' category='Campaign' scenario='6' subtitle='false'>Plasma Rhino</String>
       <String _locID='23658' category='Campaign' scenario='6' subtitle='false'>Plasma-based battle tank, slow speed but a powerful long-range attack once locked-down.</String>
       <String _locID='23659' category='Campaign' scenario='6' subtitle='false'>Anders and Forge must survive</String>
@@ -2644,15 +2645,15 @@ BẢNG ID STRING TRONG GAME
       <String _locID='23709' category='Cinematics' subtitle='false'>GHI CÔNG</String>
       <String _locID='23710' subtitle='false'>
       </String>
-      <String _locID='23717' category='Campaign' scenario='3' subtitle='false'>Move Anders to the Other Bridge's Control Panel</String>
+      <String _locID='23717' category='Campaign' scenario='3' subtitle='false'>Di chuyển Anders tới Bảng Điều Khiển của Cây Cầu Bên Kia</String>
       <String _locID='23718' category='UI' subtitle='false'>Chỉ Huy UNSC Ngẫu Nhiên</String>
       <String _locID='23719' category='UI' subtitle='false'>Trò chơi tự động chọn ngẫu nhiên Thủ Lĩnh UNSC</String>
       <String _locID='23720' category='UI' subtitle='false'>Chỉ Huy Covenant Ngẫu Nhiên</String>
       <String _locID='23721' category='UI' subtitle='false'>Trò chơi tự động chọn ngẫu nhiên Thủ Lĩnh Covenant</String>
       <String _locID='23722' category='UI' subtitle='false'>Ngẫu Nhiên Tất Cả</String>
       <String _locID='23723' category='UI' subtitle='false'>Trò chơi tự động chọn ngẫu nhiên Thủ Lĩnh của 2 phe</String>
-      <String _locID='23724' category='Campaign' scenario='3' subtitle='false'>Clear out the remaining Covenant forces.</String>
-      <String _locID='23725' category='Campaign' scenario='3' subtitle='false'>Get Forge and Anders to the Marked Landing Zone</String>
+      <String _locID='23724' category='Campaign' scenario='3' subtitle='false'>Tiêu diệt lực lượng còn lại của Covenant.</String>
+      <String _locID='23725' category='Campaign' scenario='3' subtitle='false'>Đưa Forge và Anders tới Bãi Đáp Được Đánh Dấu</String>
       <String _locID='23728' category='Campaign' scenario='6' subtitle='false'>Rhinos are ready to fire! I'm bringing up the targeting computer now. </String>
       <String _locID='23729' category='Campaign' scenario='6' subtitle='false'>Rhino Position 4</String>
       <String _locID='23730' category='Campaign' scenario='6' subtitle='false'>Whatever, first we need to get this base built out.</String>
@@ -2712,23 +2713,23 @@ BẢNG ID STRING TRONG GAME
       <String _locID='23767' category='Techs' subtitle='false'>
       </String>
       <String _locID='23768' category='Campaign' scenario='6' subtitle='false'>Rhino Position 5</String>
-      <String _locID='23769' category='Campaign' scenario='3' subtitle='true'>This is Forge. We've been ambushed at the relic site. I'm pinned down with Anders. We've taken heavy losses - we need reinforcements now!</String>
-      <String _locID='23770' category='Campaign' scenario='3' subtitle='true'>Sergeant, Alpha Base won't be able to respond in time. We've got Grizzlies inbound from Spirit of Fire. Hold on down there...</String>
-      <String _locID='23772' category='Campaign' scenario='3' subtitle='true'>Ah, Grizzly tanks - Forge's pet project.</String>
-      <String _locID='23773' category='Campaign' scenario='3' subtitle='true'>Good work! Professor, I want to be briefed on your findings as soon as you're onboard.</String>
-      <String _locID='23774' category='Campaign' scenario='3' subtitle='true'>We've got to get that data. Let's try that again.</String>
-      <String _locID='23775' category='Campaign' scenario='3' subtitle='true'>About time. I was down to my last clip.</String>
-      <String _locID='23776' category='Campaign' scenario='3' subtitle='true'>Grizzlies. Well, at least I know how to repair them.</String>
-      <String _locID='23777' category='Campaign' scenario='3' subtitle='true'>Cover me - I'm pulling back with Anders.</String>
-      <String _locID='23778' category='Campaign' scenario='3' subtitle='true'>They've blown the controls. We're cut off!</String>
-      <String _locID='23779' category='Campaign' scenario='3' subtitle='true'>The control panel is damaged - I can't reactivate this bridge.</String>
-      <String _locID='23780' category='Campaign' scenario='3' subtitle='true'>Get me to the east bridge's control panel. I think I can get it activated.</String>
-      <String _locID='23781' category='Campaign' scenario='3' subtitle='true'>Watch that six, we're moving out!</String>
-      <String _locID='23782' category='Campaign' scenario='3' subtitle='true'>Give me a minute and I'll get this bridge operational.</String>
-      <String _locID='23783' category='Campaign' scenario='3' subtitle='true'>Hmm, no manual? No problem.</String>
-      <String _locID='23784' category='Campaign' scenario='3' subtitle='true'>Getting there...</String>
-      <String _locID='23785' category='Campaign' scenario='3' subtitle='false'>Got it, the bridge is operational.</String>
-      <String _locID='23786' category='Campaign' scenario='3' subtitle='true'>You heard the lady; let's give her some privacy.</String>
+      <String _locID='23769' category='Campaign' scenario='3' subtitle='true'>Đây là Forge. Chúng tôi đã bị mai phục tại khu di tích. Anders và tôi đang bị bao vây. Chúng tôi đang chịu thương vong nặng nề - chúng tôi cần quân tiếp viện ngay bây giờ!</String>
+      <String _locID='23770' category='Campaign' scenario='3' subtitle='true'>Trung sĩ, Căn cứ Alpha sẽ không thể phản ứng kịp thời đâu. Chúng ta có xe tăng Grizzly đang hạ xuống từ tàu Spirit of Fire. Hãy giữ vững vị trí đó...</String>
+      <String _locID='23772' category='Campaign' scenario='3' subtitle='true'>Ah, xe tăng Grizzly - Dự án yêu thích của Forge.</String>
+      <String _locID='23773' category='Campaign' scenario='3' subtitle='true'>Làm tốt lắm! Tiến sĩ, tôi muốn nghe báo cáo ngắn gọn về những gì cô tìm được ngay khi cô lên tàu.</String>
+      <String _locID='23774' category='Campaign' scenario='3' subtitle='true'>Chúng ta cần phải lấy dữ liệu đó. Thử lại lần nữa nào.</String>
+      <String _locID='23775' category='Campaign' scenario='3' subtitle='true'>Đúng lúc thật đấy. Tôi còn có đúng một băng đạn cuối đây.</String>
+      <String _locID='23776' category='Campaign' scenario='3' subtitle='true'>Xe tăng Grizzly. Chà, ít nhất là tôi biết cách để sửa chúng.</String>
+      <String _locID='23777' category='Campaign' scenario='3' subtitle='true'>Yểm trợ tôi - tôi đang lùi lại cùng với Anders.</String>
+      <String _locID='23778' category='Campaign' scenario='3' subtitle='true'>Chúng cho nổ bảng điều khiển rồi. Chúng ta đã bị cắt đứt!</String>
+      <String _locID='23779' category='Campaign' scenario='3' subtitle='true'>Bảng điều khiển hỏng rồi - Tôi không thể kích hoạt lại cây cầu.</String>
+      <String _locID='23780' category='Campaign' scenario='3' subtitle='true'>Đưa tôi đến bảng điều khiển cầu ở phía đông. Tôi nghĩ tôi có thể kích hoạt nó.</String>
+      <String _locID='23781' category='Campaign' scenario='3' subtitle='true'>Cẩn thận phía sau, chúng ta sẽ đi ra khỏi đây!</String>
+      <String _locID='23782' category='Campaign' scenario='3' subtitle='true'>Hãy cho tôi một phút và tôi sẽ cây cầu này hoạt động.</String>
+      <String _locID='23783' category='Campaign' scenario='3' subtitle='true'>Hmm, không có hướng dẫn à? Không vấn đề gì.</String>
+      <String _locID='23784' category='Campaign' scenario='3' subtitle='true'>Sắp được rồi...</String>
+      <String _locID='23785' category='Campaign' scenario='3' subtitle='false'>Được rồi, cây cầu đã được kích hoạt.</String>
+      <String _locID='23786' category='Campaign' scenario='3' subtitle='true'>Mấy anh nghe quý cô này rồi đó; hãy cho cô ấy một chút "sự riêng tư" nào.</String>
       <String _locID='23788' category='Campaign' scenario='5' subtitle='false'>Secure the Area by Killing all Covenant in the Crater</String>
       <String _locID='23789' category='UI' subtitle='false'>EDIT</String>
       <String _locID='23790' category='Campaign' scenario='6' subtitle='true'>Well this little field trip is a bust. Anders, is there anything out here except for that huge alien dome thing?</String>
@@ -2740,8 +2741,8 @@ BẢNG ID STRING TRONG GAME
       </String>
       <String _locID='23795' category='Campaign' scenario='10' subtitle='false'>
       </String>
-      <String _locID='23796' category='Campaign' scenario='3' subtitle='true'>I think I can reactivate those bridge controls.</String>
-      <String _locID='23797' category='Campaign' scenario='3' subtitle='true'>Watch those doors - looks like company is coming!</String>
+      <String _locID='23796' category='Campaign' scenario='3' subtitle='true'>Tôi nghĩ là tôi có thể kích hoạt lại bảng điều khiển của cây cầu đó.</String>
+      <String _locID='23797' category='Campaign' scenario='3' subtitle='true'>Cẩn thận cánh cửa đó - trông có vẻ như có địch tới!</String>
       <String _locID='23799' category='Campaign' scenario='5' subtitle='true'>We'll clean up this mess.</String>
       <String _locID='23800' category='Campaign' scenario='5' subtitle='true'>Omega Team, secure the sector, clear out that Covenant base!</String>
       <String _locID='23801' category='Campaign' scenario='5' subtitle='true'>This is too easy!</String>
@@ -2877,7 +2878,7 @@ BẢNG ID STRING TRONG GAME
       <String _locID='23933' category='Campaign' scenario='' subtitle='false'>
       </String>
       <String _locID='23934' category='UI' scenario='2' subtitle='false'>Ấn $$A$$ để huấn luyện Thủy Quân Lục Chiến</String>
-      <String _locID='23936' category='Campaign' scenario='3' subtitle='true'>Get to the LZ!</String>
+      <String _locID='23936' category='Campaign' scenario='3' subtitle='true'>Chạy tới Bãi Đáp ngay!</String>
       <String _locID='23937' category='Campaign' scenario='2' subtitle='false'>Xây một Doanh trại</String>
       <String _locID='23939' category='UI' scenario='2' subtitle='false'>Sử dụng $$LS$$ để chọn bộ binh Thủy Quân Lục Chiến </String>
       <String _locID='23940' category='Campaign' scenario='2' subtitle='true'>Chúng ta cần xây dựng quân sự lớn hơn trên mặt đất.</String>
@@ -3046,8 +3047,8 @@ BẢNG ID STRING TRONG GAME
       <String _locID='24123' category='UI' subtitle='false'>The Great Journey awaits...</String>
       <String _locID='24124' category='UI' subtitle='false'>Kavetti's sells great ice cream.</String>
       <String _locID='24125' category='UI' subtitle='false'>Elite blood smells like tar.</String>
-      <String _locID='24130' category='Campaign' scenario='3' subtitle='true'>Hunters! There's too many! We need to make a run for the exit!</String>
-      <String _locID='24131' category='Campaign' scenario='3' subtitle='true'>Sergeant Forge, we've got your back! Get Anders out of here!</String>
+      <String _locID='24130' category='Campaign' scenario='3' subtitle='true'>Đám Hunter! Bọn chúng đông quá! Chúng ta cần phải chạy tới lối thoát!</String>
+      <String _locID='24131' category='Campaign' scenario='3' subtitle='true'>Trung sĩ Forge, chúng tôi yểm trợ được anh rồi! Đưa Anders ra khỏi đây đi!</String>
       <String _locID='24134' category='Code' scenario='AI' subtitle='false'>Directing additional attack forces to this area</String>
       <String _locID='24135' category='Code' scenario='AI' subtitle='false'>Allied air strike on the way</String>
       <String _locID='24136' category='Code' scenario='AI' subtitle='false'>Directing heavy armor to this area</String>
@@ -3116,9 +3117,9 @@ BẢNG ID STRING TRONG GAME
       <String _locID='24211' category='Campaign' scenario='2' subtitle='true'>Nhiệm vụ chính của chúng ta ở đây là tới cấu trúc đó. Phá hủy căn cứ này chỉ là nhiệm vụ phụ.</String>
       <String _locID='24216' category='Campaign' scenario='2' subtitle='true'>Nếu chúng ta cho những máy lọc này phát nổ, bãi đáp của chúng cũng sẽ đi theo. Quá đẹp luôn.</String>
       <String _locID='24217' category='Campaign' scenario='2' subtitle='true'>Tôi đã mất liên lạc với một vài Warthog tuần tra. Hãy để ý xem họ có ở xung quanh đây không, được chứ?</String>
-      <String _locID='24218' category='Campaign' scenario='3' subtitle='true'>I made a few improvements. My own special upgrades...</String>
-      <String _locID='24219' category='Campaign' scenario='3' subtitle='true'>Those Grunts are carrying explosives - look out!</String>
-      <String _locID='24222' category='Campaign' scenario='3' subtitle='false'>Hacking...</String>
+      <String _locID='24218' category='Campaign' scenario='3' subtitle='true'>Tôi đã cải tiến một vài cái. Những nâng cấp đặc biệt của riêng tôi...</String>
+      <String _locID='24219' category='Campaign' scenario='3' subtitle='true'>Đám Grunt đó đang cầm vũ khí nổ - cẩn thận đấy!</String>
+      <String _locID='24222' category='Campaign' scenario='3' subtitle='false'>Đang hack...</String>
       <String _locID='24223' category='Campaign' scenario='2' subtitle='true'>Serina, chúng ta cần thiết lập lại căn cứ Alpha trước khi thực hiện nhiệm vụ.</String>
       <String _locID='24225' category='Campaign' scenario='2' subtitle='true'>Căn cứ đã được xây lại và ổn định. Chúng ta cần một vài Trạm Cung Cấp để tôi có thể đưa vật liệu xuống.</String>
       <String _locID='24229' category='UI' subtitle='false'>Game Loss</String>
@@ -3139,7 +3140,7 @@ BẢNG ID STRING TRONG GAME
       <String _locID='24246' category='UI' subtitle='false'>
       </String>
       <String _locID='24248' category='Campaign' scenario='2' subtitle='true'>Chà, chà. Nhìn kìa - đám Covenant đã xây cho chúng một căn cứ nhỏ bé xinh xinh.</String>
-      <String _locID='24249' category='Campaign' scenario='3' subtitle='false'>Optional: Kill 45 Hunters</String>
+      <String _locID='24249' category='Campaign' scenario='3' subtitle='false'>Tùy ý: Giết 45 Hunter</String>
       <String _locID='24251' category='Campaign' scenario='4' subtitle='true'>Cargo ONE here. We can't take much more of this. Get them off us!</String>
       <String _locID='24252' category='Campaign' scenario='4' subtitle='true'>Cargo TWO. We're dead unless you get out here!</String>
       <String _locID='24253' category='Campaign' scenario='5' subtitle='true'>Pelican Bravo 29. Got a few stragglers for you! Requesting cover!</String>
@@ -3214,9 +3215,9 @@ BẢNG ID STRING TRONG GAME
       <String _locID='24328' category='Campaign' scenario='6' subtitle='true'>MAC is coming online, single turret available.</String>
       <String _locID='24329' category='Campaign' scenario='6' subtitle='true'>MAC fully online, all rounds loaded. I'll take out the remaining structures.</String>
       <String _locID='24330' category='Campaign' scenario='6' subtitle='true'>Nice work! Let's get down there and see what the Covenant found so damn interesting.</String>
-      <String _locID='24331' category='Campaign' scenario='3' subtitle='true'>We're on it Sergeant! Get moving with the professor!</String>
-      <String _locID='24332' category='Campaign' scenario='3' subtitle='true'>Hope that data is worth it, Sarge - we're paying a price here!</String>
-      <String _locID='24333' category='Campaign' scenario='3' subtitle='true'>We'll cover you, Sergeant!</String>
+      <String _locID='24331' category='Campaign' scenario='3' subtitle='true'>Trung sĩ, chúng tôi đang tấn công bọn chúng! Đưa tiến sĩ ra khỏi đây đi!</String>
+      <String _locID='24332' category='Campaign' scenario='3' subtitle='true'>Mong là dữ liệu đó đáng để lấy, trung sĩ - chúng ta đang phải trả cái giá lớn đấy!</String>
+      <String _locID='24333' category='Campaign' scenario='3' subtitle='true'>Chúng tôi sẽ yểm trợ anh, trung sĩ!</String>
       <String _locID='24334' category='Objects' subtitle='false'>REBEL FLAK TURRET</String>
       <String _locID='24335' category='Objects' subtitle='false'>Rebel Flak Turret description</String>
       <String _locID='24336' category='Objects' subtitle='false'>REBEL RAILGUN TURRET</String>
@@ -3289,7 +3290,7 @@ BẢNG ID STRING TRONG GAME
       </String>
       <String _locID='24373' category='Squads' subtitle='false'>
       </String>
-      <String _locID='24374' category='Campaign' scenario='3' subtitle='false'>Repair with Anders</String>
+      <String _locID='24374' category='Campaign' scenario='3' subtitle='false'>Bạn có thể nhờ Anders sửa chữa chiếc xe tăng</String>
       <String _locID='24375' category='Campaign' scenario='2' subtitle='false'>Ấn $$BACK$$ để xem Nhiệm Vụ của bạn</String>
       <String _locID='24378' category='Campaign' scenario='5' subtitle='true'>Sergeant Forge, report to the bridge ASAP. We've got a new problem...</String>
       <String _locID='24379' category='Campaign' scenario='5' subtitle='true'>The MAC is charged and ready. This one is on the house.</String>
@@ -3396,13 +3397,13 @@ BẢNG ID STRING TRONG GAME
       <String _locID='24483' category='Campaign' scenario='2' subtitle='false'>Đám Jackal là những người ngoài hành tinh giống như chim, đóng vai trò là trinh sát và lính bắn tỉa của Covenant. Vì sự yếu đuối, chúng thường mang theo lá chắn năng lượng. Chống lại chúng bằng những chiếc Warthog có vũ trang hoặc bằng Súng phun lửa.</String>
       <String _locID='24484' category='Campaign' scenario='2' subtitle='false'>Covenant đang tinh chế khí methan trên hành tinh Harvest để cung cấp cho đội Grunt của chúng. Phá hủy máy lọc khí methan sẽ làm chúng chậm lại.</String>
       <String _locID='24485' category='Campaign' scenario='2' subtitle='false'>Một vài đơn vị của UNSC đang bị mắc kẹt. Giải cứu họ sẽ củng cố lực lượng của bạn.</String>
-      <String _locID='24486' category='Campaign' scenario='3' subtitle='false'>Anders will need time to activate the hardlight bridge. Keep the Covenant forces at bay until she succeeds.</String>
-      <String _locID='24487' category='Campaign' scenario='3' subtitle='false'>Get Forge and Anders to the exit. The Covenant will overwhelm you if you wait too long.</String>
-      <String _locID='24488' category='Campaign' scenario='3' subtitle='false'>Anders may still be able to activate the second bridge and give the UNSC forces a chance to escape.</String>
-      <String _locID='24489' category='Campaign' scenario='3' subtitle='false'>It is vital that Anders returns to Spirit of Fire with the information from the Forerunner structure. Get her and Forge to the landing zone ASAP.</String>
-      <String _locID='24490' category='Campaign' scenario='3' subtitle='false'>Forge and his troops can only hold off the Covenant for so long. They will need support, rescue, and extraction.</String>
-      <String _locID='24491' category='Campaign' scenario='3' subtitle='false'>Deactivating the bridge will drop any units trying to cross it into the chasm below. Use this information to your advantage.</String>
-      <String _locID='24492' category='Campaign' scenario='3' subtitle='false'>Hunters are collective colonies of small creatures packed into assault armor. Strong and fast, and typically travelling in pairs, Hunters are used to destroy enemy vehicles. Counter them with infantry or air power.</String>
+      <String _locID='24486' category='Campaign' scenario='3' subtitle='false'>Anders sẽ cần thời gian để kích hoạt cầu ánh sáng. Hãy giữ chân lực lượng Covenant cho đến khi cô ấy thành công.</String>
+      <String _locID='24487' category='Campaign' scenario='3' subtitle='false'>Đưa Forge và Anders tới lối thoát. Đám Covenant sẽ áp đảo bạn nếu bạn đợi quá lâu.</String>
+      <String _locID='24488' category='Campaign' scenario='3' subtitle='false'>Anders có thể vẫn kích hoạt được cây cầu thứ hai và tạo cơ hội cho lực lượng UNSC trốn thoát.</String>
+      <String _locID='24489' category='Campaign' scenario='3' subtitle='false'>Anders nhất định phải quay về tàu Spirit of Fire với thông tin từ cấu trúc của Forerunner. Đưa cô ấy và Forge đến bãi đáp càng sớm càng tốt.</String>
+      <String _locID='24490' category='Campaign' scenario='3' subtitle='false'>Forge và quân của anh ta chỉ có thể cầm cự Covenant được một lúc. Họ sẽ cần được hỗ trợ, giải cứu và hộ tống.</String>
+      <String _locID='24491' category='Campaign' scenario='3' subtitle='false'>Việc vô hiệu hóa cây cầu sẽ làm cho bất kỳ đơn vị nào đang cố gắng vượt qua nó rơi xuống vực sâu bên dưới. Hãy sử dụng nó làm lợi thế.</String>
+      <String _locID='24492' category='Campaign' scenario='3' subtitle='false'>Hunter là những sinh vật nhỏ được gộp vào trong chiếc giáp. Mạnh mẽ và nhanh nhẹn, thường đi theo cặp, Hunter được sử dụng để tiêu diệt phương tiện của địch. Chống lại chúng bằng sức mạnh bộ binh hoặc lực lượng cường kích.</String>
       <String _locID='24493' category='Campaign' scenario='4' subtitle='false'>Eliminate the Covenant forces around the subway exit so the civilians have a clear path to the transports.</String>
       <String _locID='24494' category='Campaign' scenario='4' subtitle='false'>The civilians will head toward the transports on their own. At least one of the transport ships must survive; the city’s population has no other way to evacuate the area. </String>
       <String _locID='24495' category='Campaign' scenario='4' subtitle='false'>A base in the city will let you train more units to protect the civilians and transports. If you can assemble enough of a force, it might even be possible to launch a limited counterattack against the Covenant.</String>
@@ -4019,12 +4020,12 @@ BẢNG ID STRING TRONG GAME
       <String _locID='25164' category='Campaign' scenario='2' subtitle='false'>Căn cứ Alpha đã hoạt động</String>
       <String _locID='25165' category='Campaign' scenario='2' subtitle='false'>Thủy Quân Lục Chiến Đã Được Huấn Luyện:</String>
       <String _locID='25166' category='UI' scenario='pregame' subtitle='false'>TIẾP TỤC CHIẾN DỊCH</String>
-      <String _locID='25167' category='Campaign' scenario='3' subtitle='false'>Hunters Killed:</String>
-      <String _locID='25168' category='Campaign' scenario='3' subtitle='false'>Bridge Hacked</String>
-      <String _locID='25169' category='Campaign' scenario='3' subtitle='false'>Escort Complete</String>
-      <String _locID='25170' category='Campaign' scenario='3' subtitle='false'>LZ Reached</String>
-      <String _locID='25171' category='Campaign' scenario='3' subtitle='false'>Location Reached</String>
-      <String _locID='25172' category='Campaign' scenario='3' subtitle='false'>Controls Activated</String>
+      <String _locID='25167' category='Campaign' scenario='3' subtitle='false'>Số Hunter Đã Bị Giết:</String>
+      <String _locID='25168' category='Campaign' scenario='3' subtitle='false'>Đã Hack Xong Cây Cầu</String>
+      <String _locID='25169' category='Campaign' scenario='3' subtitle='false'>Hộ Tống Thành Công</String>
+      <String _locID='25170' category='Campaign' scenario='3' subtitle='false'>Đã Tới Được Bãi Đáp</String>
+      <String _locID='25171' category='Campaign' scenario='3' subtitle='false'>Đã Tới Vị Trí</String>
+      <String _locID='25172' category='Campaign' scenario='3' subtitle='false'>Bảng Điều Khiển Đã Được Kích Hoạt</String>
       <String _locID='25173' category='Campaign' scenario='6' subtitle='false'>Banshees Killed:</String>
       <String _locID='25174' category='Campaign' scenario='6' subtitle='false'>Claim Reactors</String>
       <String _locID='25175' category='Campaign' scenario='6' subtitle='false'>Destroy Dome</String>
@@ -4178,7 +4179,7 @@ BẢNG ID STRING TRONG GAME
       <String _locID='25328' category='Objects' subtitle='false'>POWER CORE</String>
       <String _locID='25326' category='Campaign' scenario='7' subtitle='true'>The MAC is barely scratching that thing.</String>
       <String _locID='25327' category='Campaign' scenario='7' subtitle='true'>We should use the MAC to defend our base, or, destroy power nodes.</String>
-      <String _locID='25329' category='Campaign' scenario='3' subtitle='true'>We can't deactivate that bridge while friendlies are on it!</String>
+      <String _locID='25329' category='Campaign' scenario='3' subtitle='true'>Chúng ta không thể ngắt cây cầu khi đồng đội vẫn đang ở trên đó!</String>
       <String _locID='25330' category='UI' scenario='CircleMenu' subtitle='false'>QUEUED</String>
       <String _locID='25331' category='UI' scenario='PartyScreen' subtitle='false'>Deathmatch 1v1</String>
       <String _locID='25332' category='UI' scenario='PartyScreen' subtitle='false'>Deathmatch 2v2</String>
@@ -4528,8 +4529,8 @@ BẢNG ID STRING TRONG GAME
       <String _locID='25691' category='Campaign' scenario='Tutorial' subtitle='true'>Halo Wars là trò chơi về việc kiểm soát quân đội bao gồm cả các loại đơn vị khác nhau.</String>
       <String _locID='25692' category='Campaign' scenario='Tutorial' subtitle='true'>Hãy nhớ, nếu bạn chưa hiểu rõ cách ra lệnh cho các đơn vị của mình, bạn có thể xem mục điều khiển ở menu DỪNG.</String>
       <String _locID='25693' category='Campaign' scenario='Tutorial' subtitle='true'>Any time you train units in Halo Wars, they will continue to train even if you close the circle menu and turn your attention elsewhere.</String>
-      <String _locID='25694' category='Campaign' scenario='3' subtitle='false'>Activate the hardlight bridge</String>
-      <String _locID='25695' category='Campaign' scenario='3' subtitle='false'>Cut power to the bridge. Safety overrides will prevent power from being shut down if friendly units are on the bridge.</String>
+      <String _locID='25694' category='Campaign' scenario='3' subtitle='false'>Kích hoạt cây cầu ánh sáng</String>
+      <String _locID='25695' category='Campaign' scenario='3' subtitle='false'>Ngắt năng lượng khỏi cây câu. Nếu như đồng đội đang ở trên cây cầu, chế độ an toàn sẽ không để năng lượng bị ngắt.</String>
       <String _locID='25696' category='Campaign' scenario='Tutorial hint' subtitle='false' _mouseKeyboard="26140">Press up on $$DPAD$$ to use Leader Powers.</String>
       <String _locID='25697' category='Campaign' scenario='Tutorial hint' subtitle='false' _mouseKeyboard="26141">Press left on $$DPAD$$ to jump to base.</String>
       <String _locID='25698' category='Campaign' scenario='Tutorial hint' subtitle='false' _mouseKeyboard="26142">Press up on $$DPAD$$ to jump to Leader.</String>
@@ -4822,7 +4823,7 @@ BẢNG ID STRING TRONG GAME
       <String _locID='26000' subtitle='false'>Người Thua Cuộc</String>
       <String _locID='26001' category='UI' scenario='SaveGames' subtitle='false'>CAMPAIGN SAVE FILE</String>
       <String _locID='26002' category='UI' scenario='SaveGames' subtitle='false'>There is not enough space on the storage device to create a save file. Your progress was not saved.</String>
-      <String _locID='26003' category='UI' scenario='US Only - No Need to Localize' subtitle='false'>Chế độ Online không được ESRB kiểm duyệt</String>
+      <String _locID='26003' category='UI' scenario='US Only - No Need to Localize' subtitle='false'>Chế độ Chơi Mạng không được ESRB kiểm duyệt</String>
       <String _locID='26004' category='UI' scenario='UI Title' subtitle='false'>HALO WARS</String>
       <String _locID='26006' category='UI' scenario='CommandMenu' subtitle='false'>%1!s! %2!d!s</String>
       <String _locID='26007' category='UI' scenario='UIAttract Screen' subtitle='false'>Halo Wars © Microsoft Corporation. This translation mod is not endorsed by or affiliated with Microsoft. Việt hóa bởi kecox15670.</String>
