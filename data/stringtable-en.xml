@@ -1241,7 +1241,7 @@ BẢNG ID STRING TRONG GAME
       <String _locID='22273' category='Campaign' scenario='6' subtitle='false'>Đặt chiếc Rhino vào Vị Trí Thứ 2</String>
       <String _locID='22274' category='Campaign' scenario='6' subtitle='false'>Vận chuyển chiếc Rhino đến Vị Trí Thứ 3</String>
       <String _locID='22275' category='Campaign' scenario='6' subtitle='false'>Đưa những chiếc Rhino tới HAI Vị Trí Đã Được Đánh Dấu</String>
-      <String _locID='22276' category='Campaign' scenario='8' subtitle='false'>Get to Base Drop Beacon</String>
+      <String _locID='22276' category='Campaign' scenario='8' subtitle='false'>Tới Vị Trí của Đèn Hiệu Cho Việc Thiết Lập Căn Cứ</String>
       <String _locID='22277' category='Campaign' scenario='8' subtitle='false'>Tùy ý: Tìm Đội Quân ODST Bị Mất Tích</String>
       <String _locID='22278' category='Campaign' scenario='8' subtitle='true'>Đội Spartan Đỏ báo cáo: Trung sĩ, chúng tôi sẽ đánh tạt sườn kẻ địch và di chuyển tới vị trí của anh.</String>
       <String _locID='22279' category='Campaign' scenario='8' subtitle='true'>Đội Spartan Đỏ báo cáo: Anh muốn chúng tôi tới đâu, trung sĩ?</String>
@@ -1308,7 +1308,7 @@ BẢNG ID STRING TRONG GAME
       <String _locID='22354' category='Campaign' scenario='14' subtitle='false'>14 - LÒ PHẢN ỨNG</String>
       <String _locID='22355' category='Campaign' scenario='15' subtitle='false'>15 - TRỐN THOÁT</String>
       <String _locID='22356' category='Campaign' scenario='1' subtitle='false'>Đoạn phim cắt cảnh</String>
-      <String _locID='22362' category='Campaign' scenario='9' subtitle='false'>Reinforce Spartan Red Team</String>
+      <String _locID='22362' category='Campaign' scenario='9' subtitle='false'>Hỗ Trợ Đội Spartan Đỏ</String>
       <String _locID='22363' category='Techs' subtitle='false'>CYCLOPS 1</String>
       <String _locID='22364' category='Techs' subtitle='false'>Improves Cyclops damage and defense (for now).</String>
       <String _locID='22365' category='Techs' subtitle='false'>REPAIR KIT</String>
@@ -1363,7 +1363,7 @@ BẢNG ID STRING TRONG GAME
       <String _locID='22411' category='Techs' subtitle='false'>Increases energy rate at all Monuments.</String>
       <String _locID='22412' category='Techs' subtitle='false'>MONUMENT 3</String>
       <String _locID='22413' category='Techs' subtitle='false'>Increases energy rate at all Monuments.</String>
-      <String _locID='22414' category='Campaign' scenario='9' subtitle='false'>Destroy Flood Boss</String>
+      <String _locID='22414' category='Campaign' scenario='9' subtitle='false'>Giết Flood Boss</String>
       <String _locID='22415' category='Skirmish' subtitle='false'>Bases in this region must be heavily defended at night, when Flood Swarms emerge from their hiding places.</String>
       <String _locID='22416' category='Skirmish' subtitle='false'>CREVICE (2v2)</String>
       <String _locID='22417' category='Skirmish' subtitle='false'>Enemies might be hiding around every corner on this map where large Forerunner structures dominate the landscape</String>
@@ -1574,7 +1574,7 @@ BẢNG ID STRING TRONG GAME
       <String _locID='22646' category='Campaign' scenario='6' subtitle='false'>Covenant đã xây dựng một mái vòm năng lượng lớn tại Arcadia. Lực lượng địch phải bị đánh bại và mái vòm phải bị phá hủy.</String>
       <String _locID='22647' category='Campaign' scenario='7' subtitle='false'>Bên trong mái vòm có siêu vũ khí của Covenant. Các đơn vị mặt đất phải được đưa đến để xử lý chúng.</String>
       <String _locID='22648' category='Campaign' scenario='8' subtitle='false'>Các thông số từ bề mặt hành tinh này rất bất thường. Lực lượng tấn công phải được yểm trợ và bảo vệ trong khi điều tra.</String>
-      <String _locID='22649' category='Campaign' scenario='9' subtitle='false'>Anders' transponder signal has been detected. She must be found and rescued before it is too late.</String>
+      <String _locID='22649' category='Campaign' scenario='9' subtitle='false'>Tín hiệu của Anders đã được phát hiện. Cô ấy phải được tìm thấy và được giải cứu trước khi quá muộn.</String>
       <String _locID='22650' category='Campaign' scenario='10' subtitle='false'>Get Charlie Platoon to the Landing Zone</String>
       <String _locID='22651' category='Campaign' scenario='11' subtitle='false'>Mysterious alien infection forms threaten Spirit of Fire. They must be cleansed from the ship's hull before they penetrate the interior.</String>
       <String _locID='22652' category='Campaign' scenario='12' subtitle='false'>A Covenant destroyer has sideswiped Spirit of Fire. The ship must be repaired and Covenant forces must be driven back.</String>
@@ -1589,7 +1589,7 @@ BẢNG ID STRING TRONG GAME
       <String _locID='22661' category='Campaign' scenario='6' subtitle='false'>Khám phá những gì Covenant đang theo đuổi tại Arcadia.</String>
       <String _locID='22662' category='Campaign' scenario='7' subtitle='false'>Đưa các đơn vị mặt đất để tiêu diệt siêu vũ khí của Covenant.</String>
       <String _locID='22663' category='Campaign' scenario='8' subtitle='false'>Forge và đội trinh sát ECHO và INDIA bắt đầu cuộc tìm kiếm Tiến sĩ Anders.</String>
-      <String _locID='22664' category='Campaign' scenario='9' subtitle='false'>Find Anders and rescue her before it is too late.</String>
+      <String _locID='22664' category='Campaign' scenario='9' subtitle='false'>Tìm Anders và giải cứu cô ấy trước khi quá muộn.</String>
       <String _locID='22665' category='Campaign' scenario='10' subtitle='false'>Optional: Place Gremlin at Pylon</String>
       <String _locID='22666' category='Campaign' scenario='11' subtitle='false'>Cleanse the infection forms from Spirit's hull before they penetrate the interior.</String>
       <String _locID='22667' category='Campaign' scenario='12' subtitle='false'>Repair Spirit of Fire and drive Covenant forces back.</String>
@@ -2231,19 +2231,19 @@ BẢNG ID STRING TRONG GAME
       <String _locID='23271' category='Campaign' scenario='6' subtitle='true'>Đưa thêm Rhino vào vị trí đi!</String>
       <String _locID='23272' category='Campaign' scenario='' subtitle='false'>
       </String>
-      <String _locID='23273' category='Campaign' scenario='9' subtitle='true'>Spirit of Fire, this is Red Team. We are 100 meters from Ander's transponder signal...meeting strong resistance. Seeing some pretty crazy stuff out here. Over.</String>
-      <String _locID='23274' category='Campaign' scenario='9' subtitle='true'>Hold your position Red Team. Reinforcements will come to you.</String>
+      <String _locID='23273' category='Campaign' scenario='9' subtitle='true'>Tàu Spirit of Fire, đây là đội Đỏ. Chúng tôi còn 100 mét tới tín hiệu của Anders...chúng tôi đang gặp vấn đề lớn. Có một vài thứ điên rồ ở đây. Hết.</String>
+      <String _locID='23274' category='Campaign' scenario='9' subtitle='true'>Đội Đỏ, hãy giữ vị trí. Quân tiếp viện đang tới.</String>
       <String _locID='23275' category='Campaign' scenario='' subtitle='false'>
       </String>
       <String _locID='23276' category='Campaign' scenario='' subtitle='false'>
       </String>
-      <String _locID='23277' category='Campaign' scenario='9' subtitle='true'>Take out more colonies quickly - the first one is starting to regenerate!</String>
-      <String _locID='23278' category='Campaign' scenario='9' subtitle='true'>Spirit of Fire, getting a little hairy here, sir. Where's that backup?</String>
-      <String _locID='23279' category='Campaign' scenario='9' subtitle='true'>I've received Red Team's coordinates. I've marked it on your map.</String>
-      <String _locID='23280' category='Campaign' scenario='9' subtitle='true'>Not sure what just happened, but the large one just shook like it was hurt.</String>
-      <String _locID='23281' category='Campaign' scenario='9' subtitle='false'>We are almost close enough to place the explosive!</String>
-      <String _locID='23282' category='Campaign' scenario='9' subtitle='true'>One of the colonies has regenerated and the large creature has gained strength.</String>
-      <String _locID='23283' category='Campaign' scenario='9' subtitle='true'>All right! All the creatures are dying!</String>
+      <String _locID='23277' category='Campaign' scenario='9' subtitle='true'>Cứ tấn công vào thuộc địa của chúng thật nhanh - con đầu tiên đang hồi phục!</String>
+      <String _locID='23278' category='Campaign' scenario='9' subtitle='true'>Chỉ huy Spirit of Fire, chỗ này hơi bị căng thẳng rồi, thưa ngài. Quân hỗ trợ đâu rồi?</String>
+      <String _locID='23279' category='Campaign' scenario='9' subtitle='true'>Tôi đã nhận được tọa độ của đội Đỏ. Tôi đã đánh dấu nó vào bản đồ của anh.</String>
+      <String _locID='23280' category='Campaign' scenario='9' subtitle='true'>Không chắc chuyện gì vừa xảy ra, nhưng cái thứ to đùng đó vừa lắc như kiểu nó bị đau.</String>
+      <String _locID='23281' category='Campaign' scenario='9' subtitle='false'>Chúng ta sắp đủ gần để đặt thuốc nổ rồi!</String>
+      <String _locID='23282' category='Campaign' scenario='9' subtitle='true'>Một thuộc địa nào đó đã được hồi phục và sinh vật lớn đó đã có được sức mạnh.</String>
+      <String _locID='23283' category='Campaign' scenario='9' subtitle='true'>Được rồi! Đống sinh vật đó đang chết dần!</String>
       <String _locID='23284' category='Campaign' scenario='' subtitle='false'>
       </String>
       <String _locID='23285' category='Campaign' scenario='' subtitle='false'>
@@ -2317,11 +2317,11 @@ BẢNG ID STRING TRONG GAME
       <String _locID='23380' category='Campaign' scenario='15' subtitle='false'>Get that door open - we only have one shot at this!</String>
       <String _locID='23381' category='Campaign' scenario='15' subtitle='false'>We won't be able to send any supplies this time. Requisition as much of an army as you can muster and get the door open.</String>
       <String _locID='23382' category='Campaign' scenario='15' subtitle='false'>You don't have much time left - get those last doors open!</String>
-      <String _locID='23383' category='Campaign' scenario='9' subtitle='false'>Kill the Flood Pod</String>
+      <String _locID='23383' category='Campaign' scenario='9' subtitle='false'>Giết Kén Flood</String>
       <String _locID='23384' category='Campaign' scenario='6' subtitle='true'>Ah tuyệt - có Tiền đồn của Covenant hôi hám ngay tại nơi cô đánh dấu. Để chúng tôi xử lý chúng trước đã.</String>
       <String _locID='23386' category='Campaign' scenario='11' subtitle='true'>Forge, get out there and get those things off my ship!</String>
       <String _locID='23387' category='Campaign' scenario='11' subtitle='true'>Sentinel drones, attacking from the front!</String>
-      <String _locID='23388' category='Campaign' scenario='11' subtitle='true'>Serina, report. What's going on here?</String>
+      <String _locID='23388' category='Campaign' scenario='11' subtitle='true'>Serina, báo cáo đi. Chuyện gì đang xảy ra ở đây vậy?</String>
       <String _locID='23392' category='Campaign' scenario='11' subtitle='true'>You can requisition troops from the airlocks on the deck. If we lose those airlocks we'll be defenseless.</String>
       <String _locID='23393' category='Campaign' scenario='11' subtitle='true'>What... is... that?</String>
       <String _locID='23394' category='Campaign' scenario='11' subtitle='true'>The drones are leaving. Serina, what's going on here?</String>
@@ -2946,7 +2946,7 @@ BẢNG ID STRING TRONG GAME
       <String _locID='23993' category='Squads' subtitle='false'>JACKAL PIRATE</String>
       <String _locID='23994' category='Squads' subtitle='false'>
       </String>
-      <String _locID='23997' category='Campaign' scenario='9' subtitle='false'>Rescue Anders</String>
+      <String _locID='23997' category='Campaign' scenario='9' subtitle='false'>Giải cứu Anders</String>
       <String _locID='23998' category='' scenario='' subtitle='false'>
       </String>
       <String _locID='24000' category='UI' subtitle='false'>Loss in 1 minute unless a base is claimed.</String>
@@ -2954,7 +2954,7 @@ BẢNG ID STRING TRONG GAME
       <String _locID='24002' category='UI' subtitle='false'>Loss timer restarted.</String>
       <String _locID='24003' category='UI' subtitle='false'>Game loss timer aborted.</String>
       <String _locID='24004' category='UI' subtitle='false'>Bạn đã bị đánh bại: Tất cả lực lượng đã bị tiêu diệt.</String>
-      <String _locID='24005' category='Campaign' scenario='9' subtitle='true'>Yes - when the colony was destroyed, I registered the large creature weakening.</String>
+      <String _locID='24005' category='Campaign' scenario='9' subtitle='true'>Đúng vậy - khi thuộc địa bị phá hủy, tôi đã ghi nhận sự suy yếu của sinh vật lớn.</String>
       <String _locID='24006' category='Campaign' subtitle='false'>Nhiệm Vụ Thất Bại</String>
       <String _locID='24007' category='Campaign' subtitle='false'>Nhiệm Vụ Hoàn Thành</String>
       <String _locID='24008' subtitle='false'>This is a really long string that I want to have $$A$$ some buttons embedded in it. I don't know how it's going $$B$$ to look but we will see. This is the latest sentence in this long string.</String>
@@ -3383,7 +3383,7 @@ BẢNG ID STRING TRONG GAME
       <String _locID='24458' category='UI' subtitle='false'>Infantry Boost</String>
       <String _locID='24459' category='UI' subtitle='false'>Vehicle Boost</String>
       <String _locID='24460' category='UI' subtitle='false'>Aircraft Boost</String>
-      <String _locID='24461' category='Campaign' scenario='9' subtitle='false'>Optional: Kill 20 Flood Stalks</String>
+      <String _locID='24461' category='Campaign' scenario='9' subtitle='false'>Tùy ý: Giết 20 Trứng Flood</String>
       <String _locID='24462' category='Campaign' scenario='7' subtitle='false'>Tùy ý: Giết 10 Locust</String>
       <String _locID='24463' category='Objects' subtitle='false'>INFANTRY AIRLOCK</String>
       <String _locID='24464' category='Objects' subtitle='false'>VEHICLE AIRLOCK</String>
@@ -3438,11 +3438,11 @@ BẢNG ID STRING TRONG GAME
       <String _locID='24513' category='Campaign' scenario='8' subtitle='false'>Elephant là một trung tâm đào tạo di động được trang bị đầy đủ. Sau khi vào vị trí, nó có thể huy động bộ binh và đóng vai trò là căn cứ tiền tuyến.</String>
       <String _locID='24514' category='Campaign' scenario='8' subtitle='false'>Elephant là khí tài quân sự cực kỳ quý giá và phải được lấy lại bằng mọi giá. Gửi lực lượng của bạn ra ngoài để lấy lại chúng.</String>
       <String _locID='24515' category='Campaign' scenario='8' subtitle='false'>Giai đoạn đầu tiên của một dạng sống ngoài hành tinh bí ẩn, nó rất hung hãn và nguy hiểm. Các dạng lây lan sẽ cố gắng xâm nhập vào tủy sống của nạn nhân. Chúng có thể bị đáp trả bằng cách tập trung hỏa lực từ hầu hết mọi đơn vị.</String>
-      <String _locID='24516' category='Campaign' scenario='9' subtitle='false'>The Spartans have gone ahead, following Anders' signal. Link up with them and reinforce their position before it's too late.</String>
-      <String _locID='24517' category='Campaign' scenario='9' subtitle='false'>Anders' signal is up ahead. Send patrols forward to locate and rescue her.</String>
-      <String _locID='24518' category='Campaign' scenario='9' subtitle='false'>Data analysis suggests that killing the pods should weaken the larger infection form. Taking out as many pods as possible is the safest tactical approach.</String>
-      <String _locID='24519' category='Campaign' scenario='9' subtitle='false'>Once enough of the pods are destroyed, the primary infection should be engaged. Use caution - even after it has been weakened, it is still an extremely dangerous opponent.</String>
-      <String _locID='24520' category='Campaign' scenario='9' subtitle='false'>These alien lifeforms are possibly providing nutrients to the smaller infection variants. They are easily destroyed by any unit.</String>
+      <String _locID='24516' category='Campaign' scenario='9' subtitle='false'>Đội Spartan đã đi trước, họ đang theo tín hiệu của Anders. Tập hợp cùng họ và hỗ trợ vị trí của họ trước khi quá muộn.</String>
+      <String _locID='24517' category='Campaign' scenario='9' subtitle='false'>Tín hiệu của Anders đang ở phía trước. Hãy gửi đội tuần tra tới để xác định vị trí và giải cứu cô ấy.</String>
+      <String _locID='24518' category='Campaign' scenario='9' subtitle='false'>Phân tích dữ liệu cho thấy rằng việc tiêu diệt kén sẽ làm suy yếu dạng Flood lớn. Tiêu diệt thật nhiều kén xung quanh là chiến thuật an toàn nhất.</String>
+      <String _locID='24519' category='Campaign' scenario='9' subtitle='false'>Sau khi đã tiêu diệt đủ kén, bạn nên tấn công con Flood to. Hãy thận trọng - ngay cả khi nó đã bị suy yếu, nó vẫn là một đối thủ cực kỳ nguy hiểm.</String>
+      <String _locID='24520' category='Campaign' scenario='9' subtitle='false'>Những dạng sống ngoài hành tinh này có thể đang cung cấp chất dinh dưỡng cho các biến thể lây nhiễm nhỏ hơn. Chúng dễ dàng bị tiêu diệt bởi bất kỳ đơn vị nào.</String>
       <String _locID='24521' category='Campaign' scenario='10' subtitle='false'>Alpha, Bravo, and Charlie platoons have been cut off beyond the areas overrun by the Flood. Your soldiers will have to clear a path through the Flood and bring them back to the LZ.</String>
       <String _locID='24522' category='Campaign' scenario='10' subtitle='false'>Escort the platoon back through the Flood-infested areas. Watch out for any infection forms and keep them away from your infantry.</String>
       <String _locID='24523' category='Campaign' scenario='10' subtitle='false'>A Gremlin may be able to temporarily disrupt the pylons and delay the automatic docking procedure. In theory, this should buy Spirit of Fire more time.</String>
@@ -3480,8 +3480,8 @@ BẢNG ID STRING TRONG GAME
       <String _locID='24557' category='Abilities' subtitle='false'>OVER BURN</String>
       <String _locID='24558' category='Abilities' subtitle='false'>BOOST</String>
       <String _locID='24559' category='Campaign' scenario='2' subtitle='true'>Cứ tiếp tục xây cấu trúc và nâng cấp chúng khi ngài có thể.</String>
-      <String _locID='24561' category='Campaign' scenario='9' subtitle='true'>We noticed a few colony creatures on the way in. We can weaken the big one by taking them out first. Uploading coordinates.</String>
-      <String _locID='24562' category='Campaign' scenario='9' subtitle='true'>I've lost Anders' transponder - could the creature be jamming the signal?</String>
+      <String _locID='24561' category='Campaign' scenario='9' subtitle='true'>Chúng tôi thấy một số sinh vật đang trên đường tới. Chúng tôi có thể làm suy yếu sinh vật lớn bằng cách giết chúng trước. Tôi đang gửi tọa độ.</String>
+      <String _locID='24562' category='Campaign' scenario='9' subtitle='true'>Tôi đã mất tín hiệu của Anders - có thể sinh vật đó đang gây nhiễu tín hiệu?</String>
       <String _locID='24563' category='Objects' subtitle='false'>FLOOD STALK</String>
       <String _locID='24564' category='Objects' subtitle='false'>Flood Egg Stalk Description</String>
       <String _locID='24565' category='Campaign' scenario='11' subtitle='true'>The energy field is reacting to the aliens - it's trying to clean our hull. Take cover out there! </String>
@@ -3588,12 +3588,12 @@ BẢNG ID STRING TRONG GAME
       <String _locID='24672' category='UI' subtitle='false'>E3 Demo</String>
       <String _locID='24673' category='UI' subtitle='false'>E3 Demonstration mode</String>
       <String _locID='24674' subtitle='false'>Wraith Special Ability</String>
-      <String _locID='24676' category='Campaign' scenario='9' subtitle='true'>About time you guys showed up!</String>
-      <String _locID='24677' category='Campaign' scenario='9' subtitle='true'>Captain, as soon as that creature died, I picked up a new signal just east of here.</String>
+      <String _locID='24676' category='Campaign' scenario='9' subtitle='true'>Mấy anh tới đúng lúc đấy!</String>
+      <String _locID='24677' category='Campaign' scenario='9' subtitle='true'>Thuyền trưởng, ngay sau khi sinh vật đó chết, tôi nhận được tín hiệu mới ở phía đông.</String>
       <String _locID='24678' category='Objects' subtitle='false'>FLOOD NEST</String>
       <String _locID='24679' category='Objects' subtitle='false'>Spawns Flood Units</String>
-      <String _locID='24680' category='Campaign' scenario='9' subtitle='false'>Optional: Have all 5 Flood Colonies dormant at once</String>
-      <String _locID='24681' category='Campaign' scenario='9' subtitle='false'>Forcing all five colonies into a dormant state at the same time will make the hive mind much easier to destroy. Stay alert; the dormant colonies cannot be completely destroyed by UNSC weaponry, and they will regenerate over time.</String>
+      <String _locID='24680' category='Campaign' scenario='9' subtitle='false'>Tùy ý: Tiêu diệt toàn bộ 5 Thuộc Địa của Flood cùng một lúc</String>
+      <String _locID='24681' category='Campaign' scenario='9' subtitle='false'>Việc tiêu diệt toàn bộ 5 thuộc địa của Flood cùng một lúc sẽ làm con Flood to dễ bị tiêu diệt hơn nhiều. Nhưng hãy cảnh giác; thuộc địa của Flood không thể bị tiêu diệt hoàn toàn bởi vũ khí của UNSC, và chúng sẽ hồi phục theo thời gian.</String>
       <String _locID='24682' category='Skirmish' subtitle='false'>Labyrinth E3 (2v2)</String>
       <String _locID='24683' category='Skirmish' subtitle='false'>Playable</String>
       <String _locID='24684' category='Campaign' scenario='7' subtitle='true'>Mấy tên Engineer đó muốn sửa chữa Scarab! Tiêu diệt chúng ngay!</String>
@@ -3609,7 +3609,7 @@ BẢNG ID STRING TRONG GAME
       <String _locID='24698' category='Campaign' scenario='11' subtitle='true'>Two Vultures have just finished repairs, they're yours to command.</String>
       <String _locID='24699' category='Skirmish' subtitle='false'>Labyrinth E3 (WT)</String>
       <String _locID='24700' category='Skirmish' subtitle='false'>Demo</String>
-      <String _locID='24701' category='Campaign' scenario='9' subtitle='true'>Keep killing those things! The big one is even weaker!</String>
+      <String _locID='24701' category='Campaign' scenario='9' subtitle='true'>Cứ giết những thứ này đi! Cái sinh vật lớn yếu hơn nhiều!</String>
       <String _locID='24702' category='Objects' subtitle='false'>THORNBEAST</String>
       <String _locID='24703' category='Objects' subtitle='false'>Wild Creature</String>
       <String _locID='24704' category='Objects' subtitle='false'>GRAVITY LIFT</String>
@@ -3633,7 +3633,7 @@ BẢNG ID STRING TRONG GAME
       <String _locID='24724' category='UI' scenario='Party screen' subtitle='false'>ADD A.I.</String>
       <String _locID='24726' category='Objects' subtitle='false'>FORERUNNER TELEPORTER</String>
       <String _locID='24727' category='Objects' subtitle='false'>Task Units on Teleporter to Use</String>
-      <String _locID='24728' category='Campaign' scenario='9' subtitle='true'>Regenerating? Why can't these things just stay dead once I kill them?</String>
+      <String _locID='24728' category='Campaign' scenario='9' subtitle='true'>Hồi phục? Tại sao những thứ này không chết hẳn khi tôi đã giết chúng?</String>
       <String _locID='24730' category='UI' scenario='Mac Power' subtitle='false'>$$A$$ Khai hỏa pháo MAC&lt;br&gt;$$B$$ HỦY&lt;br&gt;Lượt bắn còn lại: %1!d!</String>
       <String _locID='24731' category='UI' scenario='Carpet Bomb Power' subtitle='false'>$$A$$ Chọn Mục Tiêu&lt;br&gt;$$B$$ HỦY</String>
       <String _locID='24732' category='UI' scenario='Heal Power' subtitle='false'>$$A$$ Bắt Đầu Hồi&lt;br&gt;$$B$$ HỦY</String>
@@ -3646,7 +3646,7 @@ BẢNG ID STRING TRONG GAME
       <String _locID='24741' category='Objects' subtitle='false'>GATE</String>
       <String _locID='24742' category='Objects' subtitle='false'>SENSOR</String>
       <String _locID='24743' category='Objects' subtitle='false'>TURRET</String>
-      <String _locID='24744' category='Campaign' scenario='9' subtitle='true'>This didn't go as I planned. Fall back to Spirit of Fire.</String>
+      <String _locID='24744' category='Campaign' scenario='9' subtitle='true'>Việc này không diễn ra như tôi dự định. Rút lui về tàu Spirit of Fire.</String>
       <String _locID='24745' category='Campaign' scenario='1' subtitle='false'>$$Y$$ Kỹ Năng Ném Lựu Đạn Của Thủy Quân</String>
       <String _locID='24748' subtitle='false'>Tấn công vào Nguồn Năng Lượng</String>
       <String _locID='24749' category='Techs' subtitle='false'>MEDIUM CRYO</String>
@@ -3796,7 +3796,7 @@ BẢNG ID STRING TRONG GAME
       <String _locID='24907' category='Campaign' scenario='6' subtitle='false'>Nhờ vị trí chiến lược của Spirit of Fire và sức mạnh của Rhino, đã giúp đánh sập mái vòm năng lượng của Covenant. Siêu vũ khí của Covenant hiện rất dễ bị tấn công.</String>
       <String _locID='24908' category='Campaign' scenario='7' subtitle='false'>Những nỗ lực của Covenant nhằm hoàn thành việc chế tạo Scarab đã kết thúc cùng với sự thất bại. Lực lượng UNSC đã hoàn thành công việc, loại bỏ mối đe dọa lớn.</String>
       <String _locID='24909' category='Campaign' scenario='8' subtitle='false'>Một số chiếc Elephant và đội ODST đã được cứu, đồng thời lực lượng mặt đất của tàu Spirit đã giao chiến với một dạng sống ngoài hành tinh bí ẩn.</String>
-      <String _locID='24910' category='Campaign' scenario='9' subtitle='false'>Anders' transponder signal was a fake generated by the alien hive mind. After a difficult fight, UNSC forces successfully destroyed the creature.</String>
+      <String _locID='24910' category='Campaign' scenario='9' subtitle='false'>Tín hiệu từ bộ liên lạc của Anders là tín hiệu giả do tổ của Flood tạo ra. Sau một cuộc chiến khó khăn, lực lượng UNSC đã tiêu diệt thành công sinh vật này.</String>
       <String _locID='24911' category='Campaign' scenario='10' subtitle='false'>With time running out, most of Spirit's ground forces successfully returned to the ship before it was drawn inside the strange world.</String>
       <String _locID='24912' category='Campaign' scenario='11' subtitle='false'>As alien life forms swarmed all over Spirit of Fire's hull, the Marines made a desperate but ultimately successful stand at the hatches and airlocks.</String>
       <String _locID='24913' category='Campaign' scenario='12' subtitle='false'>After the collision with the Covenant destroyer, Spirit's crew managed to repair the ship and disengage.</String>
@@ -3837,7 +3837,7 @@ BẢNG ID STRING TRONG GAME
       <String _locID='24952' category='Campaign' scenario='2' subtitle='false'>Xây một Doanh trại</String>
       <String _locID='24953' category='Skirmish' scenario='Tutorial' subtitle='false'>Nhấn $$X$$ để gặt hái những thùng hàng.</String>
       <String _locID='24954' category='Campaign' scenario='2' subtitle='false'>Xây một Trạm Cung Cấp</String>
-      <String _locID='24955' category='Campaign' scenario='9' subtitle='true'>Sergeant Forge, rendezvous with RED Team and find Anders, but be careful - we don't know what these things are capable of.</String>
+      <String _locID='24955' category='Campaign' scenario='9' subtitle='true'>Trung sĩ Forge, tập hợp với đội Đỏ và rồi tìm Anders, nhưng hãy cẩn thận - chúng ta không biết những thứ này có khả năng gì đâu.</String>
       <String _locID='24956' category='Cinematics' subtitle='false'>Captain Cutter reflects on the events that bring Spirit of Fire to Harvest. Sergeant Forge reports that the Covenant are still on the planet surface.</String>
       <String _locID='24957' category='Cinematics' subtitle='false'>Sergeant Forge makes a startling discovery while Professor Anders prepares to go down to the surface of the planet. Meanwhile, the Arbiter is ordered to destroy the Forerunner installation.</String>
       <String _locID='24958' category='Cinematics' subtitle='false'>Professor Anders and Sergeant Forge activate the Forerunner installation.</String>
@@ -3899,7 +3899,7 @@ BẢNG ID STRING TRONG GAME
       <String _locID='25017' category='UI' subtitle='false'>All player units train 50% faster. Final score will decrease.</String>
       <String _locID='25018' category='UI' subtitle='false'>Supplies come in 25% faster. Final score will decrease.</String>
       <String _locID='25019' category='UI' subtitle='false'>All player powers recharge in half the time. Final score will decrease.</String>
-      <String _locID='25020' category='Campaign' scenario='9' subtitle='false'>This new threat is more deadly and smarter than I initially thought.</String>
+      <String _locID='25020' category='Campaign' scenario='9' subtitle='false'>Mối đe dọa mới này nguy hiểm hơn và thông minh hơn tôi tưởng.</String>
       <String _locID='25021' category='UI' subtitle='false'>Skull Description</String>
       <String _locID='25022' category='UI' subtitle='false'>SKULL LOCKED</String>
       <String _locID='25023' category='UI' subtitle='false'>$$A$$ Drop ODST&lt;br&gt;$$B$$ CANCEL&lt;br&gt;Drops Remaining: %1!d!</String>
@@ -4064,10 +4064,10 @@ BẢNG ID STRING TRONG GAME
       <String _locID='25201' category='Campaign' scenario='7' subtitle='false'>Nguồn Năng Lượng Đã Bị Phá:</String>
       <String _locID='25202' category='Campaign' scenario='7' subtitle='false'>Locust Đã Bị Giết:</String>
       <String _locID='25203' category='Campaign' scenario='7' subtitle='false'>Scarab Đã Bị Phá Hủy</String>
-      <String _locID='25197' category='Campaign' scenario='9' subtitle='false'>Stalks Killed:</String>
-      <String _locID='25198' category='Campaign' scenario='9' subtitle='false'>Colonies Dormant</String>
-      <String _locID='25199' category='Campaign' scenario='9' subtitle='false'>Reinforce Spartans</String>
-      <String _locID='25200' category='Campaign' scenario='9' subtitle='false'>Hivemind Destroyed</String>
+      <String _locID='25197' category='Campaign' scenario='9' subtitle='false'>Trứng Flood Đã Giết:</String>
+      <String _locID='25198' category='Campaign' scenario='9' subtitle='false'>Đã Tiêu Diệt Thuộc Địa Của Flood</String>
+      <String _locID='25199' category='Campaign' scenario='9' subtitle='false'>Đã Hỗ Trợ Spartan</String>
+      <String _locID='25200' category='Campaign' scenario='9' subtitle='false'>Tổ Flood Đã Bị Phá Hủy</String>
       <String _locID='25204' category='Campaign' scenario='11' subtitle='false'>Sentinels Killed:</String>
       <String _locID='25205' category='Campaign' scenario='11' subtitle='false'>Hull Clear</String>
       <String _locID='25206' category='Campaign' scenario='11' subtitle='false'>Enforcer Destroyed</String>
