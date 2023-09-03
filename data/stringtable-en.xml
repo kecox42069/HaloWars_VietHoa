@@ -2295,6 +2295,7 @@ BẢNG ID STRING TRONG GAME
       <String _locID='23356' category='Campaign' scenario='7' subtitle='true'>Scarab chưa được xây xong nhưng đầu của nó vẫn hoạt động được. Khó mà có thể rút lui nếu như phe ta đang ở trong tầm nhìn của nó - anh cần phải phá hủy nó.</String>
       <String _locID='23358' category='Campaign' scenario='7' subtitle='true'>Hệ thống vũ khí của Scarab được chạy bằng nguồn năng lượng trong khu vực này. Phá hủy chúng sẽ giảm hiệu quả chiến đấu của Scarab.</String>
       <String _locID='23359' category='Campaign' scenario='15' subtitle='false'>Mở Cánh Cổng</String>
+	  <!-- 23360 đến 23382 hình như là placeholder, nhưng mà tôi lỡ dịch r. :V -->
       <String _locID='23360' category='Campaign' scenario='15' subtitle='false'>Kích hoạt cánh cửa thứ hai đối diện với cánh cửa này.</String>
       <String _locID='23361' category='Campaign' scenario='15' subtitle='false'>Cánh cửa đầu tiên đã được mở. Hãy mở 2 cánh cửa còn lại.</String>
       <String _locID='23362' category='Campaign' scenario='15' subtitle='false'>Chỉ còn lại một cánh cửa. Hãy mở chúng để tàu Spirit of Fire có thể trốn thoát.</String>
@@ -2303,21 +2304,21 @@ BẢNG ID STRING TRONG GAME
       <String _locID='23365' category='Campaign' scenario='15' subtitle='false'>Cánh cửa hẳn là phải mở thao thứ tự nào đó.</String>
       <String _locID='23366' category='Campaign' scenario='15' subtitle='false'>Dòng chữ của Forerunner ở trên hai bên cửa có vẻ là manh mối...</String>
       <String _locID='23367' category='Campaign' scenario='15' subtitle='false'>Cái đầu tiên đã được mở, còn hai cái nữa thôi.</String>
-      <String _locID='23368' category='Campaign' scenario='15' subtitle='false'>It seems you can activate only one pair of doors at a time</String>
-      <String _locID='23369' category='Campaign' scenario='15' subtitle='false'>The Sentinels are attracted to the activated nodes. You're going to have to work quickly</String>
-      <String _locID='23370' category='Campaign' scenario='15' subtitle='false'>It seems the Sentinels are more worried about the Flood than us. Get them to fight each other and we may buy ourselves some time.</String>
-      <String _locID='23371' category='Campaign' scenario='15' subtitle='false'>The planet is tearing itself apart - keep an eye out for debris.</String>
-      <String _locID='23372' category='Campaign' scenario='15' subtitle='false'>Good work! We may survive this after all...</String>
-      <String _locID='23373' category='Campaign' scenario='15' subtitle='false'>The Sentinel A.I. is shutting the doors; it has enacted a planetwide alarm of some kind. The whole planet is locking down!</String>
-      <String _locID='23374' category='Campaign' scenario='15' subtitle='false'>The Sentinels seem to be combining into larger forms. If this continues they may become unstoppable.</String>
-      <String _locID='23375' category='Campaign' scenario='15' subtitle='false'>The Sentinels have evolved again.</String>
-      <String _locID='23376' category='Campaign' scenario='15' subtitle='false'>Flood infections detected near you area.</String>
-      <String _locID='23377' category='Campaign' scenario='15' subtitle='false'>Debris is falling your way - look out!</String>
-      <String _locID='23378' category='Campaign' scenario='15' subtitle='false'>What are they doing? They're combining!</String>
-      <String _locID='23379' category='Campaign' scenario='15' subtitle='false'>Sentinels! Incoming!</String>
-      <String _locID='23380' category='Campaign' scenario='15' subtitle='false'>Get that door open - we only have one shot at this!</String>
-      <String _locID='23381' category='Campaign' scenario='15' subtitle='false'>We won't be able to send any supplies this time. Requisition as much of an army as you can muster and get the door open.</String>
-      <String _locID='23382' category='Campaign' scenario='15' subtitle='false'>You don't have much time left - get those last doors open!</String>
+      <String _locID='23368' category='Campaign' scenario='15' subtitle='false'>Có vẻ như anh chỉ có thể kích hoạt một cặp cửa mỗi lần.</String>
+      <String _locID='23369' category='Campaign' scenario='15' subtitle='false'>Sentinel đang bị thu hút bởi những nút đã được kích hoạt. Anh sẽ cần phải làm việc này nhanh.</String>
+      <String _locID='23370' category='Campaign' scenario='15' subtitle='false'>Có vẻ như lũ Sentinel lo lắng về đám Flood hơn chúng ta. Khiến cả hai bọn chúng chiến đấu với nhau và chúng có thể câu giờ cho chúng ta.</String>
+      <String _locID='23371' category='Campaign' scenario='15' subtitle='false'>Hành tinh này đang sập dần rồi - cẩn thận mảnh vỡ rơi trúng người!</String>
+      <String _locID='23372' category='Campaign' scenario='15' subtitle='false'>Làm tốt lắm! Có thể chúng ta sẽ sống sót sau chuyện này...</String>
+      <String _locID='23373' category='Campaign' scenario='15' subtitle='false'>A.I Sentinal đang đóng cửa lại; nó đã ban hành một loại cảnh báo nào đó trên toàn thế giới. Cả hành tinh đang bị khóa lại!</String>
+      <String _locID='23374' category='Campaign' scenario='15' subtitle='false'>Lũ Sentinel dường như đang kết hợp thành các dạng lớn hơn. Nếu điều này tiếp tục, chúng có thể trở nên bất khả chiến bại.</String>
+      <String _locID='23375' category='Campaign' scenario='15' subtitle='false'>Lũ Sentinel đã tiến hóa lần nữa.</String>
+      <String _locID='23376' category='Campaign' scenario='15' subtitle='false'>Phát hiện Flood ở gần khu vực của anh.</String>
+      <String _locID='23377' category='Campaign' scenario='15' subtitle='false'>Những mảnh vụn đang rơi xuống chỗ của anh - cẩn thận đấy!</String>
+      <String _locID='23378' category='Campaign' scenario='15' subtitle='false'>Chúng đang làm gì vậy? Chúng đang kết hợp lại!</String>
+      <String _locID='23379' category='Campaign' scenario='15' subtitle='false'>Lũ Sentinel! Chúng đang tới!</String>
+      <String _locID='23380' category='Campaign' scenario='15' subtitle='false'>Mở cánh cửa đó ra - chúng ta chỉ có một cơ hội duy nhất thôi!</String>
+      <String _locID='23381' category='Campaign' scenario='15' subtitle='false'>Lần này chúng ta không thể gửi bất kỳ tài nguyên nào. Hãy tập hợp nhiều đội quân nhất có thể và rồi mở cửa.</String>
+      <String _locID='23382' category='Campaign' scenario='15' subtitle='false'>Anh không còn nhiều thời gian đâu - mở cánh cửa cuối cùng đi!</String>
       <String _locID='23383' category='Campaign' scenario='9' subtitle='false'>Giết Kén Flood</String>
       <String _locID='23384' category='Campaign' scenario='6' subtitle='true'>Ah tuyệt - có Tiền đồn của Covenant hôi hám ngay tại nơi cô đánh dấu. Để chúng tôi xử lý chúng trước đã.</String>
       <String _locID='23386' category='Campaign' scenario='11' subtitle='true'>Forge, bước chân ra đây và đẩy lùi thứ này ra khỏi tàu của tôi!</String>
@@ -2366,7 +2367,7 @@ BẢNG ID STRING TRONG GAME
       </String>
       <String _locID='23422' category='Campaign' scenario='' subtitle='false'>
       </String>
-      <String _locID='23423' category='Skirmish' scenario='Hint Chat' subtitle='false'>Welcome to the Halo Wars Alpha Tutorial!</String>
+      <String _locID='23423' category='Skirmish' scenario='Hint Chat' subtitle='false'>Chào mừng đến với Hướng Dẫn Chơi Halo Wars Bản Alpha!</String>
       <String _locID='23424' category='Skirmish' scenario='Hint Chat' subtitle='false'>We're currently looking at your base. This is where you will train and upgrade your armies. More about that later...</String>
       <String _locID='23425' category='Skirmish' scenario='Hint Chat' subtitle='false' _mouseKeyboard="26139">In the center of your screen you'll see the CROSSHAIR. Let's learn how to move it. Use the LEFT STICK $$LS$$ to move the CROSSHAIR over the flashing beacon.</String>
       <String _locID='23431' category='Skirmish' scenario='Hint Chat' subtitle='false'>Closer...</String>
@@ -3659,19 +3660,19 @@ BẢNG ID STRING TRONG GAME
       <String _locID='24755' category='UI' subtitle='false'>$$A$$ Fire Cryo Bomb&lt;br&gt;$$B$$ CANCEL</String>
       <String _locID='24756' scenario='1' category='Campaign' subtitle='false'>$$Y$$ Kỹ Năng Ném Lựu Đạn Của Thủy Quân</String>
       <String _locID='24757' category='Campaign' scenario='15' subtitle='true'>Forge tới Cutter. Tôi đang bắt đầu đi lên. Ước tính 30 phút là sẽ tới địa điểm phát nổ.</String>
-      <String _locID='24758' category='Campaign' scenario='15' subtitle='true'>Forge here. I’m at the access point to the sun. Will need some time to break through.</String>
-      <String _locID='24759' category='Campaign' scenario='15' subtitle='true'>I’m in the sun. You heard Serina. I’ll wait ten minutes, then detonate the core. That’s all the time I can give you.</String>
-      <String _locID='24760' category='Campaign' scenario='15' subtitle='true'>Copy that. Get our people out of here - I’m blowing the core!</String>
-      <String _locID='24761' category='Campaign' scenario='15' subtitle='true'>Time’s up. I've gotta blow the core. We can’t let the Covenant get those ships.</String>
+      <String _locID='24758' category='Campaign' scenario='15' subtitle='true'>Forge đây. Tôi đang ở vị trí tiếp cận mặt trời. Tôi sẽ cần một chút thời gian để vượt qua.</String>
+      <String _locID='24759' category='Campaign' scenario='15' subtitle='true'>Tôi đang ở gần mặt trời. Ngài nghe Serina rồi đấy. Tôi sẽ đợi 10 phút, rồi kích hoạt lõi phản ứng. Đó là toàn bộ thời gian tôi có thể cho ngài.</String>
+      <String _locID='24760' category='Campaign' scenario='15' subtitle='true'>Đã rõ. Đưa người của chúng ta ra khỏi đây ngay - tôi kích hoạt lõi phản ứng đây!</String>
+      <String _locID='24761' category='Campaign' scenario='15' subtitle='true'>Hết thời gian rồi. Tôi phải kích nổ lõi phản ứng. Chúng ta không thể để Covenant chạm tay vào những con tàu này.</String>
       <String _locID='24762' category='Campaign' scenario='15' subtitle='true'>Thuyền trưởng, chúng ta không thể trốn thoát khỏi đây, lối ra bị chặn rồi.</String>
-      <String _locID='24763' category='Campaign' scenario='15' subtitle='true'>Covenant forces will be at Forge's position in approximately 10 minutes.</String>
+      <String _locID='24763' category='Campaign' scenario='15' subtitle='true'>Lực lượng Covenant sẽ tới vị trí của Forge trong 10 phút nữa.</String>
       <String _locID='24764' category='Campaign' scenario='15' subtitle='true'>Chúng tôi đã phát hiện một căn cứ lớn của Covenant ở hướng tây cánh cổng.</String>
       <String _locID='24765' category='Campaign' scenario='15' subtitle='true'>Cẩn thận - tôi đã phát hiện vài phương tiện hạng nặng của Covenant.</String>
       <String _locID='24766' category='Campaign' scenario='15' subtitle='true'>Lực lượng mặt đất! Tìm đường mở cánh cổng đó hoặc chúng ta sẽ chết hết.</String>
-      <String _locID='24767' category='Campaign' scenario='15' subtitle='true'>Roger that. We can’t let them leave with those ships. Good luck, Sergeant.</String>
-      <String _locID='24768' category='Campaign' scenario='15' subtitle='true'>Sergeant Forge, all ground forces are evacuating to the Spirit of Fire.</String>
-      <String _locID='24769' category='Campaign' scenario='15' subtitle='true'>Get those troops back on board! Now!</String>
-      <String _locID='24770' category='Campaign' scenario='15' subtitle='true'>Do it, Sergeant!</String>
+      <String _locID='24767' category='Campaign' scenario='15' subtitle='true'>Tôi đã nắm rõ. Chúng ta không thể để chúng rời khỏi đây với những con tàu này. Chúc may mắn, trung sĩ.</String>
+      <String _locID='24768' category='Campaign' scenario='15' subtitle='true'>Trung sĩ Forge, toàn bộ lực lượng mặt đất đang rút lui về tàu Spirit of Fire.</String>
+      <String _locID='24769' category='Campaign' scenario='15' subtitle='true'>Đưa những bộ binh này trở về con tàu! Ngay bây giờ!</String>
+      <String _locID='24770' category='Campaign' scenario='15' subtitle='true'>Làm đi, trung sĩ!</String>
       <String _locID='24771' category='Campaign' scenario='15' subtitle='true'>Cánh cổng có 6 cái cửa. Anh cần mở nó theo đúng thứ tự.</String>
       <String _locID='24772' category='Campaign' scenario='15' subtitle='true'>Những cánh cửa có một số ký tự của người ngoài hành tinh trên đó...đó có thể là chìa khóa để mở chúng.</String>
       <String _locID='24773' category='Campaign' scenario='15' subtitle='true'>Vậy thôi! Cánh cửa đã được nối! Anh cần kích hoạt toàn bộ cánh cửa để mở nó!</String>
@@ -3689,11 +3690,11 @@ BẢNG ID STRING TRONG GAME
       <String _locID='24785' category='UI' subtitle='false'>Zinc</String>
       <String _locID='24786' category='UI' subtitle='false'>Cobalt</String>
       <String _locID='24787' category='UI' subtitle='false'>Cadmium</String>
-      <String _locID='24788' category='Campaign' scenario='15' subtitle='false'>Activate Interlock $$A$$</String>
+      <String _locID='24788' category='Campaign' scenario='15' subtitle='false'>Kích Hoạt Chốt Khóa $$A$$</String>
       <String _locID='24789' category='Campaign' scenario='2' subtitle='false'>Tiến Vào Chỗ Nấp $$X$$</String>
       <String _locID='24790' category='Objects' subtitle='false'>SNOW BEAST</String>
       <String _locID='24791' category='Campaign' scenario='2' subtitle='false'>Thủy Quân Lục Chiến có thể gặt hái thêm Tài Nguyên từ Hòm Tiếp Tế trong khu vực này.</String>
-      <String _locID='24792' category='Campaign' scenario='15' subtitle='false'>Detonation In:</String>
+      <String _locID='24792' category='Campaign' scenario='15' subtitle='false'>Kích Nổ Trong:</String>
       <String _locID='24793' category='Campaign' scenario='2' subtitle='true'>Thưa thuyền trưởng, nguồn năng lượng của căn cứ đã bị ngắt và giao thức khóa căn cứ đang chạy. Nếu chúng ta xây dựng lại, giao thức sẽ dừng và cánh cửa sẽ mở.</String>
       <String _locID='24794' category='Campaign' scenario='2' subtitle='true'>Vị trí mới của căn cứ đã sẵn sàng.</String>
       <String _locID='24795' category='UI' subtitle='false'>$$A$$ Fire Disruption Bomb&lt;br&gt;$$B$$ CANCEL</String>
@@ -3710,7 +3711,7 @@ BẢNG ID STRING TRONG GAME
       <String _locID='24808' category='Objects' subtitle='false'>LOOK DADDY SKULL</String>
       <String _locID='24809' category='Objects' subtitle='false'>Collectible Item</String>
       <String _locID='24810' category='Objects' subtitle='false'>Collectible Gameplay Item</String>
-      <String _locID='24811' category='Campaign' scenario='15' subtitle='false'>Optional: Kill Three Scarabs</String>
+      <String _locID='24811' category='Campaign' scenario='15' subtitle='false'>Tùy ý: Giết 3 Scarab</String>
       <String _locID='24812' category='Campaign' scenario='2' subtitle='false'>Hòm Tiếp Tế Tài Nguyên</String>
       <String _locID='24815' category='Campaign' scenario='2' subtitle='true'>Chúng ta sẽ cần đội quân lớn hơn.</String>
       <String _locID='24816' category='Campaign' scenario='2' subtitle='false'>Dẫn Thủy Quân Lục Chiến tới Hòm Tiếp Tế để lấy thêm Tài Nguyên.</String>
@@ -3803,7 +3804,7 @@ BẢNG ID STRING TRONG GAME
       <String _locID='24913' category='Campaign' scenario='12' subtitle='false'>Sau khi va chạm với tàu chiến của Covenant, đội quân của Spirit đã sửa chữa được con tàu và rút lui.</String>
       <String _locID='24914' category='Campaign' scenario='13' subtitle='false'>Giáo sư Anders cuối cùng đã được cứu và đến bãi đáp để rút lui về tàu Spirit of Fire.</String>
       <String _locID='24915' category='Campaign' scenario='14' subtitle='false'>Sử dụng Elephant để kéo lõi phản ứng lên đỉnh của trạm Apex, đội quân của Spirit đã đưa lõi vào vị trí để kích nổ và hy vọng sẽ phá hủy được "Shield World".</String>
-      <String _locID='24916' category='Campaign' scenario='15' subtitle='false'>Though many good soldiers fell in battle, Spirit of Fire's crew opened the Forerunner structure's doors and escaped from the interior of the Shield World.</String>
+      <String _locID='24916' category='Campaign' scenario='15' subtitle='false'>Mặc dù rất nhiều mạng sống của những người lính đã ngã xuống trong trận chiến, đội quân của Spirit of Fire đã mở được cánh cửa của cấu trúc Forerunner và trốn thoát khỏi bên trong "Shield World".</String>
       <String _locID='24918' subtitle='false'>$$BACK$$ All objectives have objective details.</String>
       <String _locID='24919' category='Objects' subtitle='false'>FLOOD LAUNCHER</String>
       <String _locID='24920' category='Objects' subtitle='false'>Big flood artillery</String>
@@ -3866,8 +3867,8 @@ BẢNG ID STRING TRONG GAME
       <String _locID='24980' category='Campaign' scenario='13' subtitle='false'>Giữ vững bãi đáp bằng mọi giá. Nếu lực lượng của bạn bị áp đảo, mọi hy vọng sẽ mất đi.</String>
       <String _locID='24981' category='Campaign' scenario='13' subtitle='false'>Scarab là một siêu vũ khí mạnh mẽ và tiên tiến của Covenant. Nếu chiếm được, nó có thể hỗ trợ lực lượng của chúng ta rất nhiều. Chỉ Spartan mới có khả năng chiếm lấy Scarab.</String>
       <String _locID='24982' category='Campaign' scenario='13' subtitle='false'>Flood dạng bomber là mối đe dọa lớn đối với lực lượng mặt đất của chúng ta. Bạn có thể chống lại chúng bằng Wolverine.</String>
-      <String _locID='24984' category='Campaign' scenario='15' subtitle='false'>If Spirit of Fire is going to escape from the Forerunner structure, the door must be opened. The unlocking mechanism appears to be some sort of giant puzzle.</String>
-      <String _locID='24985' category='Campaign' scenario='15' subtitle='false'>A heavily armored walker designed to smash through enemy armies, the Scarab is a nearly unstoppable killing machine. If one appears on the battlefield, the best counters are Scorpions and Cobras.</String>
+      <String _locID='24984' category='Campaign' scenario='15' subtitle='false'>Nếu đội quân Spirit of Fire muốn trốn thoát khỏi cấu trúc của Forerunner, cánh cửa phải được mở. Nhưng cơ chế mở khóa dường như là một loại câu đố lớn.</String>
+      <String _locID='24985' category='Campaign' scenario='15' subtitle='false'>Là một cỗ máy được bọc thép dày đặc được thiết kế để xuyên thủng quân đội của kẻ thù, Scarab là một cỗ máy giết người gần như bất khả chiến bại. Nếu xuất hiện trên chiến trường, đơn vị khắc chế tốt nhất chỉ có thể là Scorpion và Cobra.</String>
       <String _locID='24988' category='UI' subtitle='false'>SKULLS</String>
       <String _locID='24989' category='Campaign' scenario='6' subtitle='false'>Chúng ta cần biết bên trong mái vòm đó có gì. Chuẩn bị khởi động lại chiến dịch.</String>
       <String _locID='24990' category='UI' subtitle='false'>Look Daddy!</String>
@@ -3904,8 +3905,8 @@ BẢNG ID STRING TRONG GAME
       <String _locID='25021' category='UI' subtitle='false'>Skull Description</String>
       <String _locID='25022' category='UI' subtitle='false'>SKULL LOCKED</String>
       <String _locID='25023' category='UI' subtitle='false'>$$A$$ Drop ODST&lt;br&gt;$$B$$ CANCEL&lt;br&gt;Drops Remaining: %1!d!</String>
-      <String _locID='25024' category='Skirmish' scenario='Tutorial' subtitle='false'>Learn Cleansing</String>
-      <String _locID='25025' category='Skirmish' scenario='Tutorial' subtitle='false'>Learn Covenant upgrading</String>
+      <String _locID='25024' category='Skirmish' scenario='Tutorial' subtitle='false'>Học Cách Sử Dụng Kỹ Năng Càn Quét</String>
+      <String _locID='25025' category='Skirmish' scenario='Tutorial' subtitle='false'>Học Cách Nâng Cấp Đồ của Covenant</String>
       <String _locID='25026' category='Skirmish' scenario='Tutorial' subtitle='false'>Learn Hot Dropping</String>
       <String _locID='25029' category='Campaign' subtitle='false'>Tàu Spirit of Fire</String>
       <String _locID='25030' subtitle='false'>Insert Text Here</String>
@@ -3962,13 +3963,13 @@ BẢNG ID STRING TRONG GAME
       <String _locID='25082' category='UI' scenario='Pregame' subtitle='false'>THÔNG TIN VỀ NHIỆM VỤ</String>
       <String _locID='25083' category='UI' scenario='Pregame' subtitle='false'>PHÁT TẤT CẢ</String>
       <String _locID='25084' category='UI' scenario='Pregame' subtitle='false'>View all unlocked game cinematics.</String>
-      <String _locID='25085' category='Campaign' scenario='15' subtitle='false'>RELEASE INTERLOCK</String>
-      <String _locID='25086' category='Campaign' scenario='15' subtitle='false'>Releasing the Interlock Nodes in a specific order will open the portal. There seems to be a hidden meaning to the alien glyphs embedded in the hard-light doors.</String>
-      <String _locID='25087' category='Campaign' scenario='15' subtitle='false'>Releasing the Interlock Nodes in a specific order will open the portal. The Nodes are only accessible when humans and no other life forms are near them.</String>
-      <String _locID='25088' category='Campaign' scenario='4' subtitle='false'>A planetary network of high-speed rails, the Arcadian tram system was heavily damaged in the initial Covenant assault. Intact tram stations are serving as temporary shelters for evacuating refugees.</String>
+      <String _locID='25085' category='Campaign' scenario='15' subtitle='false'>THẢ CHỐT KHÓA</String>
+      <String _locID='25086' category='Campaign' scenario='15' subtitle='false'>Việc thả Chốt Khóa theo thứ tự cụ thể sẽ mở cánh cổng. Dường như có một ý nghĩa ẩn giấu nào đó đằng sau những ký tự của người ngoài hành tinh được gắn trên những cánh cửa có ánh sáng cứng này.</String>
+      <String _locID='25087' category='Campaign' scenario='15' subtitle='false'>Việc thả Chốt Khóa theo thứ tự cụ thể sẽ mở cánh cổng. Các Nút Bấm chỉ có thể truy cập được khi con người và không có dạng sống nào khác ở gần chúng.</String>
+      <String _locID='25088' category='Campaign' scenario='4' subtitle='false'>Là một mạng lưới đường sắt tốc độ cao trên hành tinh, hệ thống xe điện của Arcadia đã bị hư hại nặng nề trong cuộc tấn công Covenant. Các trạm xe điện còn nguyên vẹn đang đóng vai trò là nơi trú ẩn tạm thời để sơ tán người tị nạn.</String>
       <String _locID='25089' category='Campaign' scenario='4' subtitle='false'>Mở Cửa</String>
       <String _locID='25090' category='Campaign' scenario='15' subtitle='true'>Chúng tôi đã vô hiệu hóa chốt khóa này.</String>
-      <String _locID='25091' category='Campaign' scenario='15' subtitle='true'>Có một chốt khóa khác đã được vô hiệu hóa.</String>
+      <String _locID='25091' category='Campaign' scenario='15' subtitle='true'>Có một chốt khóa khác đã được kích hoạt.</String>
       <String _locID='25092' category='Campaign' scenario='15' subtitle='true'>Dựa trên nghiên cứu của Anders, công nghệ của người ngoài hành tinh sẽ chỉ phản ứng với con người.</String>
       <String _locID='25093' category='Campaign' scenario='15' subtitle='true'>Bất kỳ sự sống người ngoài hành tinh khác ở gần sẽ khóa hệ thống.</String>
       <String _locID='25094' category='Campaign' scenario='15' subtitle='true'>Chốt khóa đã được vô hiệu hóa.</String>
@@ -4094,7 +4095,7 @@ BẢNG ID STRING TRONG GAME
       <String _locID='25226' category='Skirmish' scenario='Tutorial' subtitle='false'>Nhiệm vụ nâng cấp đã hoàn thành</String>
       <String _locID='25227' category='Skirmish' scenario='Tutorial' subtitle='false'>Nhiệm vụ tấn công đã hoàn thành</String>
       <String _locID='25228' category='Skirmish' scenario='Tutorial' subtitle='false'>Số Wraith đã bị giết</String>
-      <String _locID='25229' category='Skirmish' scenario='Tutorial' subtitle='false'>Shield generators destroyed</String>
+      <String _locID='25229' category='Skirmish' scenario='Tutorial' subtitle='false'>Nguồn năng lượng của khiên đã bị phá hủy</String>
       <String _locID='25230' category='Skirmish' scenario='Tutorial' subtitle='false'>Số nhiệm vụ nâng cấp đã hoàn thành</String>
       <String _locID='25231' category='Skirmish' scenario='Tutorial' subtitle='false'>Locusts hot dropped</String>
       <String _locID='25232' category='Skirmish' scenario='Tutorial' subtitle='false'>Ấn $$X$$ để tấn công</String>
@@ -4184,8 +4185,8 @@ BẢNG ID STRING TRONG GAME
       <String _locID='25319' category='UI' scenario='GameSetup' subtitle='false'>PUBLIC GAME: %1!s!</String>
       <String _locID='25320' category='Campaign' scenario='11' subtitle='true'>Thuyền trưởng, nếu đơn vị cường kích của chúng ta bay thẳng vào trường năng lượng, nó sẽ giảm thiểu sát thương.</String>
       <String _locID='25321' category='Code' scenario='Role text' subtitle='false'>Garrisonable Cover</String>
-      <String _locID='25322' category='Campaign' scenario='15' subtitle='false'>Clear Out all Enemies Near the Interlock Tower</String>
-      <String _locID='25323' category='Campaign' scenario='15' subtitle='false'>Activate the Interlock</String>
+      <String _locID='25322' category='Campaign' scenario='15' subtitle='false'>Tiêu Diệt Toàn Bộ Kẻ Địch Gần Chốt Khóa</String>
+      <String _locID='25323' category='Campaign' scenario='15' subtitle='false'>Kích Hoạt Chốt Khóa</String>
       <String _locID='25324' category='Campaign' scenario='10' subtitle='true'>Này, cảm ơn vì sự giúp đỡ, trung sĩ. Anh cần một chiếc Cobra không?</String>
       <String _locID='25325' category='UI' scenario='ObjectivesScreen' subtitle='false'>Số Điểm: %1!d!</String>
       <String _locID='25328' category='Objects' subtitle='false'>POWER CORE</String>
@@ -4245,17 +4246,17 @@ BẢNG ID STRING TRONG GAME
       <String _locID='25379' category='Skirmish' scenario='Tutorial' subtitle='false'>Di Chuyển Lực Lượng</String>
       <String _locID='25380' category='Skirmish' scenario='Tutorial' subtitle='false'>Nhiệm Vụ Di Chuyển Lực Lượng Đã Hoàn Thành</String>
       <String _locID='25382' category='Skirmish' scenario='Tutorial' subtitle='false'>Ấn $$Y$$ để sử dụng lựu đạn</String>
-      <String _locID='25383' category='Campaign' scenario='0' subtitle='false'>BASIC TUTORIAL</String>
+      <String _locID='25383' category='Campaign' scenario='0' subtitle='false'>HƯỚNG DẪN CƠ BẢN</String>
       <String _locID='25384' category='Campaign' scenario='0' subtitle='false'>Tutorial Loading Text</String>
       <String _locID='25385' category='Campaign' scenario='0' subtitle='false'>Tutorial Completed Text</String>
       <String _locID='25386' category='Campaign' scenario='0' subtitle='false'>Tutorial Intro Text</String>
-      <String _locID='25387' category='UI' scenario='PartyScreen' subtitle='false'>The Halo Wars servers are currently unavailable. The game will use a default set of matchmaking types until the servers become available.</String>
-      <String _locID='25388' category='Campaign' scenario='15' subtitle='false'>The enemy units near the interlock towers appear to be preventing them from working. They appear to function if humans are nearby, but other life forms must be cleared from the area.</String>
-      <String _locID='25389' category='Campaign' scenario='15' subtitle='false'>The nodes appear to be laid out in some sort of pattern. If they can be activated in the correct sequence, the portal door sections may open.</String>
-      <String _locID='25390' category='Campaign' scenario='15' subtitle='false'>Scarabs Destroyed:</String>
-      <String _locID='25391' category='Campaign' scenario='15' subtitle='false'>Interlock Node Activated</String>
-      <String _locID='25392' category='Campaign' scenario='15' subtitle='false'>Area cleared</String>
-      <String _locID='25393' category='Campaign' scenario='15' subtitle='false'>Portal opened</String>
+      <String _locID='25387' category='UI' scenario='PartyScreen' subtitle='false'>Máy chủ Halo Wars hiện không khả dụng. Trò chơi sẽ sử dụng chế độ tìm trận khác cho đến khi máy chủ hoạt động trở lại.</String>
+      <String _locID='25388' category='Campaign' scenario='15' subtitle='false'>Kẻ địch khi ở gần chốt khóa dường như sẽ ngăn cản chúng hoạt động. Có vẻ chúng vẫn sẽ hoạt động nếu có con người ở gần, nhưng các dạng sống khác phải bị tiêu diệt khỏi khu vực.</String>
+      <String _locID='25389' category='Campaign' scenario='15' subtitle='false'>Các nút dường như được bố trí theo một kiểu thứ tự nào đó. Nếu chúng có thể được kích hoạt theo đúng trình tự, cánh cổng có thể sẽ được mở dần.</String>
+      <String _locID='25390' category='Campaign' scenario='15' subtitle='false'>Scarab Đã Bị Phá Hủy:</String>
+      <String _locID='25391' category='Campaign' scenario='15' subtitle='false'>Chốt Khóa Đã Được Kích Hoạt</String>
+      <String _locID='25392' category='Campaign' scenario='15' subtitle='false'>Khu vực không còn địch</String>
+      <String _locID='25393' category='Campaign' scenario='15' subtitle='false'>Cánh cổng đã được mở</String>
       <String _locID='25394' category='Campaign' subtitle='true' scenario='Tutorial'>Chào mừng đến với hướng dẫn chơi Halo Wars. Bài hướng dẫn này sẽ dạy bạn cách chơi cơ bản và những nút điều khiển để chơi Halo Wars.</String>
       <String _locID='25395' category='Campaign' subtitle='true' scenario='Tutorial'>Cùng bắt đầu với cách điều khiển camera để bạn có thể tìm đường di chuyển xung quanh bản đồ nào.</String>
 	  <String _locID='25396' category='Campaign' subtitle='true' scenario='Tutorial' _mouseKeyboard="26143">Bạn chỉ cần di chuyển $$LS$$ qua hướng mà bạn muốn camera di chuyển. </String>      
