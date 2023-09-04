@@ -117,7 +117,7 @@ BẢNG ID STRING TRONG GAME
       <String _locID='246' category='Code' subtitle='false'>Yêu cầu 6 Monuments</String>
       <String _locID='250' category='Code' subtitle='false'>Yêu Cầu Pháo Phòng Thủ Hạng Nặng.</String>
       <String _locID='251' category='Code' subtitle='false'>----Không có trong bản Alpha.----</String>
-      <String _locID='252' category='Code' subtitle='false'>Yêu cầu nâng cấp lên ODST</String>
+      <String _locID='252' category='Code' subtitle='false'>Yêu cầu nâng cấp Thủy Quân Lục Chiến lên ODST</String>
       <!-- 350 - 399: Circle menu text -->
       <String _locID='350' category='Code' subtitle='false'>GLOBAL RALLY POINT</String>
       <String _locID='351' category='Code' subtitle='false'>All newly trained units will move to this location when training is completed. You can set a Base Rally Point to direct a specific base's units someplace else.</String>
@@ -152,15 +152,15 @@ BẢNG ID STRING TRONG GAME
       <String _locID='403' category='Code' subtitle='false'>Structure Damage</String>
       <String _locID='405' category='Code' subtitle='false'>Defense</String>
       <!-- 500 - 549: Unit roles -->
-      <String _locID='500' category='Code' subtitle='false'>Bộ Binh Chính</String>
-      <String _locID='501' category='Code' subtitle='false'>Phương Tiện Chính</String>
-      <String _locID='502' category='Code' subtitle='false'>Máy Bay Cường Kích Chính</String>
+      <String _locID='500' category='Code' subtitle='false'>Bộ Binh Chủ Lực</String>
+      <String _locID='501' category='Code' subtitle='false'>Phương Tiện Chủ Lực</String>
+      <String _locID='502' category='Code' subtitle='false'>Máy Bay Cường Kích Chủ Lực</String>
       <String _locID='503' category='Code' subtitle='false'>Lực Lượng Chống Bộ Binh</String>
       <String _locID='504' category='Code' subtitle='false'>Lực Lượng Chống Phương Tiện</String>
       <String _locID='505' category='Code' subtitle='false'>Lực Lượng Phòng Không</String>
       <String _locID='506' category='Code' subtitle='false'>Hỗ Trợ Chiến Đấu</String>
       <String _locID='507' category='Code' subtitle='false'>Chuyên Phá Công Trình</String>
-      <String _locID='508' category='Code' subtitle='false'>Uber Unit</String>
+      <String _locID='508' category='Code' subtitle='false'>Đơn Vị Hạng Nặng</String>
       <String _locID='509' category='Code' subtitle='false'>Vận Chuyển Bộ Binh</String>
       <String _locID='510' category='Code' subtitle='false'>Cung Cấp Tài Nguyên</String>
       <String _locID='511' category='Code' subtitle='false'>Huấn Luyện Bộ Binh</String>
@@ -3718,7 +3718,7 @@ BẢNG ID STRING TRONG GAME
       <String _locID='24817' subtitle='false'>FLOOD SPORE CLOUD</String>
       <String _locID='24818' category='Campaign' scenario='2' subtitle='false'>Đưa Thủy Quân Lục Chiến vào chỗ nấp</String>
       <String _locID='24819' category='UI' scenario='Options' subtitle='false'>Custom</String>
-      <String _locID='24820' category='UI' scenario='pregame' subtitle='false'>CHƠI MỚI</String>
+      <String _locID='24820' category='UI' scenario='pregame' subtitle='false'>BẮT ĐẦU CHIẾN DỊCH</String>
       <String _locID='24821' category='UI' scenario='pregame' subtitle='false'>ĐỘ KHÓ</String>
       <String _locID='24822' category='UI' scenario='pregame' subtitle='false'>NHIỆM VỤ</String>
       <String _locID='24823' category='UI' scenario='pregame' subtitle='false'>CO-OP</String>
@@ -3730,7 +3730,7 @@ BẢNG ID STRING TRONG GAME
       <String _locID='24830' category='UI' scenario='SPC_Lose' subtitle='false'>NHIỆM VỤ THẤT BẠI</String>
       <String _locID='24831' category='UI' scenario='SPC_Quit' subtitle='false'>NHIỆM VỤ THẤT BẠI</String>
       <String _locID='24832' category='UI' scenario='UNSC_Win' subtitle='false'>CHIẾN THẮNG</String>
-      <String _locID='24833' category='UI' scenario='UNSC_Lose' subtitle='false'>OUT OF GAME</String>
+      <String _locID='24833' category='UI' scenario='UNSC_Lose' subtitle='false'>BẠN ĐÃ BỊ LOẠI</String>
       <String _locID='24834' category='UI' scenario='UNSC_Quit' subtitle='false'>BẠN ĐÃ ĐẦU HÀNG</String>
       <String _locID='24835' category='UI' scenario='COV_Win' subtitle='false'>CHIẾN THẮNG</String>
       <String _locID='24836' category='UI' scenario='COV_Lose' subtitle='false'>BẠN ĐÃ BỊ LOẠI</String>
@@ -3968,7 +3968,7 @@ BẢNG ID STRING TRONG GAME
       <String _locID='25087' category='Campaign' scenario='15' subtitle='false'>Việc thả Chốt Khóa theo thứ tự cụ thể sẽ mở cánh cổng. Các Nút Bấm chỉ có thể truy cập được khi con người và không có dạng sống nào khác ở gần chúng.</String>
       <String _locID='25088' category='Campaign' scenario='4' subtitle='false'>Là một mạng lưới đường sắt tốc độ cao trên hành tinh, hệ thống xe điện của Arcadia đã bị hư hại nặng nề trong cuộc tấn công Covenant. Các trạm xe điện còn nguyên vẹn đang đóng vai trò là nơi trú ẩn tạm thời để sơ tán người tị nạn.</String>
       <String _locID='25089' category='Campaign' scenario='4' subtitle='false'>Mở Cửa</String>
-      <String _locID='25090' category='Campaign' scenario='15' subtitle='true'>Chúng tôi đã vô hiệu hóa chốt khóa này.</String>
+      <String _locID='25090' category='Campaign' scenario='15' subtitle='true'>Chúng tôi đã kích hoạt chốt khóa này.</String>
       <String _locID='25091' category='Campaign' scenario='15' subtitle='true'>Có một chốt khóa khác đã được kích hoạt.</String>
       <String _locID='25092' category='Campaign' scenario='15' subtitle='true'>Dựa trên nghiên cứu của Anders, công nghệ của người ngoài hành tinh sẽ chỉ phản ứng với con người.</String>
       <String _locID='25093' category='Campaign' scenario='15' subtitle='true'>Bất kỳ sự sống người ngoài hành tinh khác ở gần sẽ khóa hệ thống.</String>
