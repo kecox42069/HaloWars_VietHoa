@@ -25,11 +25,11 @@ BẢNG ID STRING TRONG GAME
       <String _locID='102' category='Code' subtitle='false'>CHỌN</String>
       <String _locID='103' category='Code' subtitle='false'>BỎ CHỌN</String>
       <String _locID='104' category='Code' subtitle='false'>ĐÓNG</String>
-      <String _locID='105' category='Code' subtitle='false'>UNDO</String>
-      <String _locID='110' category='Code' subtitle='false'>TẬP LUYỆN</String>
+      <String _locID='105' category='Code' subtitle='false'>HỦY BỎ</String>
+      <String _locID='110' category='Code' subtitle='false'>HUẤN LUYỆN</String>
       <String _locID='111' category='Code' subtitle='false'>NGHIÊN CỨU</String>
       <String _locID='112' category='Code' subtitle='false'>XÂY</String>
-      <String _locID='113' category='Code' subtitle='false'>FLARE</String>
+      <String _locID='113' category='Code' subtitle='false'>PHÁO SÁNG</String>
       <String _locID='114' category='Code' subtitle='false'>GOTO</String>
       <String _locID='115' category='Code' subtitle='false'>SUB SELECT</String>
       <String _locID='116' category='Code' subtitle='false'>GROUP</String>
@@ -38,7 +38,7 @@ BẢNG ID STRING TRONG GAME
       <String _locID='119' category='Code' subtitle='false'>TÀU HIGH CHARITY</String>
       <String _locID='120' category='Code' subtitle='false'>POWER</String>
       <String _locID='122' category='Code' subtitle='false'>KỸ NĂNG</String>
-      <String _locID='123' category='Code' subtitle='false'>ABILITIES</String>
+      <String _locID='123' category='Code' subtitle='false'>KỸ NĂNG</String>
       <String _locID='124' category='Code' subtitle='false'>GLOBAL SELECT</String>
       <String _locID='125' category='Code' subtitle='false'>CHỌN TẤT CẢ</String>
       <String _locID='126' category='Code' subtitle='false'>CHỌN TẤT CẢ</String>
@@ -54,53 +54,53 @@ BẢNG ID STRING TRONG GAME
       <String _locID='151' category='Code' subtitle='false'>XÓA NHÓM 2</String>
       <String _locID='152' category='Code' subtitle='false'>XÓA NHÓM 3</String>
       <String _locID='153' category='Code' subtitle='false'>XÓA NHÓM 4</String>
-      <String _locID='160' category='Code' subtitle='false'>BASE</String>
-      <String _locID='161' category='Code' subtitle='false'>ALERT</String>
-      <String _locID='162' category='Code' subtitle='false'>NODE</String>
-      <String _locID='163' category='Code' subtitle='false'>SCOUT</String>
-      <String _locID='164' category='Code' subtitle='false'>ARMY</String>
+      <String _locID='160' category='Code' subtitle='false'>CĂN CỨ</String>
+      <String _locID='161' category='Code' subtitle='false'>CẢNH BÁO</String>
+      <String _locID='162' category='Code' subtitle='false'>NÚT BẤM</String>
+      <String _locID='163' category='Code' subtitle='false'>DO THÁM</String>
+      <String _locID='164' category='Code' subtitle='false'>ĐỘI QUÂN</String>
       <String _locID='165' category='Code' subtitle='false'>ĐÃ CHỌN</String>
       <String _locID='166' category='Code' subtitle='false'>HỦY</String>
-      <String _locID='167' category='Code' subtitle='false'>HERO</String>
-      <String _locID='168' category='Code' subtitle='false'>RALLY</String>
-      <String _locID='169' category='Code' subtitle='false'>RALLY</String>
-      <String _locID='170' category='Code' subtitle='false'>GATHER</String>
-      <String _locID='171' category='Code' subtitle='false'>BUILD</String>
-      <String _locID='172' category='Code' subtitle='false'>REPAIR</String>
-      <String _locID='173' category='Code' subtitle='false'>GARRISON</String>
+      <String _locID='167' category='Code' subtitle='false'>THỦ LĨNH</String>
+      <String _locID='168' category='Code' subtitle='false'>ĐIỂM ĐẾN</String>
+      <String _locID='169' category='Code' subtitle='false'>ĐIỂM ĐẾN</String>
+      <String _locID='170' category='Code' subtitle='false'>GẶT HÁI</String>
+      <String _locID='171' category='Code' subtitle='false'>XÂY DỰNG</String>
+      <String _locID='172' category='Code' subtitle='false'>SỬA CHỮA</String>
+      <String _locID='173' category='Code' subtitle='false'>VỊ TRÍ CHIẾM ĐÓNG</String>
       <String _locID='174' category='Code' subtitle='false'>TẤN CÔNG</String>
-      <String _locID='175' category='Code' subtitle='false'>WAYPOINT</String>
+      <String _locID='175' category='Code' subtitle='false'>ĐIỂM ĐẾN</String>
       <String _locID='176' category='Code' subtitle='false'>DI CHUYỂN</String>
       <String _locID='177' category='Code' subtitle='false'>CHỌN BỘ BINH</String>
       <String _locID='178' category='Code' subtitle='false'>AIR</String>
       <String _locID='179' category='Code' subtitle='false'>PHƯƠNG TIỆN</String>
-      <String _locID='180' category='Code' subtitle='false'>STRUCTURE</String>
+      <String _locID='180' category='Code' subtitle='false'>CÔNG TRÌNH</String>
       <String _locID='181' category='Code' subtitle='false'>GOOD VS INFANTRY</String>
       <String _locID='182' category='Code' subtitle='false'>AIR</String>
       <String _locID='183' category='Code' subtitle='false'>PHƯƠNG TIỆN</String>
-      <String _locID='184' category='Code' subtitle='false'>STRUCTURE</String>
-      <String _locID='186' category='Code' subtitle='false'>STRENGTH</String>
-      <String _locID='187' category='Code' subtitle='false'>CAPTURE</String>
-      <String _locID='190' category='Code' subtitle='false'>NEXT</String>
-      <String _locID='191' category='Code' subtitle='false'>PREVIOUS</String>
+      <String _locID='184' category='Code' subtitle='false'>CÔNG TRÌNH</String>
+      <String _locID='186' category='Code' subtitle='false'>SỨC MẠNH</String>
+      <String _locID='187' category='Code' subtitle='false'>CHIẾM</String>
+      <String _locID='190' category='Code' subtitle='false'>TIẾP THEO</String>
+      <String _locID='191' category='Code' subtitle='false'>QUAY VỀ</String>
       <String _locID='192' category='Code' subtitle='false'>TAG</String>
-      <String _locID='193' category='Code' subtitle='false'>GOTO</String>
-      <String _locID='194' category='Code' subtitle='false'>DONE</String>
+      <String _locID='193' category='Code' subtitle='false'>ĐI TỚI</String>
+      <String _locID='194' category='Code' subtitle='false'>XONG</String>
       <String _locID='195' category='Code' subtitle='false'>UNTAG</String>
-      <String _locID='198' category='Code' subtitle='false'>LOOK</String>
-      <String _locID='199' category='Code' subtitle='false'>HELP</String>
+      <String _locID='198' category='Code' subtitle='false'>NHÌN</String>
+      <String _locID='199' category='Code' subtitle='false'>GIÚP</String>
       <String _locID='200' category='Code' subtitle='false'>MEET</String>
-      <String _locID='201' category='Code' subtitle='false'>ATTACK</String>
+      <String _locID='201' category='Code' subtitle='false'>TẤN CÔNG</String>
       <String _locID='202' category='Code' subtitle='false'>HỦY</String>
-      <String _locID='206' category='Code' subtitle='false'>NEXT</String>
-      <String _locID='207' category='Code' subtitle='false'>PREVIOUS</String>
+      <String _locID='206' category='Code' subtitle='false'>TIẾP THEO</String>
+      <String _locID='207' category='Code' subtitle='false'>QUAY VỀ</String>
       <String _locID='208' category='Code' subtitle='false'>ADD</String>
-      <String _locID='209' category='Code' subtitle='false'>GOTO</String>
-      <String _locID='210' category='Code' subtitle='false'>DONE</String>
+      <String _locID='209' category='Code' subtitle='false'>ĐI TỚI</String>
+      <String _locID='210' category='Code' subtitle='false'>XONG</String>
       <String _locID='211' category='Code' subtitle='false'>SQUADS</String>
       <String _locID='212' category='Code' subtitle='false'>TYPES</String>
       <String _locID='213' category='Code' subtitle='false'>ALL</String>
-      <String _locID='214' category='Code' subtitle='false'>INFO</String>
+      <String _locID='214' category='Code' subtitle='false'>THÔNG TIN</String>
       <!-- 230 - 349: Unit prereqs -->
       <String _locID='230' category='Code' subtitle='false'>Không khả dụng trong khi đang xây lại</String>
       <String _locID='231' category='Code' subtitle='false'>Yêu cầu 1 Lò Phản Ứng</String>
@@ -119,27 +119,27 @@ BẢNG ID STRING TRONG GAME
       <String _locID='251' category='Code' subtitle='false'>----Không có trong bản Alpha.----</String>
       <String _locID='252' category='Code' subtitle='false'>Yêu cầu nâng cấp Thủy Quân Lục Chiến lên ODST</String>
       <!-- 350 - 399: Circle menu text -->
-      <String _locID='350' category='Code' subtitle='false'>GLOBAL RALLY POINT</String>
-      <String _locID='351' category='Code' subtitle='false'>All newly trained units will move to this location when training is completed. You can set a Base Rally Point to direct a specific base's units someplace else.</String>
+      <String _locID='350' category='Code' subtitle='false'>ĐIỂM TẬP HỢP (TỔNG)</String>
+      <String _locID='351' category='Code' subtitle='false'>Tất cả các đơn vị mới được huấn luyện sẽ di chuyển đến địa điểm này. Bạn có thể đặt Điểm Tập Hợp (Căn Cứ) để điều hướng các đơn vị của căn cứ cụ thể nào đó di chuyển đến một nơi khác.</String>
       <String _locID='352' category='Code' subtitle='false'>Support Power</String>
       <String _locID='353' category='Code' subtitle='false'>A new support power is available to select</String>
-      <String _locID='354' category='Code' subtitle='false'>Researching by other player</String>
-      <String _locID='355' category='Code' subtitle='false'>Repair</String>
-      <String _locID='356' category='Code' subtitle='false'>Repair or reinforce the selected units</String>
+      <String _locID='354' category='Code' subtitle='false'>Đang được nghiên cứu bởi người chơi khác</String>
+      <String _locID='355' category='Code' subtitle='false'>Sửa chữa</String>
+      <String _locID='356' category='Code' subtitle='false'>Sửa chữa hoặc là tiếp viện đơn vị được chọn</String>
       <String _locID='357' category='Code' subtitle='false'>JAMMED!</String>
-      <String _locID='358' category='Code' subtitle='false'>EJECT</String>
-      <String _locID='359' category='Code' subtitle='false'>Tell any units you have garrisoned in this cover object to get out and return to normal combat mode.</String>
+      <String _locID='358' category='Code' subtitle='false'>RỜI VỊ TRÍ</String>
+      <String _locID='359' category='Code' subtitle='false'>Bảo đơn vị đang chiếm đóng ở vị trí này đi ra ngoài và trở về trạng thái chiến đấu thường.</String>
       <String _locID='360' category='Code' subtitle='false'>LOCK</String>
       <String _locID='361' category='Code' subtitle='false'>Units train as normal, but are garrisoned inside the base instead of exiting into the world. UNLOCK will release all the garrisoned units at once.</String>
       <String _locID='362' category='Code' subtitle='false'>UNLOCK</String>
       <String _locID='363' category='Code' subtitle='false'>Release any garrisoned units and return base training to normal.</String>
-      <String _locID='364' category='Code' subtitle='false'>(unlocked)</String>
-      <String _locID='365' category='Code' subtitle='false'>(locked %1!d!)</String>
+      <String _locID='364' category='Code' subtitle='false'>(đã mở khóa)</String>
+      <String _locID='365' category='Code' subtitle='false'>(đã khóa %1!d!)</String>
       <String _locID='366' category='Code' subtitle='false'>UNLOCK</String>
       <String _locID='367' category='Code' subtitle='false'>
       </String>
-      <String _locID='368' category='Code' subtitle='false'>BASE RALLY POINT</String>
-      <String _locID='369' category='Code' subtitle='false'>New units from this base will move to this location when training is complete. Use the Global Rally Point to override this behavior.</String>
+      <String _locID='368' category='Code' subtitle='false'>ĐIỂM TẬP HỢP (CĂN CỨ)</String>
+      <String _locID='369' category='Code' subtitle='false'>Các đơn vị mới từ căn cứ này sẽ di chuyển đến đây sau khi họ được huấn luyện. Sử dụng Điểm Tập Hợp (Tổng) sẽ ghi đè Điểm Tập Hợp (Căn Cứ).</String>
       <String _locID='370' category='Code' subtitle='false'>TỰ HỦY</String>
       <String _locID='371' category='Code' subtitle='false'>Lập tức phá hủy toàn bộ căn cứ để trao ô xây cho đồng minh.</String>
       <String _locID='372' category='Code' subtitle='false'>HỦY - %1!.f! giây</String>
@@ -276,10 +276,10 @@ BẢNG ID STRING TRONG GAME
       </String>
       <String _locID='1075' category='Techs' subtitle='false'>
       </String>
-      <String _locID='1076' category='Techs' subtitle='false'>PEONS</String>
-      <String _locID='1077' category='Techs' subtitle='false'>Grunt squads have one additional Grunt.</String>
+      <String _locID='1076' category='Techs' subtitle='false'>QUÂN TIẾP VIỆN</String>
+      <String _locID='1077' category='Techs' subtitle='false'>Đội của Grunt sẽ được thêm một Grunt vào đội hình.</String>
       <String _locID='1078' category='Techs' subtitle='false'>NEEDLER</String>
-      <String _locID='1079' category='Techs' subtitle='false'>Grunt squads are now equipped with needlers.</String>
+      <String _locID='1079' category='Techs' subtitle='false'>Đội của Grunt giờ được trang bị Needler.</String>
       <String _locID='1080' category='Techs' subtitle='false'>DEFENSE GAUNTLET</String>
       <String _locID='1081' category='Techs' subtitle='false'>Adds extra shielding to deflect incoming projectiles.</String>
       <String _locID='1082' category='Techs' subtitle='false'>BEAM RIFLE</String>
@@ -292,8 +292,8 @@ BẢNG ID STRING TRONG GAME
       <String _locID='1089' category='Techs' subtitle='false'>Enables the Boosted Ram Ability on Ghosts, allowing them to effectively ram their targets.</String>
       <String _locID='1090' category='Techs' subtitle='false'>STRAFE</String>
       <String _locID='1091' category='Techs' subtitle='false'>Allows Ghosts to more effectively dodge incoming grenades and rockets.</String>
-      <String _locID='1092' category='Techs' subtitle='false'>BOOST</String>
-      <String _locID='1093' category='Techs' subtitle='false'>Enables Speed Boost Ability.</String>
+      <String _locID='1092' category='Techs' subtitle='false'>TĂNG TỐC</String>
+      <String _locID='1093' category='Techs' subtitle='false'>Kích hoạt Kĩ Năng Tăng Tốc.</String>
       <String _locID='1094' category='Techs' subtitle='false'>REPEATING CANNON</String>
       <String _locID='1095' category='Techs' subtitle='false'>Increases the rate of fire for the Banshee's weapons.</String>
       <String _locID='1096' category='Techs' subtitle='false'>Vampire 1</String>
@@ -304,8 +304,8 @@ BẢNG ID STRING TRONG GAME
       <String _locID='1101' category='Techs' subtitle='false'>Adds an energy shield that deflects some incoming damage.</String>
       <String _locID='1102' category='Techs' subtitle='false'>SCORCH ABILITY</String>
       <String _locID='1103' category='Techs' subtitle='false'>Enables the Scorch Ability that superheats an area of terrain for extra damage.</String>
-      <String _locID='1104' category='Techs' subtitle='false'>RESERVES</String>
-      <String _locID='1105' category='Techs' subtitle='false'>Train times for all units are drastically reduced.</String>
+      <String _locID='1104' category='Techs' subtitle='false'>DỰ BỊ</String>
+      <String _locID='1105' category='Techs' subtitle='false'>Thời gian huấn luyện của toàn bộ các đơn vị đã được giảm đáng kể.</String>
       <String _locID='1106' category='Techs' subtitle='false'>
       </String>
       <String _locID='1107' category='Techs' subtitle='false'>
@@ -855,11 +855,11 @@ BẢNG ID STRING TRONG GAME
       <String _locID='6034' category='Abilities' subtitle='false'>UNPACK TURRET</String>
       <!-- ID's   7000 -  7999  reserved for leaders -->
       <String _locID='7000' category='Leaders' subtitle='false'>Thuyền trưởng Cutter</String>
-      <String _locID='7001' category='Leaders' subtitle='false'>Đơn Vị Riêng: ELEPHANT, Kỹ Năng Chỉ Huy: Pháo MAC, Đơn Vị Cao Nhất: ODST, Thưởng Thêm: Tất cả những căn cứ đã xây bắt đầu với cấp độ công nghệ 1.</String>
+      <String _locID='7001' category='Leaders' subtitle='false'>Đơn Vị Riêng: ELEPHANT, Kỹ Năng Thủ Lĩnh: Pháo MAC, Đơn Vị Cao Nhất: ODST, Thưởng Thêm: Tất cả những căn cứ đã xây bắt đầu với cấp độ công nghệ 1.</String>
       <String _locID='7002' category='Leaders' subtitle='false'>Trung sĩ Forge</String>
-      <String _locID='7003' category='Leaders' subtitle='false'>Đơn Vị Riêng: CYCLOPS, Kỹ Năng Chỉ Huy: Bom Rải Thảm, Đơn Vị Cao Nhất: GRIZZLY, Thưởng Thêm: Có thể xây luôn Trạm Cung Cấp Hạng Nặng.</String>
+      <String _locID='7003' category='Leaders' subtitle='false'>Đơn Vị Riêng: CYCLOPS, Kỹ Năng Thủ Lĩnh: Bom Rải Thảm, Đơn Vị Cao Nhất: GRIZZLY, Thưởng Thêm: Có thể xây luôn Trạm Cung Cấp Hạng Nặng.</String>
       <String _locID='7004' category='Leaders' subtitle='false'>Giáo sư Anders</String>
-      <String _locID='7005' category='Leaders' subtitle='false'>Đơn Vị Riêng: GREMLIN, Kỹ Năng Chỉ Huy: Bom Băng, Đơn Vị Cao Nhất: HAWK, Thưởng Thêm: Giá cả và thời gian nghiên cứu cho toàn bộ nâng cấp đơn vị được giảm 50%.</String>
+      <String _locID='7005' category='Leaders' subtitle='false'>Đơn Vị Riêng: GREMLIN, Kỹ Năng Thủ Lĩnh: Bom Băng, Đơn Vị Cao Nhất: HAWK, Thưởng Thêm: Giá cả và thời gian nghiên cứu cho toàn bộ nâng cấp đơn vị được giảm 50%.</String>
       <String _locID='7006' category='Leaders' subtitle='false'>
       </String>
       <String _locID='7007' category='Leaders' subtitle='false'>
@@ -869,11 +869,11 @@ BẢNG ID STRING TRONG GAME
       <String _locID='7009' category='Leaders' subtitle='false'>
       </String>
       <String _locID='7010' category='Leaders' subtitle='false'>Arbiter</String>
-      <String _locID='7011' category='Leaders' subtitle='false'>Đơn Vị Riêng: GRUNT CẢM TỬ, Kỹ Năng Chỉ Huy: Nộ</String>
+      <String _locID='7011' category='Leaders' subtitle='false'>Đơn Vị Riêng: GRUNT CẢM TỬ, Kỹ Năng Thủ Lĩnh: Nộ</String>
       <String _locID='7012' category='Leaders' subtitle='false'>Brute Chieftain</String>
-      <String _locID='7013' category='Leaders' subtitle='false'>Đơn Vị Riêng: BRUTE, BRUTE CHOPPER, Kỹ Năng Chỉ Huy: Lốc Xoáy</String>
+      <String _locID='7013' category='Leaders' subtitle='false'>Đơn Vị Riêng: BRUTE, BRUTE CHOPPER, Kỹ Năng Thủ Lĩnh: Lốc Xoáy</String>
       <String _locID='7014' category='Leaders' subtitle='false'>Prophet of Regret</String>
-      <String _locID='7015' category='Leaders' subtitle='false'>Đơn Vị Riêng: ELITE HỘ TỐNG, Kỹ Năng Chỉ Huy: Càn Quét</String>
+      <String _locID='7015' category='Leaders' subtitle='false'>Đơn Vị Riêng: ELITE HỘ TỐNG, Kỹ Năng Thủ Lĩnh: Càn Quét</String>
       <String _locID='7016' category='Leaders' subtitle='false'>
       </String>
       <String _locID='7017' category='Leaders' subtitle='false'>
@@ -902,8 +902,8 @@ BẢNG ID STRING TRONG GAME
       <String _locID='10005' category='Objects' subtitle='false'>Những đơn vị mới sẽ di chuyển tới vị trí này khi quá trình huấn luyện của họ đã hoàn tất. Điểm Tập Hợp Chung sẽ ghi đè lên Điểm Tập Hợp Căn Cứ.</String>
       <String _locID='10006' category='Objects' subtitle='false'>LÒ PHẢN ỨNG</String>
       <String _locID='10007' category='Objects' subtitle='false'>Lò Phản Ứng của UNSC cung cấp năng lượng cần thiết để xây dựng những cấu trúc, công nghệ tiên tiến hơn và cả việc huấn luyện đơn vị. Các căn cứ công nghệ cao thường có tới 4 hoặc 5 Lò Phản Ứng.</String>
-      <String _locID='10008' category='Objects' subtitle='false'>WAREHOUSE</String>
-      <String _locID='10009' category='Objects' subtitle='false'>The Covenant Warehouse produces the resources needed to train units, build buildings, and buy technology upgrades. Bases that have great economic production might have 6 Warehouses.</String>
+      <String _locID='10008' category='Objects' subtitle='false'>KHO TÀI NGUYÊN</String>
+      <String _locID='10009' category='Objects' subtitle='false'>Kho Tài Nguyên của Covenant là nơi cung cấp các nguồn lực cần thiết để đào tạo các đơn vị, xây dựng công trình, và để mua những nâng cấp về mặt công nghệ. Các căn cứ có sản lượng kinh tế lớn thường có tới 6 Kho Tài Nguyên.</String>
       <String _locID='10010' category='Objects' subtitle='false'>TRẠM CUNG CẤP</String>
       <String _locID='10011' category='Objects' subtitle='false'>Trạm Cung Cấp của UNSC là nơi cung cấp các nguồn lực cần thiết để đào tạo các đơn vị, xây dựng công trình, và để mua những nâng cấp về mặt công nghệ. Các căn cứ có sản lượng kinh tế lớn thường có tới 6 Trạm Cung Cấp.</String>
       <String _locID='10012' category='Objects' subtitle='false'>TRẠM CUNG CẤP HẠNG NẶNG</String>
@@ -1509,14 +1509,14 @@ BẢNG ID STRING TRONG GAME
       <String _locID='22555' category='UI' subtitle='false'>Combat Grade</String>
       <String _locID='22568' category='Campaign' scenario='13' subtitle='true'>Trung sĩ, chúng ta cần ngăn chặn đám Covenant...</String>
       <String _locID='22569' category='Campaign' scenario='13' subtitle='true'>John, Tôi... tôi nghĩ là tôi biết cách chống lại đám Covenant! Tôi cần quay lại phòng nghiên cứu!</String>
-      <String _locID='22570' category='Campaign' scenario='13' subtitle='true'>Từ từ thôi, tiến sĩ. Cố gắng không chết trước đã.</String>
+      <String _locID='22570' category='Campaign' scenario='13' subtitle='true'>Từ từ thôi, giáo sư. Cố gắng không chết trước đã.</String>
       <String _locID='22571' category='Campaign' scenario='13' subtitle='true'>Pelican đang tới vị trí của hai người.</String>
       <String _locID='22572' category='Campaign' scenario='13' subtitle='true'>Cuối cùng! Trung sĩ, tôi cần anh ở lại dưới này và chiếm đóng khu vực này.</String>
       <String _locID='22573' category='Campaign' scenario='13' subtitle='true'>Chà, cô biết gì không? Tôi rất giỏi việc chiếm đóng đấy.</String>
       <String _locID='22574' category='Campaign' scenario='13' subtitle='true'>Cần giúp đỡ không?</String>
       <String _locID='22575' category='Campaign' scenario='13' subtitle='true'>Tỏa sáng nào!</String>
       <String _locID='22576' category='Campaign' scenario='13' subtitle='true'>Chà, nhìn kìa. Đám Covenant bỏ con Scarab đó. Tôi tò mò liệu chúng có để lại chìa khóa trong đó không?</String>
-      <String _locID='22577' category='Campaign' scenario='13' subtitle='true'>(xưng hô) biết mà, chúng thật sự không nên vứt bừa bãi vũ khí của chúng như này.</String>
+      <String _locID='22577' category='Campaign' scenario='13' subtitle='true'>Nói thật chứ chúng không nên vứt bừa bãi vũ khí của chúng như này.</String>
       <String _locID='22578' category='Campaign' scenario='13' subtitle='false'>17</String>
       <String _locID='22579' category='Campaign' subtitle='false'>Help text stand-in for Mega Turret.</String>
       <String _locID='22591' category='Campaign' scenario='15' subtitle='false'>Giữ chân đám Flood cho đến khi lính của bạn có thể rút lui.</String>
@@ -1732,7 +1732,7 @@ BẢNG ID STRING TRONG GAME
       </String>
       <String _locID='22854' category='Campaign' scenario='' subtitle='false'>
       </String>
-      <String _locID='22855' category='Campaign' scenario='13' subtitle='true'>Chết tiệt. Tôi không đến tận đây chỉ để lạc mất tiến sĩ.</String>
+      <String _locID='22855' category='Campaign' scenario='13' subtitle='true'>Chết tiệt. Tôi không đến tận đây chỉ để lạc mất giáo sư.</String>
       <String _locID='22856' category='Campaign' scenario='13' subtitle='true'>Đứng dậy và chiến đấu nào!</String>
       <String _locID='22857' category='Campaign' scenario='13' subtitle='true'>Thuyền trưởng, khu vực này đã bị chiếm đóng. Anders đã bàn tán xong chưa?</String>
       <String _locID='22858' category='Campaign' scenario='13' subtitle='true'>Giáo sư cung cấp thông tin cho tôi rồi. Làm tốt lắm, trung sĩ. Hãy chuẩn bị cho nhiệm vụ tiếp theo.</String>
@@ -2764,7 +2764,7 @@ BẢNG ID STRING TRONG GAME
       <String _locID='23805' category='Skirmish' scenario='Hint Chat' subtitle='false' _mouseKeyboard="26649">Move the CROSSHAIR toward your base.</String>
       <String _locID='23806' category='Skirmish' scenario='Hint Chat' subtitle='false'>Good. A base is a collection of buildings. It starts with the Command Center...</String>
       <String _locID='23807' category='Skirmish' scenario='Hint Chat' subtitle='false'>...and several building sites.</String>
-      <String _locID='23808' category='Skirmish' scenario='Hint Chat' subtitle='false'>To construct your first building, press $$A$$ at the building site indicated.</String>
+      <String _locID='23808' category='Skirmish' scenario='Hint Chat' subtitle='false'>Để xây dựng công trình đầu tiên của bạn, hãy nhấn $$A$$ vào ô xây công trình đã được đánh dấu.</String>
       <String _locID='23809' category='Skirmish' scenario='Hint Chat' subtitle='false' _mouseKeyboard="26222">Selecting any building site brings up the BUILDING MENU. Use the LEFT STICK $$LS$$ to highlight the Supply Pad.</String>
       <String _locID='23810' category='Skirmish' scenario='Hint Chat' subtitle='false'>That's it! Press $$A$$ while the Supply Pad is highlighted to begin construction.</String>
       <String _locID='23811' category='Skirmish' scenario='Hint Chat' subtitle='false'>Good. Unlike Crates, Supply Pads provide a steady stream of resources.</String>
@@ -2846,7 +2846,7 @@ BẢNG ID STRING TRONG GAME
       <String _locID='23887' category='Skirmish' scenario='Hint Chat' subtitle='false'>There are some enemy Marines over there. Follow the OBJECTIVE ARROW and send your Marines in to attack!</String>
       <String _locID='23888' category='Skirmish' scenario='Hint Chat' subtitle='false'>Great work!</String>
       <String _locID='23889' category='Skirmish' scenario='Hint Chat' subtitle='false'>The Hornet is your primary aircraft. It is quick and good against many things.</String>
-      <String _locID='23890' category='' scenario='Hint Display' subtitle='false' _mouseKeyboard="26228">Press $$A$$ to select</String>
+      <String _locID='23890' category='' scenario='Hint Display' subtitle='false' _mouseKeyboard="26228">Nhấn $$A$$ để chọn</String>
       <String _locID='23891' category='Skirmish' scenario='Hint Chat' subtitle='false'>The Vulture is awesome. It flies, does a ton of damage and has the Barrage ability. With only Vultures selected, press $$Y$$ on an enemy to ruin their day.</String>
       <String _locID='23892' category='Skirmish' scenario='Hint Chat' subtitle='false'>Flame Marines are fast and short ranged and will incinerate any infantry they attack.</String>
       <String _locID='23893' category='Skirmish' scenario='Hint Chat' subtitle='false'>The ODST is a Fleet upgrade to the Marines. They work just like Marines - only better.</String>
@@ -3105,9 +3105,9 @@ BẢNG ID STRING TRONG GAME
       <String _locID='24173' category='Techs' subtitle='false'>Suicide Grunts are faster in Suicide Mode.</String>
       <String _locID='24174' category='Techs' subtitle='false'>DEFILE</String>
       <String _locID='24175' category='Techs' subtitle='false'>The Suicide Grunt's explosion splashes enemies with burning chemicals.</String>
-      <String _locID='24176' category='UI' scenario='Party Room' subtitle='false'>LÀM MỚI</String>
-      <String _locID='24177' category='Objects' subtitle='false'>BLESSED WAREHOUSE</String>
-      <String _locID='24178' category='Objects' subtitle='false'>The Blessed Warehouse produces extra resources (compared to the default Warehouse) needed to train units, build buildings, and buy technology upgrades.  Bases that have great resource production might have 6 Supply Pads.</String>
+      <String _locID='24176' category='UI' scenario='Party Room' subtitle='false'>TÌM LẠI</String>
+      <String _locID='24177' category='Objects' subtitle='false'>KHO TÀI NGUYÊN ĐƯỢC BAN PHƯỚC</String>
+      <String _locID='24178' category='Objects' subtitle='false'>Kho Tài Nguyên Được Ban Phước cung cấp nhiều tài nguyên hơn Kho Tài Nguyên thường, giúp đẩy nhanh quá trình đào tạo các đơn vị, xây dựng công trình, và để mua những nâng cấp về mặt công nghệ. Các căn cứ có sản lượng kinh tế lớn thường có tới 6 Kho Tài Nguyên.</String>
       <String _locID='24188' category='Campaign' scenario='2' subtitle='false'>Tùy ý: Phá hủy máy lọc khí Methan của Covenant</String>
       <String _locID='24190' category='Campaign' scenario='6' subtitle='true'>Trạm Chỉ Huy Mặt Đất Harvest, đây là Pillar of Autumn - Yêu cầu cung cấp Rhino Plasma đã được chấp thuận. Rhino đang tới.</String>
       <String _locID='24191' category='Campaign' scenario='6' subtitle='true'>Đã nhận được yêu cầu cung cấp thêm Rhino Plasma, nó đang tới.</String>
@@ -3143,12 +3143,12 @@ BẢNG ID STRING TRONG GAME
       <String _locID='24236' category='Abilities' subtitle='false'>Take Command</String>
       <String _locID='24237' category='Abilities' subtitle='false'>Spartan commandeers vehicle</String>
       <String _locID='24238' category='Campaign' scenario='2' subtitle='false'>Phá hủy Ngòi Nổ</String>
-      <String _locID='24239' category='Techs' subtitle='false'>AGE OF CONFLICT</String>
-      <String _locID='24240' category='Techs' subtitle='false'>Improves all Covenant technology.</String>
-      <String _locID='24241' category='Techs' subtitle='false'>AGE OF DOUBT</String>
-      <String _locID='24242' category='Techs' subtitle='false'>Improves all Covenant technology.</String>
-      <String _locID='24243' category='Techs' subtitle='false'>AGE OF RECLAMATION</String>
-      <String _locID='24244' category='Techs' subtitle='false'>Improves all Covenant technology.</String>
+      <String _locID='24239' category='Techs' subtitle='false'>THỜI KỲ XUNG ĐỘT</String>
+      <String _locID='24240' category='Techs' subtitle='false'>Nâng cấp trình độ công nghệ của Covenant.</String>
+      <String _locID='24241' category='Techs' subtitle='false'>THỜI KỲ PHÁT TRIỂN</String>
+      <String _locID='24242' category='Techs' subtitle='false'>Nâng cấp trình độ công nghệ của Covenant.</String>
+      <String _locID='24243' category='Techs' subtitle='false'>THỜI KỲ KHAI PHÁ</String>
+      <String _locID='24244' category='Techs' subtitle='false'>Nâng cấp trình độ công nghệ của Covenant.</String>
       <String _locID='24245' category='UI' subtitle='false'>Design test mode</String>
       <String _locID='24246' category='UI' subtitle='false'>
       </String>
@@ -3179,7 +3179,7 @@ BẢNG ID STRING TRONG GAME
       <String _locID='24279' subtitle='false'>"Hard as nails" Sergeant in the UNSC. Prefers the Shotgun over other hi-tech weapons and can fire it extremely fast for his special attack.</String>
       <String _locID='24280' category='Campaign' scenario='2' subtitle='true'>Anh sẽ cần Thủy Quân Lục Chiến để phá hủy lá chắn đó. Đội hỗ trợ đang tới.</String>
       <String _locID='24281' scenario='Hint Display' subtitle='false'>Hint Display E</String>
-      <String _locID='24282' scenario='Hint Display' subtitle='false' _mouseKeyboard="26244">Press $$A$$ to select</String>
+      <String _locID='24282' scenario='Hint Display' subtitle='false' _mouseKeyboard="26244">Nhấn $$A$$ để chọn</String>
       <String _locID='24283' scenario='Hint Display' subtitle='false'>Sử dụng $$LS$$ để chọn</String>
       <String _locID='24284' scenario='Hint Display' subtitle='false'>Hint Display H</String>
       <String _locID='24285' scenario='Hint Display' subtitle='false'>Hint Display I</String>
@@ -3228,7 +3228,7 @@ BẢNG ID STRING TRONG GAME
       <String _locID='24328' category='Campaign' scenario='6' subtitle='true'>Pháo MAC đang được kích hoạt, hiện chỉ khả dụng một cây pháo duy nhất.</String>
       <String _locID='24329' category='Campaign' scenario='6' subtitle='true'>Pháo MAC đã được kích hoạt, đạn đã được nạp. Tôi sẽ phá hủy những cấu trúc còn lại.</String>
       <String _locID='24330' category='Campaign' scenario='6' subtitle='true'>Làm tốt lắm! Cùng xuống đó và xem đám Covenant tìm được gì thú vị nào.</String>
-      <String _locID='24331' category='Campaign' scenario='3' subtitle='true'>Trung sĩ, chúng tôi đang tấn công bọn chúng! Đưa tiến sĩ ra khỏi đây đi!</String>
+      <String _locID='24331' category='Campaign' scenario='3' subtitle='true'>Trung sĩ, chúng tôi đang tấn công bọn chúng! Đưa giáo sư ra khỏi đây đi!</String>
       <String _locID='24332' category='Campaign' scenario='3' subtitle='true'>Mong là dữ liệu đó đáng để lấy, trung sĩ - chúng ta đang phải trả cái giá lớn đấy!</String>
       <String _locID='24333' category='Campaign' scenario='3' subtitle='true'>Chúng tôi sẽ yểm trợ anh, trung sĩ!</String>
       <String _locID='24334' category='Objects' subtitle='false'>REBEL FLAK TURRET</String>
@@ -3489,10 +3489,10 @@ BẢNG ID STRING TRONG GAME
       <String _locID='24565' category='Campaign' scenario='11' subtitle='true'>Trường năng lượng đang tác động vào đám người ngoài hành tinh - nó đang cố gắng phá hủy thân tàu của chúng ta. Hãy nhớ kiếm chỗ nấp ở ngoài đó! </String>
       <String _locID='24566' category='Objects' subtitle='false'>SHIELD</String>
       <String _locID='24567' category='Objects' subtitle='false'>Shield description</String>
-      <String _locID='24569' category='UI' scenario='Options' subtitle='false'>A.I. Advisor</String>
-      <String _locID='24570' category='UI' scenario='Options' subtitle='false'>Toggles the A.I. Advisor for Skirmish games.  The A.I. Advisor will offer helpful suggestions and hints during Skirmish games.</String>
-      <String _locID='24571' category='UI' scenario='Options' subtitle='false'>Default Skirmish A.I. Difficulty</String>
-      <String _locID='24572' category='UI' scenario='Options' subtitle='false'>Set the difficulty of A.I. opponents for new Skirmish games. Automatic will adjust the quality of the A.I. opponents, between games, to match your evolving skills.</String>
+      <String _locID='24569' category='UI' scenario='Options' subtitle='false'>A.I Cố Vấn</String>
+      <String _locID='24570' category='UI' scenario='Options' subtitle='false'>Chọn bật hoặc tắt Cố Vấn A.I trong chế độ Đụng Độ.  Cố Vấn A.I sẽ cung cấp cho bạn những lời khuyên hữu ích và gợi ý trong khi chơi chế độ Đụng Độ.</String>
+      <String _locID='24571' category='UI' scenario='Options' subtitle='false'>Độ Khó Mặc Định Của Máy Trong Chế Độ Đụng Độ</String>
+      <String _locID='24572' category='UI' scenario='Options' subtitle='false'>Thiết lập độ khó mặc định dành cho người chơi máy trong chế độ Đụng Độ. Tự Động sẽ chỉnh độ khó của máy sao cho phù hợp với kỹ năng chơi của bạn.</String>
       <String _locID='24573' category='UI' scenario='Options' subtitle='false'>DỄ</String>
       <String _locID='24574' category='UI' scenario='Options' subtitle='false'>BÌNH THƯỜNG</String>
       <String _locID='24575' category='UI' scenario='Options' subtitle='false'>HÀO HÙNG</String>
@@ -3508,9 +3508,9 @@ BẢNG ID STRING TRONG GAME
       <String _locID='24585' category='UI' scenario='Options' subtitle='false'>Xoay Camera</String>
       <String _locID='24586' category='UI' scenario='Options' subtitle='false'>Invert X Axis</String>
       <String _locID='24587' category='UI' scenario='Options' subtitle='false'>Invert Y Axis</String>
-      <String _locID='24588' category='UI' scenario='Options' subtitle='false'>Default Zoom</String>
-      <String _locID='24589' category='UI' scenario='Options' subtitle='false'>Min</String>
-      <String _locID='24590' category='UI' scenario='Options' subtitle='false'>Max</String>
+      <String _locID='24588' category='UI' scenario='Options' subtitle='false'>Độ Xa Mặc Định Của Camera</String>
+      <String _locID='24589' category='UI' scenario='Options' subtitle='false'>Thấp</String>
+      <String _locID='24590' category='UI' scenario='Options' subtitle='false'>Cao</String>
       <String _locID='24591' category='UI' scenario='Options' subtitle='false' _mouseKeyboard="26656">Crosshair Stickiness</String>
       <String _locID='24592' category='UI' scenario='Options' subtitle='false'>Off</String>
       <String _locID='24593' category='UI' scenario='Options' subtitle='false'>Very Sticky</String>
@@ -3527,8 +3527,8 @@ BẢNG ID STRING TRONG GAME
       <String _locID='24604' category='UI' scenario='Options' subtitle='false'>Âm Lượng Lời Thoại</String>
       <String _locID='24605' category='UI' scenario='Options' subtitle='false'>Phụ Đề - Phim Cắt Cảnh</String>
       <String _locID='24606' category='UI' scenario='Options' subtitle='false'>Độ Sáng</String>
-      <String _locID='24607' category='UI' scenario='Options' subtitle='false'>Friend or Foe Colors</String>
-      <String _locID='24608' category='UI' scenario='Options' subtitle='false'>Zoom Minimap</String>
+      <String _locID='24607' category='UI' scenario='Options' subtitle='false'>Hiển Thị Màu Của Đội</String>
+      <String _locID='24608' category='UI' scenario='Options' subtitle='false'>Phóng To Bản Đồ</String>
       <String _locID='24609' category='UI' scenario='Options' subtitle='false'>TRÒ CHƠI</String>
       <String _locID='24610' category='UI' scenario='Options' subtitle='false'>ĐIỀU KHIỂN</String>
       <String _locID='24611' category='UI' scenario='Options' subtitle='false'>ÂM THANH</String>
@@ -3544,13 +3544,13 @@ BẢNG ID STRING TRONG GAME
       <String _locID='24621' category='UI' scenario='Options' subtitle='false' _mouseKeyboard="26247">The camera will follow the unit under the crosshair. Move the left stick to stop the camera from following the targeted unit.</String>
       <String _locID='24622' category='UI' scenario='Options' subtitle='false'>Show Hints description...</String>
       <String _locID='24623' category='UI' scenario='Options' subtitle='false'>Selection Speed description...</String>
-      <String _locID='24624' category='UI' scenario='Options' subtitle='false'>Adjust the volume for music.</String>
-      <String _locID='24625' category='UI' scenario='Options' subtitle='false'>Adjust the volume for sound effects.</String>
-      <String _locID='24626' category='UI' scenario='Options' subtitle='false'>Adjust the volume for voiced dialogue.</String>
-      <String _locID='24627' category='UI' scenario='Options' subtitle='false'>Turns on subtitles for all cinematic dialogue.</String>
+      <String _locID='24624' category='UI' scenario='Options' subtitle='false'>Tùy chỉnh âm lượng nhạc.</String>
+      <String _locID='24625' category='UI' scenario='Options' subtitle='false'>Tùy chỉnh âm lượng hiệu ứng.</String>
+      <String _locID='24626' category='UI' scenario='Options' subtitle='false'>Tùy chỉnh âm lượng lời thoại.</String>
+      <String _locID='24627' category='UI' scenario='Options' subtitle='false'>Tùy chỉnh bật hoặc tắt phụ đề cho toàn bộ lời thoại của những đoạn phim cắt cảnh (cutscenes).</String>
       <String _locID='24628' category='UI' scenario='Options' subtitle='false'>Tùy chỉnh độ sáng của trò chơi.</String>
-      <String _locID='24629' category='UI' scenario='Options' subtitle='false'>Use Friend or Foe (team) colors instead of individual player colors.</String>
-      <String _locID='24630' category='UI' scenario='Options' subtitle='false'>Enable a closer view on the minimap, allowing you to see more detail at the expense of scope.</String>
+      <String _locID='24629' category='UI' scenario='Options' subtitle='false'>Hiển thị màu của phe bạn đang chơi thay vì màu của từng người chơi.</String>
+      <String _locID='24630' category='UI' scenario='Options' subtitle='false'>Cho phép phóng to hơn trong minimap, giúp bạn xem chi tiết hơn những gì xảy ra trên minimap.</String>
       <String _locID='24632' category='Squads' subtitle='false'>FORERUNNER ENFORCER</String>
       <String _locID='24633' category='Squads' subtitle='false'>ENFORCER</String>
       <String _locID='24634' category='Squads' subtitle='false'>INFECTED GRUNTS</String>
@@ -3837,7 +3837,7 @@ BẢNG ID STRING TRONG GAME
       <String _locID='24950' category='Objects' subtitle='false'>DOOR INTERLOCK</String>
       <String _locID='24951' category='UI' scenario='Pregame' subtitle='false'>SỐ ĐIỂM</String>
       <String _locID='24952' category='Campaign' scenario='2' subtitle='false'>Xây một Doanh trại</String>
-      <String _locID='24953' category='Skirmish' scenario='Tutorial' subtitle='false'>Nhấn $$X$$ để gặt hái những thùng hàng.</String>
+      <String _locID='24953' category='Skirmish' scenario='Tutorial' subtitle='false'>Nhấn $$X$$ để gặt hái tài nguyên từ hòm tiếp tế.</String>
       <String _locID='24954' category='Campaign' scenario='2' subtitle='false'>Xây một Trạm Cung Cấp</String>
       <String _locID='24955' category='Campaign' scenario='9' subtitle='true'>Trung sĩ Forge, tập hợp với đội Đỏ và rồi tìm Anders, nhưng hãy cẩn thận - chúng ta không biết những thứ này có khả năng gì đâu.</String>
       <String _locID='24956' category='Cinematics' subtitle='false'>Captain Cutter reflects on the events that bring Spirit of Fire to Harvest. Sergeant Forge reports that the Covenant are still on the planet surface.</String>
@@ -3907,7 +3907,7 @@ BẢNG ID STRING TRONG GAME
       <String _locID='25023' category='UI' subtitle='false'>$$A$$ Drop ODST&lt;br&gt;$$B$$ CANCEL&lt;br&gt;Drops Remaining: %1!d!</String>
       <String _locID='25024' category='Skirmish' scenario='Tutorial' subtitle='false'>Học Cách Sử Dụng Kỹ Năng Càn Quét</String>
       <String _locID='25025' category='Skirmish' scenario='Tutorial' subtitle='false'>Học Cách Nâng Cấp Đồ của Covenant</String>
-      <String _locID='25026' category='Skirmish' scenario='Tutorial' subtitle='false'>Learn Hot Dropping</String>
+      <String _locID='25026' category='Skirmish' scenario='Tutorial' subtitle='false'>Học Cách Dịch Chuyển Đội Quân</String>
       <String _locID='25029' category='Campaign' subtitle='false'>Tàu Spirit of Fire</String>
       <String _locID='25030' subtitle='false'>Insert Text Here</String>
       <String _locID='25031' category='Campaign' scenario='2' subtitle='true'>Có vẻ không được như kế hoạch nhỉ. Hãy quay về căn cứ và huấn luyện bộ binh mạnh mẽ hơn.</String>
@@ -4089,7 +4089,7 @@ BẢNG ID STRING TRONG GAME
       <String _locID='25220' category='Skirmish' scenario='Tutorial' subtitle='false'>Số nhiệm vụ sử dụng camera đã hoàn thành</String>
       <String _locID='25221' category='Skirmish' scenario='Tutorial' subtitle='false'>Số nhiệm vụ chọn đơn vị đã hoàn thành</String>
       <String _locID='25222' category='Skirmish' scenario='Tutorial' subtitle='false'>Số nhiệm vụ di chuyển đã hoàn thành</String>
-      <String _locID='25223' category='Skirmish' scenario='Tutorial' subtitle='false'>Thùng hàng đã gặt hái được</String>
+      <String _locID='25223' category='Skirmish' scenario='Tutorial' subtitle='false'>Hòm tiếp tế đã gặt hái được</String>
       <String _locID='25224' category='Skirmish' scenario='Tutorial' subtitle='false'>Số công trình đã xây dựng</String>
       <String _locID='25225' category='Skirmish' scenario='Tutorial' subtitle='false'>Số thủy quân lục chiến đã được huấn luyện</String>
       <String _locID='25226' category='Skirmish' scenario='Tutorial' subtitle='false'>Nhiệm vụ nâng cấp đã hoàn thành</String>
@@ -4097,10 +4097,10 @@ BẢNG ID STRING TRONG GAME
       <String _locID='25228' category='Skirmish' scenario='Tutorial' subtitle='false'>Số Wraith đã bị giết</String>
       <String _locID='25229' category='Skirmish' scenario='Tutorial' subtitle='false'>Nguồn năng lượng của khiên đã bị phá hủy</String>
       <String _locID='25230' category='Skirmish' scenario='Tutorial' subtitle='false'>Số nhiệm vụ nâng cấp đã hoàn thành</String>
-      <String _locID='25231' category='Skirmish' scenario='Tutorial' subtitle='false'>Locusts hot dropped</String>
+      <String _locID='25231' category='Skirmish' scenario='Tutorial' subtitle='false'>Số Locust đã được dịch chuyển</String>
       <String _locID='25232' category='Skirmish' scenario='Tutorial' subtitle='false'>Ấn $$X$$ để tấn công</String>
       <String _locID='25233' category='Skirmish' scenario='Tutorial' subtitle='false'>Ấn $$Y$$ để sử dụng kỹ năng Càn Quét</String>
-      <String _locID='25234' category='Skirmish' scenario='Tutorial' subtitle='false'>Ấn $$X$$ to use Hot Drop Pad</String>
+      <String _locID='25234' category='Skirmish' scenario='Tutorial' subtitle='false'>Ấn $$X$$ để sử dụng Bệ Dịch Chuyển</String>
       <String _locID='25235' category='Campaign' scenario='10' subtitle='false'>Bầy Đàn Flood Đã Bị Giết:</String>
       <String _locID='25236' category='Campaign' scenario='10' subtitle='false'>Đội Alpha An Toàn</String>
       <String _locID='25237' category='Campaign' scenario='10' subtitle='false'>Đội Bravo An Toàn</String>
@@ -4304,31 +4304,31 @@ BẢNG ID STRING TRONG GAME
       <String _locID='25448' category='Campaign' scenario='Tutorial' subtitle='true'>Làm tốt lắm!</String>
       <String _locID='25449' category='UI' subtitle='false'>Are you sure you want to quit? Your current progress will be saved.</String>
       <String _locID='25450' category='UI' subtitle='false'>There was a problem servicing your request through Xbox Live. Please check your network connection and try again.</String>
-      <String _locID='25451' category='UI' subtitle='false'>SAVE AND QUIT</String>
+      <String _locID='25451' category='UI' subtitle='false'>LƯU VÀ THOÁT</String>
       <String _locID='25453' category='UI' subtitle='false'>(%1!d! Người chơi)</String>
-      <String _locID='25454' category='UI' subtitle='false'>(Low population)</String>
-      <String _locID='25455' category='UI' subtitle='false'>Matchmaking starting in %1!d!...</String>
-      <String _locID='25456' category='UI' subtitle='false'>Matchmaking starting...</String>
-      <String _locID='25457' category='UI' subtitle='false'>Syncing search data %1!d!...</String>
-      <String _locID='25458' category='UI' subtitle='false'>Fast scan found %1!d!/%2!d! targets...</String>
-      <String _locID='25459' category='UI' subtitle='false'>Fast searching for games...</String>
-      <String _locID='25460' category='UI' subtitle='false'>Scan found %1!d!/%2!d! targets...</String>
+      <String _locID='25454' category='UI' subtitle='false'>(Ít ngươi chơi)</String>
+      <String _locID='25455' category='UI' subtitle='false'>Bắt đầu tìm trận sau %1!d!...</String>
+      <String _locID='25456' category='UI' subtitle='false'>Đang bắt đầu tìm trận...</String>
+      <String _locID='25457' category='UI' subtitle='false'>Đang đồng bộ dữ liệu tìm kiếm %1!d!...</String>
+      <String _locID='25458' category='UI' subtitle='false'>Đã tìm nhanh được %1!d!/%2!d! mục tiêu...</String>
+      <String _locID='25459' category='UI' subtitle='false'>Đang tìm nhanh trận đấu...</String>
+      <String _locID='25460' category='UI' subtitle='false'>Đã tìm được %1!d!/%2!d! mục tiêu...</String>
       <String _locID='25461' category='UI' subtitle='false'>Đang tìm trận đấu...</String>
       <String _locID='25462' category='UI' subtitle='false'>Đang tham gia...</String>
       <String _locID='25463' category='UI' subtitle='false'>Đang đợi người chơi khác...</String>
       <String _locID='25464' category='Campaign' scenario='10' subtitle='true'>Đúng lúc thật! Tôi sẽ không quên chuyện này!</String>
-      <String _locID='25465' category='UI' subtitle='false'>AI Player</String>
-      <String _locID='25466' category='UI' subtitle='false'>Found player</String>
-      <String _locID='25467' category='UI' subtitle='false'>Searching for player</String>
+      <String _locID='25465' category='UI' subtitle='false'>Người Chơi Máy</String>
+      <String _locID='25466' category='UI' subtitle='false'>Đã tìm được người chơi</String>
+      <String _locID='25467' category='UI' subtitle='false'>Đang tìm thêm người chơi</String>
       <String _locID='25468' category='Skirmish' scenario='Tutorial' subtitle='false'>Bấm $$Y$$ để sử dụng kỹ năng Đâm</String>
       <String _locID='25469' category='Campaign' scenario='Tutorial' subtitle='true'>Chào mừng đến với hướng dẫn nâng cao của Halo Wars. Chúng tôi sẽ cho bạn khám phá thêm những tính năng giúp bạn nâng cao cách chơi Halo Wars.</String>
       <String _locID='25470' category='Campaign' scenario='Tutorial' subtitle='true'>Chọn chiếc Warthog, và rồi đi theo mũi tên màu xanh để tới mục tiêu đầu tiên.</String>
       <String _locID='25471' category='Campaign' scenario='Tutorial' subtitle='true'>Tốt! Cùng bắt đầu với kỹ năng "Đâm" của Warthog nào.</String>
       <String _locID='25472' category='Campaign' scenario='Tutorial' subtitle='true'>Tốt! Cứ tiếp tục đi theo mũi tên và đâm mục tiêu tiếp theo. </String>
       <String _locID='25473' category='Campaign' scenario='Tutorial' subtitle='true'>Trong Halo Wars, bạn sẽ cần tài nguyên để mua và nâng cấp rất nhiều thứ.</String>
-      <String _locID='25474' category='Campaign' scenario='Tutorial' subtitle='true'>Có vài cách để có thêm tài nguyên. Cách đầu tiên bạn sẽ được học đó là gặt hái tài nguyên từ thùng hàng.</String>
+      <String _locID='25474' category='Campaign' scenario='Tutorial' subtitle='true'>Có vài cách để có thêm tài nguyên. Cách đầu tiên bạn sẽ được học đó là gặt hái tài nguyên từ hòm tiếp tế.</String>
       <String _locID='25475' category='Campaign' scenario='Tutorial' subtitle='true'>Đi theo mũi tên để tới vị trí tiếp theo.</String>
-      <String _locID='25476' category='Campaign' scenario='Tutorial' subtitle='true'>Gặt hái từ thùng hàng sẽ tăng số tài nguyên của bạn.</String>
+      <String _locID='25476' category='Campaign' scenario='Tutorial' subtitle='true'>Gặt hái từ hòm tiếp tế sẽ tăng số tài nguyên của bạn.</String>
       <String _locID='25477' category='Campaign' scenario='Tutorial' subtitle='true'>Số lượng tài nguyên bạn có được hiện ở góc trên bên phải, gần biểu tượng hình vuông nhỏ.</String>
       <String _locID='25478' category='Campaign' scenario='Tutorial' subtitle='true' _mouseKeyboard="26661">Okay - cùng gặt hái những chiếc thùng này nào. Bạn chỉ cần đưa tâm ngắm vào chúng và rồi ấn $$X$$.</String>
       <String _locID='25479' category='Campaign' scenario='Tutorial' subtitle='true'>Tốt! Giờ thì chúng ta đã có một chút tài nguyên, chúng ta có thể bắt đầu xây vài thứ ở căn cứ.</String>
@@ -4337,7 +4337,7 @@ BẢNG ID STRING TRONG GAME
       <String _locID='25482' category='Campaign' scenario='Tutorial' subtitle='true' _mouseKeyboard="26146">Sử dụng $$LS$$, giữ và di chuyển vào Trạm Cung Cấp đang được đánh dấu, và rồi nhấn $$A$$ để bắt đầu xây nó.</String>
       <String _locID='25483' category='Campaign' scenario='Tutorial' subtitle='true'>Trạm Cung Cấp cũng là cách để có thêm tài nguyên.</String>
       <String _locID='25484' category='Campaign' scenario='Tutorial' subtitle='true'>Cứ tiếp tục xây thêm Trạm Cung Cấp để tài nguyên của bạn có thể tăng lên một cách ổn định nhất .</String>
-      <String _locID='25485' category='Campaign' scenario='Tutorial' subtitle='true'>Giờ thì tài nguyên của bạn đang được cung cấp tới một cách ổn định.</String>
+      <String _locID='25485' category='Campaign' scenario='Tutorial' subtitle='true'>Giờ thì tài nguyên của bạn đang được cung cấp một cách ổn định.</String>
       <String _locID='25486' category='Campaign' scenario='Tutorial' subtitle='true'>Với đống tài nguyên này, chúng ta đã có thể xây dựng một đội quân, nhưng chúng ta sẽ cần Doanh trại trước.</String>
       <String _locID='25487' category='Campaign' scenario='Tutorial' subtitle='true'>Chọn ô xây và hãy xây một Doanh trại.</String>
       <String _locID='25488' category='Campaign' scenario='Tutorial' subtitle='true'>Tốt! Giờ chúng ta có thể bắt đầu huấn luyện đội quân.</String>
@@ -4346,42 +4346,42 @@ BẢNG ID STRING TRONG GAME
       <String _locID='25491' category='Campaign' scenario='Tutorial' subtitle='true'>Rất xuất sắc! Nếu bạn đưa camera tới trước căn cứ của bạn, bạn sẽ thấy đội quân của bạn.</String>
       <String _locID='25492' category='Campaign' scenario='Tutorial' subtitle='true'>Giờ thì hãy nâng cấp đội quân của bạn để làm họ khỏe mạnh hơn nào.</String>
       <String _locID='25493' category='Campaign' scenario='Tutorial' subtitle='true'>Để làm điều này, chúng ta sẽ cần chọn ô xây và xây một khu Lò Phản Ứng.</String>
-      <String _locID='25494' category='Campaign' scenario='Tutorial' subtitle='true'>Hãy để ý rằng giờ biểu tượng sấm sét nhỏ đó đã có số 1 ở góc trên bên phải và ở trên số tài nguyên của bạn.</String>
+      <String _locID='25494' category='Campaign' scenario='Tutorial' subtitle='true'>Hãy để ý rằng biểu tượng sấm sét nhỏ đó giờ đã có số 1 ở góc trên bên phải và ở trên số tài nguyên của bạn.</String>
       <String _locID='25495' category='Campaign' scenario='Tutorial' subtitle='true'>Đó là số lượng Lò Phản Ứng bạn có.</String>
       <String _locID='25496' category='Campaign' scenario='Tutorial' subtitle='true'>Hãy nhớ, bạn càng có nhiều Lò Phản Ứng, bạn càng có nhiều lực lượng mới để huấn luyện và nâng cấp.</String>
       <String _locID='25497' category='Campaign' scenario='Tutorial' subtitle='true'>Và vì bạn đang có một Lò Phản Ứng, nó sẽ cho phép bạn nâng cấp Thủy quân lục chiến.</String>
-      <String _locID='25498' category='Campaign' scenario='Tutorial' subtitle='true'>Chọn Doanh trại và nâng cấp Thủy quân lục chiến của bạn với công nghệ “New Blood”.</String>
+      <String _locID='25498' category='Campaign' scenario='Tutorial' subtitle='true'>Chọn Doanh trại và nâng cấp Thủy quân lục chiến của bạn bằng công nghệ “Thành Viên Mới”.</String>
       <String _locID='25499' category='Campaign' scenario='Tutorial' subtitle='true'>Tốt! Giờ thì Thủy quân lục chiến của bạn đã được nâng cấp.</String>
       <String _locID='25500' category='Campaign' scenario='Tutorial' subtitle='true'>Cùng đi theo mũi tên màu xanh và học cách sử dụng kỹ năng của Thủ Lĩnh.</String>
-      <String _locID='25501' category='Campaign' scenario='Tutorial' subtitle='true'>The Covenant has been kind enough to stand here while we practice using some of the Leader Powers.</String>
-      <String _locID='25502' category='Campaign' scenario='Tutorial' subtitle='true'>Lets start with a UNSC MAC blast.</String>
-      <String _locID='25503' category='Campaign' scenario='Tutorial' subtitle='true' _mouseKeyboard="26147">Press up on $$DPAD$$ to see the Leader Power menu.</String>
-      <String _locID='25504' category='Campaign' scenario='Tutorial' subtitle='true'>Now select the MAC Blast and let’s blow up some stuff.</String>
-      <String _locID='25505' category='Campaign' scenario='Tutorial' subtitle='true'>We'll keep giving you additional MAC Blast shots, so just have fun until all the Wraiths are destroyed.</String>
-      <String _locID='25506' category='Campaign' scenario='Tutorial' subtitle='true'>Great! Now that you've learned to command the UNSC, we're going to jump over and show you how to lead the Covenant.</String>
-      <String _locID='25507' category='Campaign' scenario='Tutorial' subtitle='true'>The Covenant Leader Powers are different than the UNSC Leader Powers because they are treated like the Leader's $$Y$$ ability.</String>
-      <String _locID='25508' category='Campaign' scenario='Tutorial' subtitle='true'>The Prophet of Regret is trapped.</String>
-      <String _locID='25509' category='Campaign' scenario='Tutorial' subtitle='true'>Using his Cleansing Leader Power you will be able to free him. </String>
-      <String _locID='25510' category='Campaign' scenario='Tutorial' subtitle='true'>Select the Prophet and use his $$Y$$ ability to destroy the three power sources.</String>
-      <String _locID='25511' category='Campaign' scenario='Tutorial' subtitle='true'>Once you press $$Y$$ the power will begin and stay on screen. Then, using $$LS$$, steer the Cleansing beam around to the three Power Sources to destroy them.</String>
-      <String _locID='25512' category='Campaign' scenario='Tutorial' subtitle='true'>Free at last!</String>
-      <String _locID='25513' category='Campaign' scenario='Tutorial' subtitle='true'>To learn some more advanced features of Covenant upgrading we are going to jump to a Covenant base.</String>
-      <String _locID='25514' category='Campaign' scenario='Tutorial' subtitle='true' _mouseKeyboard="26134">Just press left on $$DPAD$$ to do this now.</String>
-      <String _locID='25515' category='Campaign' scenario='Tutorial' subtitle='true'>The Covenant base may look very different from the UNSC base but it works in a similar way.</String>
-      <String _locID='25516' category='Campaign' scenario='Tutorial' subtitle='true'>Select the building site and build a Factory.</String>
-      <String _locID='25517' category='Campaign' scenario='Tutorial' subtitle='true'>There are some powerful units that can be trained in the Factory but we need to upgrade the tech level before we can train some of them.</String>
-      <String _locID='25518' category='Campaign' scenario='Tutorial' subtitle='true'>Unlike the UNSC building Reactors to upgrade Tech Level, the Covenant upgrade Tech Level by researching Ages.</String>
-      <String _locID='25519' category='Campaign' scenario='Tutorial' subtitle='true'>Select the Temple and upgrade to the Age of Doubt.</String>
-      <String _locID='25520' category='Campaign' scenario='Tutorial' subtitle='true'>The Covenant can also research strong defenses.</String>
-      <String _locID='25521' category='Campaign' scenario='Tutorial' subtitle='true'>Select a building site and build a Shield Generator.</String>
-      <String _locID='25522' category='Campaign' scenario='Tutorial' subtitle='true'>As you can see, a shield has appeared around this base. Now it's time for an army!</String>
-      <String _locID='25523' category='Campaign' scenario='Tutorial' subtitle='true'>Select the Factory and train four Locusts.</String>
-      <String _locID='25524' category='Campaign' scenario='Tutorial' subtitle='true'>As your new Locusts train, send them into the Hot Drop Pad.</String>
-      <String _locID='25525' category='Campaign' scenario='Tutorial' subtitle='true'>They will instantly teleport to wherever your Covenant Leader is on the map.</String>
-      <String _locID='25526' category='Campaign' scenario='Tutorial' subtitle='true' _mouseKeyboard="26135">To quickly jump to your leader you can press up on $$DPAD$$.</String>
-      <String _locID='25527' category='Campaign' scenario='Tutorial' subtitle='true'>Excellent!</String>
-      <String _locID='25528' category='Campaign' scenario='Tutorial' subtitle='true'>Now select your Covenant army and go destroy the UNSC army nearby.</String>
-      <String _locID='25529' category='Campaign' scenario='Tutorial' subtitle='true'>Congratulations! You have successfully completed the Halo Wars advanced tutorial! You are ready to take on the universe!</String>
+      <String _locID='25501' category='Campaign' scenario='Tutorial' subtitle='true'>Đám Covenant thật là tốt bụng vì đã đứng đợi ở đây trong khi chúng ta chuẩn bị thử một số Kỹ Năng Thủ Lĩnh.</String>
+      <String _locID='25502' category='Campaign' scenario='Tutorial' subtitle='true'>Cùng bắt đầu với kỹ năng Pháo MAC của UNSC.</String>
+      <String _locID='25503' category='Campaign' scenario='Tutorial' subtitle='true' _mouseKeyboard="26147">Nhấn nút lên $$DPAD$$ để mở menu Kĩ Năng Chỉ Huy.</String>
+      <String _locID='25504' category='Campaign' scenario='Tutorial' subtitle='true'>Giờ thì hãy chọn Pháo MAC và rồi cho nổ vài thứ nào.</String>
+      <String _locID='25505' category='Campaign' scenario='Tutorial' subtitle='true'>Chúng tôi sẽ tiếp tục cung cấp cho bạn thêm đạn MAC, để bạn có thể nghịch nó cho đến khi những chiếc Wraith đã bị phá hủy.</String>
+      <String _locID='25506' category='Campaign' scenario='Tutorial' subtitle='true'>Tốt! Bạn vừa học xong cách chơi phe UNSC rồi, giờ bạn sẽ được học cách chơi phe Covenant.</String>
+      <String _locID='25507' category='Campaign' scenario='Tutorial' subtitle='true'>Kỹ Năng Thủ Lĩnh của Covenant rất khác so với Kỹ Năng Thủ Lĩnh của UNSC bởi vì chúng được coi như là Kỹ Năng $$Y$$.</String>
+      <String _locID='25508' category='Campaign' scenario='Tutorial' subtitle='true'>Prophet of Regret đã bị mắc bẫy.</String>
+      <String _locID='25509' category='Campaign' scenario='Tutorial' subtitle='true'>Khi sử dụng Kĩ Năng Càn Quét của hắn, bạn sẽ có thể giải thoát hắn. </String>
+      <String _locID='25510' category='Campaign' scenario='Tutorial' subtitle='true'>Chọn tên Prophet và rồi sử dụng kỹ năng $$Y$$ để phá hủy 3 nguồn năng lượng.</String>
+      <String _locID='25511' category='Campaign' scenario='Tutorial' subtitle='true'>Một khi bạn nhấn $$Y$$ kỹ năng sẽ bắt đầu được sử dụng và tiếp tục trên màn hình. Và rồi, hãy sử dụng $$LS$$ để điều khiển chùm tia Càn Quét tới 3 Nguồn Năng Lượng để phá hủy nó.</String>
+      <String _locID='25512' category='Campaign' scenario='Tutorial' subtitle='true'>Cuối cùng cũng được tự do!</String>
+      <String _locID='25513' category='Campaign' scenario='Tutorial' subtitle='true'>Để học một số tính năng nâng cao cho việc nâng cấp vật phẩm của Covenant, chúng ta sẽ cần nhảy tới căn cứ Covenant.</String>
+      <String _locID='25514' category='Campaign' scenario='Tutorial' subtitle='true' _mouseKeyboard="26134">Bạn chỉ cần nhấn nút bên trái của $$DPAD$$ để nhảy camera về căn cứ.</String>
+      <String _locID='25515' category='Campaign' scenario='Tutorial' subtitle='true'>Căn cứ của Covenant có thể nhìn rất khác căn cứ của UNSC nhưng cả 2 đều hoạt động y như nhau.</String>
+      <String _locID='25516' category='Campaign' scenario='Tutorial' subtitle='true'>Chọn ô xây và hãy xây một Nhà Máy.</String>
+      <String _locID='25517' category='Campaign' scenario='Tutorial' subtitle='true'>Có một số đơn vị mạnh có thể được huấn luyện trong Nhà Máy nhưng chúng ta cần nâng cấp trình độ công nghệ trước khi có thể huấn luyện một số đơn vị đó.</String>
+      <String _locID='25518' category='Campaign' scenario='Tutorial' subtitle='true'>Không giống như UNSC vốn nâng cấp Trình Độ Công Nghệ bằng Lò phản ứng, Covenant nâng cấp Trình Độ Công Nghệ bằng cách nghiên cứu thời đại.</String>
+      <String _locID='25519' category='Campaign' scenario='Tutorial' subtitle='true'>Chọn Ngôi Đền và rồi Nghiên Cứu Thời Kỳ Phát Triển.</String>
+      <String _locID='25520' category='Campaign' scenario='Tutorial' subtitle='true'>Đám Covenant có thể nghiên cứu những phòng thủ mạnh mẽ.</String>
+      <String _locID='25521' category='Campaign' scenario='Tutorial' subtitle='true'>Chọn ô xây và hãy xây một trạm Lá Chắn Năng Lượng.</String>
+      <String _locID='25522' category='Campaign' scenario='Tutorial' subtitle='true'>Như bạn thấy đấy, có một lá chắn đã bao bọc xung quanh căn cứ này. Giờ thì đến lúc xây dựng đội quân rồi!</String>
+      <String _locID='25523' category='Campaign' scenario='Tutorial' subtitle='true'>Nhấn vào Nhà Máy và huấn luyện 4 chiếc Locust.</String>
+      <String _locID='25524' category='Campaign' scenario='Tutorial' subtitle='true'>Khi bạn huấn luyện xong Locust, hãy đưa họ tới Bệ Dịch Chuyển.</String>
+      <String _locID='25525' category='Campaign' scenario='Tutorial' subtitle='true'>Họ sẽ lập tức dịch chuyển tới gần Thủ Lĩnh Covenant của bạn.</String>
+      <String _locID='25526' category='Campaign' scenario='Tutorial' subtitle='true' _mouseKeyboard="26135">Bạn có thể nhấn nút lên của $$DPAD$$ để nhảy camera tới thủ lĩnh của bạn.</String>
+      <String _locID='25527' category='Campaign' scenario='Tutorial' subtitle='true'>Rất tốt!</String>
+      <String _locID='25528' category='Campaign' scenario='Tutorial' subtitle='true'>Giờ thì chọn đội quân Covenant và tiêu diệt lực lượng UNSC ở gần đây.</String>
+      <String _locID='25529' category='Campaign' scenario='Tutorial' subtitle='true'>Chúc mừng bạn! Bạn đã hoàn thành hướng dẫn nâng cao của Halo Wars! Giờ bạn có thể sẵn sàng để đắm chìm vào vũ trụ của trò chơi!</String>
       <String _locID='25530' category='UI' scenario='PowerMenu' subtitle='false'>ACCEPT</String>
       <String _locID='25532' category='UI' scenario='PlayerName' subtitle='false'>Player1</String>
       <String _locID='25533' category='UI' scenario='PlayerName' subtitle='false'>Player2</String>
@@ -4433,8 +4433,8 @@ BẢNG ID STRING TRONG GAME
       <String _locID='25581' category='Objects' subtitle='false'>FORERUNNER TELEPORTER EXIT</String>
       <String _locID='25582' category='Objects' subtitle='false'>Teleporter Exit Location Only</String>
       <String _locID='25583' category='UI' subtitle='false'>Selected game search is no longer valid. Please select another.</String>
-      <String _locID='25584' category='Campaign' scenario='Tutorial' subtitle='false'>Basic Tutorial</String>
-      <String _locID='25585' category='Campaign' scenario='Tutorial' subtitle='false'>Advanced Tutorial</String>
+      <String _locID='25584' category='Campaign' scenario='Tutorial' subtitle='false'>Hướng Dẫn Cơ Bản</String>
+      <String _locID='25585' category='Campaign' scenario='Tutorial' subtitle='false'>Hướng Dẫn Nâng Cao</String>
       <String _locID='25586' category='UI' scenario='Leaderboards' subtitle='false'>CYCLE FILTER</String>
       <String _locID='25587' subtitle='false' category='UI' scenario='SkirmishPostgameScreen'>SQUADS BUILT (LOST)</String>
       <String _locID='25588' subtitle='false' category='UI' scenario='SkirmishPostgameScreen'>SQUADS KILLED</String>
@@ -4453,19 +4453,19 @@ BẢNG ID STRING TRONG GAME
       <String _locID='25601' category='Campaign' scenario='Tutorial' subtitle='true' _mouseKeyboard="26662">Có rất nhiều cách để chọn đơn vị. Nếu chuột của bạn đang ở trên một đơn vị, ấn $$A$$ để chọn họ. </String>
       <String _locID='25602' category='Campaign' scenario='Tutorial' subtitle='true' _mouseKeyboard="26663">Để di chuyển một đơn vị, hãy chọn họ, di chuyển chuột của bạn tới nơi bạn muốn dẫn họ tới, và rồi ấn $$X$$.</String>
       <String _locID='25603' category='Campaign' scenario='Tutorial' subtitle='true'>Để chọn toàn bộ đơn vị, ấn $$LB$$. Bạn cũng có thể "vẽ" một hộp chọn bằng cách giữ nút $$A$$ và di chuyển $$LS$$.</String>
-      <String _locID='25604' category='Campaign' scenario='Tutorial' subtitle='true' _mouseKeyboard="26664">To move multiple units, select them, move the crosshair to where you want them to go, and press $$X$$.</String>
+      <String _locID='25604' category='Campaign' scenario='Tutorial' subtitle='true' _mouseKeyboard="26664">Để di chuyển thật nhiều đơn vị, chọn họ, di chuyển tâm tới nơi mà bạn muốn họ tới, và rồi ấn $$X$$.</String>
       <String _locID='25605' category='Campaign' scenario='Tutorial' subtitle='true'>Để di chuyển camera xung quanh chiến trường, bạn chỉ cần di chuyển $$LS$$.</String>
-      <String _locID='25606' category='Campaign' scenario='Tutorial' subtitle='true' _mouseKeyboard="26665">To attack, select units, move the crosshair over the enemy you wish to attack with $$LS$$, then press $$X$$.</String>
-      <String _locID='25607' category='Campaign' scenario='Tutorial' subtitle='true'>To improve your technology, you will need Reactors to improve your technology level. Upgrades are always on the left side of a building's circle menu.</String>
-      <String _locID='25608' category='Campaign' scenario='Tutorial' subtitle='true'>To train units, select a building, use $$LS$$ to select the unit you wish to train, then press $$A$$ to train a unit. Press $$A$$ multiple times to queue up additional units.</String>
-      <String _locID='25609' category='Campaign' scenario='Tutorial' subtitle='true' _mouseKeyboard="26136">Press UP on $$DPAD$$ to see the Leader Power menu. Select the power using the $$LS$$, then press $$A$$ to select the power. You will then need to target the power where you want to use it - in this case, on enemy Wraiths and other units.</String>
-      <String _locID='25610' category='Campaign' scenario='Tutorial' subtitle='true' _mouseKeyboard="26137">To order units to gather supplies from supply crates, select the units, move the crosshair over the crates, and press $$X$$.</String>
-      <String _locID='25611' category='Campaign' scenario='Tutorial' subtitle='true'>The Covenant need to research Ages at their Temple in order to increase their technology level.</String>
-      <String _locID='25612' category='Campaign' scenario='Tutorial' subtitle='true'>The Hot Drop Pad allows Covenant units to teleport to your Leader. Select Covenant units and send them into the Hot Drop Pad.</String>
-      <String _locID='25613' category='Campaign' scenario='Tutorial' subtitle='true'>Cleansing is the Prophet's unique ability. Select the Prophet and press $$Y$$ to start cleansing. Steer the cleansing beam with $$LS$$.</String>
-      <String _locID='25614' category='Campaign' scenario='Tutorial' subtitle='true'>To construct a building, select an empty building site at the base and press $$A$$. Then select the building you wish to construct with $$LS$$ and press $$A$$ again to start construction.</String>
-      <String _locID='25615' category='Campaign' scenario='Tutorial' subtitle='true'>To use a unit's special ability instead of its normal attack, select the unit, target an enemy, and press $$Y$$.</String>
-      <String _locID='25616' category='Campaign' scenario='Tutorial' subtitle='true'>Use special abilities, standard attacks, and leader powers to destroy all enemy units. For the Covenant!</String>
+      <String _locID='25606' category='Campaign' scenario='Tutorial' subtitle='true' _mouseKeyboard="26665">Để tấn công, chọn đơn vị, di chuyển tâm vào kẻ thù bạn muốn tấn công bằng $$LS$$, và rồi ấn $$X$$.</String>
+      <String _locID='25607' category='Campaign' scenario='Tutorial' subtitle='true'>Để cải thiện công nghệ của bạn, bạn sẽ cần Lò Phản Ứng để nâng cao trình độ công nghệ của mình. Các nâng cấp luôn ở phía bên trái trong menu của công trình.</String>
+      <String _locID='25608' category='Campaign' scenario='Tutorial' subtitle='true'>Để huấn luyện đơn vị, hãy chọn công trình, sử dụng $$LS$$ để chọn đơn vị bạn muốn huấn luyện, và nhấn $$A$$ để huấn luyện một đơn vị. Nhấn $$A$$ nhiều lần sẽ đưa những đơn vị đó vào hàng chờ.</String>
+      <String _locID='25609' category='Campaign' scenario='Tutorial' subtitle='true' _mouseKeyboard="26136">Nhấn NÚT LÊN trên $$DPAD$$ của bạn để mở menu Kỹ Năng Thủ Lĩnh. Chọn kỹ năng bằng $$LS$$, và rồi nhấn $$A$$ để chọn kỹ năng. Bạn sẽ phải nhắm vào nơi bạn muốn khai hỏa - trong trường hợp này, thì là chiếc Wraith và những đơn vị khác của địch.</String>
+      <String _locID='25610' category='Campaign' scenario='Tutorial' subtitle='true' _mouseKeyboard="26137">Để ra lệnh cho các đơn vị thu thập hòm tiếp tế, hãy chọn đơn vị bạn muốn, di chuyển tâm của bạn vào hòm tiếp tế, và rồi nhấn $$X$$.</String>
+      <String _locID='25611' category='Campaign' scenario='Tutorial' subtitle='true'>Covenant cần nghiên cứu về Thời Kỳ Phát Triển tại Ngôi Đền để cải thiện trình độ công nghệ của chúng.</String>
+      <String _locID='25612' category='Campaign' scenario='Tutorial' subtitle='true'>Bệ Dịch Chuyển cho phép những đơn vị của Covenant dịch chuyển tới Thủ Lĩnh của bạn. Hãy chọn lực lượng Covenant và đưa họ tới Bệ Dịch Chuyển.</String>
+      <String _locID='25613' category='Campaign' scenario='Tutorial' subtitle='true'>"Càn Quét" là kỹ năng đặc biệt của tên Prophet. Chọn Prophet và nhấn $$Y$$ để bắt đầu càn quét. Điều khiển chùm tia bằng $$LS$$.</String>
+      <String _locID='25614' category='Campaign' scenario='Tutorial' subtitle='true'>Để xây dựng công trình, hãy chọn ô xây công trình còn trống ở căn cứ và nhấn $$A$$. Và rồi chọn công trình bạn muốn xây dựng bằng $$LS$$ và nhấn $$A$$ một lần nữa để bắt đầu xây.</String>
+      <String _locID='25615' category='Campaign' scenario='Tutorial' subtitle='true'>Để sử dụng kỹ năng đặc biệt của đơn vị nào đó, hãy chọn đơn vị bạn muốn, xác định mục tiêu, và rồi nhấn $$Y$$.</String>
+      <String _locID='25616' category='Campaign' scenario='Tutorial' subtitle='true'>Sử dụng kỹ năng đặc biệt, tấn công thường, và kỹ năng của thủ lĩnh để phá hủy toàn bộ lực lượng của kẻ thù. Vì phe Covenant chúng ta!</String>
       <String _locID='25618' subtitle='false' category='UI' scenario='DifficultyControl'>DỄ</String>
       <String _locID='25619' subtitle='false' category='UI' scenario='DifficultyControl'>BÌNH THƯỜNG</String>
       <String _locID='25620' subtitle='false' category='UI' scenario='DifficultyControl'>HÀO HÙNG</String>
@@ -4503,8 +4503,8 @@ BẢNG ID STRING TRONG GAME
       <String _locID='25652' category='UI' scenario='Service Record' subtitle='false'>Đại Tá</String>
       <String _locID='25653' category='UI' scenario='Service Record' subtitle='false'>Chuẩn Tướng</String>
       <String _locID='25654' category='UI' scenario='Service Record' subtitle='false'>Đại Tướng</String>
-      <String _locID='25655' category='UI' scenario='Service Record, 1 - Rank from the previous 8 strings, 2 - level 0-50' subtitle='false'>%1!s! - Level %2!d!</String>
-      <String _locID='25656' category='UI' scenario='Service Record' subtitle='false'>Unranked</String>
+      <String _locID='25655' category='UI' scenario='Service Record, 1 - Rank from the previous 8 strings, 2 - level 0-50' subtitle='false'>%1!s! - Cấp %2!d!</String>
+      <String _locID='25656' category='UI' scenario='Service Record' subtitle='false'>Không Có Chức Vụ</String>
       <String _locID='25657' category='Objects' subtitle='false'>REBEL TURRET</String>
       <String _locID='25658' category='Objects' subtitle='false'>REBEL WATCH TOWER</String>
       <String _locID='25659' category='Campaign' scenario='8' subtitle='true'>Người của chúng ta đã bị nhiễm! Nhanh lên, giết họ trước khi họ tấn công chúng ta!</String>
@@ -4541,17 +4541,17 @@ BẢNG ID STRING TRONG GAME
       <String _locID='25690' category='UI' scenario='Tutorial Description' subtitle='false'>Học những tính năng nâng cao của Halo Wars</String>
       <String _locID='25691' category='Campaign' scenario='Tutorial' subtitle='true'>Halo Wars là trò chơi về việc kiểm soát quân đội bao gồm cả các loại đơn vị khác nhau.</String>
       <String _locID='25692' category='Campaign' scenario='Tutorial' subtitle='true'>Hãy nhớ, nếu bạn chưa hiểu rõ cách ra lệnh cho các đơn vị của mình, bạn có thể xem mục điều khiển ở menu DỪNG.</String>
-      <String _locID='25693' category='Campaign' scenario='Tutorial' subtitle='true'>Any time you train units in Halo Wars, they will continue to train even if you close the circle menu and turn your attention elsewhere.</String>
+      <String _locID='25693' category='Campaign' scenario='Tutorial' subtitle='true'>Bất cứ khi nào bạn huấn luyện các đơn vị trong Halo Wars, họ vẫn sẽ được tiếp tục huấn luyện ngay cả khi bạn đóng menu và đưa sự chú ý của mình qua nơi khác.</String>
       <String _locID='25694' category='Campaign' scenario='3' subtitle='false'>Kích hoạt cây cầu ánh sáng</String>
       <String _locID='25695' category='Campaign' scenario='3' subtitle='false'>Ngắt năng lượng khỏi cây câu. Nếu như đồng đội đang ở trên cây cầu, chế độ an toàn sẽ không để năng lượng bị ngắt.</String>
-      <String _locID='25696' category='Campaign' scenario='Tutorial hint' subtitle='false' _mouseKeyboard="26140">Press up on $$DPAD$$ to use Leader Powers.</String>
-      <String _locID='25697' category='Campaign' scenario='Tutorial hint' subtitle='false' _mouseKeyboard="26141">Press left on $$DPAD$$ to jump to base.</String>
-      <String _locID='25698' category='Campaign' scenario='Tutorial hint' subtitle='false' _mouseKeyboard="26142">Press up on $$DPAD$$ to jump to Leader.</String>
+      <String _locID='25696' category='Campaign' scenario='Tutorial hint' subtitle='false' _mouseKeyboard="26140">Nhấn nút lên $$DPAD$$ để sử dụng Kĩ Năng Chỉ Huy.</String>
+      <String _locID='25697' category='Campaign' scenario='Tutorial hint' subtitle='false' _mouseKeyboard="26141">Nhấn nút bên trái $$DPAD$$ để nhảy camera tới căn cứ.</String>
+      <String _locID='25698' category='Campaign' scenario='Tutorial hint' subtitle='false' _mouseKeyboard="26142">Nhấn nút lên $$DPAD$$ để nhảy camera tới Thủ Lĩnh.</String>
       <String _locID='25699' category='UI' scenario='InGameUI' subtitle='false'>CONTROL DIAGRAM</String>
       <String _locID='25700' category='Campaign' scenario='Tutorial hint' subtitle='false'>Ấn $$X$$ ở đây để di chuyển</String>
       <String _locID='25701' category='UI' scenario='InGameUI' subtitle='false'>Waiting to Regenerate</String>
       <String _locID='25702' category='Objects' subtitle='false'>FORERUNNER FORT</String>
-      <String _locID='25703' category='UI' scenario='Ticker' subtitle='false'>Medals earned in %1!s! on %2!s!: %3!d! gold  %4!d! silver  %5!d! bronze</String>
+      <String _locID='25703' category='UI' scenario='Ticker' subtitle='false'>Số huy chương đã nhận được trong %1!s! tại %2!s!: %3!d! huy chương vàng  %4!d! huy chương bạc  %5!d! huy chương đồng</String>
       <String _locID='25704' category='UI' scenario='Ticker' subtitle='false'>Số nhiệm vụ đã hoàn thành dưới thời gian trung bình: %1!d!</String>
       <String _locID='25705' category='UI' scenario='Ticker' subtitle='false'>Số điểm cao nhất trong chế độ chiến dịch: %1!d!</String>
       <String _locID='25706' category='UI' scenario='Ticker' subtitle='false'>Số thời gian bạn bỏ vào trò chơi: %1!d! tiếng, %2!d! phút, %3!d! giây</String>
@@ -4560,12 +4560,12 @@ BẢNG ID STRING TRONG GAME
       <String _locID='25709' category='UI' scenario='Ticker' subtitle='false'>Thông tin dòng thời gian mới đã được mở khóa!</String>
       <String _locID='25710' category='UI' scenario='Ticker' subtitle='false'>Số thành tựu bạn nhận được: %1!d! trong tổng %2!d!</String>
       <String _locID='25711' category='UI' scenario='Ticker' subtitle='false'>Thành tựu nhận được gần đây: %1!s!</String>
-      <String _locID='25712' category='UI' scenario='Ticker' subtitle='false'>Thống kê những trận đấu Skirmish sử dụng %1!s!: %2!d! trận thắng  %3!d! lần sử dụng</String>
-      <String _locID='25713' category='UI' scenario='Ticker' subtitle='false'>Public Skirmish games on map %1!s!: %2!d! won  %3!d! played</String>
-      <String _locID='25714' category='UI' scenario='Ticker' subtitle='false'>Public Skirmish games in %1!s! mode: %2!d! won  %3!d! played</String>
-      <String _locID='25715' category='UI' scenario='Ticker' subtitle='false'>Thống kê những trận đấu Skirmish Solo/Private sử dụng %1!s!: %2!d! trận thắng  %3!d! lần sử dụng</String>
-      <String _locID='25716' category='UI' scenario='Ticker' subtitle='false'>Thống kê những trận đấu Skirmish Solo/Private ở bản đồ %1!s!: %2!d! trận thắng  %3!d! lần chơi bản đồ này</String>
-      <String _locID='25717' category='UI' scenario='Ticker' subtitle='false'>Thống kê những trận đấu Skirmish Solo/Private ở chế độ %1!s!: %2!d! trận thắng  %3!d! lần chơi chế độ này</String>
+      <String _locID='25712' category='UI' scenario='Ticker' subtitle='false'>Thống kê những trận đấu Skirmish sử dụng %1!s!: %2!d! trận thắng và bạn đã sử dụng  %3!d! lần</String>
+      <String _locID='25713' category='UI' scenario='Ticker' subtitle='false'>Thống kê những trận đấu Đụng Độ (Phòng Đấu Công Khai) ở bản đồ %1!s!: %2!d! trận thắng và bạn đã chơi  %3!d! lần bản đồ này</String>
+      <String _locID='25714' category='UI' scenario='Ticker' subtitle='false'>Thống kê những trận đấu Đụng Độ (Phòng Đấu Công Khai) ở chế độ %1!s!: %2!d! trận thắng và bạn đã chơi  %3!d! lần chế độ này</String>
+      <String _locID='25715' category='UI' scenario='Ticker' subtitle='false'>Thống kê những trận đấu Skirmish Solo/Private sử dụng %1!s!: %2!d! trận thắng và bạn đã sử dụng  %3!d! lần</String>
+      <String _locID='25716' category='UI' scenario='Ticker' subtitle='false'>Thống kê những trận đấu Skirmish Solo/Private ở bản đồ %1!s!: %2!d! trận thắng và bạn đã chơi  %3!d! lần bản đồ này</String>
+      <String _locID='25717' category='UI' scenario='Ticker' subtitle='false'>Thống kê những trận đấu Skirmish Solo/Private ở chế độ %1!s!: %2!d! trận thắng và bạn đã chơi  %3!d! lần chế độ này</String>
       <String _locID='25718' category='UI' scenario='Ticker' subtitle='false'>temp</String>
       <String _locID='25719' category='UI' scenario='Ticker' subtitle='false'>temp</String>
       <String _locID='25720' category='UI' scenario='Ticker' subtitle='false'>temp</String>
@@ -4590,7 +4590,7 @@ BẢNG ID STRING TRONG GAME
       <String _locID='25739' category='Campaign' scenario='Tutorial' subtitle='false'>View the controls from the PAUSE menu.</String>
       <String _locID='25740' category='Campaign' scenario='All' subtitle='false'>Move near to revive</String>
       <String _locID='25741' category='UI' scenario='Postgame UI' subtitle='false'>BASE</String>
-      <String _locID='25742' category='Campaign' scenario='Tutorial hint' subtitle='false'>Press $$A$$ to select</String>
+      <String _locID='25742' category='Campaign' scenario='Tutorial hint' subtitle='false'>Nhấn $$A$$ để chọn</String>
       <String _locID='25743' subtitle='false'>Kỹ năng ném Lựu đạn của Thủy quân lục chiến sẽ gây sát thương lớn vào những cấu trúc và cả bộ binh.</String>
       <String _locID='25744' subtitle='false'>Súng phun lửa có thể làm choáng bộ binh của địch bằng kỹ năng Lựu đạn choáng.</String>
       <String _locID='25745' subtitle='false'>Spartan có thể chiếm lấy phương tiện của địch với kỹ năng "Chiếm" của họ, khả năng chiến đấu của phương tiện đó cũng sẽ được cải thiện đáng kể.</String>
@@ -4607,33 +4607,33 @@ BẢNG ID STRING TRONG GAME
       <String _locID='25756' subtitle='false'>Khi Elephant đã khóa vị trí, nó có thể huấn luyện bộ binh. Hãy sử dụng nó để đưa những bộ binh mới và đưa họ tới tiền tuyến.</String>
       <String _locID='25757' subtitle='false'>Ngoài việc gây sát thương hiệu quả vào các công trình của kẻ thù, Cyclops có thể cầm và ném các đơn vị của kẻ thù.</String>
       <String _locID='25758' subtitle='false'>Cyclops ban đầu được thiết kế để nâng vật nặng tại các xưởng đóng tàu của UNSC, nhưng gần đây đã được tái sử dụng cho vai trò chiến đấu.</String>
-      <String _locID='25759' subtitle='false'>The Chain Amplifier upgrade allows the Gremlin to hit up to three targets with each EMP blast.</String>
-      <String _locID='25760' subtitle='false'>Professor Anders' special unit, the lightly-armored Gremlin, is good against vehicles.</String>
-      <String _locID='25761' subtitle='false'>The Hawk is an improved Hornet, available only to Professor Anders.</String>
-      <String _locID='25762' subtitle='false'>The Grizzly is an upgraded Scorpion tank that is only available to Sergeant Forge.</String>
-      <String _locID='25763' subtitle='false'>The ODST serves the same role as the Marine, but he's better in every way. ODST units are only available to Captain Cutter.</String>
-      <String _locID='25764' subtitle='false'>Upgrades for Grunt squads will add additional Grunts and eventually give them Needlers.</String>
-      <String _locID='25765' subtitle='false'>Jackals are effective in an anti-infantry role. Use them against enemy Marines or Grunts.</String>
-      <String _locID='25766' subtitle='false'>Hunters are particularly good against vehicles, but they should be kept away from enemy aircraft.</String>
-      <String _locID='25767' subtitle='false'>The Spirit Bond upgrade allows Hunter pairs to do bonus damage as long as both are alive.</String>
-      <String _locID='25768' subtitle='false'>The Wraith is the Covenant's mainline vehicle. Its Heavy Shield upgrade deflects a percentage of incoming damage.</String>
-      <String _locID='25769' subtitle='false'>The Covenant Locust, like the UNSC Cyclops, is primarily a building-killer.</String>
-      <String _locID='25770' subtitle='false'>The Locust's Overdrive ability dramatically increases its attack power at the expense of its shields.</String>
-      <String _locID='25771' subtitle='false'>When a Scarab appears on the battlefield, no enemy is safe. The Scarab can only be defeated by concentrated firepower.</String>
-      <String _locID='25772' subtitle='false'>The Banshee is the Covenant's mainline air unit, and is effective against most targets except its direct counters.</String>
-      <String _locID='25773' subtitle='false'>Use Vampires to counter enemy air units. Upgrade their Stasis ability and the Vampire will drain enemy hitpoints to heal itself.</String>
-      <String _locID='25774' subtitle='false'>Engineers are the only known non-combatant Covenant race. Experts at repairing things, they heal damaged units.</String>
-      <String _locID='25775' subtitle='false'>The Ghost is a fast, cheap scouting unit. Don't expect it to go toe-to-toe with most enemy units.</String>
-      <String _locID='25776' subtitle='false'>The Brute Chopper is an improved heavy scout that is only available to the Brute Chieftain.</String>
-      <String _locID='25777' subtitle='false'>The Brute's Electric Shot upgrade adds electrical stun damage to his weapon.</String>
-      <String _locID='25778' subtitle='false'>The Suicide Grunt's high-damage special attack is effective against many types of units.</String>
-      <String _locID='25779' subtitle='false'>The Arbiter's Rage power lets him cut through entire enemy armies.</String>
-      <String _locID='25780' subtitle='false'>Not many people know that the Arbiter's given birth name is Shirley.</String>
-      <String _locID='25781' subtitle='false'>The Arbiter's Ghastly Vision upgrade enables him to permanently cloak.</String>
-      <String _locID='25782' subtitle='false'>The Prophets of Regret, Truth, and Mercy came to power in 2525, usurping the power of the previous Hierarchs.</String>
-      <String _locID='25783' subtitle='false'>The Prophet's Cleansing ability does lots of damage to all types of enemy units.</String>
-      <String _locID='25784' subtitle='false'>Want to enhance the Prophet's mobility? Get the Divine Absolution upgrade and he becomes a full-fledged flying unit!</String>
-      <String _locID='25785' subtitle='false'>The Brute Chieftain likes Thornbeast for dinner, but it BETTER BE RARE.</String>
+      <String _locID='25759' subtitle='false'>Công nghệ "Bộ Khuêhcs Đại" cho phép Gremlin tấn công lên đến 3 mục tiêu vào mỗi đợt kích hoạt Xung Điện Từ (EMP).</String>
+      <String _locID='25760' subtitle='false'>Giáo sư Anders có một đơn vị đặc biệt, đó là chiếc Gremlin, nó rất hiệu quả trong việc chống lại những phương tiện.</String>
+      <String _locID='25761' subtitle='false'>Hawk là bản nâng cấp mạnh nhất của Hornet, chỉ Giáo sư Anders mới có thể nghiên cứu công nghệ này.</String>
+      <String _locID='25762' subtitle='false'>Grizzly là bản nâng cấp mạnh nhất của xe tăng Scorpion, chỉ Trung sĩ Forge mới có thể nghiên cứu công nghệ này.</String>
+      <String _locID='25763' subtitle='false'>ODST đóng vai trò giống như Thủy Quân Lục Chiến, nhưng ODST giỏi hơn về mọi mặt, chỉ Thuyền trưởng Cutter mới có thể gọi họ tới.</String>
+      <String _locID='25764' subtitle='false'>Những nâng cấp của đội quân Grunt sẽ đưa thêm Grunt vào đội hình của chúng và rồi bạn sẽ có thể cung cấp chúng khẩu súng Needler.</String>
+      <String _locID='25765' subtitle='false'>Jackal đóng vai trò lớn trong việc chống lại bộ binh của địch. Bạn nên sử dụng chúng để chống lại Thủy Quân Lục Chiến hoặc Grunt.</String>
+      <String _locID='25766' subtitle='false'>Hunter rất giỏi trong việc chống lại phương tiện của địch, nhưng bạn nên đưa chúng tránh ra xa máy bay cường kích của địch.</String>
+      <String _locID='25767' subtitle='false'>Công nghệ "Spirit Bond" cho phép Hunter đi theo cặp để gây thêm sát thương miễn là cả hai đều còn sống.</String>
+      <String _locID='25768' subtitle='false'>Wraith là phương tiện chủ lực của phe Covenant. Công nghệ "Khiên Hạng Nặng" sẽ giúp giảm thiểu sát thương của địch vào chúng.</String>
+      <String _locID='25769' subtitle='false'>Locust là đơn vị quan trọng của Covenant, chúng giống như Cyclops của UNSC, chúng là đơn vị chuyên phá công trình.</String>
+      <String _locID='25770' subtitle='false'>Kỹ năng "Overdrive" của Locust sẽ gây sát thương lớn vào mục tiêu, đổi lại là khiên của chúng sẽ yếu đi.</String>
+      <String _locID='25771' subtitle='false'>Khi Scarab xuất hiện trong chiến trường, khó mà để nó cho bạn sống sót nếu như nó đã nhìn thấy đơn vị của bạn. Scarab chỉ có thể bị đánh bại khi đội quân của bạn tập trung tấn công nó.</String>
+      <String _locID='25772' subtitle='false'>Banshee là đơn vị cường kích chủ lực của Covenant, nó rất giỏi trong việc tiêu diệt gần như toàn bộ những đơn vị, nhưng chúng rất kém trong việc tấn công ở phạm vi gần.</String>
+      <String _locID='25773' subtitle='false'>Bạn nên sử dụng Vampire để chống lại đơn vị cường kích của kẻ thù. Nâng cấp chúng lên kỹ năng "Stasis" và Vampire sẽ có thể hút máu của kẻ địch để hồi chính nó.</String>
+      <String _locID='25774' subtitle='false'>Engineer là chủng tộc duy nhất không biết chiến đấu trong phe Covenant. Chúng rất giỏi sữa chữa đồ của chúng, và chúng có thể hồi máu cho các đơn vị.</String>
+      <String _locID='25775' subtitle='false'>Ghost là đơn vị do thám nhanh nhẹn và rẻ tiền. Đừng mong đợi nó sẽ có thể đối đầu với những đơn vị của địch.</String>
+      <String _locID='25776' subtitle='false'>Brute Chopper là đơn vị do thám hạng nặng, nó chỉ có thể được gọi bởi Thủ Lĩnh Brute.</String>
+      <String _locID='25777' subtitle='false'>Công nghệ "Electric Shot" của Brute sẽ giúp vũ khí của chúng có thể gây sát thương điện.</String>
+      <String _locID='25778' subtitle='false'>Grunt Cảm Tử có thể gây sát thương lớn và chúng rất hiệu quả trong việc đối đầu với nhiều loại đơn vị của địch.</String>
+      <String _locID='25779' subtitle='false'>Kỹ Năng "Nộ" của Arbiter sẽ cho phép hắn dễ dàng chém nát và xuyên thủng đội quân của địch.</String>
+      <String _locID='25780' subtitle='false'>Rất nhiều người không biết rằng tên khai sinh của tên Arbiter là Shirley.</String>
+      <String _locID='25781' subtitle='false'>Công nghệ "Ghastly Vision" của Arbiter cho phép hắn tàng hình mãi mãi.</String>
+      <String _locID='25782' subtitle='false'>Prophet of Regret, Truth, và Mercy lên nắm quyền vào năm 2525, soán ngôi quyền lực của các Hierarch trước đó.</String>
+      <String _locID='25783' subtitle='false'>Kỹ năng "Càn Quét" của tên Prophet có thể gây ra sát thương rất lớn vào mọi loại đơn vị của địch.</String>
+      <String _locID='25784' subtitle='false'>Bạn muốn cải thiện sự cơ động của tên Prophet? Hãy nâng cấp hắn với công nghệ "Divine Absolution" và hắn sẽ trở thành đơn vị bay thật sự! Bay như chim luôn!</String>
+      <String _locID='25785' subtitle='false'>Thủ lĩnh Brute thích ăn Thornbeast vào bữa tối, nhưng MIẾNG THỊT PHẢI TÁI thì hắn mới thích.</String>
       <String _locID='25786' subtitle='false'>Use the Brute Chieftain's Vortex to damage large groups of enemies.</String>
       <String _locID='25787' subtitle='false'>The Brute Chieftain's Destiny upgrade adds an area of effect stun to his attacks.</String>
       <String _locID='25788' subtitle='false'>Try slipping cloaked Elites behind enemy forces to strike at their weaker support units.</String>
@@ -4715,7 +4715,7 @@ BẢNG ID STRING TRONG GAME
       <String _locID='25864' category='Campaign' scenario='Tutorial' subtitle='true'>This ends the basic controls tutorial for Halo Wars. </String>
       <String _locID='25865' category='Campaign' scenario='Tutorial' subtitle='true'>This ends the basic controls tutorial for Halo Wars.  Now you're ready to try the campaign!</String>
       <String _locID='25866' category='UI' scenario='Options' subtitle='false'>Phụ Đề - Lời Thoại Trong Khi Chơi</String>
-      <String _locID='25867' category='UI' scenario='Options' subtitle='false'>Turns on subtitles for in-game dialogue.</String>
+      <String _locID='25867' category='UI' scenario='Options' subtitle='false'>Tùy chỉnh bật hoặc tắt phụ đề trong khi chơi.</String>
       <String _locID='25868' subtitle='false'>If you're playing as the Arbiter, try running him near the enemy base and then hot-dropping Suicide Grunts to blow up a few buildings. </String>
       <String _locID='25869' subtitle='false'>If you're playing as the Covenant, try a leader rush. Just build a Temple and Warehouses, then attack the enemy base with the leader's special ability.</String>
       <String _locID='25870' subtitle='false'>Try the Elephant rush! Build one Elephant and then lots of Supply Pads. Lock down the Elephant just outside your opponent's base and churn out Marines.</String>
@@ -4891,10 +4891,10 @@ BẢNG ID STRING TRONG GAME
       <String _locID='26069' category='UI' subtitle='false' Update='true'>This mode starts out the same way a standard skirmish game begins.  At random intervals, a Forerunner flag unit will spawn somewhere on the map.  The flag is marked with a white star on the minimap, and will move to random locations.  Tasking a unit on the flag will order the unit to grab and carry the flag.  Once a unit is carrying the flag, a 'Keep Away' timer starts.  If the flag-carrying unit is alive when the timer runs down, the carrying unit’s team will earn extra resources and a capture point.  Be careful when your team controls and moves the flag carrier – the enemy team will have full line-of-sight to the flag carrier at all times.  The game is won if one team reaches a certain number of captures, but the game can still be won if the enemy team is defeated.  If a flag carrier is killed, a new flag will spawn shortly afterwards.</String>
       <String _locID='26070' category='UI' subtitle='false' Update='true'>Tug of War is very similar to the normal skirmish mode, except every unit produced, building built, and resource collected is factored into a team’s strength.  At the start of the game, both teams are at equal strength.  'The Tug of War bar' at the top left of the screen displays the current strength ratio between the two teams.  If your team’s strength gets far enough ahead of the other team’s strength, you win.</String>
       <String _locID='26071' category='UI' subtitle='false' Update='true'>In this mode, a timer shows when the next wave of reinforcements will arrive.  Once the timer ticks down, all stockpiled supplies are taken away; players then receive a group of troops at their base, along with an extra 250 supplies.  The number of troops delivered is determined by how many stockpiled supplies the player had when the timer expired, while the troop types are dependent on the player’s current tech level.  The only troops players can purchase directly in this mode are Spartans and Covenant leader units.  Players will still have to build troop production building to purchase upgrades for their units.  Place your global rally point near the base where you want your troops delivered.</String>
-      <String _locID='26072' category='UI' scenario='Options' subtitle='false' Update='true'>Always Show Hitpoint Bars</String>
-      <String _locID='26073' category='UI' scenario='Options' subtitle='false'>Toggles hitpoint bars to always be displayed for every unit.</String>
-      <String _locID='26074' category='UI' scenario='Options' subtitle='false' Update='true'>Unique Paint Jobs</String>
-      <String _locID='26075' category='UI' scenario='Options' subtitle='false'>Turns on any unique paint jobs you may have installed (e.g. the Fireball Warthog or the Honor Guard Wraith) at the start of each game.  These cannot be toggled off once a game starts.</String>
+      <String _locID='26072' category='UI' scenario='Options' subtitle='false' Update='true'>Luôn Hiển Thị Thanh Máu</String>
+      <String _locID='26073' category='UI' scenario='Options' subtitle='false'>Chọn bật hoặc tắt thanh máu được hiển thị cho toàn bộ đơn vị.</String>
+      <String _locID='26074' category='UI' scenario='Options' subtitle='false' Update='true'>Skin Phương Tiện</String>
+      <String _locID='26075' category='UI' scenario='Options' subtitle='false'>Chọn bật hoặc tắt skin phương tiện bạn đã sở hữu (ví dụ như: skin Fireball dành cho Warthog và skin Honor Guard dành cho Wraith) khi màn chơi bắt đầu.  Bạn không thể tắt cài đặt này một khi màn chơi đã bắt đầu.</String>
       <String _locID='26076' category='UI' scenario='Options' subtitle='false' Update='true'>ĐỒNG ĐỘI</String>
       <String _locID='26077' category='UI' scenario='Options' subtitle='false' Update='true'>KẺ THÙ</String>
       <String _locID='26078' category='UI' subtitle='false' Update='true'>Player %1!s! is missing the downloadable content required for this map.</String>
@@ -4951,20 +4951,20 @@ BẢNG ID STRING TRONG GAME
       <String _locID='26131' category='UI' scenario='MainMenu' subtitle='false'>TÌM TRẬN</String>
       <String _locID='26132' category='UI' scenario='MainMenu' subtitle='false'>GAME LIST</String>
       <String _locID='26133' category='UI' scenario='MainMenu' subtitle='false'>TẠO PHÒNG ĐẤU</String>
-      <String _locID='26134' category='Campaign' scenario='Tutorial' subtitle='true'>Just press $$Base$$ to do this now.</String>
-      <String _locID='26135' category='Campaign' scenario='Tutorial' subtitle='true'>To quickly jump to your leader you can press $$SoFM$$.</String>
-      <String _locID='26136' category='Campaign' scenario='Tutorial' subtitle='true'>Press $$SoFM$$ to see the Leader Power menu. Select the power using the $$LS$$, then press $$A$$ to select the power. You will then need to target the power where you want to use it - in this case, on enemy Wraiths and other units.</String>
-      <String _locID='26137' category='Campaign' scenario='Tutorial' subtitle='true'>To order units to gather supplies from supply crates, select the units, move the cursor over the crates, and press $$X$$.</String>
+      <String _locID='26134' category='Campaign' scenario='Tutorial' subtitle='true'>Bạn chỉ cần nhấn nút $$Base$$ để nhảy camera về căn cứ.</String>
+      <String _locID='26135' category='Campaign' scenario='Tutorial' subtitle='true'>Bạn có thể nhấn $$SoFM$$ để nhảy camera tới thủ lĩnh của bạn.</String>
+      <String _locID='26136' category='Campaign' scenario='Tutorial' subtitle='true'>Nhấn nút $$SoFM$$ để mở menu Kỹ Năng Thủ Lĩnh. Chọn kỹ năng bằng $$LS$$, và rồi nhấn $$A$$ để chọn kỹ năng. Bạn sẽ phải nhắm vào nơi bạn muốn khai hỏa - trong trường hợp này, thì là chiếc Wraith và những đơn vị khác của địch.</String>
+      <String _locID='26137' category='Campaign' scenario='Tutorial' subtitle='true'>Để ra lệnh cho các đơn vị thu thập hòm tiếp tế, hãy chọn đơn vị bạn muốn, di chuyển con trỏ chuột của bạn vào hòm tiếp tế, và rồi nhấn $$X$$.</String>
       <String _locID='26138' category='Campaign' scenario='Tutorial' subtitle='true'>Use $$LS$$ to move the cursor to the next beacon. The orange OBJECTIVE ARROW near the cursor tells you which direction to go.</String>
       <String _locID='26139' category='Campaign' scenario='Tutorial' subtitle='false'>In the center of your screen you'll see the cursor. Let's learn how to move it. Use $$LS$$ to move the cursor over the flashing beacon.</String>
-      <String _locID='26140' category='Campaign' scenario='Tutorial hint' subtitle='false'>Press $$SoFM$$ to use Leader Powers.</String>
-      <String _locID='26141' category='Campaign' scenario='Tutorial hint' subtitle='false'>Press $$Base$$ to jump to base.</String>
-      <String _locID='26142' category='Campaign' scenario='Tutorial hint' subtitle='false'>Press $$SoFM$$ to jump to Leader.</String>
+      <String _locID='26140' category='Campaign' scenario='Tutorial hint' subtitle='false'>Nhấn $$SoFM$$ để sử dụng Kĩ Năng Chỉ Huy.</String>
+      <String _locID='26141' category='Campaign' scenario='Tutorial hint' subtitle='false'>Nhấn $$Base$$ để nhảy camera tới căn cứ.</String>
+      <String _locID='26142' category='Campaign' scenario='Tutorial hint' subtitle='false'>Nhấn $$SoFM$$ để nhảy camera tới Thủ Lĩnh.</String>
       <String _locID='26143' category='Campaign' scenario='Tutorial' subtitle='true'>Bạn chỉ cần di chuyển $$LS$$ qua hướng mà bạn muốn camera di chuyển. </String>
       <String _locID='26144' category='' scenario='Hint Display' subtitle='false'>Use $$LS$$ to locate and center the camera on the flares</String>
       <String _locID='26145' category='Campaign' subtitle='true' scenario='Tutorial'>Bạn có thể làm vậy bằng cách ấn nút $$LB$$.</String>
       <String _locID='26146' category='Campaign' scenario='Tutorial' subtitle='true'>Sử dụng $$LS$$, di chuyển con trỏ chuột vào Trạm Cung Cấp, và rồi ấn $$A$$ để bắt đầu xây nó.</String>
-      <String _locID='26147' category='Campaign' scenario='Tutorial' subtitle='true'>Press $$SoFM$$ to see the Leader Power menu.</String>
+      <String _locID='26147' category='Campaign' scenario='Tutorial' subtitle='true'>Nhấn $$SoFM$$ để mở menu Kĩ Năng Chỉ Huy.</String>
       <String _locID='26148' category='UI' scenario='MPPartyRoomTutorial' subtitle='false'>From this screen, change settings for the types of games you want to find. You can change the mode, map, player count, difficulty, and invite friends before you search what types of games are available.</String>
       <String _locID='26149' category='UI' scenario='MPPartyRoomTutorial' subtitle='false'>Select SEARCH GAMES to find public games or CREATE GAME to host. A quick access option to the GAME LIST will become available once search settings have been set up for the first time.</String>
       <String _locID='26150' category='UI' scenario='MPPartyRoomTutorial' subtitle='false'>Search settings have been set up, the GAME LIST option is now available.</String>
@@ -4991,8 +4991,8 @@ BẢNG ID STRING TRONG GAME
       <String _locID='26176' category='UI' subtitle='false'>CHỦ PHÒNG</String>
       <String _locID='26177' category='UI' subtitle='false'>CHẾ ĐỘ</String>
       <String _locID='26178' category='UI' subtitle='false'>ĐƯỜNG TRUYỀN</String>
-      <String _locID='26179' category='UI' subtitle='false'>View Host gamercard</String>
-      <String _locID='26180' category='UI' subtitle='false'>Vào Phòng Đấu</String>
+      <String _locID='26179' category='UI' subtitle='false'>Xem hồ sơ của chủ phòng</String>
+      <String _locID='26180' category='UI' subtitle='false'>Vào phòng đấu</String>
       <String _locID='26181' category='UI' scenario='GameSetup' subtitle='false'>BẤT KỲ</String>
       <String _locID='26182' category='UI' scenario='GameSetup' subtitle='false'>ĐỘ KHÓ: BẤT KỲ</String>
       <String _locID='26183' category='UI' subtitle='false'>Không</String>
@@ -5078,37 +5078,37 @@ BẢNG ID STRING TRONG GAME
       <String _locID='26263' subtitle='false'>Need to move around the map quickly? Left-click on the mini-map to access another area.</String>
       <String _locID='26264' subtitle='false'>The Arbiter’s Rage Power channels his irrepressible evil into one long fatality string. Use $$X$$ to initiate quick-jump fatalities in this mode.</String>
       <String _locID='26265' category='UI' scenario='PartyRoomHelp' subtitle='false'>$$A$$ on a slot to add an A.I. player</String>
-      <String _locID='26266' category='UI' subtitle='false'>Remember: $$Army$$ jumps to your armies.</String>
-      <String _locID='26267' category='UI' subtitle='false'>Remember: $$Alert$$ jumps to urgent alerts.</String>
-      <String _locID='26268' category='UI' subtitle='false'>Remember: $$Base$$ jumps to your bases.</String>
-      <String _locID='26269' subtitle='false' category='UI'>Remember: $$SoFM$$ view Leader Powers.</String>
+      <String _locID='26266' category='UI' subtitle='false'>Hãy nhớ: Nhấn nút $$Army$$ để nhảy camera tới đội quân của bạn.</String>
+      <String _locID='26267' category='UI' subtitle='false'>Hãy nhớ: Nhấn nút $$Alert$$ để nhảy tới những cảnh báo.</String>
+      <String _locID='26268' category='UI' subtitle='false'>Hãy nhớ: Nhấn nút $$Base$$ để nhảy camera tới những căn cứ của bạn.</String>
+      <String _locID='26269' subtitle='false' category='UI'>Hãy nhớ: Nhấn nút $$SoFM$$ để xem Kỹ Năng Thủ Lĩnh.</String>
       <String _locID='26270' subtitle='false' category='UI'>THÔNG TIN HƯỚNG DẪN DÀNH RIÊNG CHO BẢN PC</String>
       <String _locID='26271' subtitle='false' category='UI'>DETAILS</String>
       <String _locID='26272' subtitle='false' category='UI'>HỘP CHỌN MỤC TIÊU</String>
       <String _locID='26273' subtitle='false' category='UI'>TƯƠNG TÁC VỚI BẢN ĐỒ</String>
-      <String _locID='26274' subtitle='false' category='UI'>CREATE A CONTROL GROUP</String>
-      <String _locID='26275' subtitle='false' category='UI'>ADD ADDITIONAL UNITS TO A CONTROL GROUP</String>
-      <String _locID='26276' subtitle='false' category='UI'>ADD/REMOVE UNITS FROM ALL OTHER GROUPS</String>
-      <String _locID='26277' subtitle='false' category='UI'>ASSIGN/REMOVE UNITS FROM ALL OTHER GROUPS</String>
-      <String _locID='26278' subtitle='false' category='UI'>SELECT A CONTROL GROUP</String>
-      <String _locID='26279' subtitle='false' category='UI'>GO TO A CONTROL GROUP</String>
+      <String _locID='26274' subtitle='false' category='UI'>ĐÁNH SỐ ĐỘI QUÂN</String>
+      <String _locID='26275' subtitle='false' category='UI'>THÊM ĐƠN VỊ VÀO ĐỘI QUÂN ĐÃ ĐÁNH SỐ</String>
+      <String _locID='26276' subtitle='false' category='UI'>THÊM/XÓA ĐƠN VỊ CỦA TẤT CẢ ĐỘI QUÂN ĐÃ ĐÁNH SỐ</String>
+      <String _locID='26277' subtitle='false' category='UI'>TẠO MỚI ĐỘI QUÂN</String>
+      <String _locID='26278' subtitle='false' category='UI'>CHỌN ĐỘI QUÂN ĐÃ ĐÁNH SỐ</String>
+      <String _locID='26279' subtitle='false' category='UI'>NHẢY CAMERA TỚI ĐỘI QUÂN ĐÃ ĐÁNH SỐ</String>
       <String _locID='26280' subtitle='false' category='UI'>TÙY CHỈNH PHÍM ĐIỀU KHIỂN</String>
       <String _locID='26281' subtitle='false' category='UI'>Bạn có thể làm như thế này bằng cách giữ nút Chuột trái, và kéo chuột sang hướng bất kỳ để tạo một hộp chọn.</String>
       <String _locID='26282' subtitle='false' category='UI'>Nhấn chuột Trái vào Minimap để nhảy camera tới vị trí bạn nhấn vào. Khi bạn đã chọn đơn vị, nhấn chuột Phải vào Minimap để đưa đơn vị đó tới vị trí bạn nhấn vào.</String>
-      <String _locID='26283' subtitle='false' category='UI'>With a single unit or a selection of units press CTRL + (a number from 0-9) to assign the selection to the corresponding number slot.</String>
-      <String _locID='26284' subtitle='false' category='UI'>With a unit or multiple units selected press SHIFT + (0-9). If there are no units already assigned the selected units will create a new group.</String>
-      <String _locID='26285' subtitle='false' category='UI'>With a unit or multiple units selected press ALT + SHIFT + (0-9). This will add the selected units to the target group; it will also remove all selected units from any other groups in which they are present.</String>
-      <String _locID='26286' subtitle='false' category='UI'>With a unit or multiple units selected press ALT + (0-9). This will reset the group definition to contain the selected units; it will also remove all selected units from any other groups in which they are present.</String>
-      <String _locID='26287' subtitle='false' category='UI'>Press the number key for the desired Control Group once to make that Control Group the active selection.</String>
-      <String _locID='26288' subtitle='false' category='UI'>Press the number key twice for the desired Control Group to snap to desired Control Group.</String>
-      <String _locID='26289' subtitle='false' category='UI'>Some of the Controls for Halo Wars have been made remappable, please visit the Options Menu under the Controls tab to view and modify these inputs.</String>
-      <String _locID='26290' category='UI' scenario='Options' subtitle='false'>Input Device</String>
-      <String _locID='26291' category='UI' scenario='Options' subtitle='false'>Select this to change primary input method.</String>
-      <String _locID='26292' category='UI' scenario='Options' subtitle='false'>Press a button on the controller you want to use.</String>
+      <String _locID='26283' subtitle='false' category='UI'>Khi bạn đã chọn một đơn vị hoặc nhiều hơn thế, hãy nhấn CTRL + (số từ 0-9) để gán phím tắt vào phím số, làm như vậy sẽ giúp bạn chọn đơn vị nhanh hơn.</String>
+      <String _locID='26284' subtitle='false' category='UI'>Khi bạn đã chọn một đơn vị hoặc nhiều hơn thế, hãy nhấn SHIFT + (số từ 0-9). Nếu những đơn vị bạn chọn chưa được đánh số đội quân, họ sẽ được đánh số.</String>
+      <String _locID='26285' subtitle='false' category='UI'>Khi bạn đã chọn một đơn vị hoặc nhiều hơn thế, hãy nhấn ALT + SHIFT + (số từ 0-9). Làm vậy sẽ thêm những đơn vị bạn đã chọn vào đội quân; nó cũng sẽ xóa đi những đơn vị bạn đã chọn khỏi đội quân đã được đánh số nào đó khác (nếu có).</String>
+      <String _locID='26286' subtitle='false' category='UI'>Khi bạn đã chọn một đơn vị hoặc nhiều hơn thế, hãy nhấn ALT + (số từ 0-9). Làm vậy sẽ bỏ đánh số toàn bộ đơn vị khỏi đội quân ngoại trừ đơn vị bạn đã chọn; nó cũng sẽ xóa đi những đơn vị bạn đã chọn khỏi đội quân đã được đánh số nào đó khác (nếu có).</String>
+      <String _locID='26287' subtitle='false' category='UI'>Nhấn phím số bạn đã gán vào Đội Quân MỘT lần để chọn toàn bộ những đơn vị trong đội quân.</String>
+      <String _locID='26288' subtitle='false' category='UI'>Nhấn phím số bạn đã gán vào Đội Quân HAI lần để nhảy camera tới vị trí của Đội Quân.</String>
+      <String _locID='26289' subtitle='false' category='UI'>Một vài phím điều khiển giờ đã có thể tùy chỉnh theo ý muốn của bạn, bạn có thể vào menu Cài Đặt và rồi nhấn vào mục Điều Khiển để xem và tùy chỉnh những phím bấm này.</String>
+      <String _locID='26290' category='UI' scenario='Options' subtitle='false'>Thiết Bị Điều Khiển</String>
+      <String _locID='26291' category='UI' scenario='Options' subtitle='false'>Chọn sử dụng bàn phím/chuột hoặc tay cầm để chơi.</String>
+      <String _locID='26292' category='UI' scenario='Options' subtitle='false'>Hãy nhấn nút bất kỳ của thiết bị điều khiển bạn muốn sử dụng.</String>
       <String _locID='26293' subtitle='false' category='UI'>Bạn chưa đăng nhập. Bạn không thể lưu tiến trình chơi của bạn.</String>
-      <String _locID='26294' subtitle='false' category='UI'>User changed. Returning to the Start screen.</String>
-      <String _locID='26295' subtitle='false' category='UI'>You have successfully signed in.</String>
-      <String _locID='26296' subtitle='false' category='UI'>Not Signed In</String>
+      <String _locID='26294' subtitle='false' category='UI'>Đã thay đổi tài khoản người dùng. Đang quay trở về màn hình Bắt Đầu Trò Chơi.</String>
+      <String _locID='26295' subtitle='false' category='UI'>Bạn đã được đăng nhập.</String>
+      <String _locID='26296' subtitle='false' category='UI'>Chưa Đăng Nhập</String>
       <String _locID='26297' category='UI' subtitle='false'>High Resolution</String>
       <String _locID='26298' category='UI' subtitle='false'>High Resolution Mode</String>
       <String _locID='26299' subtitle='false' category='UI'>Rotate Camera Left Alternate</String>
