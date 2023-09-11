@@ -155,8 +155,8 @@ BẢNG ID STRING TRONG GAME
       <String _locID='500' category='Code' subtitle='false'>Bộ Binh Chủ Lực</String>
       <String _locID='501' category='Code' subtitle='false'>Phương Tiện Chủ Lực</String>
       <String _locID='502' category='Code' subtitle='false'>Máy Bay Cường Kích Chủ Lực</String>
-      <String _locID='503' category='Code' subtitle='false'>Lực Lượng Chống Bộ Binh</String>
-      <String _locID='504' category='Code' subtitle='false'>Lực Lượng Chống Phương Tiện</String>
+      <String _locID='503' category='Code' subtitle='false'>Lực Lượng Phản Công Bộ Binh</String>
+      <String _locID='504' category='Code' subtitle='false'>Lực Lượng Phản Công Phương Tiện</String>
       <String _locID='505' category='Code' subtitle='false'>Lực Lượng Phòng Không</String>
       <String _locID='506' category='Code' subtitle='false'>Hỗ Trợ Chiến Đấu</String>
       <String _locID='507' category='Code' subtitle='false'>Chuyên Phá Công Trình</String>
@@ -4110,26 +4110,26 @@ BẢNG ID STRING TRONG GAME
       <String _locID='25242' category='UI' scenario='1' subtitle='false' _mouseKeyboard="26657">Di chuyển TÂM CỦA BẠN vào mục tiêu. Ấn $$X$$ để tấn công.</String>
       <String _locID='25243' category='Objects' subtitle='false'>PYLON</String>
       <String _locID='25244' category='UI' scenario='HaloTimelineScreen' subtitle='false'>DÒNG THỜI GIAN CỦA HALO</String>
-      <String _locID='25245' subtitle='false'>%1!d! friend(s) are online</String>
-      <String _locID='25246' subtitle='false'>%1!d! friend(s) are playing Halo Wars</String>
+      <String _locID='25245' subtitle='false'>Hiện đang có %1!d! bạn bè đang online</String>
+      <String _locID='25246' subtitle='false'>Hiện đang có %1!d! bạn bè đang chơi Halo Wars</String>
       <String _locID='25247' subtitle='false' category='UI'>No gamer profile signed in.</String>
       <String _locID='25248' subtitle='false' category='UI'>DEPRECATED Cannot join game.</String>
-      <String _locID='25249' category='UI' subtitle='false'>Không thể tham gia phòng chơi này, vì nó hết chỗ rồi.</String>
+      <String _locID='25249' category='UI' subtitle='false'>Không thể tham gia phòng chơi này, vì nó hết chỗ.</String>
       <String _locID='25250' category='UI' subtitle='false'>Không thể tham gia phòng chơi này, bạn hiện đang chơi một phiên bản khác với chủ phòng.</String>
-      <String _locID='25251' subtitle='false' category='UI'>Could not join that lobby, please try again.</String>
-      <String _locID='25252' subtitle='false' category='UI'>Failed to launch the game. Please try again or you may need to leave and recreate your lobby.</String>
-      <String _locID='25253' subtitle='false' category='UI'>Could not join that lobby, could not connect to host.</String>
-      <String _locID='25254' subtitle='false' category='UI'>Could not join that lobby, due to issues with Xbox Live. Please try again.</String>
-      <String _locID='25255' subtitle='false' category='UI'>Could not join that lobby, could not connect to all players.</String>
+      <String _locID='25251' subtitle='false' category='UI'>Không thể tham gia phòng chơi này, xin hãy thử lại.</String>
+      <String _locID='25252' subtitle='false' category='UI'>Không thể khởi động phòng chơi. Xin hãy thử lại HOẶC là bạn có thể thoát phòng và tạo một phòng mới.</String>
+      <String _locID='25253' subtitle='false' category='UI'>Không thể tham gia phòng chơi này, vì không thể kết nối tới chủ phòng.</String>
+      <String _locID='25254' subtitle='false' category='UI'>Không thể tham gia phòng chơi này, vì đã xảy ra vấn đề với Xbox Live. Xin hãy thử lại.</String>
+      <String _locID='25255' subtitle='false' category='UI'>Không thể tham gia phòng chơi này, vì không thể kết nối với toàn bộ những người chơi khác.</String>
       <String _locID='25256' subtitle='false'>DEPRECATED This gamer profile cannot access Xbox Live games.</String>
       <String _locID='25257' subtitle='false'>LSP service down</String>
-      <String _locID='25258' subtitle='false'>The Halo Wars servers are currently unavailable.</String>
+      <String _locID='25258' subtitle='false'>Máy chủ của Halo Wars hiện không khả dụng.</String>
       <String _locID='25259' subtitle='false'>Could not request login</String>
       <String _locID='25260' subtitle='false'>Could not request config</String>
       <String _locID='25261' subtitle='false'>No valid Public Game hoppers</String>
       <String _locID='25262' subtitle='false'>DEPRECATED Party system error :|</String>
       <String _locID='25263' subtitle='false'>LSP Error - unknown problem</String>
-      <String _locID='25264' subtitle='false'>WARNING: Restrictive NAT detected. For more info, please go to http://support.xbox.com.</String>
+      <String _locID='25264' subtitle='false'>CẢNH BÁO: Đã phát hiện NAT của bạn đang bị hạn chế. Để biết thêm thông tin, xin hãy truy cập http://support.xbox.com.</String>
       <String _locID='25265' subtitle='false'>Search stopped: Player canceled</String>
       <String _locID='25266' subtitle='false'>Search stopped: Exceeded maximum time limit</String>
       <String _locID='25267' subtitle='false'>Search stopped: Hopper error</String>
@@ -4138,19 +4138,19 @@ BẢNG ID STRING TRONG GAME
       <String _locID='25270' subtitle='false'>Search stopped: Player dropped</String>
       <String _locID='25271' subtitle='false'>Search stopped: Wrong number of players</String>
       <String _locID='25272' subtitle='false'>DEPRECATED Join error: unknown problem</String>
-      <String _locID='25273' subtitle='false'>Starting matchmaking</String>
+      <String _locID='25273' subtitle='false'>Đang khởi chạy tìm trận</String>
       <String _locID='25274' subtitle='false'>DEPRECATED Matchmaking running</String>
-      <String _locID='25275' subtitle='false' category=''>SEARCH CANCELED</String>
-      <String _locID='25276' subtitle='false'>Search error</String>
+      <String _locID='25275' subtitle='false' category=''>ĐÃ HỦY TÌM KIẾM</String>
+      <String _locID='25276' subtitle='false'>Lỗi tìm kiếm</String>
       <String _locID='25277' subtitle='false'>Đang khởi chạy...</String>
       <String _locID='25278' subtitle='false'>Đã hủy khởi chạy trò chơi.</String>
-      <String _locID='25279' subtitle='false'>Warning: Player %1!S! has a restricted NAT. For more info, please go to http://support.xbox.com.</String>
-      <String _locID='25280' subtitle='false'>Game session error</String>
+      <String _locID='25279' subtitle='false'>Cảnh báo: NAT của người chơi %1!S! hiện đang bị hạn chế. Để biết thêm thông tin, xin hãy truy cập http://support.xbox.com.</String>
+      <String _locID='25280' subtitle='false'>Lỗi phòng chơi</String>
       <String _locID='25281' subtitle='false'>Đếm ngược...%1!d!</String>
-      <String _locID='25282' category='UI' scenario='LAN game is running a different version (1=LAN game name)' subtitle='false'>%1!s! [WRONG VERSION]</String>
-      <String _locID='25283' category='UI' scenario='LAN game is launching (1=LAN game name)' subtitle='false'>%1!s! [LOCKED]</String>
+      <String _locID='25282' category='UI' scenario='LAN game is running a different version (1=LAN game name)' subtitle='false'>%1!s! [SAI PHIÊN BẢN]</String>
+      <String _locID='25283' category='UI' scenario='LAN game is launching (1=LAN game name)' subtitle='false'>%1!s! [ĐÃ BỊ KHÓA]</String>
       <String _locID='25284' category='UI' scenario='LAN game (1=LAN game name, 2=number of people in the game, 3=maximum number of people allowed in the game)' subtitle='false'>%1!s! [%2!d!/%3!d!]</String>
-      <String _locID='25285' scenario='MP join failed, game is launching or in-progress.' category='UI' subtitle='false'>Failed to join game - the game is currently in progress.</String>
+      <String _locID='25285' scenario='MP join failed, game is launching or in-progress.' category='UI' subtitle='false'>Không thể tham gia - phòng chơi đã bắt đầu.</String>
       <String _locID='25286' category='Campaign' scenario='12' subtitle='true'>Lõi năng lượng của chúng ta đã sửa được khoảng 75%.</String>
       <String _locID='25287' category='Campaign' scenario='12' subtitle='true'>Lõi năng lượng của chúng ta đã bị hỏng nặng hơn và giờ chỉ mới sửa được khoảng 20%!</String>
       <String _locID='25288' category='UI' scenario='LeaderPicker' subtitle='false'>CHỌN THỦ LĨNH</String>
@@ -4607,7 +4607,7 @@ BẢNG ID STRING TRONG GAME
       <String _locID='25756' subtitle='false'>Khi Elephant đã khóa vị trí, nó có thể huấn luyện bộ binh. Hãy sử dụng nó để đưa những bộ binh mới và đưa họ tới tiền tuyến.</String>
       <String _locID='25757' subtitle='false'>Ngoài việc gây sát thương hiệu quả vào các công trình của kẻ thù, Cyclops có thể cầm và ném các đơn vị của kẻ thù.</String>
       <String _locID='25758' subtitle='false'>Cyclops ban đầu được thiết kế để nâng vật nặng tại các xưởng đóng tàu của UNSC, nhưng gần đây đã được tái sử dụng cho vai trò chiến đấu.</String>
-      <String _locID='25759' subtitle='false'>Công nghệ "Bộ Khuêhcs Đại" cho phép Gremlin tấn công lên đến 3 mục tiêu vào mỗi đợt kích hoạt Xung Điện Từ (EMP).</String>
+      <String _locID='25759' subtitle='false'>Công nghệ "Bộ Khuếch Đại" cho phép Gremlin tấn công lên đến 3 mục tiêu vào mỗi đợt kích hoạt Xung Điện Từ (EMP).</String>
       <String _locID='25760' subtitle='false'>Giáo sư Anders có một đơn vị đặc biệt, đó là chiếc Gremlin, nó rất hiệu quả trong việc chống lại những phương tiện.</String>
       <String _locID='25761' subtitle='false'>Hawk là bản nâng cấp mạnh nhất của Hornet, chỉ Giáo sư Anders mới có thể nghiên cứu công nghệ này.</String>
       <String _locID='25762' subtitle='false'>Grizzly là bản nâng cấp mạnh nhất của xe tăng Scorpion, chỉ Trung sĩ Forge mới có thể nghiên cứu công nghệ này.</String>
@@ -4634,66 +4634,66 @@ BẢNG ID STRING TRONG GAME
       <String _locID='25783' subtitle='false'>Kỹ năng "Càn Quét" của tên Prophet có thể gây ra sát thương rất lớn vào mọi loại đơn vị của địch.</String>
       <String _locID='25784' subtitle='false'>Bạn muốn cải thiện sự cơ động của tên Prophet? Hãy nâng cấp hắn với công nghệ "Divine Absolution" và hắn sẽ trở thành đơn vị bay thật sự! Bay như chim luôn!</String>
       <String _locID='25785' subtitle='false'>Thủ lĩnh Brute thích ăn Thornbeast vào bữa tối, nhưng MIẾNG THỊT PHẢI TÁI thì hắn mới thích.</String>
-      <String _locID='25786' subtitle='false'>Use the Brute Chieftain's Vortex to damage large groups of enemies.</String>
-      <String _locID='25787' subtitle='false'>The Brute Chieftain's Destiny upgrade adds an area of effect stun to his attacks.</String>
-      <String _locID='25788' subtitle='false'>Try slipping cloaked Elites behind enemy forces to strike at their weaker support units.</String>
-      <String _locID='25789' subtitle='false'>Use the Wraith's Scorch ability to deny an angle of approach to enemy forces.</String>
-      <String _locID='25790' subtitle='false'>Banshees with the Sacrifice ability will crash into a ground target when destroyed, doing area of effect damage.</String>
-      <String _locID='25791' subtitle='false'>The Engineer's State of Grace upgrade dramatically improves its ability to heal.</String>
-      <String _locID='25792' subtitle='false'>Put your infantry in cover whenever you can. Cover increases their range, line of sight, and hitpoints.</String>
-      <String _locID='25793' subtitle='false'>$$LS$$ is used to move around the map.</String>
-      <String _locID='25794' subtitle='false' _mouseKeyboard="26254">Pressing $$LS$$ will send a flare to your allies. This is useful for quickly telling an ally where you plan to attack.</String>
-      <String _locID='25795' subtitle='false'>If you flare a location, your A.I. ally will try to help attack or defend there.</String>
-      <String _locID='25796' subtitle='false'>Proper use of Rally Points allows you to get fresh units to the front lines. Try both Global Rally Points and Rally Points set from bases.</String>
-      <String _locID='25797' subtitle='false' _mouseKeyboard="26255">Double-clicking $$LS$$ will set your Global Rally Point to that location.</String>
-      <String _locID='25798' subtitle='false' _mouseKeyboard="26256">$$RS$$ is used to manipulate the rotation and zoom of your camera. Press it once to reset to the default view.</String>
-      <String _locID='25799' subtitle='false' _mouseKeyboard="26257">$$DPAD$$ is used to jump around the map quickly. Advanced players will use it more often than $$LS$$.</String>
-      <String _locID='25800' subtitle='false' _mouseKeyboard="26258">Want to quickly jump to your Covenant leader? Press UP on $$DPAD$$.</String>
-      <String _locID='25801' subtitle='false' _mouseKeyboard="26259">If you want to cycle through the last few alert messages, press RIGHT on $$DPAD$$.</String>
-      <String _locID='25802' subtitle='false' _mouseKeyboard="26260">Jump from base to base by pressing LEFT on $$DPAD$$.</String>
-      <String _locID='25803' subtitle='false' _mouseKeyboard="26261">Pressing DOWN on $$DPAD$$ will cycle you through all your armies around the map. This is helpful when planning a multi-front assault.</String>
-      <String _locID='25804' subtitle='false' _mouseKeyboard="26262">Selecting a unit is easy with the $$A$$ button, but you can also hold down the $$A$$ button to get a paint brush that will select any unit it touches.</String>
-      <String _locID='25805' subtitle='false'>Group selection and management is important in Halo Wars. To select all the units on the screen, press $$RB$$.</String>
-      <String _locID='25806' subtitle='false'>Want to select all the units in the game at one time? Press $$LB$$.</String>
-      <String _locID='25807' subtitle='false'>$$RT$$ is used to cycle through the unit types you have selected. Expert players will use this to give orders to individual unit types.</String>
-      <String _locID='25808' subtitle='false' _mouseKeyboard="26263">Need to move around the map quickly? Hold down $$LT$$ when you scroll with $$LS$$ to quadruple camera speed.</String>
-      <String _locID='25809' subtitle='false'>Want to cancel a selection or close a menu? Press $$B$$.</String>
-      <String _locID='25810' subtitle='false'>$$X$$ is the primary action button. It will command your selected units to move around the map or attack enemies.</String>
-      <String _locID='25811' subtitle='false'>$$Y$$ is the secondary ability button. Most units have secondary abilities that dramatically alter what you can do with those units.</String>
-      <String _locID='25812' subtitle='false'>At any point in the campaign, you can see your objectives by pressing the $$BACK$$ button.</String>
-      <String _locID='25813' subtitle='false'>Pause the game with the $$START$$ button. This will let you change options or turn on Skulls during a game.</String>
-      <String _locID='25814' subtitle='false' _mouseKeyboard="26633">Move commands can be queued up for sequential execution by briefly holding down $$X$$ when giving commands.</String>
-      <String _locID='25815' subtitle='false'>The circular menu that comes up when you select buildings or Spirit of Fire is called, oddly enough, the Circle Menu.</String>
-      <String _locID='25816' subtitle='false'>When you select any unit, it tells you what type of unit it is. This can be invaluable in deciding how to counter your enemy’s forces.</String>
-      <String _locID='25817' subtitle='false'>In Skirmish games, UNSC players can choose between Captain Cutter, Sergeant Forge, or Professor Anders. Each comes with several unique additions that alter play style.</String>
-      <String _locID='25818' subtitle='false'>The Covenant has three leaders to choose from for a Skirmish game: the Arbiter, the Prophet of Regret, and the Brute Chieftain. </String>
-      <String _locID='25819' subtitle='false'>Unlike the UNSC leaders, each Covenant leader personally appears on the battlefield.</String>
-      <String _locID='25820' subtitle='false'>The UNSC army is professional and regimented. Overall, each UNSC unit is slightly stronger than each Covenant unit.</String>
-      <String _locID='25821' subtitle='false'>The Covenant forces are led by charismatic leaders who drive their zealous followers to fight against humanity with little concern for any individual’s well being.</String>
-      <String _locID='25822' subtitle='false'>While each Covenant unit is somewhat weaker than an equivalent UNSC soldier, the overall Covenant army size is bigger than the UNSC army size.</String>
-      <String _locID='25823' subtitle='false'>The Covenant leaders are the strongest units on the battlefield, though a well-managed group of three Spartans can do a lot of damage too.</String>
-      <String _locID='25824' subtitle='false'>UNSC and Covenant leader powers can be upgraded with technologies. Some upgrades even add new abilities.</String>
-      <String _locID='25825' subtitle='false'>Covenant leaders are upgraded at the Temple.  Each upgrade increases the leader’s combat power and adds interesting new passive abilities.</String>
-      <String _locID='25826' subtitle='false'>Covenant leader powers cost few Supplies to invoke, but require additional Supplies to keep active. Be careful not to spend all your Supplies on one power!</String>
-      <String _locID='25827' subtitle='false'>Captain Cutter can call down the MAC Blast power from Spirit of Fire. Akin to an oversized sniper rifle, the MAC Blast is great for taking out single targets.</String>
-      <String _locID='25828' subtitle='false'>Every new base Captain Cutter builds starts one level higher than normal.</String>
-      <String _locID='25829' subtitle='false'>The Elephant is Captain Cutter’s unique unit. He can also upgrade his Marines to ODST super units.</String>
-      <String _locID='25830' subtitle='false'>Sergeant Forge’s unique power is the Carpet Bomb. It’s the ultimate fiery grenade for ground units.</String>
-      <String _locID='25831' subtitle='false'>With the Cyclops unique unit and Grizzly upgrade, Sergeant Forge displays his fondness for strategies with a focus on heavy units.</String>
-      <String _locID='25832' subtitle='false'>Sergeant Forge’s Supply Pads cost more than normal Supply Pads, but they start with the Heavy Supply Pad upgrade, resulting in a faster mid-game economy.</String>
-      <String _locID='25833' subtitle='false'>The Cryo Bomb is the main Spirit of Fire power for Professor Anders. It freezes ground units in their tracks and can knock flying units out of the air.</String>
-      <String _locID='25834' subtitle='false'>Fancy units are the thing for Professor Anders. The Gremlin unique unit can immobilize other ground vehicles while the Hawk super unit can dominate the sky.</String>
-      <String _locID='25835' subtitle='false'>Because of Professor Anders' science background, her research into unit and leader power upgrades is completed more quickly and at a reduced cost.</String>
+      <String _locID='25786' subtitle='false'>Sử dụng kỹ năng "Lốc Xoáy" của Thủ lĩnh Brute để gây sát thương diện rộng vào đội hình của địch.</String>
+      <String _locID='25787' subtitle='false'>Công nghệ "Destiny" của Thủ lĩnh Brute Chieftain sẽ cho phép hắn làm choáng kẻ địch vào những đợt tấn công của hắn.</String>
+      <String _locID='25788' subtitle='false'>Hãy thử đưa những Elite tàng hình tới đằng sau lực lượng của kẻ thù để bất ngờ tấn công chúng.</String>
+      <String _locID='25789' subtitle='false'>Sử dụng kỹ năng Scorch của Wraith để đẩy lùi những đợt tấn công của địch.</String>
+      <String _locID='25790' subtitle='false'>Banshee với kỹ năng "Hy Sinh" sẽ rơi vào lực lượng ở mặt đất khi nó bị phá hủy, gây ra sát thương trong tầm rơi của nó.</String>
+      <String _locID='25791' subtitle='false'>Công nghệ "State of Grace" của Engineer sẽ cải thiện đáng kể khả năng hồi máu.</String>
+      <String _locID='25792' subtitle='false'>Hãy đưa bộ binh của bạn vào chỗ nấp khi bạn có thể. Những chỗ nấp sẽ tăng phạm vi tấn công, tầm nhìn, và cả máu của họ.</String>
+      <String _locID='25793' subtitle='false'>$$LS$$ được sử dụng để di chuyển xung quanh bản đồ.</String>
+      <String _locID='25794' subtitle='false' _mouseKeyboard="26254">Nhấn $$LS$$ sẽ gửi cảnh báo tới đồng đội của bạn. Nó sẽ giúp bạn giao tiếp với đồng đội dễ dàng và nhanh gọn hơn khi bạn muốn nói vị trí bạn muốn tấn công.</String>
+      <String _locID='25795' subtitle='false'>Khi bạn đã gửi cảnh báo ở vị trí nào đó, người chơi Máy trong đội của bạn sẽ giúp bạn tấn công hoặc là phòng thù ở đó.</String>
+      <String _locID='25796' subtitle='false'>Sử dụng Điểm Tập Hợp một cách hiệu quả sẽ giúp bạn đưa những đơn vị mới tới tiền tuyến nhanh hơn. Hãy thử dùng cả Điểm Tập Hợp (Tổng) và Điểm Tập Hợp (Căn Cứ).</String>
+      <String _locID='25797' subtitle='false' _mouseKeyboard="26255">Nhấn đúp $$LS$$ để đặt Điểm Tập Hợp (Tổng) vào vị trí của tâm nhắm.</String>
+      <String _locID='25798' subtitle='false' _mouseKeyboard="26256">$$RS$$ được sử dụng để xoay và phóng to/nhỏ camera của bạn. Nhấn nó để khôi phục về góc nhìn mặc định.</String>
+      <String _locID='25799' subtitle='false' _mouseKeyboard="26257">$$DPAD$$ được sử dụng để nhảy camera xung quanh bản đồ một cách nhanh chóng. Những người chơi chuyên nghiệp thường dùng nó nhiều hơn nút $$LS$$.</String>
+      <String _locID='25800' subtitle='false' _mouseKeyboard="26258">Muốn nhảy camera tới Thủ lĩnh Covenant? Hãy nhấn nút LÊN của $$DPAD$$.</String>
+      <String _locID='25801' subtitle='false' _mouseKeyboard="26259">Nếu bạn muốn nhảy camera tới những cảnh báo, hãy nhấn nút PHẢI của $$DPAD$$.</String>
+      <String _locID='25802' subtitle='false' _mouseKeyboard="26260">Bạn có thể nhảy camera từ căn cứ này sang những căn cứ khác bằng nút TRÁI của $$DPAD$$.</String>
+      <String _locID='25803' subtitle='false' _mouseKeyboard="26261">Nhấn nút XUỐNG của $$DPAD$$ sẽ nhảy camera tới đội quân của bạn xung quanh bản đồ. Nó sẽ rất hữu ích khi bạn lên kế hoạch tấn công ở nhiều phía.</String>
+      <String _locID='25804' subtitle='false' _mouseKeyboard="26262">Việc chọn đơn vị rất là dễ dàng, tất cả những gì bạn cần làm là nhấn nút $$A$$, nhưng bạn cũng có thể giữ nút $$A$$ để sử dụng "Paint Brush", nó sẽ chọn bất kỳ đơn vị nào mà nó tô vào.</String>
+      <String _locID='25805' subtitle='false'>Việc chọn và quản lý đội hình là điều quan trọng trong Halo Wars. Để chọn toàn bộ đơn vị trong tầm nhìn của bạn, hãy nhấn $$RB$$.</String>
+      <String _locID='25806' subtitle='false'>Bạn muốn chọn toàn bộ đơn vị trong bản đồ cùng một lúc? Hãy nhấn $$LB$$.</String>
+      <String _locID='25807' subtitle='false'>$$RT$$ được sử dụng để đổi những đơn vị bạn đã chọn. Những người chơi chuyên nghiệp sẽ sử dụng nút này để ra lệnh.</String>
+      <String _locID='25808' subtitle='false' _mouseKeyboard="26263">Bạn cần di chuyển xung quanh bản đồ một cách nhanh chóng? Hãy giữ nút $$LT$$ trong khi bạn kéo $$LS$$ tăng tốc độ di chuyển.</String>
+      <String _locID='25809' subtitle='false'>Muốn hủy bỏ hoặc đóng menu? Hãy nhấn $$B$$.</String>
+      <String _locID='25810' subtitle='false'>$$X$$ là nút hành động. Nút này sẽ dùng để ra lệnh cho những đơn vị bạn đã chọn di chuyển xung quanh bản đồ và cũng được dùng để tấn công kẻ thù.</String>
+      <String _locID='25811' subtitle='false'>$$Y$$ là nút kỹ năng. Có nhiều đơn vị có kỹ năng của riêng họ và bạn có thể sử dụng những kỹ năng đó.</String>
+      <String _locID='25812' subtitle='false'>Trong chế độ chiến dịch, bạn có thể xem lại nhiệm vụ của bạn bất cứ lúc nào bằng cách nhấn nút $$BACK$$.</String>
+      <String _locID='25813' subtitle='false'>Bạn có thể dừng trò chơi bằng nút $$START$$. Menu dừng cho phép bạn tùy chỉnh cài đặt và bật Skull ngay cả khi đang ở trong trận đấu.</String>
+      <String _locID='25814' subtitle='false' _mouseKeyboard="26633">Bạn có thể cho đội quân của bạn đi theo thứ tự được đánh dấu bằng cách giữ nút $$X$$ và rồi ra lệnh cho họ di chuyển.</String>
+      <String _locID='25815' subtitle='false'>Menu hình tròn là menu sẽ xuất hiện khi bạn nhấn vào công trình hoặc mở menu của tàu Spirit of Fire.</String>
+      <String _locID='25816' subtitle='false'>Khi bạn chọn bất kỳ đơn vị nào, trò chơi sẽ hiển thị loại đơn vị đó là gì. Bạn có thể áp dụng thông tin này để chống lại chúng.</String>
+      <String _locID='25817' subtitle='false'>Trong những trận đấu Đụng Độ, người chơi thích phe UNSC có thể chọn Thuyền trưởng Cutter, Trung sĩ Forge, hoặc Giáo sư Anders. Mỗi thủ lĩnh đều có cách chơi riêng và những kỹ năng độc đáo.</String>
+      <String _locID='25818' subtitle='false'>Phe Covenant có ba thủ lĩnh bạn có thể chọn để chơi chế độ Đụng Độ: Arbiter, Prophet of Regret, hoặc là Thủ lĩnh Brute. </String>
+      <String _locID='25819' subtitle='false'>Không như những thủ lĩnh của phe UNSC, mỗi thủ lĩnh của phe Covenant sẽ xuất hiện trong chiến trường.</String>
+      <String _locID='25820' subtitle='false'>Đội quân của UNSC rất là chuyên nghiệp và đông đúc. Tóm lại, mỗi đơn vị của UNSC thường khỏe hơn đơn vị của Covenant một chút.</String>
+      <String _locID='25821' subtitle='false'>Lực lượng Covenant được dẫn lối bởi những tên thủ lĩnh có phong cách lãnh đạo lôi cuốn, những kẻ sẽ thúc đẩy niềm tin vào những người theo phe của chúng để chiến đấu với nhân loại mà không quan tâm đến hạnh phúc của bất cứ cá nhân nào.</String>
+      <String _locID='25822' subtitle='false'>Mặc dù mỗi đơn vị của Covenant có phần yếu hơn so với một vài lính của UNSC, quy mô quân đội của Covenant lại lớn hơn UNSC.</String>
+      <String _locID='25823' subtitle='false'>Những thủ lĩnh của Covenant là đơn vị mạnh mẽ nhất trong chiến trường, tuy nhiên một nhóm Spartan được quản lý tốt cũng có thể gây sát thương lớn.</String>
+      <String _locID='25824' subtitle='false'>Kỹ năng thủ lĩnh của UNSC và Covenant có thể được nâng cấp bằng những công nghệ mới. Có một vài công nghệ thậm chí còn thêm những kỹ năng mới.</String>
+      <String _locID='25825' subtitle='false'>Thủ lĩnh của Covenant có thể được nâng cấp tại Ngôi Đền.  Mỗi nâng cấp sẽ cải thiện sức mạnh chiến đấu và thêm những kỹ năng tấn công thú vị.</String>
+      <String _locID='25826' subtitle='false'>Kỹ năng thủ lĩnh của Covenant yêu cầu một chút tài nguyên để sử dụng, nhưng sẽ cần rất nhiều tài nguyên để sử dụng lâu. Đừng tiêu xài hết tài nguyên chỉ để sử dụng kỹ năng!</String>
+      <String _locID='25827' subtitle='false'>Thuyền trưởng Cutter có thể yêu cầu khai hỏa pháo MAC từ tàu Spirit of Fire. Nó trông giống như một súng bắn tỉa khổng lồ, pháo MAC rất phù hợp để tiêu diệt các mục tiêu đơn lẻ.</String>
+      <String _locID='25828' subtitle='false'>Mỗi căn cứ mới mà Thuyền trưởng Cutter xây dựng đều bắt đầu ở cấp cao hơn so với bình thường.</String>
+      <String _locID='25829' subtitle='false'>Elephant là đơn vị đặc biệt của Thuyền trưởng Cutter. Ông ấy cũng có thể nâng cấp Thủy quân lục chiến thành ODST.</String>
+      <String _locID='25830' subtitle='false'>Kỹ năng đặc biệt của Trung sĩ Forge là Ném Bom Rải Thảm. Nó là vũ khí tối thượng chuyên được sử dụng để tiêu diệt những đơn vị ở mặt đất.</String>
+      <String _locID='25831' subtitle='false'>Sở hữu đơn vị đặc biệt: Cyclops cùng với công nghệ Grizzly dành cho xe tăng Scorpion, Trung sĩ Forge thể hiện trình độ lập chiến lược và tập trung tấn công những đơn vị hạng nặng.</String>
+      <String _locID='25832' subtitle='false'>Trạm Cung Cấp Tài Nguyên của Trung sĩ Forge có giá cao hơn so với bình thường, nhưng khi được xây dựng, nó sẽ trở thành Trạm Cung Cấp Tài Nguyên Hạng Nặng, giúp anh ấy có tài nguyên nhanh hơn.</String>
+      <String _locID='25833' subtitle='false'>Bom Đóng Băng là kỹ năng đặc biệt của Giáo sư Anders, nó được thả xuống từ tàu Spirit of Fire và nó sẽ đóng băng những đơn vị trong phạm vi của nó.</String>
+      <String _locID='25834' subtitle='false'>Các đơn vị xịn xò là thứ đặc biệt của Giáo sư Anders. Đơn vị đặc biệt: Gremlin có thể vô hiệu hóa những phương tiện mặt đất, trong khi đơn vị Hawk, một nâng cấp công nghệ của Hornet có thể thống trị cả bầu trời.</String>
+      <String _locID='25835' subtitle='false'>Với trình độ khoa học cực kỳ giỏi của Giáo sư Anders, những nghiên cứu của cô ấy về đơn vị và những nâng cấp kỹ năng thủ lĩnh luôn được hoàn thành ở chi phí rẻ và nhanh nhẹn hơn.</String>
       <String _locID='25836' subtitle='false' _mouseKeyboard="26264">The Arbiter’s Rage Power channels his irrepressible evil into one long fatality string. Use $$RS$$ to initiate quick-jump fatalities in this mode.</String>
-      <String _locID='25837' subtitle='false'>Befitting his disregard for his troops, the Arbiter’s unique unit is the Suicide Grunt squad. The Suicide Grunts' special ability detonates their methane tanks.</String>
-      <String _locID='25838' subtitle='false'>The Prophet of Regret can call down the massive Cleansing Power. This beam of energy, even in its weakest form, is pure devastation for anything it hits.</String>
-      <String _locID='25839' subtitle='false'>Elite Honor Guards protect the Prophet and serve as his unique unit. Equipped with the Cloak ability, these Elites are excellent for sneak attacks.</String>
-      <String _locID='25840' subtitle='false'>The Prophet of Regret’s third combat upgrade converts his floating chair into a flying chair, giving him exciting new tactical potential.</String>
-      <String _locID='25841' subtitle='false'>The Brute Chieftain’s Power is the gravity-related Vortex. Steer it around the combat zone to pull in enemies, then unleash the stored power with $$A$$.</String>
-      <String _locID='25842' subtitle='false'>Jet Pack Brutes complement the Brute Chieftain leader. These heavy infantry units can use their jet packs to cross impassable terrain.</String>
-      <String _locID='25843' subtitle='false'>Halo Wars has a Rock-Paper-Scissors balance between the unit types. Vehicles beat infantry, aircraft beat vehicles, and infantry beat aircraft.</String>
-      <String _locID='25844' subtitle='false'>Counter-units are great at killing one type of unit, but are worse against any other unit. One counter-unit example is the anti-infantry UNSC Flamethrower.</String>
-      <String _locID='25845' subtitle='false'>Remember to multi-task in Halo Wars. Units will continue to think on their own even if you’re off someplace else.</String>
+      <String _locID='25837' subtitle='false'>Với sự khinh thường đối với đội quân của hắn, Arbiter sở hữu đơn vị đặc biệt: Grunt Cảm Tử. Kỹ năng đặc biệt của Grunt Cảm Tử là cho nổ luồng khí methan.</String>
+      <String _locID='25838' subtitle='false'>Prophet of Regret có thể triệu hồi kỹ năng "Càn Quét" của hắn. Tia năng lượng này, ngay cả ở dạng yếu nhất của nó, vẫn có sức tàn phá lớn đối với bất cứ thứ gì nó chạm tới.</String>
+      <String _locID='25839' subtitle='false'>Đội Cận Vệ Elite sẽ bảo vệ tên Prophet và đóng vai trò là đơn vị đặc biệt của hắn. Khi được trang bị kỹ năng "Tàng Hình", đám Elite này sẽ có khả năng tấn công lén lút cực kỳ hiệu quả.</String>
+      <String _locID='25840' subtitle='false'>Nâng cấp chiến đấu số 3 của Prophet of Regret sẽ hóa từ chiếc ghế chỉ biết trôi nổi thành ghế biết bay, giúp hắn có khả năng di chuyển tốt hơn.</String>
+      <String _locID='25841' subtitle='false'>Kỹ năng của Thũ lĩnh Brute là "Lốc Xoáy" trọng lực. Điều khiển nó vào vùng giao tranh hút kẻ thù vào, và rồi giải phóng sức mạnh được tích trữ ở trong bằng nút $$A$$.</String>
+      <String _locID='25842' subtitle='false'>Brute Jet Pack là đơn vị bổ sung của Thủ lĩnh Brute. Những đơn vị hạng nặng này có thể sử dụng bộ phản lực (jet pack) để vượt qua rất nhiều địa hình.</String>
+      <String _locID='25843' subtitle='false'>Halo Wars sử dụng lối chơi của Kéo-Búa-Bao để cân bằng các loại đơn vị. Phương tiện đánh bại bộ binh, máy bay cường kích đánh bại phương tiện, và bộ binh đánh bại máy bay cường kích.</String>
+      <String _locID='25844' subtitle='false'>Những đơn vị phản công rất hiệu quả trong việc tiêu diệt loại đơn vị mà nó có thể phản công lại, nhưng nó lại rất kém trong việc tấn công bất kỳ loại đơn vị nào khác. Một ví dụ của loại đơn vị phản công là Lính Súng Phun Lửa của UNSC, họ là đơn vị phản công bộ binh.</String>
+      <String _locID='25845' subtitle='false'>Sẽ rất tốt nếu bạn có thể thực hiện nhiều công việc trong Halo Wars. Đơn vị của bạn vãn sẽ tự mình hoạt động ngay cả khi bạn đang ở một nơi nào đó khác.</String>
       <String _locID='25846' subtitle='false'>The Fog of War covers the areas of the map that your units cannot currently see. Scout frequently to make sure you know what your enemies are up to.</String>
       <String _locID='25847' subtitle='false'>Did you know you can increase the troop limit? You can find the technologies that do that in the UNSC Field Armory and Covenant Temple.</String>
       <String _locID='25848' subtitle='false'>If you're looking for a quick way to select your units, try either $$RB$$ (all units on screen) or $$LB$$ (all units in the world).</String>
