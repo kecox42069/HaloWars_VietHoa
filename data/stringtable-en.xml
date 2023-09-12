@@ -4694,18 +4694,18 @@ BẢNG ID STRING TRONG GAME
       <String _locID='25843' subtitle='false'>Halo Wars sử dụng lối chơi của Kéo-Búa-Bao để cân bằng các loại đơn vị. Phương tiện đánh bại bộ binh, máy bay cường kích đánh bại phương tiện, và bộ binh đánh bại máy bay cường kích.</String>
       <String _locID='25844' subtitle='false'>Những đơn vị phản công rất hiệu quả trong việc tiêu diệt loại đơn vị mà nó có thể phản công lại, nhưng nó lại rất kém trong việc tấn công bất kỳ loại đơn vị nào khác. Một ví dụ của loại đơn vị phản công là Lính Súng Phun Lửa của UNSC, họ là đơn vị phản công bộ binh.</String>
       <String _locID='25845' subtitle='false'>Sẽ rất tốt nếu bạn có thể thực hiện nhiều công việc trong Halo Wars. Đơn vị của bạn vãn sẽ tự mình hoạt động ngay cả khi bạn đang ở một nơi nào đó khác.</String>
-      <String _locID='25846' subtitle='false'>The Fog of War covers the areas of the map that your units cannot currently see. Scout frequently to make sure you know what your enemies are up to.</String>
-      <String _locID='25847' subtitle='false'>Did you know you can increase the troop limit? You can find the technologies that do that in the UNSC Field Armory and Covenant Temple.</String>
-      <String _locID='25848' subtitle='false'>If you're looking for a quick way to select your units, try either $$RB$$ (all units on screen) or $$LB$$ (all units in the world).</String>
-      <String _locID='25849' subtitle='false'>Different units require different amounts of resources, tech levels, and available army space to train. Stronger units usually cost more and require more army space.</String>
-      <String _locID='25850' subtitle='false'>To try a rush strategy, attack quickly and aggressively. Train military units as soon as possible, apply pressure to the enemy's base, and don't let up until you win.</String>
-      <String _locID='25851' subtitle='false'>To try a boom strategy, build only a few cheap scouting units to take control of additional bases. Build Supply Pads in all bases to maximize your economy before building up your military.</String>
-      <String _locID='25852' subtitle='false'>To try a turtle strategy, build towers at the front of your base and upgrade your Command Center. Use the base defenses to stall the enemy until your technology allows you to train vehicles or air units.</String>
-      <String _locID='25853' subtitle='false'>If you’d like access to better units and upgrades, you need to improve your tech level. Build Reactors as the UNSC or research the Temple’s Age upgrades as the Covenant.</String>
-      <String _locID='25854' subtitle='false'>Try to match up counter units against the units they can best kill. For instance, use Cobras to take on enemy Wraiths and Ghosts.</String>
-      <String _locID='25855' subtitle='false'>Most strategies should involve building at least two types of units. This approach will give you some sort of answer for the majority of enemy units.</String>
-      <String _locID='25856' subtitle='false'>Want a simple strategy? Focus on building just one type of mainline unit and upgrading it all the way quickly.</String>
-      <String _locID='25857' subtitle='false'>Don't ignore the postgame statistics. You can learn a lot about how you can improve your game.</String>
+      <String _locID='25846' subtitle='false'>Khu vực tối, không thể nhìn thấy hoạt động ở đó được gọi là "Fog of War". Hãy thường xuyên sử dụng lính do thám để xem kẻ địch đang làm gì.</String>
+      <String _locID='25847' subtitle='false'>Bạn có biết rằng bạn có thể tăng giới hạn bộ binh? Bạn có thể tìm công nghệ sẽ làm được điều đó ở trong Kho Nâng Cấp Vũ Khí của UNSC hoặc là ở trong Ngôi Đền của Covenant.</String>
+      <String _locID='25848' subtitle='false'>Nếu bạn muốn chọn nhanh đơn vị của bạn, hãy thử dùng $$RB$$ (để chọn toàn bộ đơn vị trong tầm nhìn của bạn) hoặc $$LB$$ (để chọn toàn bộ đơn vị trong bản đồ).</String>
+      <String _locID='25849' subtitle='false'>Mỗi đơn vị sẽ yêu cầu số lượng tài nguyên, trình độ công nghệ, và không gian còn trống trong đội quân để huấn luyện. Những đơn vị mạnh thường yêu cầu nhiều tài nguyên hơn và yêu cầu nhiều không gian hơn.</String>
+      <String _locID='25850' subtitle='false'>Bạn có thể thử chiến lược đẩy nhanh (rush), tấn công thật nhanh, đẩy cũng phải nhanh. Hãy huấn luyện đội quân của bạn sớm nhất có thể, gây áp lực vào căn cứ của kẻ thù, và đừng bỏ cuộc cho đến khi bạn giành chiến thắng.</String>
+      <String _locID='25851' subtitle='false'>Bạn có thể thử chiến lược hỏa lực (boom), chỉ huấn luyện một vài đơn vị do thám rẻ tiền, chiếm những căn cứ xung quanh và tập trung nâng cấp những đơn vị chủ lực. Hãy nhớ xây thật nhiều Trạm Cung Cấp Tài Nguyên để kiếm nhiều tài nguyên nhất có thể trước khi xây dựng đội hình.</String>
+      <String _locID='25852' subtitle='false'>Bạn có thể thử chiến lược chậm nhưng chắc (turtle), hãy xây dựng những pháo phòng thủ ở trước căn cứ và rồi nâng cấp Căn Cứ của bạn. Việc sử dụng hệ thống phòng thủ của căn cứ sẽ giúp bạn ngăn chặn kẻ thù tấn công và sẽ giúp bạn tập trung huấn luyện phương tiện hoặc máy bay cường kích.</String>
+      <String _locID='25853' subtitle='false'>Nếu bạn muốn nâng cấp hoặc huấn luyện những đơn vị mạnh mẽ hơn, bạn sẽ cần phải cải thiện trình độ công nghệ. Đối với phe UNSC, Lò Phản Ứng là thứ sẽ làm được điều đó. Đối với phe Covenant bạn sẽ chỉ cần nghiên cứu những Thời Đại trong Ngôi Đền.</String>
+      <String _locID='25854' subtitle='false'>Hãy sử dụng đơn vị phù hợp để phản công đơn vị của địch. Ví dụ như: Sử dụng Cobra để phản công Wraith và Ghost, vì Cobra là đơn vị phản công phương tiện.</String>
+      <String _locID='25855' subtitle='false'>Hầu hết các chiến lược đều huấn luyện ít nhất hai loại đơn vị. Lối chơi này sẽ giúp bạn biết kẻ địch đang làm gì bằng việc do thám, và cũng để chuẩn bị sẵn cho việc tấn công.</String>
+      <String _locID='25856' subtitle='false'>Bạn muốn biết một chiến lược đơn giản? Hãy tập trung xây dựng một loại đội hình duy nhất để tấn công và nâng cấp nó thật nhanh.</String>
+      <String _locID='25857' subtitle='false'>Đừng bỏ qua kết quả trận đấu. Bạn có thể học được rất nhiều điều về cách cải thiện lối chơi của mình.</String>
       <String _locID='25858' subtitle='false'>Ensemble Studios được thành lập vào năm 1996.</String>
       <String _locID='25859' subtitle='false'>Gợi ý và hướng dẫn sẽ xuất hiện ở đây. Thật đấy.</String>
       <String _locID='25860' category='UI' subtitle='false'>Once a Skull is activated, it will remain on until the end of the scenario.</String>
@@ -4716,30 +4716,32 @@ BẢNG ID STRING TRONG GAME
       <String _locID='25865' category='Campaign' scenario='Tutorial' subtitle='true'>This ends the basic controls tutorial for Halo Wars.  Now you're ready to try the campaign!</String>
       <String _locID='25866' category='UI' scenario='Options' subtitle='false'>Phụ Đề - Lời Thoại Trong Khi Chơi</String>
       <String _locID='25867' category='UI' scenario='Options' subtitle='false'>Tùy chỉnh bật hoặc tắt phụ đề trong khi chơi.</String>
-      <String _locID='25868' subtitle='false'>If you're playing as the Arbiter, try running him near the enemy base and then hot-dropping Suicide Grunts to blow up a few buildings. </String>
-      <String _locID='25869' subtitle='false'>If you're playing as the Covenant, try a leader rush. Just build a Temple and Warehouses, then attack the enemy base with the leader's special ability.</String>
-      <String _locID='25870' subtitle='false'>Try the Elephant rush! Build one Elephant and then lots of Supply Pads. Lock down the Elephant just outside your opponent's base and churn out Marines.</String>
-      <String _locID='25871' subtitle='false'>If you're playing as Anders, Gremlins and Flamethrowers are a devastating combination in large groups.</String>
-      <String _locID='25872' subtitle='false'>Jackals and Hunters complement each other well.</String>
-      <String _locID='25873' subtitle='false'>When playing as Forge, try massing Flamethrowers, and then using your Carpet Bomb to kill enemies that can counter the Flamethrowers.</String>
-      <String _locID='25874' subtitle='false'>One simple boom strategy would be to build four or five Flamethrowers and use them to grab map-specific buildings and additional bases.</String>
-      <String _locID='25875' subtitle='false'>If you micromanage the Prophet of Regret and give him time to recharge his shields, he can take out the enemies around map-specific buildings all by himself.</String>
-      <String _locID='25876' subtitle='false'>The Brute Chopper is stronger than either the Ghost or the Warthog.</String>
-      <String _locID='25877' subtitle='false'>Covenant buildings and bases are naturally weaker than their UNSC counterparts. Be sure to add a Shield Generator.</String>
-      <String _locID='25878' subtitle='false'>Kill enemies around map-specific buildings with your Covenant leader to gain veterancy levels.</String>
-      <String _locID='25879' subtitle='false'>Whenever you have a free building site and you're not sure what to build, a Supply Pad or a Warehouse is always a good choice.</String>
-      <String _locID='25881' subtitle='false'>Garrisoning infantry in a Forerunner Bonus Reactor is a great way to advance your tech level without having to build a Reactor or purchase a Temple upgrade.</String>
-      <String _locID='25882' subtitle='false'>Garrisoning infantry inside a Forerunner Supply Elevator grants a nice boost to supply resources.</String>
-      <String _locID='25883' subtitle='false'>The Protector Plant offers a selection of protector units that can boost the unit you attach them to with bonus shields, healing, or firepower.</String>
-      <String _locID='25884' subtitle='false'>You can purchase Forerunner Sentinel units, including the unit-disabling Super Sentinel, at the Sentinel Factory.</String>
-      <String _locID='25885' subtitle='false'>If you have damaged units, moving them near a Forerunner Spire Of Healing will quickly get them back to full health.</String>
-      <String _locID='25886' subtitle='false'>Controlling the Forerunner Lifesupport Pod will allow you to build larger armies by increasing your population limit.</String>
-      <String _locID='25887' subtitle='false'>Garrisoning infantry in an Energy Wall will create a barrier that will deny mobility to ground units. This can help you hold ground or block choke points.</String>
-      <String _locID='25888' subtitle='false'>Sending units into a Forerunner Teleporter instantly moves them to another teleporter location. A flare on your minimap will help you see where your units have reappeared.</String>
-      <String _locID='25889' subtitle='false'>The team that controls a Mega Turret is a force to be reckoned with. Garrison infantry inside and blast away.</String>
-      <String _locID='25890' subtitle='false'>Sniper Towers are great defensive structures. An infantry squad inside can stand their ground against forces that would normally overwhelm them.</String>
-      <String _locID='25891' subtitle='false'>Minibase locations let you gain extra building sites by allowing you to construct a single building on them.</String>
-      <String _locID='25892' subtitle='false'>Fortify areas away from your base by building on stand-alone turret sites. Once claimed, these turret locations will match the upgrade level of your own turrets.</String>
+      <String _locID='25868' subtitle='false'>Nếu bạn chọn Arbiter làm thủ lĩnh, hãy thử đưa hắn tới gần căn cứ của kẻ thù và rồi dịch chuyển Grunt Cảm Tử tới để phá hủy một vài công trình của địch. </String>
+      <String _locID='25869' subtitle='false'>Nếu bạn chọn phe Covenant, hãy thử chiến lược đẩy bằng thủ lĩnh. Chỉ cần Ngôi Đền và Kho Tài Nguyên, và rồi tấn công căn cứ của kẻ thù bằng kỹ năng đặc biệt của thủ lĩnh.</String>
+      <String _locID='25870' subtitle='false'>Hãy thử đẩy bằng chiếc Elephant! Chế tạo một chiếc Elephant và xây thật nhiều Trạm Cung Cấp Tài Nguyên. Đưa Elephant vào vị trí gần căn cứ của đối thủ và rồi huấn luyện thật nhiều Thủy Quân Lục Chiến từ chiếc Elephant.</String>
+      <String _locID='25871' subtitle='false'>Nếu bạn chọn Anders làm thủ lĩnh, Gremlin và Lính Súng Phun Lửa sẽ là một lựa chọn cực kỳ tàn khốc cho việc tấn công kẻ thù.</String>
+      <String _locID='25872' subtitle='false'>Jackal và Hunter thường hoàn thành tốt nhiệm vụ khi đi cùng với nhau.</String>
+      <String _locID='25873' subtitle='false'>Nếu bạn chọn Forge làm thủ lĩnh, hãy huấn luyện thật nhiều Lính Súng Phun Lửa, và rồi sử dụng Bom Rải Thảm để tiêu diệt những đơn vị có thể phản công Lính Súng Phun Lửa.</String>
+      <String _locID='25874' subtitle='false'>Một chiến lược hỏa lực (boom) đơn giản hơn đó là huấn luyện 4 đến 5 Lính Súng Phun Lửa và đưa họ phá hủy những công trình và căn cứ xung quanh bản đồ.</String>
+      <String _locID='25875' subtitle='false'>Nếu bạn chọn Prophet of Regret làm thủ lĩnh và cho ông ấy một chút thời gian để hồi lại khiên năng lượng, ông ấy có thể tự mình tiêu diệt kẻ thù và công trình xung quanh bản đồ.</String>
+      <String _locID='25876' subtitle='false'>Chopper của Brute là phương tiện mạnh mẽ hơn Ghost và Warthog rất nhiều.</String>
+      <String _locID='25877' subtitle='false'>Các công trình của Covenant thường yếu hơn UNSC rất nhiều. Vậy nên là, hãy xây một trạm Lá Chắn Năng Lượng.</String>
+      <String _locID='25878' subtitle='false'>Tiêu diệt kẻ thù xung quanh những cấu trúc của bản đồ bằng thủ lĩnh Covenant của bạn để tăng cấp bậc to gain veterancy levels.</String>
+      <String _locID='25879' subtitle='false'>Mỗi khi bạn còn thừa một ô xây và bạn không chắc chắn nên xây cái gì, thì Trạm Cung Cấp (đối với UNSC) hoặc Kho Tài Nguyên (đối với Covenant) vẫn luôn là lựa chọn tốt nhất.</String>
+      <String _locID='25881' subtitle='false'>Đưa bộ binh của bạn vào Lò Phản Ứng của Forerunner là một cách để nâng cấp trình độ công nghệ cực kỳ hữu dụng mà không cần phải xây Lò Phản Ứng hoặc nghiên cứu về Thời Đại tại Ngôi Đền.</String>
+      <String _locID='25882' subtitle='false'>Đưa bộ binh của bạn vào trong Trạm Cung Cấp Tài Nguyên của Forerunner sẽ cung cấp cho bạn những tài nguyên cực kỳ hữu ích.</String>
+      <String _locID='25883' subtitle='false'>Cơ Sở Bảo Vệ của Forerunner cung cấp cho bạn những Sentinel sẽ cải thiện thông số cho đơn vị mà bạn chọn như là khiên năng lượng, hồi máu, hoặc là hỏa lực.</String>
+      <String _locID='25884' subtitle='false'>Bạn có thể mua Sentinel của Forerunner, bao gồm cả Siêu Sentinel ở Cơ Sở Sentinel.</String>
+      <String _locID='25885' subtitle='false'>Nếu đơn vị của bạn đang yếu máu, đưa họ tới gần Cột Hồi Máu của Forerunner sẽ hồi máu cho họ một cách nhanh chóng.</String>
+      <String _locID='25886' subtitle='false'>Đưa bộ binh của bạn vào Bệ Hỗ Trợ của Forerunner sẽ cho phép bạn xây dựng đội quân lớn hơn.</String>
+      <String _locID='25887' subtitle='false'>Chỉ đạo bộ binh của bạn kích hoạt Tường Năng Lượng sẽ tạo một bước tường chặn lối đi của những đơn vị trên mặt đất. Việc này sẽ giúp bạn giữ vững và ngăn cản những tình huống nghẹt thở.</String>
+      <String _locID='25888' subtitle='false'>Đưa đội quân vào Bệ Di Chuyển của Forerunner sẽ lập tức di chuyển họ tới phía bên kia của bệ dịch chuyển nào đó khác. Minimap sẽ giúp bạn xác định vị trí của đội quân đã dịch chuyển tới.</String>
+      <String _locID='25889' subtitle='false'>Kẻ nào nắm quyền kiểm soát Ụ Súng Hạng Nặng trước, là kẻ đó sẽ sở hữu hỏa lực cực kỳ lớn. Hãy đưa bộ binh của bạn vào trong ụ súng và khai hỏa nó.</String>
+      <String _locID='25890' subtitle='false'>Tháp Bắn Tỉa là nơi thường được sử dụng để phòng thủ. Bất kỳ bộ binh ở trên đó sẽ có thể tiêu diệt lực lượng vẫn hay áp đảo họ.</String>
+      <String _locID='25891' subtitle='false'>Những ô xây căn cứ Mini cho phép bạn xây một công trình mà bạn muốn.</String>
+	  <!-- không dịch cái 25892 này vì tôi nghĩ đây là left over, tôi chưa từng thấy game này có standalone turret, nếu như tôi ko nhầm cái turret này chỉ có trong halo wars 2. -->
+	  <!-- update: nvm, cái thứ này thật sự có trong game. -->
+      <String _locID='25892' subtitle='false'>Kiểm soát những khu vực ở ngoài căn cứ của bạn bằng cách xây dựng những pháo phòng thủ. Một khi bạn chiếm được nó, những pháo phòng thủ này có thể được nâng cấp giống như cách nâng cấp pháo phòng thủ của căn cứ.</String>
       <String _locID='25893' category='UI' scenario='UIPartyRoom' subtitle='false'>CHƯA MỞ KHÓA</String>
       <String _locID='25894' category='UI' scenario='UICampaignPostgame' subtitle='false'>THÔNG TIN VỀ SỐ ĐIỂM</String>
       <String _locID='25895' category='UI' scenario='UICampaignPostgame' subtitle='false'>SỐ ĐIỂM TỪ NHIỆM VỤ - Là số điểm dựa theo những nhiệm vụ bạn đã hoàn thành.&lt;br&gt;SỐ ĐIỂM TỪ CHIẾN ĐẤU - Là số điểm sẽ được cộng thêm dựa theo số lượng kẻ địch bạn đã giết và sẽ trừ đi dựa theo số lượng đồng minh hy sinh.&lt;br&gt;SỐ ĐIỂM + TỪ THỜI GIAN - Là số điểm được cộng thêm dựa theo tốc độ hoàn thành màn chơi.&lt;br&gt;SỐ ĐIỂM + TỪ SKULL - Một số Skull sẽ cộng hoặc trừ điểm của bạn.&lt;br&gt;TỔNG ĐIỂM - Tổng kết số điểm của màn chơi.</String>
@@ -4756,9 +4758,9 @@ BẢNG ID STRING TRONG GAME
       <String _locID='25906' category='UI' scenario='UICampaignPostgame' subtitle='false'>KHẢ NĂNG CHIẾN ĐẤU</String>
       <String _locID='25907' category='UI' scenario='UICampaignPostgame' subtitle='false'>TÀI NGUYÊN ĐÃ GẶT HÁI ĐƯỢC</String>
       <String _locID='25908' category='UI' scenario='UICampaignPostgame' subtitle='false'>SỐ TÀI NGUYÊN ĐÃ GẶT HÁI ĐƯỢC TỪ HÒM</String>
-      <String _locID='25909' category='UI' scenario='UICampaignPostgame' subtitle='false'>MAX BASES</String>
-      <String _locID='25910' category='UI' scenario='UICampaignPostgame' subtitle='false'>MAX TECH LEVEL</String>
-      <String _locID='25911' category='UI' scenario='UICampaignPostgame' subtitle='false'>TECHS RESEARCHED</String>
+      <String _locID='25909' category='UI' scenario='UICampaignPostgame' subtitle='false'>SỐ CĂN CỨ ĐÃ SỞ HỮU</String>
+      <String _locID='25910' category='UI' scenario='UICampaignPostgame' subtitle='false'>TRÌNH ĐỘ CÔNG NGHỆ</String>
+      <String _locID='25911' category='UI' scenario='UICampaignPostgame' subtitle='false'>SỐ CÔNG NGHỆ ĐÃ NGHIÊN CỨU</String>
       <String _locID='25912' category='Code' scenario='AIDebug' subtitle='false'>1 opening: Early Rush</String>
       <String _locID='25913' category='Code' scenario='AIDebug' subtitle='false'>2 opening: Rush</String>
       <String _locID='25914' category='Code' scenario='AIDebug' subtitle='false'>3 opening: Balanced</String>
