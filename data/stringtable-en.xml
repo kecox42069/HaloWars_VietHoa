@@ -301,8 +301,8 @@ BẢNG ID STRING TRONG GAME
       <String _locID='1097' category='Techs' subtitle='false'>Shadow tech for Vampire</String>
       <String _locID='1098' category='Techs' subtitle='false'>HÚT MÁU</String>
       <String _locID='1099' category='Techs' subtitle='false'>Kỹ năng "Hút Máu" sẽ hút máu của mục tiêu và hồi máu cho Vampire.</String>
-      <String _locID='1100' category='Techs' subtitle='false'>GIÁP HẠNG NẶNG</String>
-      <String _locID='1101' category='Techs' subtitle='false'>Cung cấp giáp năng lượng, nó sẽ ngăn chặn sát thương.</String>
+      <String _locID='1100' category='Techs' subtitle='false'>KHIÊN HẠNG NẶNG</String>
+      <String _locID='1101' category='Techs' subtitle='false'>Cung cấp khiên năng lượng, nó sẽ ngăn chặn sát thương.</String>
       <String _locID='1102' category='Techs' subtitle='false'>KỸ NĂNG THIÊU ĐỐT</String>
       <String _locID='1103' category='Techs' subtitle='false'>Kích hoạt Kỹ Năng "Thiêu Đốt", nó sẽ thiêu đốt khu vực được bắn vào để gây thêm sát thương.</String>
       <String _locID='1104' category='Techs' subtitle='false'>DỰ BỊ</String>
@@ -331,58 +331,58 @@ BẢNG ID STRING TRONG GAME
       <String _locID='1121' category='Techs' subtitle='false'>Trade Energy for Supplies</String>
       <String _locID='1122' category='Techs' subtitle='false'>Sacrifice organics</String>
       <String _locID='1123' category='Techs' subtitle='false'>Trade organics for Supplies</String>
-      <String _locID='1124' category='Techs' subtitle='false'>DUAL LAUNCHERS</String>
-      <String _locID='1125' category='Techs' subtitle='false'>An extra rocket pod gives Wolverines considerably more damage potential.</String>
-      <String _locID='1126' category='Techs' subtitle='false'>POWER TURRET</String>
-      <String _locID='1127' category='Techs' subtitle='false'>Doubles the rotation speed for Scorpion turrets, making them considerably more responsive in combat.</String>
+      <String _locID='1124' category='Techs' subtitle='false'>PHÁO ĐÔI</String>
+      <String _locID='1125' category='Techs' subtitle='false'>Trang bị thêm pháo phản lực cho Wolverine để nó có thể gây thêm sát thương.</String>
+      <String _locID='1126' category='Techs' subtitle='false'>SÚNG MÁY CƠ ĐỘNG</String>
+      <String _locID='1127' category='Techs' subtitle='false'>Cải thiện tốc độ xoay của súng máy từ chiếc xe tăng Scorpion, giúp họ chiến đấu linh hoạt hơn.</String>
       <String _locID='1128' category='Techs' subtitle='false'>
       </String>
       <String _locID='1129' category='Techs' subtitle='false'>
       </String>
-      <String _locID='1130' category='Techs' subtitle='false'>CHAFF POD</String>
-      <String _locID='1131' category='Techs' subtitle='false'>Hornets gain the passive Chaff Ability that is used to distract and divert incoming missiles.</String>
+      <String _locID='1130' category='Techs' subtitle='false'>PHÁO SÁNG</String>
+      <String _locID='1131' category='Techs' subtitle='false'>Hornet sẽ được Kỹ Năng "Pháo Sáng", dùng để đánh lạc hướng tên lửa của đối phương.</String>
       <String _locID='1132' category='Techs' subtitle='false'>Hawk 3</String>
       <String _locID='1133' category='Techs' subtitle='false'>Improves Hawk damage and defense</String>
-      <String _locID='1134' category='Techs' subtitle='false'>PIERCING SHOT</String>
-      <String _locID='1135' category='Techs' subtitle='false'>Cobra railguns gain extra power to allow them to punch through multiple targets, inflicting damage on each. </String>
-      <String _locID='1136' category='Techs' subtitle='false'>SHADE PLASMA</String>
-      <String _locID='1137' category='Techs' subtitle='false'>Modifies Turret into an anti-infantry shade Turret.</String>
-      <String _locID='1138' category='Techs' subtitle='false'>HEAVY NEEDLER</String>
-      <String _locID='1139' category='Techs' subtitle='false'>Modifies Turret into an anti-air heavy needler Turret.</String>
-      <String _locID='1140' category='Techs' subtitle='false'>PLASMA MORTAR</String>
-      <String _locID='1141' category='Techs' subtitle='false'>Modifies Turret into an anti-ground vehicle Turret.</String>
+      <String _locID='1134' category='Techs' subtitle='false'>ĐẠN BẮN XUYÊN</String>
+      <String _locID='1135' category='Techs' subtitle='false'>Súng điện từ của Cobra sẽ được cải tiến để bắn xuyên nhiều mục tiêu hơn. </String>
+      <String _locID='1136' category='Techs' subtitle='false'>PHÁO SHADE</String>
+      <String _locID='1137' category='Techs' subtitle='false'>Nâng cấp Pháo thành Pháo Shade, nó sẽ cải thiện sát thương vào Bộ Binh của kẻ thù.</String>
+      <String _locID='1138' category='Techs' subtitle='false'>PHÁO NEEDLER</String>
+      <String _locID='1139' category='Techs' subtitle='false'>Nâng cấp Pháo thành Pháo Needler, nó sẽ cải thiện sát thương vào Máy Bay Cường Kích của kẻ thù.</String>
+      <String _locID='1140' category='Techs' subtitle='false'>PHÁO PLASMA</String>
+      <String _locID='1141' category='Techs' subtitle='false'>Nâng cấp Pháo thành Pháo Plasma, nó sẽ cải thiện sát thương vào Phương Tiện Cơ Giới của kẻ thù.</String>
       <String _locID='1142' category='Techs' subtitle='false'>Locust 1</String>
       <String _locID='1143' category='Techs' subtitle='false'>Shadow tech for Locust</String>
-      <String _locID='1144' category='Techs' subtitle='false'>OVERDRIVE ABILITY</String>
-      <String _locID='1145' category='Techs' subtitle='false'>Enables the Locust Overdrive Ability. This ability uses the Locust's shield generator output to overcharge its beam weapon. Attack power is drastically increased at the expense of the Locust's shields.</String>
-      <String _locID='1146' category='Techs' subtitle='false'>DEACON</String>
-      <String _locID='1147' category='Techs' subtitle='false'>Inspires the Grunt squad, improving their combat abilities.</String>
+      <String _locID='1144' category='Techs' subtitle='false'>KỸ NĂNG TRUYỀN ĐỘNG</String>
+      <String _locID='1145' category='Techs' subtitle='false'>Kích hoạt Kỹ Năng "Truyền Động" của Locust. Kỹ năng này sử dụng khiên năng lượng của Locust để cải thiện hỏa lực của vũ khí.</String>
+      <String _locID='1146' category='Techs' subtitle='false'>THẦY SÁU</String>
+      <String _locID='1147' category='Techs' subtitle='false'>Thầy sáu sẽ truyền cảm hứng cho Grunt, cải thiện khả năng chiến đấu của chúng.</String>
       <String _locID='1148' category='Techs' subtitle='false'>Big Monument </String>
       <String _locID='1149' category='Techs' subtitle='false'>Bigger Monuments are worth more </String>
-      <String _locID='1150' category='Techs' subtitle='false'>BLESSED WAREHOUSE</String>
-      <String _locID='1151' category='Techs' subtitle='false'>Upgrade the production capacity of this Warehouse to produce more supplies.</String>
+      <String _locID='1150' category='Techs' subtitle='false'>KHO TÀI NGUYÊN ĐƯỢC BAN PHƯỚC</String>
+      <String _locID='1151' category='Techs' subtitle='false'>Cải thiện năng lực sản xuất của Kho Tài Nguyên này để sản xuất thêm vật tư.</String>
       <String _locID='1152' category='Techs' subtitle='false'>Leader 2</String>
       <String _locID='1153' category='Techs' subtitle='false'>Increases the attack and defense of your Leader.</String>
       <String _locID='1154' category='Techs' subtitle='false'>Leader 3</String>
       <String _locID='1155' category='Techs' subtitle='false'>Increases the attack and defense of your Leader.</String>
-      <String _locID='1156' category='Techs' subtitle='false'>FLAME MORTAR</String>
-      <String _locID='1157' category='Techs' subtitle='false'>Adds bonus Anti-Infantry attack to the Turret.</String>
-      <String _locID='1158' category='Techs' subtitle='false'>RAIL GUN</String>
-      <String _locID='1159' category='Techs' subtitle='false'>Adds bonus Anti-Vehicle attack to the Turret.</String>
-      <String _locID='1160' category='Techs' subtitle='false'>MISSILE LAUNCHER</String>
-      <String _locID='1161' category='Techs' subtitle='false'>Adds bonus Anti-Air attack to the Turret.</String>
-      <String _locID='1162' category='Techs' subtitle='false'>REINFORCEMENTS</String>
-      <String _locID='1163' category='Techs' subtitle='false'>Adds +10 to the population cap of your army.</String>
-      <String _locID='1164' category='Techs' subtitle='false'>AUTOCANNONS</String>
-      <String _locID='1165' category='Techs' subtitle='false'>Adds front-firing 35mm guns, improving the Chopper's attack.</String>
-      <String _locID='1166' category='Techs' subtitle='false'>STABILIZERS</String>
-      <String _locID='1167' category='Techs' subtitle='false'>Improves autocannon accuracy and damage.</String>
+      <String _locID='1156' category='Techs' subtitle='false'>PHÁO LỬA</String>
+      <String _locID='1157' category='Techs' subtitle='false'>Gây thêm sát thương vào Bộ Binh của kẻ thù.</String>
+      <String _locID='1158' category='Techs' subtitle='false'>PHÁO ĐIỆN TỪ</String>
+      <String _locID='1159' category='Techs' subtitle='false'>Gây thêm sát thương vào Phương Tiện Cơ Giới của kẻ thù.</String>
+      <String _locID='1160' category='Techs' subtitle='false'>PHÁO TÊN LỬA</String>
+      <String _locID='1161' category='Techs' subtitle='false'>Gây thêm sát thương vào Máy Bay Cường Kích của kẻ thù.</String>
+      <String _locID='1162' category='Techs' subtitle='false'>QUÂN TIẾP VIỆN</String>
+      <String _locID='1163' category='Techs' subtitle='false'>Giới hạn đội quân của bạn sẽ được mở rộng thêm 10 chỗ.</String>
+      <String _locID='1164' category='Techs' subtitle='false'>PHÁO TỰ ĐỘNG</String>
+      <String _locID='1165' category='Techs' subtitle='false'>Trang bị pháo 35mm ở phía trước, cải thiện khả năng tấn công của Chopper.</String>
+      <String _locID='1166' category='Techs' subtitle='false'>ĐỘ ỔN ĐỊNH</String>
+      <String _locID='1167' category='Techs' subtitle='false'>Cải thiện sát thương và độ chính xác của pháo tự động.</String>
       <String _locID='1168' category='Techs' subtitle='false'>BRUTE 1</String>
       <String _locID='1169' category='Techs' subtitle='false'>Shadow tech for Brutes</String>
-      <String _locID='1170' category='Techs' subtitle='false'>JUMP PACK ABILITY</String>
-      <String _locID='1171' category='Techs' subtitle='false'>Enables the Jump Pack Ability, allowing Brutes to quickly cross the battlefield.</String>
-      <String _locID='1172' category='Techs' subtitle='false'>FOLLOWERS</String>
-      <String _locID='1173' category='Techs' subtitle='false'>Increases the maximum size of your army by 10.</String>
+      <String _locID='1170' category='Techs' subtitle='false'>KỸ NĂNG BỘ PHẢN LỰC</String>
+      <String _locID='1171' category='Techs' subtitle='false'>Kích hoạt Kỹ Năng Bộ Phản Lực, cho phép Brute dễ dàng vượt qua nhiều loại địa hình của chiến trường.</String>
+      <String _locID='1172' category='Techs' subtitle='false'>NGƯỜI THEO ĐẾ CHẾ</String>
+      <String _locID='1173' category='Techs' subtitle='false'>Số lượng đội quân của bạn sẽ được mở rộng thêm 10 chỗ.</String>
       <String _locID='1174' category='Techs' subtitle='false'>
       </String>
       <String _locID='1175' category='Techs' subtitle='false'>
@@ -856,7 +856,7 @@ BẢNG ID STRING TRONG GAME
       <String _locID='6034' category='Abilities' subtitle='false'>UNPACK TURRET</String>
       <!-- ID's   7000 -  7999  reserved for leaders -->
       <String _locID='7000' category='Leaders' subtitle='false'>Thuyền trưởng Cutter</String>
-      <String _locID='7001' category='Leaders' subtitle='false'>Đơn Vị Riêng: ELEPHANT, Kỹ Năng Thủ Lĩnh: Pháo MAC, Đơn Vị Mạnh Nhất: ODST, Thưởng Thêm: Tất cả những căn cứ đã xây bắt đầu với cấp độ công nghệ 1.</String>
+      <String _locID='7001' category='Leaders' subtitle='false'>Đơn Vị Riêng: ELEPHANT, Kỹ Năng Thủ Lĩnh: Pháo MAC, Đơn Vị Mạnh Nhất: ODST, Thưởng Thêm: Có thể xây luôn Trạm Hỏa Lực.</String>
       <String _locID='7002' category='Leaders' subtitle='false'>Trung sĩ Forge</String>
       <String _locID='7003' category='Leaders' subtitle='false'>Đơn Vị Riêng: CYCLOPS, Kỹ Năng Thủ Lĩnh: Bom Rải Thảm, Đơn Vị Mạnh Nhất: GRIZZLY, Thưởng Thêm: Có thể xây luôn Trạm Cung Cấp Hạng Nặng.</String>
       <String _locID='7004' category='Leaders' subtitle='false'>Giáo sư Anders</String>
@@ -888,10 +888,10 @@ BẢNG ID STRING TRONG GAME
       <String _locID='7022' category='Leaders' subtitle='false'>Prophet of Pudding</String> <!-- vl Prophet of Pudding lmaoooooo -->
       <String _locID='7023' category='Leaders' subtitle='false'>Basic covenant with no leader bonuses. *for testing purposes only*</String>
       <!-- ID's   8000 -  8100  reserved for skirmish game modes -->
-      <String _locID='8000' category='Skirmish' subtitle='false'>STANDARD</String>
-      <String _locID='8001' category='Skirmish' subtitle='false'>Standard game mode</String>
-      <String _locID='8002' category='Skirmish' subtitle='false'>DEATHMATCH</String>
-      <String _locID='8003' category='Skirmish' subtitle='false'>Deathmatch game mode</String>
+      <String _locID='8000' category='Skirmish' subtitle='false'>ĐẤU THƯỜNG</String>
+      <String _locID='8001' category='Skirmish' subtitle='false'>Chế độ Đấu Thường</String>
+      <String _locID='8002' category='Skirmish' subtitle='false'>TỬ CHIẾN</String>
+      <String _locID='8003' category='Skirmish' subtitle='false'>Chế độ Tử Chiến</String>
       <!-- ID's   9000 -  9999  reserved -->
       <!-- ID's  10000 -  19999  reserved for object names and descriptions -->
       <String _locID='10000' category='Objects' subtitle='false'>CĂN CỨ HỎA LỰC</String>
@@ -1022,7 +1022,7 @@ BẢNG ID STRING TRONG GAME
       <String _locID='10096' category='Objects' subtitle='false'>Lực Lượng Đặc Biệt</String>
       <String _locID='10097' category='Objects' subtitle='false'>Huấn luyện những đơn vị được cung cấp bởi thủ lĩnh</String>
       <String _locID='10098' category='Objects' subtitle='false'>XƯỞNG MÁY BAY</String>
-      <String _locID='10099' category='Objects' subtitle='false'>Máy bay cường kích của Covenant có thể được chế tạo Xưởng Máy Bay.  Những nâng cấp cũng có thể được tìm thấy ở trong công trình này Aircraft.</String>
+      <String _locID='10099' category='Objects' subtitle='false'>Máy bay cường kích của Covenant có thể được chế tạo Xưởng Máy Bay.  Những nâng cấp cũng có thể được tìm thấy ở trong công trình này.</String>
       <String _locID='10100' category='Objects' subtitle='false'>DOANH TRẠI</String>
       <String _locID='10101' category='Objects' subtitle='false'>Khu Doanh trại của Covenant là nơi tập hợp các đơn vị bộ binh vì nghĩa vụ.  Những nâng cấp dành cho bộ binh cũng sẽ có ở đây.</String>
       <String _locID='10102' category='Objects' subtitle='false'>NHÀ MÁY</String>
@@ -1312,34 +1312,34 @@ BẢNG ID STRING TRONG GAME
       <String _locID='22362' category='Campaign' scenario='9' subtitle='false'>Hỗ Trợ Đội Spartan Đỏ</String>
       <String _locID='22363' category='Techs' subtitle='false'>CYCLOPS 1</String>
       <String _locID='22364' category='Techs' subtitle='false'>Improves Cyclops damage and defense (for now).</String>
-      <String _locID='22365' category='Techs' subtitle='false'>REPAIR KIT</String>
-      <String _locID='22366' category='Techs' subtitle='false'>Equips each Cyclops with tools to heal mechanized units and buildings.</String>
-      <String _locID='22367' category='Techs' subtitle='false'>HIGH TORQUE JOINTS</String>
-      <String _locID='22368' category='Techs' subtitle='false'>Massively improved mobility systems increases movement speed of each Cyclops.</String>
+      <String _locID='22365' category='Techs' subtitle='false'>BỘ SỬA CHỮA</String>
+      <String _locID='22366' category='Techs' subtitle='false'>Trang bị cho mỗi Cyclops công cụ sửa chữa để sửa những đơn vị cơ giới và công trình.</String>
+      <String _locID='22367' category='Techs' subtitle='false'>CẢI TIẾN KHỚP NỐI MÔ-MEN XOẮN</String>
+      <String _locID='22368' category='Techs' subtitle='false'>Với hệ thống di chuyển được cải tiến, nó sẽ giúp Cyclops di chuyển nhanh nhẹn hơn.</String>
       <String _locID='22369' category='Skirmish' subtitle='false'>Battle from platform to platform traversing space via your transport power while losing air superiority may cost you the war.</String>
       <String _locID='22370' category='Skirmish' subtitle='false'>1v1 Plates</String>
-      <String _locID='22371' category='Techs' subtitle='false'>RAMMING TARGE</String>
-      <String _locID='22372' category='Techs' subtitle='false'>Increases damage inflicted when the Chopper runs over enemies, and decreases the damage taken.</String>
+      <String _locID='22371' category='Techs' subtitle='false'>KHIÊN TẤN CÔNG</String>
+      <String _locID='22372' category='Techs' subtitle='false'>Cải thiện sát thương gây ra khi Chopper đâm vào kẻ địch, đồng thời giảm sát thương của địch gây ra vào Chopper.</String>
       <String _locID='22373' category='Techs' subtitle='false'>
       </String>
-      <String _locID='22374' category='Techs' subtitle='false'>SUPREME GAUNTLET</String>
-      <String _locID='22375' category='Techs' subtitle='false'>Jackal shields do not collapse when taking damage.</String>
-      <String _locID='22376' category='Techs' subtitle='false'>ASSAULT BEAM</String>
-      <String _locID='22377' category='Techs' subtitle='false'>Equips Hunters with a devastating beam-based weapon.</String>
-      <String _locID='22378' category='Techs' subtitle='false'>SCOUT SHIELD</String>
-      <String _locID='22379' category='Techs' subtitle='false'>Adds an energy shield to Ghosts that deflects some incoming damage.</String>
-      <String _locID='22380' category='Techs' subtitle='false'>SACRIFICE</String>
-      <String _locID='22381' category='Techs' subtitle='false'>Banshees attempt to crash into ground targets and inflict area damage when destroyed.</String>
-      <String _locID='22382' category='Techs' subtitle='false'>STASIS BOMB</String>
-      <String _locID='22383' category='Techs' subtitle='false'>When a target is drained with the Stasis Ability, it explodes, doing area-effect damage.</String>
-      <String _locID='22384' category='Techs' subtitle='false'>PLASMA MODULATOR</String>
-      <String _locID='22385' category='Techs' subtitle='false'>Greatly increases the damage of the Wraith's Plasma Mortar.</String>
+      <String _locID='22374' category='Techs' subtitle='false'>KHIÊN XỊN</String>
+      <String _locID='22375' category='Techs' subtitle='false'>Khiên năng lượng của Jackal sẽ không thể nào bị phá hủy khi có sát thương gây vào nó.</String>
+      <String _locID='22376' category='Techs' subtitle='false'>CHÙM TIA TẤN CÔNG</String>
+      <String _locID='22377' category='Techs' subtitle='false'>Trang bị cho Hunter vũ khí có sức tàn phá lớn hơn.</String>
+      <String _locID='22378' category='Techs' subtitle='false'>KHIÊN DO THÁM</String>
+      <String _locID='22379' category='Techs' subtitle='false'>Cung cấp khiên năng lượng cho Ghost để giảm sát thương của địch gây ra.</String>
+      <String _locID='22380' category='Techs' subtitle='false'>HY SINH</String>
+      <String _locID='22381' category='Techs' subtitle='false'>Banshee sẽ cố đâm vào mục tiêu trên mặt đất và gây sát thương cho họ.</String>
+      <String _locID='22382' category='Techs' subtitle='false'>BOM STASIS</String>
+      <String _locID='22383' category='Techs' subtitle='false'>Khi mục tiêu dính Kỹ Năng Stasis, nó sẽ nổ, gây ra sát thương trong tầm ảnh hưởng.</String>
+      <String _locID='22384' category='Techs' subtitle='false'>ĐIỀU CHỈNH PLASMA</String>
+      <String _locID='22385' category='Techs' subtitle='false'>Cải thiện đáng kể sát thương của Pháo Plasma của Wraith.</String>
       <String _locID='22386' category='Techs' subtitle='false'>
       </String>
       <String _locID='22387' category='Techs' subtitle='false'>
       </String>
-      <String _locID='22388' category='Techs' subtitle='false'>SHIELD AMPLIFIER</String>
-      <String _locID='22389' category='Techs' subtitle='false'>Locust shields regenerate much more quickly.</String>
+      <String _locID='22388' category='Techs' subtitle='false'>BỘ KHUẾCH ĐẠI KHIÊN</String>
+      <String _locID='22389' category='Techs' subtitle='false'>Khiên năng lượng của Locust sẽ hồi phục nhanh hơn.</String>
       <String _locID='22390' category='Techs' subtitle='false'>Flying Artillery 3</String>
       <String _locID='22391' category='Techs' subtitle='false'>Improves flying artillery damage and defense</String>
       <String _locID='22392' category='Techs' subtitle='false'>
@@ -1348,8 +1348,8 @@ BẢNG ID STRING TRONG GAME
       </String>
       <String _locID='22394' category='Techs' subtitle='false'>
       </String>
-      <String _locID='22395' category='Techs' subtitle='false'>ELECTRIC SHOT</String>
-      <String _locID='22396' category='Techs' subtitle='false'>The Brute Shot causes electrical stun damage when it hits.</String>
+      <String _locID='22395' category='Techs' subtitle='false'>ĐẠN ĐIỆN</String>
+      <String _locID='22396' category='Techs' subtitle='false'>Súng Phóng Lựu của Brute sẽ gây sát thương điện vào kẻ thù.</String>
       <String _locID='22397' category='Techs' subtitle='false'>
       </String>
       <String _locID='22398' category='Techs' subtitle='false'>
@@ -1371,12 +1371,12 @@ BẢNG ID STRING TRONG GAME
       <String _locID='22418' category='Skirmish' subtitle='false'>2v2 Maze</String>
       <String _locID='22419' category='Objects' subtitle='false'>Special Ops Center</String>
       <String _locID='22420' category='Objects' subtitle='false'>Special Ops Description</String>
-      <String _locID='22421' category='Techs' subtitle='false'>FLASH BANG ABILITY</String>
-      <String _locID='22422' category='Techs' subtitle='false'>Equips Flamethrowers with active Flash Bang ability that stuns any enemy infantry for a short time.</String>
-      <String _locID='22423' category='Techs' subtitle='false'>NAPALM ADHERENT</String>
-      <String _locID='22424' category='Techs' subtitle='false'>Slow-burning, sticky napalm burns enemies for several seconds after the initial attack.</String>
-      <String _locID='22425' category='Techs' subtitle='false'>OXIDE TANK</String>
-      <String _locID='22426' category='Techs' subtitle='false'>An advanced, higher burn point fuel increases damage to all organic units.</String>
+      <String _locID='22421' category='Techs' subtitle='false'>KỸ NĂNG LỰU ĐẠN CHOÁNG</String>
+      <String _locID='22422' category='Techs' subtitle='false'>Lính Súng Phun Lửa sẽ có Kỹ Năng "Lựu Đạn Choáng" sau khi nâng cấp xong, kỹ nang này sẽ làm choáng bộ binh của kẻ thù trong khoảng thời gian ngắn.</String>
+      <String _locID='22423' category='Techs' subtitle='false'>NAPAN</String>
+      <String _locID='22424' category='Techs' subtitle='false'>Chất cháy chậm, chất cháy napan (napalm) sẽ có thể thiêu đốt kẻ thù trong vài giây.</String>
+      <String _locID='22425' category='Techs' subtitle='false'>BÌNH OXIDE</String>
+      <String _locID='22426' category='Techs' subtitle='false'>Nhiên liệu tiên tiến, cháy mạnh hơn, hữu dụng hơn khi đối đầu với những bộ binh của địch.</String>
       <String _locID='22427' category='Techs' subtitle='false'>Building upgrade1</String>
       <String _locID='22428' category='Techs' subtitle='false'>Improves building armor and defensive Turret damage</String>
       <String _locID='22429' category='Techs' subtitle='false'>Building upgrade2</String>
@@ -1411,7 +1411,7 @@ BẢNG ID STRING TRONG GAME
       <String _locID='22458' category='Techs' subtitle='false'>Increases Energy production by 1/3 but decreases supplies production by 1/3</String>
       <String _locID='22459' category='Techs' subtitle='false'>Vehicle armor</String>
       <String _locID='22460' category='Techs' subtitle='false'>Increases all vehicles armor</String>
-      <String _locID='22461' category='Techs' subtitle='false'>Machine Gun</String>
+      <String _locID='22461' category='Techs' subtitle='false'>Súng Máy</String>
       <String _locID='22462' category='Techs' subtitle='false'>Machine gun bullets increased damage against aircraft</String>
       <String _locID='22463' category='Techs' subtitle='false'>Air speed</String>
       <String _locID='22464' category='Techs' subtitle='false'>All aircraft fly faster</String>
@@ -1423,16 +1423,16 @@ BẢNG ID STRING TRONG GAME
       <String _locID='22470' category='Techs' subtitle='false'>Infantry move faster</String>
       <String _locID='22471' category='Techs' subtitle='false'>Elite Commando 1</String>
       <String _locID='22472' category='Techs' subtitle='false'>Shadow upgrade for Elite Commando</String>
-      <String _locID='22473' category='Techs' subtitle='false'>CLOAK ABILITY</String>
-      <String _locID='22474' category='Techs' subtitle='false'>Enables Cloak Ability.</String>
-      <String _locID='22475' category='Techs' subtitle='false'>PERSONAL SHIELD</String>
-      <String _locID='22476' category='Techs' subtitle='false'>Adds a personal shield that decreases incoming damage.</String>
-      <String _locID='22478' category='Techs' subtitle='false'>CHAIN GUN</String>
-      <String _locID='22479' category='Techs' subtitle='false'>Equips Spartans with two-handed auto-guns for dramatically increased damage.</String>
-      <String _locID='22480' category='Techs' subtitle='false'>NEURAL IMPLANT</String>
-      <String _locID='22481' category='Techs' subtitle='false'>Improved reflexes allow Spartans to Jack enemy vehicles much more effectively.</String>
+      <String _locID='22473' category='Techs' subtitle='false'>KỸ NĂNG TÀNG HÌNH</String>
+      <String _locID='22474' category='Techs' subtitle='false'>Kích hoạt Kỹ Năng "Tàng Hình".</String>
+      <String _locID='22475' category='Techs' subtitle='false'>KHIÊN CÁ NHÂN</String>
+      <String _locID='22476' category='Techs' subtitle='false'>Cung cấp khiên cá nhân dành cho đơn vị này để giảm sát thương.</String>
+      <String _locID='22478' category='Techs' subtitle='false'>SÚNG MÁY</String>
+      <String _locID='22479' category='Techs' subtitle='false'>Trang bị cho những Spartan súng máy hạng nặng để cải thiện sát thương tấn công.</String>
+      <String _locID='22480' category='Techs' subtitle='false'>BỘ CẤY GHÉP THẦN KINH</String>
+      <String _locID='22481' category='Techs' subtitle='false'>Phản xạ của Spartan đã được cải thiện, giúp họ Chiếm phương tiện của địch dễ dàng hơn.</String>
       <String _locID='22482' category='Techs' subtitle='false'>SPARTAN LASER</String>
-      <String _locID='22483' category='Techs' subtitle='false'>The ultimate UNSC handheld weapon gives Spartans a distinct combat advantage.</String>
+      <String _locID='22483' category='Techs' subtitle='false'>Là vũ khí cầm tay tối thượng của UNSC, nó sẽ giúp những Spartan có lợi thế chiến đấu lớn.</String>
       <String _locID='22484' category='Techs' subtitle='false'>Grizzly 1</String>
       <String _locID='22485' category='Techs' subtitle='false'>Increases Grizzly damage and defense</String>
       <String _locID='22486' category='Techs' subtitle='false'>Shortsword 1</String>
@@ -1480,19 +1480,19 @@ BẢNG ID STRING TRONG GAME
       <String _locID='22529' category='Techs' subtitle='false'>Market 2</String>
       <String _locID='22530' category='Techs' subtitle='false'>Further reduces market and tribute penalty</String>
       <String _locID='22531' category='Techs' subtitle='false'>PLASMA MORTAR</String>
-      <String _locID='22532' category='Techs' subtitle='false'>Adds bonus Anti-Infantry attack to the Turret.</String>
+      <String _locID='22532' category='Techs' subtitle='false'>Thêm sát thương tấn công vào bộ binh dành cho Pháo Phòng Thủ.</String>
       <String _locID='22533' category='Techs' subtitle='false'>FUEL ROD</String>
-      <String _locID='22534' category='Techs' subtitle='false'>Adds bonus Anti-Vehicle attack to the Turret.</String>
+      <String _locID='22534' category='Techs' subtitle='false'>Thêm sát thương tấn công vào phương tiện dành cho Pháo Phòng Thủ.</String>
       <String _locID='22535' category='Objects' subtitle='false'>Charging Station</String>
       <String _locID='22536' category='Objects' subtitle='false'>Charges Leader Power</String>
       <String _locID='22537' category='Objects' subtitle='false'>Charging Station</String>
       <String _locID='22538' category='Objects' subtitle='false'>Charges Leader Power</String>
       <String _locID='22539' category='Techs' subtitle='false'>NEEDLER</String>
-      <String _locID='22540' category='Techs' subtitle='false'>Adds bonus Anti-Air attack to the Turret.</String>
-      <String _locID='22541' category='Techs' subtitle='false'>TWIN ENGINE</String>
-      <String _locID='22542' category='Techs' subtitle='false'>Elephant speed is greatly improved by the addition of a second engine.</String>
-      <String _locID='22543' category='Techs' subtitle='false'>CERAMIC ARMOR</String>
-      <String _locID='22544' category='Techs' subtitle='false'>An additional set of composite alloy plates boost the Elephant's damage mediation.</String>
+      <String _locID='22540' category='Techs' subtitle='false'>Thêm sát thương tấn công vào máy bay cường kích dành cho Pháo Phòng Thủ (Nâng cấp thành Pháo Phòng Không).</String>
+      <String _locID='22541' category='Techs' subtitle='false'>ĐỘNG CƠ ĐÔI</String>
+      <String _locID='22542' category='Techs' subtitle='false'>Tốc độ của Elephant được cải thiện đáng kể việc chạy 2 động cơ.</String>
+      <String _locID='22543' category='Techs' subtitle='false'>GIÁP COMPOSITE</String>
+      <String _locID='22544' category='Techs' subtitle='false'>Bổ sung thêm thiết giáp từ tổ hợp kim côm-pô-xít sẽ tăng cường khả năng giảm sát thương của Elephant.</String>
       <String _locID='22545' category='Techs' subtitle='false'>
       </String>
       <String _locID='22546' category='Techs' subtitle='false'>
@@ -1507,7 +1507,7 @@ BẢNG ID STRING TRONG GAME
       </String>
       <String _locID='22551' category='Skirmish' subtitle='false'>2v2 Halo SWI</String>
       <String _locID='22552' category='Skirmish' subtitle='false'>Battle over a node heavy center; although you can gain a major econ boost, you can not build Turrets there.</String>
-      <String _locID='22555' category='UI' subtitle='false'>Combat Grade</String>
+      <String _locID='22555' category='UI' subtitle='false'>Cấp Bậc Chiến Đấu</String>
       <String _locID='22568' category='Campaign' scenario='13' subtitle='true'>Trung sĩ, chúng ta cần ngăn chặn đám Covenant...</String>
       <String _locID='22569' category='Campaign' scenario='13' subtitle='true'>John, Tôi... tôi nghĩ là tôi biết cách chống lại đám Covenant! Tôi cần quay lại phòng nghiên cứu!</String>
       <String _locID='22570' category='Campaign' scenario='13' subtitle='true'>Từ từ thôi, giáo sư. Cố gắng không chết trước đã.</String>
@@ -2157,7 +2157,7 @@ BẢNG ID STRING TRONG GAME
       <String _locID='23192' category='Campaign' scenario='3' subtitle='false'>Các đơn vị của Covenant đang đột nhập bằng những lối vào mà chúng ta tưởng đã bị đóng. Hãy để ý đến những cánh cửa ở đó.</String>
       <String _locID='23193' category='Campaign' scenario='3' subtitle='false'>Pelican đang tới.</String>
       <String _locID='23195' category='Campaign' scenario='3' subtitle='false'>Đây là Cutter. Đưa bộ binh vào trong đó và tìm ra vị trí của Forge! Đưa Anders ra khỏi đó!</String>
-      <String _locID='23196' category='Campaign' scenario='3' subtitle='false'>Đám Hunter được trang bị giáp hạng nặng. Đưa chiếc Scorpion đó vào trong và giúp Forge tiêu diệt chúng.</String>
+      <String _locID='23196' category='Campaign' scenario='3' subtitle='false'>Đám Hunter được trang bị áo giáp hạng nặng. Đưa chiếc Scorpion đó vào trong và giúp Forge tiêu diệt chúng.</String>
       <String _locID='23197' category='Campaign' scenario='3' subtitle='true'>Covenant đã mai phục phe ta, chúng đang nhốt Forge và Anders bên trong di tích. Hãy vào đó và hộ tống họ ra ngoài.</String>
       <String _locID='23199' category='Campaign' scenario='3' subtitle='true'>Chiếc Pelican đang giữ vững vị trí để đưa Forge và Anders ra khỏi đây ngay sau khi họ đến lối thoát của di tích.</String>
       <String _locID='23200' category='Campaign' scenario='5' subtitle='true'>Covenant đang ở ngay sau đít chúng ta rồi! Cứ tiếp tục di chuyển đi!</String>
@@ -2380,11 +2380,11 @@ BẢNG ID STRING TRONG GAME
       <String _locID='23439' category='UI' subtitle='false'>SẴN SÀNG</String>
       <String _locID='23440' category='UI' subtitle='false'>QUAY LẠI</String>
       <String _locID='23441' category='UI' subtitle='false'>HỒ SƠ XBOX</String>
-      <String _locID='23442' category='UI' subtitle='false'>KICK</String>
-      <String _locID='23443' category='UI' subtitle='false'>SETUP</String>
+      <String _locID='23442' category='UI' subtitle='false'>ĐUỔI</String>
+      <String _locID='23443' category='UI' subtitle='false'>THIẾT LẬP</String>
       <String _locID='23444' category='UI' subtitle='false'>TÙY CHỌN PHÒNG ĐẤU</String>
-      <String _locID='23445' category='UI' subtitle='false'>CHANGE LOBBY</String>
-      <String _locID='23446' category='UI' subtitle='false'>SETTINGS</String>
+      <String _locID='23445' category='UI' subtitle='false'>ĐỔI PHÒNG CHỜ</String>
+      <String _locID='23446' category='UI' subtitle='false'>CÀI ĐẶT</String>
       <String _locID='23447' category='UI' subtitle='false'>SỐ NGƯỜI CHƠI</String>
       <String _locID='23448' category='UI' subtitle='false'>BẢN ĐỒ</String>
       <String _locID='23449' category='UI' subtitle='false'>ĐỘ KHÓ</String>
@@ -2633,12 +2633,12 @@ BẢNG ID STRING TRONG GAME
       <String _locID='23684' category='Campaign' scenario='4' subtitle='true'>Đây là đội tuần tra. Đám đông đang bị tấn công! Chúng tôi cần giúp đỡ ngay!</String>
       <String _locID='23685' category='' scenario='Hint Display' subtitle='false'>(Hint Arrows?)</String>
       <String _locID='23686' category='Campaign' scenario='1' subtitle='false'>Chọn toàn bộ đội quân</String>
-      <String _locID='23687' category='Techs' subtitle='false'>GRIZZLY SUPER UNIT</String>
-      <String _locID='23688' category='Techs' subtitle='false'>Upgrades Scorpions to Grizzly super units. Grizzlies are heavier tanks that pack a bigger punch than regular Scorpions.</String>
-      <String _locID='23689' category='Techs' subtitle='false'>HAWK SUPER UNIT</String>
-      <String _locID='23690' category='Techs' subtitle='false'>Upgrades Hornets to Hawk super units. Equipped with laser beams, Hawks are fearsome combat units.</String>
-      <String _locID='23691' category='Techs' subtitle='false'>ODST SUPER UNIT</String>
-      <String _locID='23692' category='Techs' subtitle='false'>Upgrades Marines to Orbital Drop Shock Trooper super units. ODSTs are better than Marines in every way. ODSTs can also be hot-dropped anywhere on the battlefield from Spirit of Fire.</String>
+      <String _locID='23687' category='Techs' subtitle='false'>GRIZZLY (ĐƠN VỊ MẠNH NHẤT)</String>
+      <String _locID='23688' category='Techs' subtitle='false'>Nâng cấp Scorpion thành đơn vị Grizzly của Trung sĩ Forge. Grizzly là loại xe tăng hạng nặng và có hỏa lực mạnh hơn Scorpion rất nhiều.</String>
+      <String _locID='23689' category='Techs' subtitle='false'>HAWK (ĐƠN VỊ MẠNH NHẤT)</String>
+      <String _locID='23690' category='Techs' subtitle='false'>Nâng cấp Hornet thành đơn vị Hawk của Giáo sư Anders. Nó được trang bị tia laser, Hawk là đơn vị chiến đấu cực kỳ đáng sợ.</String>
+      <String _locID='23691' category='Techs' subtitle='false'>ODST (ĐƠN VỊ MẠNH NHẤT)</String>
+      <String _locID='23692' category='Techs' subtitle='false'>Nâng cấp Thủy Quân Lục Chiến thành Bộ Binh Xung Kích Từ Quỹ Đạo (Orbital Drop Shock Trooper - ODST) của Thuyền trưởng Cutter. ODST là loại bộ binh mạnh mẽ hơn Thủy Quân Lục Chiến về mọi mặt. ODST cũng có thể được thả xuống quỹ đạo ngay lập tức từ tàu Spirit of Fire.</String>
       <String _locID='23693' category='Cinematics' subtitle='false'>GIỚI THIỆU</String>
       <String _locID='23694' category='Cinematics' subtitle='false'>GIÁO SƯ ĐỐI ĐẦU KẺ ĐỊCH</String>
       <String _locID='23695' category='Cinematics' subtitle='false'>AN TOÀN NHƯ Ở NHÀ</String>
@@ -3050,8 +3050,8 @@ BẢNG ID STRING TRONG GAME
       <String _locID='24109' category='Skirmish' scenario='Hint Chat' subtitle='false'>Units gain combat experience as they fight. Veteran units are tougher and do more damage. The pips above a unit tell you how experienced it is.</String>
       <String _locID='24110' category='UI' scenario='Party Room' subtitle='false'>DEPRECATED Halo Wars could not authorize the active Xbox Live profile.</String>
       <String _locID='24111' category='UI' scenario='Party Room' subtitle='false'>Đã sẵn sàng và đang đợi phòng chơi bắt đầu...</String>
-      <String _locID='24112' category='UI' scenario='Party Room' subtitle='false' _mouseKeyboard="26242">Press $$Y$$ to invite friends to play</String>
-      <String _locID='24113' category='UI' scenario='Party Room' subtitle='false' _mouseKeyboard="26243">Press $$A$$ for player options</String>
+      <String _locID='24112' category='UI' scenario='Party Room' subtitle='false' _mouseKeyboard="26242">Nhấn $$Y$$ để mời bạn bè vào phòng chơi</String>
+      <String _locID='24113' category='UI' scenario='Party Room' subtitle='false' _mouseKeyboard="26243">Nhấn $$A$$ để xem tùy chọn dành cho người chơi này</String>
       <String _locID='24114' category='Campaign' scenario='6' subtitle='false'>Yêu cầu một chiếc Rhino</String>
       <String _locID='24115' category='Campaign' scenario='6' subtitle='false'>Phá Nguồn Năng Lượng của Mái Vòm và Vũ khí Phòng Không</String>
       <String _locID='24116' category='UI' subtitle='false'>Không đủ người chơi kết nối vào trận đấu để tiếp tục.</String>
@@ -3102,10 +3102,10 @@ BẢNG ID STRING TRONG GAME
       <String _locID='24169' category='UI' scenario='Party Room' subtitle='false'>THAM GIA PHÒNG</String>
       <String _locID='24170' category='Techs' subtitle='false'>Suicide Grunt 1</String>
       <String _locID='24171' category='Techs' subtitle='false'>Shadow tech for Suicide Grunt </String>
-      <String _locID='24172' category='Techs' subtitle='false'>ZEAL</String>
-      <String _locID='24173' category='Techs' subtitle='false'>Suicide Grunts are faster in Suicide Mode.</String>
-      <String _locID='24174' category='Techs' subtitle='false'>DEFILE</String>
-      <String _locID='24175' category='Techs' subtitle='false'>The Suicide Grunt's explosion splashes enemies with burning chemicals.</String>
+      <String _locID='24172' category='Techs' subtitle='false'>NHIỆT HUYẾT</String>
+      <String _locID='24173' category='Techs' subtitle='false'>Grunt Cảm Tử sẽ chạy nhanh hơn khi sử dụng Kỹ Năng "Tự Sát".</String>
+      <String _locID='24174' category='Techs' subtitle='false'>HƯ HẠI</String>
+      <String _locID='24175' category='Techs' subtitle='false'>Cú nổ của Grunt Cảm Tử sẽ gây sát thương bằng hóa chất cháy.</String>
       <String _locID='24176' category='UI' scenario='Party Room' subtitle='false'>TÌM LẠI</String>
       <String _locID='24177' category='Objects' subtitle='false'>KHO TÀI NGUYÊN ĐƯỢC BAN PHƯỚC</String>
       <String _locID='24178' category='Objects' subtitle='false'>Kho Tài Nguyên Được Ban Phước cung cấp nhiều tài nguyên hơn Kho Tài Nguyên thường, giúp đẩy nhanh quá trình đào tạo các đơn vị, xây dựng công trình, và để mua những nâng cấp về mặt công nghệ. Các căn cứ có sản lượng kinh tế lớn thường có tới 6 Kho Tài Nguyên.</String>
@@ -3204,8 +3204,8 @@ BẢNG ID STRING TRONG GAME
       <String _locID='24307' category='Campaign' scenario='2' subtitle='false'>Đưa Căn Cứ Alpha Hoạt Động Trở Lại</String>
       <String _locID='24308' category='Squads' subtitle='false'>Buff Protector</String>
       <String _locID='24309' category='Squads' subtitle='false'>Buffs the units in your squad</String>
-      <String _locID='24310' category='Squads' subtitle='false'>HỘ VỆ (GIÁP NĂNG LƯỢNG)</String>
-      <String _locID='24311' category='Squads' subtitle='false'>Gắn thứ này vào một đội hình nào đó để cung cấp cho họ giáp năng lượng.</String>
+      <String _locID='24310' category='Squads' subtitle='false'>HỘ VỆ (KHIÊN NĂNG LƯỢNG)</String>
+      <String _locID='24311' category='Squads' subtitle='false'>Gắn thứ này vào một đội hình nào đó để cung cấp cho họ khiên năng lượng.</String>
       <String _locID='24312' category='Campaign' scenario='' subtitle='false'>
       </String>
       <String _locID='24313' category='' scenario='' subtitle='false'>
@@ -3319,70 +3319,70 @@ BẢNG ID STRING TRONG GAME
       <String _locID='24391' category='Objects' subtitle='false'>XE TẢI BỊ HỎNG</String>
       <String _locID='24392' category='Objects' subtitle='false'>
       </String>
-      <String _locID='24394' category='Techs' subtitle='false'>STATE OF GRACE</String>
-      <String _locID='24395' category='Techs' subtitle='false'>Increases repair rate.</String>
-      <String _locID='24396' category='Techs' subtitle='false'>HARMONIOUS DIGESTION</String>
-      <String _locID='24397' category='Techs' subtitle='false'>Increases movement speed.</String>
-      <String _locID='24398' category='Techs' subtitle='false'>FORERUNNER SHIELD</String>
-      <String _locID='24399' category='Techs' subtitle='false'>Augmented with even more repurposed Forerunner technology, all Covenant shields now recharge much faster.</String>
-      <String _locID='24400' category='Techs' subtitle='false'>BLESSED IMMOLATION</String>
-      <String _locID='24401' category='Techs' subtitle='false'>Upgrades the Prophet's plasma cannons to fuel rod cannons, increasing damage.</String>
-      <String _locID='24402' category='Techs' subtitle='false'>ANCESTRAL PERVERSION</String>
-      <String _locID='24403' category='Techs' subtitle='false'>Two protectors hover near the Prophet and protect him.</String>
-      <String _locID='24404' category='Techs' subtitle='false'>DIVINE ABSOLUTION</String>
-      <String _locID='24405' category='Techs' subtitle='false'>Upgrades to the Prophet's chair grant him full flight capabilities.</String>
-      <String _locID='24406' category='Techs' subtitle='false'>REGRET'S SENTENCE</String>
-      <String _locID='24407' category='Techs' subtitle='false'>The Cleansing Beam Ability is larger and does more damage.</String>
-      <String _locID='24408' category='Techs' subtitle='false'>REGRET'S DOOM</String>
-      <String _locID='24409' category='Techs' subtitle='false'>The Cleansing Beam Ability is larger and does more damage.</String>
-      <String _locID='24410' category='Techs' subtitle='false'>REGRET'S CONDEMNATION</String>
-      <String _locID='24411' category='Techs' subtitle='false'>The Cleansing Beam Ability burns even brighter, doing area damage.</String>
-      <String _locID='24412' category='Techs' subtitle='false'>INHERITANCE</String>
-      <String _locID='24413' category='Techs' subtitle='false'>Adds a stun to the Gravity Hammer.</String>
-      <String _locID='24414' category='Techs' subtitle='false'>BIRTHRIGHT</String>
+      <String _locID='24394' category='Techs' subtitle='false'>TÌNH TRẠNG ÂN SỦNG</String>
+      <String _locID='24395' category='Techs' subtitle='false'>Cải thiện tốc độ sửa chữa.</String>
+      <String _locID='24396' category='Techs' subtitle='false'>CẢI THIỆN TIÊU HÓA</String>
+      <String _locID='24397' category='Techs' subtitle='false'>Cải thiện tốc độ di chuyển.</String>
+      <String _locID='24398' category='Techs' subtitle='false'>KHIÊN CỦA FORERUNNER</String>
+      <String _locID='24399' category='Techs' subtitle='false'>Được tăng cường với công nghệ của Forerunner, toàn bộ khiên của Covenant sẽ được hồi phục nhanh hơn.</String>
+      <String _locID='24400' category='Techs' subtitle='false'>CÚNG TẾ</String>
+      <String _locID='24401' category='Techs' subtitle='false'>Nâng cấp pháo plasma của Prophet thành pháo fuel rod, sát thương sẽ được cải thiện.</String>
+      <String _locID='24402' category='Techs' subtitle='false'>SỰ BẢO VỆ ĐẾN TỪ TỔ TIÊN</String>
+      <String _locID='24403' category='Techs' subtitle='false'>Hai hộ vệ sẽ sát cánh cùng với Prophet để bảo vệ hắn.</String>
+      <String _locID='24404' category='Techs' subtitle='false'>SỰ THA THỨ THIÊNG LIÊNG</String>
+      <String _locID='24405' category='Techs' subtitle='false'>Nâng cấp ghế của Prophet, giúp hắn làm chủ trên không trung.</String>
+      <String _locID='24406' category='Techs' subtitle='false'>SỰ KẾT ÁN CỦA REGRET</String>
+      <String _locID='24407' category='Techs' subtitle='false'>Phạm vi tấn công của chùm tia từ kỹ năng "Càn Quét" sẽ rộng hơn và gây nhiều sát thương hơn.</String>
+      <String _locID='24408' category='Techs' subtitle='false'>SỰ CHẾT CHÓC CỦA REGRET</String>
+      <String _locID='24409' category='Techs' subtitle='false'>Phạm vi tấn công của chùm tia từ kỹ năng "Càn Quét" sẽ rộng hơn và gây nhiều sát thương hơn.</String>
+      <String _locID='24410' category='Techs' subtitle='false'>SỰ TRỪNG PHẠT CỦA REGRET</String>
+      <String _locID='24411' category='Techs' subtitle='false'>Phạm vi tấn công của chùm tia từ kỹ năng "Càn Quét" sẽ thiêu đốt mạnh hơn, và nó sẽ gây sát thương trong khu vực bị ảnh hưởng.</String>
+      <String _locID='24412' category='Techs' subtitle='false'>THỪA KẾ</String>
+      <String _locID='24413' category='Techs' subtitle='false'>Thêm khả năng làm choáng kẻ địch vào Búa Trọng Lực của Thủ lĩnh Brute.</String>
+      <String _locID='24414' category='Techs' subtitle='false'>TRƯỞNG TỬ</String>
       <String _locID='24415' category='Techs' subtitle='false'>When the Chieftain's hammer is charged up, the Chieftain will pull his enemies to him.</String>
-      <String _locID='24416' category='Techs' subtitle='false'>DESTINY</String>
+      <String _locID='24416' category='Techs' subtitle='false'>ĐỊNH MỆNH</String>
       <String _locID='24417' category='Techs' subtitle='false'>Adds an area-effect stun to the gravity hammer, and inflicts fatalities on stunned enemy infantry.</String>
-      <String _locID='24418' category='Techs' subtitle='false'>TSUNAMI</String>
-      <String _locID='24419' category='Techs' subtitle='false'>Additional enemies may be drawn into the vortex and potential damage increased.</String>
-      <String _locID='24420' category='Techs' subtitle='false'>HURRICANE</String>
-      <String _locID='24421' category='Techs' subtitle='false'>Additional enemies may be drawn into the vortex and potential damage increased.</String>
-      <String _locID='24422' category='Techs' subtitle='false'>SINGULARITY</String>
-      <String _locID='24423' category='Techs' subtitle='false'>Additional enemies may be drawn into the vortex and potential damage increased.</String>
-      <String _locID='24424' category='Techs' subtitle='false'>FIENDISH RETURN</String>
-      <String _locID='24425' category='Techs' subtitle='false'>The Arbiter reflects some incoming damage back to his attacker.</String>
-      <String _locID='24426' category='Techs' subtitle='false'>VICIOUS BLADES</String>
-      <String _locID='24427' category='Techs' subtitle='false'>The Arbiter reflects even more damage and has stronger attacks himself.</String>
-      <String _locID='24428' category='Techs' subtitle='false'>GHASTLY VISION</String>
-      <String _locID='24429' category='Techs' subtitle='false'>The Arbiter becomes permanently cloaked and increases reflected damage even more.</String>
-      <String _locID='24430' category='Techs' subtitle='false'>DEFIANT RAGE</String>
-      <String _locID='24431' category='Techs' subtitle='false'>Health is restored every time the Arbiter inflicts a fatality in Rage Mode.</String>
-      <String _locID='24432' category='Techs' subtitle='false'>SPITEFUL RAGE</String>
-      <String _locID='24433' category='Techs' subtitle='false'>Rage Mode costs less to maintain.</String>
-      <String _locID='24434' category='Techs' subtitle='false'>BLINDING RAGE</String>
-      <String _locID='24435' category='Techs' subtitle='false'>Rage Mode increases Arbiter combo damage and the attack power of nearby allies.</String>
+      <String _locID='24418' category='Techs' subtitle='false'>LỐC XOÁY THẦN TỐC</String>
+      <String _locID='24419' category='Techs' subtitle='false'>Tăng khả năng kẻ địch sẽ bị hút vào lốc xoáy và sát thương gây ra sẽ được cải thiện.</String>
+      <String _locID='24420' category='Techs' subtitle='false'>BÃO XOÁY</String>
+      <String _locID='24421' category='Techs' subtitle='false'>Tăng khả năng kẻ địch sẽ bị hút vào lốc xoáy và sát thương gây ra sẽ được cải thiện.</String>
+      <String _locID='24422' category='Techs' subtitle='false'>SỰ PHI THƯỜNG</String>
+      <String _locID='24423' category='Techs' subtitle='false'>Tăng khả năng kẻ địch sẽ bị hút vào lốc xoáy và sát thương gây ra sẽ được cải thiện.</String>
+      <String _locID='24424' category='Techs' subtitle='false'>SỰ TRỞ LẠI TÀN BẠO</String>
+      <String _locID='24425' category='Techs' subtitle='false'>Arbiter có thể phản lại sát thương của địch.</String>
+      <String _locID='24426' category='Techs' subtitle='false'>LƯỠI KIẾM HUNG ÁC</String>
+      <String _locID='24427' category='Techs' subtitle='false'>Arbiter sẽ có thể phản thêm sát thương của địch và hắn cũng sẽ có được những đòn tấn công mạnh hơn.</String>
+      <String _locID='24428' category='Techs' subtitle='false'>ÁNH MẮT GHÊ RỢN</String>
+      <String _locID='24429' category='Techs' subtitle='false'>Arbiter sẽ hoàn toàn tàng hình và hắn có thể phản lại nhiều sát thương hơn.</String>
+      <String _locID='24430' category='Techs' subtitle='false'>CƠN NỘ BƯỚNG BỈNH</String>
+      <String _locID='24431' category='Techs' subtitle='false'>Máu của Arbiter sẽ được hồi mỗi lần hắn giết đơn ai đó bằng Kỹ năng "Nộ".</String>
+      <String _locID='24432' category='Techs' subtitle='false'>CƠN NỘ CAY ĐẮNG</String>
+      <String _locID='24433' category='Techs' subtitle='false'>Kỹ năng "Nộ" sẽ tốn ít chi phí hơn để sử dụng.</String>
+      <String _locID='24434' category='Techs' subtitle='false'>CƠN NỘ MÙ QUÁNG</String>
+      <String _locID='24435' category='Techs' subtitle='false'>Kỹ năng "Nộ" sẽ cải thiện sát thương combo của Arbiter và cả những đồng minh của hắn khi họ ở gần.</String>
       <String _locID='24436' category='Techs' subtitle='false'>ONI SPIES</String>
       <String _locID='24437' category='Techs' subtitle='false'>Allows everyone on your team to see any enemy units and bases.</String>
-      <String _locID='24438' category='Techs' subtitle='false'>MEDIUM MAC BLAST</String>
-      <String _locID='24439' category='Techs' subtitle='false'>MAC Blast ammo capacity upgraded to provide two shots.</String>
-      <String _locID='24440' category='Techs' subtitle='false'>LARGE MAC BLAST</String>
-      <String _locID='24441' category='Techs' subtitle='false'>MAC Blast ammo capacity upgraded to provide three shots.</String>
-      <String _locID='24442' category='Techs' subtitle='false'>SUPER MAC BLAST</String>
-      <String _locID='24443' category='Techs' subtitle='false'>MAC Blast ammo capacity upgraded to provide four shots.</String>
-      <String _locID='24444' category='Techs' subtitle='false'>MEDIUM BOM RẢI THẢM</String>
-      <String _locID='24445' category='Techs' subtitle='false'>Carpet Bomb strafe distance and damage increased.</String>
-      <String _locID='24446' category='Techs' subtitle='false'>LARGE BOM RẢI THẢM</String>
-      <String _locID='24447' category='Techs' subtitle='false'>Carpet Bomb strafe distance and damage increased.</String>
-      <String _locID='24448' category='Techs' subtitle='false'>SUPER BOM RẢI THẢM</String>
-      <String _locID='24449' category='Techs' subtitle='false'>Carpet Bomb strafe distance and damage increased.</String>
+      <String _locID='24438' category='Techs' subtitle='false'>PHÁO MAC THƯỜNG</String>
+      <String _locID='24439' category='Techs' subtitle='false'>Pháo MAC khi được nâng cấp sẽ chứa được 2 phát bắn.</String>
+      <String _locID='24440' category='Techs' subtitle='false'>PHÁO MAC HẠNG NẶNG</String>
+      <String _locID='24441' category='Techs' subtitle='false'>Pháo MAC khi được nâng cấp sẽ chứa được 3 phát bắn.</String>
+      <String _locID='24442' category='Techs' subtitle='false'>SIÊU PHÁO MAC</String>
+      <String _locID='24443' category='Techs' subtitle='false'>Pháo MAC khi được nâng cấp sẽ chứa được 4 phát bắn.</String>
+      <String _locID='24444' category='Techs' subtitle='false'>BOM RẢI THẢM THƯỜNG</String>
+      <String _locID='24445' category='Techs' subtitle='false'>Phạm vi rải bom và sát thương sẽ được cải thiện.</String>
+      <String _locID='24446' category='Techs' subtitle='false'>BOM RẢI THẢM HẠNG NẶNG</String>
+      <String _locID='24447' category='Techs' subtitle='false'>Phạm vi rải bom và sát thương sẽ được cải thiện.</String>
+      <String _locID='24448' category='Techs' subtitle='false'>SIÊU BOM RẢI THẢM</String>
+      <String _locID='24449' category='Techs' subtitle='false'>Phạm vi rải bom và sát thương sẽ được cải thiện.</String>
       <String _locID='24450' category='Abilities' subtitle='false'>Jump Pack</String>
       <String _locID='24451' category='Abilities' subtitle='false'>Jump Pack Text</String>
       <String _locID='24452' category='Techs' subtitle='false'>Gremlin upgrade 1 </String>
       <String _locID='24453' category='Techs' subtitle='false'>Gremlin better and stronger</String>
-      <String _locID='24454' category='Techs' subtitle='false'>FOCUSING LENS</String>
-      <String _locID='24455' category='Techs' subtitle='false'>Better components dramatically improve laser attack damage and range for all Gremlins.</String>
-      <String _locID='24456' category='Techs' subtitle='false'>CHAIN AMPLIFIER</String>
-      <String _locID='24457' category='Techs' subtitle='false'>EMP Ability can chain to hit multiple targets.</String>
+      <String _locID='24454' category='Techs' subtitle='false'>THẤU KÍNH HỘI TỤ</String>
+      <String _locID='24455' category='Techs' subtitle='false'>Thấu kính hội tụ là bộ phận phù hợp cho chiếc Gremlin rất nhiều, nâng cấp này sẽ cải thiện đáng kể sát thương của laser đồng thời cả phạm vi tấn công.</String>
+      <String _locID='24456' category='Techs' subtitle='false'>CHUỖI ĐIỆN TỪ</String>
+      <String _locID='24457' category='Techs' subtitle='false'>Kỹ năng "Xung Điện Từ" (EMP) có thể tạo thành chuỗi điện từ để tấn công nhiều mục tiêu hơn.</String>
       <String _locID='24458' category='UI' subtitle='false'>Infantry Boost</String>
       <String _locID='24459' category='UI' subtitle='false'>Vehicle Boost</String>
       <String _locID='24460' category='UI' subtitle='false'>Aircraft Boost</String>
@@ -3417,7 +3417,7 @@ BẢNG ID STRING TRONG GAME
       <String _locID='24489' category='Campaign' scenario='3' subtitle='false'>Anders nhất định phải quay về tàu Spirit of Fire với thông tin từ cấu trúc của Forerunner. Đưa cô ấy và Forge đến bãi đáp càng sớm càng tốt.</String>
       <String _locID='24490' category='Campaign' scenario='3' subtitle='false'>Forge và quân của anh ta chỉ có thể cầm cự Covenant được một lúc. Họ sẽ cần được hỗ trợ, giải cứu và hộ tống.</String>
       <String _locID='24491' category='Campaign' scenario='3' subtitle='false'>Việc vô hiệu hóa cây cầu sẽ làm cho bất kỳ đơn vị nào đang cố gắng vượt qua nó rơi xuống vực sâu bên dưới. Hãy sử dụng nó làm lợi thế.</String>
-      <String _locID='24492' category='Campaign' scenario='3' subtitle='false'>Hunter là những sinh vật nhỏ được gộp vào trong chiếc giáp. Mạnh mẽ và nhanh nhẹn, thường đi theo cặp, Hunter được sử dụng để tiêu diệt phương tiện của địch. Chống lại chúng bằng sức mạnh bộ binh hoặc lực lượng cường kích.</String>
+      <String _locID='24492' category='Campaign' scenario='3' subtitle='false'>Hunter là những sinh vật nhỏ được gộp vào trong bộ giáp. Mạnh mẽ và nhanh nhẹn, thường đi theo cặp, Hunter được sử dụng để tiêu diệt phương tiện của địch. Chống lại chúng bằng sức mạnh bộ binh hoặc lực lượng cường kích.</String>
       <String _locID='24493' category='Campaign' scenario='4' subtitle='false'>Tiêu diệt lực lượng Covenant xung quanh lối ra tàu điện ngầm để người dân có thể chạy tới tàu sơ tán.</String>
       <String _locID='24494' category='Campaign' scenario='4' subtitle='false'>Người dân sẽ sẽ tự mình đi tới các tàu sơ tán. Phải có ít nhất 1 tàu sơ tán sống sót; người dân thành phố không có cách nào khác để sơ tán khỏi khu vực này. </String>
       <String _locID='24495' category='Campaign' scenario='4' subtitle='false'>Thiết lập Căn cứ trong thành phố này sẽ cho phép bạn huấn luyện nhiều đơn vị hơn để bảo vệ người dân và cả tàu sơ tán. Nếu bạn có thể tập hợp đủ lực lượng, bạn có thể tiến hành một cuộc tấn công chống lại Covenant.</String>
@@ -3513,11 +3513,11 @@ BẢNG ID STRING TRONG GAME
       <String _locID='24589' category='UI' scenario='Options' subtitle='false'>Thấp</String>
       <String _locID='24590' category='UI' scenario='Options' subtitle='false'>Cao</String>
       <String _locID='24591' category='UI' scenario='Options' subtitle='false' _mouseKeyboard="26656">Crosshair Stickiness</String>
-      <String _locID='24592' category='UI' scenario='Options' subtitle='false'>Off</String>
-      <String _locID='24593' category='UI' scenario='Options' subtitle='false'>Very Sticky</String>
-      <String _locID='24594' category='UI' scenario='Options' subtitle='false'>Scroll Speed</String>
-      <String _locID='24595' category='UI' scenario='Options' subtitle='false'>Slow</String>
-      <String _locID='24596' category='UI' scenario='Options' subtitle='false'>Fast</String>
+      <String _locID='24592' category='UI' scenario='Options' subtitle='false'>Tắt</String>
+      <String _locID='24593' category='UI' scenario='Options' subtitle='false'>Rất Dính</String>
+      <String _locID='24594' category='UI' scenario='Options' subtitle='false'>Tốc Độ Lăn</String>
+      <String _locID='24595' category='UI' scenario='Options' subtitle='false'>Chậm</String>
+      <String _locID='24596' category='UI' scenario='Options' subtitle='false'>Nhanh</String>
       <String _locID='24597' category='UI' scenario='Options' subtitle='false'>Camera Follow</String>
       <String _locID='24598' category='UI' scenario='Options' subtitle='false'>Show Hints</String>
       <String _locID='24599' category='UI' scenario='Options' subtitle='false'>Selection Speed</String>
@@ -3540,7 +3540,7 @@ BẢNG ID STRING TRONG GAME
       <String _locID='24616' category='UI' scenario='Options' subtitle='false'>Invert X Axis description...</String>
       <String _locID='24617' category='UI' scenario='Options' subtitle='false'>Invert Y Axis description...</String>
       <String _locID='24618' category='UI' scenario='Options' subtitle='false'>Set how close the camera is to the terrain by default.</String>
-      <String _locID='24619' category='UI' scenario='Options' subtitle='false' _mouseKeyboard="26634">Set how sticky the crosshair is when moved around the battlefield. Stickier cameras will pop to nearby units.</String>
+      <String _locID='24619' category='UI' scenario='Options' subtitle='false' _mouseKeyboard="26634">Chỉnh mức độ dính của tâm nhắm khi bạn di chuyển camera xung quanh chiến trường. Chỉnh càng cao thì tâm nhắm sẽ dễ dàng dính vào đơn vị ở gần.</String>
       <String _locID='24620' category='UI' scenario='Options' subtitle='false' _mouseKeyboard="26246">Adjust the speed at which the left stick scrolls the camera across the map.</String>
       <String _locID='24621' category='UI' scenario='Options' subtitle='false' _mouseKeyboard="26247">The camera will follow the unit under the crosshair. Move the left stick to stop the camera from following the targeted unit.</String>
       <String _locID='24622' category='UI' scenario='Options' subtitle='false'>Show Hints description...</String>
@@ -3652,12 +3652,12 @@ BẢNG ID STRING TRONG GAME
       <String _locID='24744' category='Campaign' scenario='9' subtitle='true'>Việc này không diễn ra như tôi dự định. Rút lui về tàu Spirit of Fire.</String>
       <String _locID='24745' category='Campaign' scenario='1' subtitle='false'>$$Y$$ Kỹ Năng Ném Lựu Đạn Của Thủy Quân</String>
       <String _locID='24748' subtitle='false'>Tấn công vào Nguồn Năng Lượng</String>
-      <String _locID='24749' category='Techs' subtitle='false'>MEDIUM CRYO</String>
-      <String _locID='24750' category='Techs' subtitle='false'>Increases the duration of the freeze effect and instantly kills more air units.</String>
-      <String _locID='24751' category='Techs' subtitle='false'>LARGE CRYO</String>
-      <String _locID='24752' category='Techs' subtitle='false'>Increases the duration of the freeze effect and instantly kills more air units.</String>
-      <String _locID='24753' category='Techs' subtitle='false'>SUPER CRYO</String>
-      <String _locID='24754' category='Techs' subtitle='false'>Increases the duration of the freeze effect and instantly kills more air units.</String>
+      <String _locID='24749' category='Techs' subtitle='false'>BOM BĂNG THƯỜNG</String>
+      <String _locID='24750' category='Techs' subtitle='false'>Cải thiện thời gian đóng băng và dễ dàng tiêu diệt ngay lập tức những đơn vị cường kích của địch.</String>
+      <String _locID='24751' category='Techs' subtitle='false'>BOM BĂNG HẠNG NĂNG</String>
+      <String _locID='24752' category='Techs' subtitle='false'>Cải thiện thời gian đóng băng và dễ dàng tiêu diệt ngay lập tức những đơn vị cường kích của địch.</String>
+      <String _locID='24753' category='Techs' subtitle='false'>SIÊU BOM BĂNG</String>
+      <String _locID='24754' category='Techs' subtitle='false'>Cải thiện thời gian đóng băng và dễ dàng tiêu diệt ngay lập tức những đơn vị cường kích của địch.</String>
       <String _locID='24755' category='UI' subtitle='false'>$$A$$ Fire Cryo Bomb&lt;br&gt;$$B$$ CANCEL</String>
       <String _locID='24756' scenario='1' category='Campaign' subtitle='false'>$$Y$$ Kỹ Năng Ném Lựu Đạn Của Thủy Quân</String>
       <String _locID='24757' category='Campaign' scenario='15' subtitle='true'>Forge tới Cutter. Tôi đang bắt đầu đi lên. Ước tính 30 phút là sẽ tới địa điểm phát nổ.</String>
@@ -3975,22 +3975,22 @@ BẢNG ID STRING TRONG GAME
       <String _locID='25093' category='Campaign' scenario='15' subtitle='true'>Bất kỳ sự sống người ngoài hành tinh khác ở gần sẽ khóa hệ thống.</String>
       <String _locID='25094' category='Campaign' scenario='15' subtitle='true'>Chốt khóa đã được vô hiệu hóa.</String>
       <String _locID='25095' category='Campaign' scenario='15' subtitle='false'>Tiêu diệt địch xung quanh chốt khóa này!</String>
-      <String _locID='25096' category='UI' scenario='Leaderboards' subtitle='false'>LEADERBOARDS</String>
-      <String _locID='25097' category='UI' scenario='Leaderboards' subtitle='false'>LEADERBOARD TYPE:</String>
-      <String _locID='25098' category='UI' scenario='Leaderboards' subtitle='false'>FILTER:</String>
-      <String _locID='25099' category='UI' scenario='Leaderboards' subtitle='false'>GAME SIZE:</String>
+      <String _locID='25096' category='UI' scenario='Leaderboards' subtitle='false'>BẢNG XẾP HẠNG</String>
+      <String _locID='25097' category='UI' scenario='Leaderboards' subtitle='false'>LOẠI XẾP HẠNG:</String>
+      <String _locID='25098' category='UI' scenario='Leaderboards' subtitle='false'>BỘ LỌC:</String>
+      <String _locID='25099' category='UI' scenario='Leaderboards' subtitle='false'>SỐ NGƯỜI CHƠI:</String>
       <String _locID='25100' category='UI' scenario='Leaderboards' subtitle='false'>ARRANGED TEAMS:</String>
       <String _locID='25101' category='UI' scenario='Leaderboards' subtitle='false'>CHẾ ĐỘ CHƠI:</String>
       <String _locID='25102' category='UI' scenario='Leaderboards' subtitle='false'>Co-op:</String>
       <String _locID='25103' category='UI' scenario='Leaderboards' subtitle='false'>Độ khó:</String>
       <String _locID='25104' category='UI' scenario='Leaderboards' subtitle='false'>Scenario:</String>
-      <String _locID='25105' category='UI' scenario='Leaderboards' subtitle='false'>Leader:</String>
+      <String _locID='25105' category='UI' scenario='Leaderboards' subtitle='false'>Thủ Lĩnh:</String>
       <String _locID='25106' category='UI' scenario='Leaderboards' subtitle='false'>MP Skill</String>
-      <String _locID='25107' category='UI' scenario='Leaderboards' subtitle='false'>SPC Lifetime</String>
-      <String _locID='25108' category='UI' scenario='Leaderboards' subtitle='false'>SPC Best Score</String>
-      <String _locID='25109' category='UI' scenario='Leaderboards' subtitle='false'>MP Wins Lifetime</String>
-      <String _locID='25110' category='UI' scenario='Leaderboards' subtitle='false'>MP Wins Monthly</String>
-      <String _locID='25111' category='UI' scenario='Leaderboards' subtitle='false'>MP Leader Wins Monthly</String>
+      <String _locID='25107' category='UI' scenario='Leaderboards' subtitle='false'>Chiến Dịch</String>
+      <String _locID='25108' category='UI' scenario='Leaderboards' subtitle='false'>Số Điểm Cao Nhất Trong Chiến Dịch</String>
+      <String _locID='25109' category='UI' scenario='Leaderboards' subtitle='false'>Số Trận Thắng (MP)</String>
+      <String _locID='25110' category='UI' scenario='Leaderboards' subtitle='false'>Số Trận Thắng (MP) (Tháng)</String>
+      <String _locID='25111' category='UI' scenario='Leaderboards' subtitle='false'>Số Trận Thắng (MP) (Tháng, Thủ Lĩnh)</String>
       <String _locID='25112' category='UI' scenario='Leaderboards' subtitle='false'>None</String>
       <String _locID='25113' category='UI' scenario='Leaderboards' subtitle='false'>Friends</String>
       <String _locID='25114' category='UI' scenario='Leaderboards' subtitle='false'>Pivot</String>
@@ -3999,15 +3999,15 @@ BẢNG ID STRING TRONG GAME
       <String _locID='25117' category='UI' scenario='Leaderboards' subtitle='false'>3v3</String>
       <String _locID='25118' category='UI' scenario='Leaderboards' subtitle='false'>Có</String>
       <String _locID='25119' category='UI' scenario='Leaderboards' subtitle='false'>Không</String>
-      <String _locID='25120' category='UI' scenario='Leaderboards' subtitle='false'>STANDARD</String>
-      <String _locID='25121' category='UI' scenario='Leaderboards' subtitle='false'>RANK</String>
-      <String _locID='25122' category='UI' scenario='Leaderboards' subtitle='false'>GAMERTAG</String>
+      <String _locID='25120' category='UI' scenario='Leaderboards' subtitle='false'>ĐẤU THƯỜNG</String>
+      <String _locID='25121' category='UI' scenario='Leaderboards' subtitle='false'>XẾP THỨ</String>
+      <String _locID='25122' category='UI' scenario='Leaderboards' subtitle='false'>TÊN NGƯỜI CHƠI</String>
       <String _locID='25123' category='UI' scenario='Leaderboards' subtitle='false'>TrueSkill™</String>
-      <String _locID='25124' category='UI' scenario='Leaderboards' subtitle='false'>GAMES PLAYED</String>
+      <String _locID='25124' category='UI' scenario='Leaderboards' subtitle='false'>SỐ TRẬN ĐÃ CHƠI</String>
       <String _locID='25125' category='UI' scenario='Leaderboards' subtitle='false'>TỔNG ĐIỂM</String>
       <String _locID='25126' category='UI' scenario='Leaderboards' subtitle='false'>SỐ ĐIỂM</String>
       <String _locID='25127' category='UI' scenario='Leaderboards' subtitle='false'>SOLO/CO-OP</String>
-      <String _locID='25128' category='UI' scenario='Leaderboards' subtitle='false'>TOTAL WINS</String>
+      <String _locID='25128' category='UI' scenario='Leaderboards' subtitle='false'>TỔNG TRẬN THẮNG</String>
       <String _locID='25129' category='UI' scenario='Leaderboards' subtitle='false'>PAGE UP</String>
       <String _locID='25130' category='UI' scenario='Leaderboards' subtitle='false'>PAGE DOWN</String>
       <String _locID='25131' category='UI' scenario='Leaderboards' subtitle='false'>records returned.</String>
@@ -4162,8 +4162,8 @@ BẢNG ID STRING TRONG GAME
       <String _locID='25293' category='UI' scenario='OptionsScreen' subtitle='false'>QUAY LẠI</String>
       <String _locID='25294' category='UI' scenario='OptionsScreen' subtitle='false'>KHÔI PHỤC CÀI ĐẶT</String>
       <String _locID='25295' category='UI' scenario='OptionsScreen' subtitle='false'>RESET HINTS</String>
-      <String _locID='25296' category='UI' scenario='GameSetup' subtitle='false'>ĐỘI ALPHA</String>
-      <String _locID='25297' category='UI' scenario='GameSetup' subtitle='false'>ĐỘI BRAVO</String>
+      <String _locID='25296' category='UI' scenario='GameSetup' subtitle='false'>ĐỘI A</String>
+      <String _locID='25297' category='UI' scenario='GameSetup' subtitle='false'>ĐỘI B</String>
       <String _locID='25299' category='UI' scenario='GameSetup' subtitle='false'>SỐ LƯỢNG NGƯỜI CHƠI: %1!s!</String>
       <String _locID='25300' category='Campaign' scenario='10' subtitle='false'>Bầy Đàn Flood Đã Giết:</String>
       <String _locID='25301' category='UI' scenario='GameSetup' subtitle='false'>BẢN ĐỒ: %1!s!</String>
@@ -4564,9 +4564,9 @@ BẢNG ID STRING TRONG GAME
       <String _locID='25712' category='UI' scenario='Ticker' subtitle='false'>Thống kê những trận đấu Skirmish sử dụng %1!s!: %2!d! trận thắng và bạn đã sử dụng  %3!d! lần</String>
       <String _locID='25713' category='UI' scenario='Ticker' subtitle='false'>Thống kê những trận đấu Đụng Độ (Phòng Đấu Công Khai) ở bản đồ %1!s!: %2!d! trận thắng và bạn đã chơi  %3!d! lần bản đồ này</String>
       <String _locID='25714' category='UI' scenario='Ticker' subtitle='false'>Thống kê những trận đấu Đụng Độ (Phòng Đấu Công Khai) ở chế độ %1!s!: %2!d! trận thắng và bạn đã chơi  %3!d! lần chế độ này</String>
-      <String _locID='25715' category='UI' scenario='Ticker' subtitle='false'>Thống kê những trận đấu Skirmish Solo/Private sử dụng %1!s!: %2!d! trận thắng và bạn đã sử dụng  %3!d! lần</String>
-      <String _locID='25716' category='UI' scenario='Ticker' subtitle='false'>Thống kê những trận đấu Skirmish Solo/Private ở bản đồ %1!s!: %2!d! trận thắng và bạn đã chơi  %3!d! lần bản đồ này</String>
-      <String _locID='25717' category='UI' scenario='Ticker' subtitle='false'>Thống kê những trận đấu Skirmish Solo/Private ở chế độ %1!s!: %2!d! trận thắng và bạn đã chơi  %3!d! lần chế độ này</String>
+      <String _locID='25715' category='UI' scenario='Ticker' subtitle='false'>Thống kê những trận đấu Đụng Độ Solo/Private sử dụng %1!s!: %2!d! trận thắng và bạn đã sử dụng  %3!d! lần</String>
+      <String _locID='25716' category='UI' scenario='Ticker' subtitle='false'>Thống kê những trận đấu Đụng Độ Solo/Private ở bản đồ %1!s!: %2!d! trận thắng và bạn đã chơi  %3!d! lần bản đồ này</String>
+      <String _locID='25717' category='UI' scenario='Ticker' subtitle='false'>Thống kê những trận đấu Đụng Độ Solo/Private ở chế độ %1!s!: %2!d! trận thắng và bạn đã chơi  %3!d! lần chế độ này</String>
       <String _locID='25718' category='UI' scenario='Ticker' subtitle='false'>temp</String>
       <String _locID='25719' category='UI' scenario='Ticker' subtitle='false'>temp</String>
       <String _locID='25720' category='UI' scenario='Ticker' subtitle='false'>temp</String>
@@ -4607,7 +4607,7 @@ BẢNG ID STRING TRONG GAME
       <String _locID='25755' subtitle='false'>Elephant là một phương tiện rất khó bị phá hủy và nó có thể dễ dàng chiếm đóng một khu vực nào đó. Vì vậy, hãy sử dụng nó như là tiền đồn.</String>
       <String _locID='25756' subtitle='false'>Khi Elephant đã khóa vị trí, nó có thể huấn luyện bộ binh. Hãy sử dụng nó để đưa những bộ binh mới và đưa họ tới tiền tuyến.</String>
       <String _locID='25757' subtitle='false'>Ngoài việc gây sát thương hiệu quả vào các công trình của kẻ thù, Cyclops có thể cầm và ném các đơn vị của kẻ thù.</String>
-      <String _locID='25758' subtitle='false'>Cyclops ban đầu được thiết kế để nâng vật nặng tại các xưởng đóng tàu của UNSC, nhưng gần đây đã được tái sử dụng cho vai trò chiến đấu.</String>
+      <String _locID='25758' subtitle='false'>Cyclops ban đầu được thiết kế để nâng vật nặng tại các xưởng đóng tàu của UNSC, nhưng gần đây đơn vị này đã được tái sử dụng cho vai trò chiến đấu.</String>
       <String _locID='25759' subtitle='false'>Công nghệ "Bộ Khuếch Đại" cho phép Gremlin tấn công lên đến 3 mục tiêu vào mỗi đợt kích hoạt Xung Điện Từ (EMP).</String>
       <String _locID='25760' subtitle='false'>Giáo sư Anders có một đơn vị đặc biệt, đó là chiếc Gremlin, nó rất hiệu quả trong việc chống lại những phương tiện.</String>
       <String _locID='25761' subtitle='false'>Hawk là bản nâng cấp mạnh nhất của Hornet, chỉ Giáo sư Anders mới có thể nghiên cứu công nghệ này.</String>
@@ -4754,8 +4754,8 @@ BẢNG ID STRING TRONG GAME
       <String _locID='25901' category='UI' scenario='UICampaignPostgame' subtitle='false'>XẾP THỨ</String>
       <String _locID='25902' category='UI' scenario='UICampaignPostgame' subtitle='false'>ĐỘI QUÂN ĐÃ DỰNG (HY SINH)</String>
       <String _locID='25903' category='UI' scenario='UICampaignPostgame' subtitle='false'>ĐỘI QUÂN ĐÃ GIẾT</String>
-      <String _locID='25904' category='UI' scenario='UICampaignPostgame' subtitle='false'>KIẾN TRÚC ĐÃ DỰNG (BỊ PHÁ)</String>
-      <String _locID='25905' category='UI' scenario='UICampaignPostgame' subtitle='false'>KIẾN TRÚC ĐÃ PHÁ ĐƯỢC</String>
+      <String _locID='25904' category='UI' scenario='UICampaignPostgame' subtitle='false'>CÔNG TRÌNH ĐÃ XÂY DỰNG (BỊ PHÁ)</String>
+      <String _locID='25905' category='UI' scenario='UICampaignPostgame' subtitle='false'>CÔNG TRÌNH ĐÃ PHÁ ĐƯỢC</String>
       <String _locID='25906' category='UI' scenario='UICampaignPostgame' subtitle='false'>KHẢ NĂNG CHIẾN ĐẤU</String>
       <String _locID='25907' category='UI' scenario='UICampaignPostgame' subtitle='false'>TÀI NGUYÊN ĐÃ GẶT HÁI ĐƯỢC</String>
       <String _locID='25908' category='UI' scenario='UICampaignPostgame' subtitle='false'>SỐ TÀI NGUYÊN ĐÃ GẶT HÁI ĐƯỢC TỪ HÒM</String>
@@ -4844,20 +4844,20 @@ BẢNG ID STRING TRONG GAME
       <String _locID='26006' category='UI' scenario='CommandMenu' subtitle='false'>%1!s! %2!d!s</String>
       <String _locID='26007' category='UI' scenario='UIAttract Screen' subtitle='false'>Halo Wars © Microsoft Corp. This translation mod is not endorsed by or affiliated with Microsoft. Vietnamese fan-translation by kecox15670.</String>
       <String _locID='26008' category='UI' scenario='SaveGames' subtitle='false'>The default storage device has been removed. The game could not be loaded.</String>
-      <String _locID='26009' category='Skirmish' scenario='game mode' subtitle='false' Update='true'>When your team strength pulls the indicator to your side, you win.</String>
-      <String _locID='26010' category='Skirmish' scenario='game mode' subtitle='false' Update='true'>REINFORCEMENT</String>
-      <String _locID='26011' category='Skirmish' scenario='game mode' subtitle='false' Update='true'>Your resources will be depleted in waves as troops are delivered.</String>
-      <String _locID='26012' category='Skirmish' scenario='game mode' subtitle='false' Update='true'>KEEP AWAY</String>
-      <String _locID='26013' category='Skirmish' scenario='game mode' subtitle='false' Update='true'>Grab the flag, then keep the flag carrier alive to earn a capture point.</String>
+      <String _locID='26009' category='Skirmish' scenario='game mode' subtitle='false' Update='true'>Nếu bạn có đội quân mạnh hơn kẻ thù, bạn sẽ chiến thắng.</String>
+      <String _locID='26010' category='Skirmish' scenario='game mode' subtitle='false' Update='true'>TIẾP VIỆN</String>
+      <String _locID='26011' category='Skirmish' scenario='game mode' subtitle='false' Update='true'>Tài nguyên của bạn sẽ cạn kiệt vào mỗi đợt tiếp viện.</String>
+      <String _locID='26012' category='Skirmish' scenario='game mode' subtitle='false' Update='true'>CƯỚP CỜ</String>
+      <String _locID='26013' category='Skirmish' scenario='game mode' subtitle='false' Update='true'>Cướp cờ của địch, và đưa cờ tới vị trí chiếm đóng.</String>
       <String _locID='26014' category='Skirmish' scenario='Wave Attack' subtitle='false' Update='true'>Next Wave in</String>
-      <String _locID='26023' category='Skirmish' scenario='CTF' subtitle='false' Update='true'>FLAG TAKEN!!</String>
-      <String _locID='26024' category='Skirmish' scenario='CTF' subtitle='false' Update='true'>FLAG SPAWNED</String>
-      <String _locID='26025' category='Skirmish' scenario='CTF' subtitle='false' Update='true'>YOUR TEAM HAS THE FLAG!</String>
-      <String _locID='26026' category='Skirmish' scenario='CTF' subtitle='false' Update='true'>ENEMY TEAM HAS THE FLAG!</String>
-      <String _locID='26027' category='Skirmish' scenario='game mode' subtitle='false' Update='true'>Play with standard game settings.</String>
-      <String _locID='26028' category='Skirmish' scenario='game mode' subtitle='false' Update='true'>Start with high resources and all techs. Bases provide more population.</String>
-      <String _locID='26029' category='Skirmish' scenario='CTF' subtitle='false' Update='true'>CAPTURE 3 FLAGS TO WIN</String>
-      <String _locID='26030' category='Skirmish' scenario='game mode' subtitle='false' Update='true'>TUG OF WAR</String>
+      <String _locID='26023' category='Skirmish' scenario='CTF' subtitle='false' Update='true'>CỜ ĐÃ BỊ CƯỚP!!</String>
+      <String _locID='26024' category='Skirmish' scenario='CTF' subtitle='false' Update='true'>CỜ ĐÃ XUẤT HIỆN</String>
+      <String _locID='26025' category='Skirmish' scenario='CTF' subtitle='false' Update='true'>ĐỘI CỦA BẠN ĐÃ LẤY ĐƯỢC CỜ!</String>
+      <String _locID='26026' category='Skirmish' scenario='CTF' subtitle='false' Update='true'>KẺ THÙ ĐÃ LẤY ĐƯỢC CỜ!</String>
+      <String _locID='26027' category='Skirmish' scenario='game mode' subtitle='false' Update='true'>Chơi với luật đấu mặc định.</String>
+      <String _locID='26028' category='Skirmish' scenario='game mode' subtitle='false' Update='true'>Bạn sẽ bắt đầu với rất nhiều tài nguyên cùng với trình độ công nghệ cao. Bạn càng có nhiều căn cứ thì đội quân của bạn sẽ được mở rộng theo.</String>
+      <String _locID='26029' category='Skirmish' scenario='CTF' subtitle='false' Update='true'>CƯỚP 3 LÁ CỜ ĐỂ CHIẾN THẮNG</String>
+      <String _locID='26030' category='Skirmish' scenario='game mode' subtitle='false' Update='true'>KÉO CO</String>
       <String _locID='26031' category='Skirmish' subtitle='false' Update='true'>BARRENS (1v1)</String>
       <String _locID='26032' category='Skirmish' subtitle='false' Update='true'>Difficult terrain channels units into killing zones. The side that controls the Forerunner artifacts will have the advantage.</String>
       <String _locID='26033' category='Skirmish' subtitle='false' Update='true'>BLOOD RIVER (1v1)</String>
@@ -4869,11 +4869,11 @@ BẢNG ID STRING TRONG GAME
       <String _locID='26039' category='UI' subtitle='false' Update='true'>Player %1!s! is missing the downloadable content required for this game mode.</String>
       <String _locID='26045' category='Skirmish' scenario='CTF' subtitle='false' Update='true'>Alpha</String>
       <String _locID='26046' category='Skirmish' scenario='CTF' subtitle='false' Update='true'>Bravo</String>
-      <String _locID='26047' category='Skirmish' scenario='CTF' subtitle='false' Update='true'>Alpha Team</String>
-      <String _locID='26048' category='Skirmish' scenario='CTF' subtitle='false' Update='true'>Bravo Team</String>
-      <String _locID='26049' category='Skirmish' scenario='CTF' subtitle='false' Update='true'>CAPTURE 4 FLAGS TO WIN</String>
-      <String _locID='26050' category='Skirmish' scenario='CTF' subtitle='false' Update='true'>CAPTURE 5 FLAGS TO WIN</String>
-      <String _locID='26051' category='Skirmish' scenario='CTF' subtitle='false' Update='true'>CARRIER DESTROYED</String>
+      <String _locID='26047' category='Skirmish' scenario='CTF' subtitle='false' Update='true'>Đội A</String>
+      <String _locID='26048' category='Skirmish' scenario='CTF' subtitle='false' Update='true'>Đội B</String>
+      <String _locID='26049' category='Skirmish' scenario='CTF' subtitle='false' Update='true'>CƯỚP 4 LÁ CỜ ĐỂ CHIẾN THẮNG</String>
+      <String _locID='26050' category='Skirmish' scenario='CTF' subtitle='false' Update='true'>CƯỚP 5 LÁ CỜ ĐỂ CHIẾN THẮNG</String>
+      <String _locID='26051' category='Skirmish' scenario='CTF' subtitle='false' Update='true'>ĐƠN VỊ CẦM CỜ ĐÃ BỊ GIẾT</String>
       <String _locID='26052' category='Squads' subtitle='false' Update='true'>FLAG</String>
       <String _locID='26053' category='UI' subtitle='false' Update='true'>Keep Away 1v1</String>
       <String _locID='26054' category='UI' subtitle='false' Update='true'>Keep Away 2v2</String>
@@ -5057,8 +5057,8 @@ BẢNG ID STRING TRONG GAME
       <String _locID='26239' category='UI' subtitle='false'>Hold $$LT$$ to drastically increase the speed of your camera.</String>
       <String _locID='26240' category='UI' subtitle='false'>Want some uber destruction? Pull up the SPIRIT OF FIRE by pressing $$SoFM$$ and unleash the MAC BLAST power.</String>
       <String _locID='26241' category='Skirmish' scenario='Hint Chat' subtitle='false'>You can use the hotkeys $$SoFM$$, $$Alert$$, $$Base$$, and $$Army$$ to jump to various vantage points. You can cycle through your bases and armies or even contact Spirit of Fire in orbit.</String>
-      <String _locID='26242' category='UI' scenario='Party Room' subtitle='false'>$$A$$ on an empty slot to invite friends to play</String>
-      <String _locID='26243' category='UI' scenario='Party Room' subtitle='false'>$$A$$ on a slot for player options</String>
+      <String _locID='26242' category='UI' scenario='Party Room' subtitle='false'>$$A$$ vào chỗ trống để mời bạn bè vào phòng chơi</String>
+      <String _locID='26243' category='UI' scenario='Party Room' subtitle='false'>$$A$$ để xem tùy chọn dành cho người chơi này</String>
       <String _locID='26244' scenario='Hint Display' subtitle='false'>$$A$$ để chọn</String>
       <String _locID='26245' category='UI' scenario='Options' subtitle='false'>Chọn bật hoặc tắt xoay camera bằng cách giữ nút ALT và di chuyển $$LS$$.</String>
       <String _locID='26246' category='UI' scenario='Options' subtitle='false'>Adjust the speed at which $$LS$$ scrolls the camera across the map.</String>
@@ -5343,7 +5343,7 @@ BẢNG ID STRING TRONG GAME
       <String _locID='26631' category='UI' subtitle='false'>MỞ PHÒNG ĐẤU</String>
       <String _locID='26632' category='UI' subtitle='false'>HỦY MỞ PHÒNG</String>
       <String _locID='26633' subtitle='false'>Move commands can be queued up for sequential execution by briefly holding down SHIFT when giving commands.</String>
-      <String _locID='26634' category='UI' scenario='Options' subtitle='false'>Set how sticky the cursor is when moved around the battlefield. Please note that this option will not apply when playing with mouse and keyboard.</String>
+      <String _locID='26634' category='UI' scenario='Options' subtitle='false'>Chỉnh mức độ dính của tâm nhắm khi bạn di chuyển camera xung quanh chiến trường. Xin lưu ý rằng cài đặt này không có tác dụng đối với bàn phím/chuột.</String>
       <String _locID='26635' category='UI' subtitle='false'>Gamepad</String>
       <String _locID='26636' category='UI' subtitle='false'>Keyboard/Mouse</String>
       <String _locID='26637' category='UI' subtitle='false'>Primary input method. This cannot be changed while playing a game.</String>
@@ -5365,7 +5365,7 @@ BẢNG ID STRING TRONG GAME
       <String _locID='26653' category='' scenario='Hint Display' subtitle='false'>Ấn $$X$$ để di chuyển đơn vị của bạn tới vị trí của con trỏ</String>
       <String _locID='26654' category='' scenario='Hint Callout' subtitle='false'>Di chuyển con trỏ tới đây</String>
       <String _locID='26655' category='' scenario='Hint Display' subtitle='false'>Di chuyển con trỏ tới nơi mà bạn muốn tới</String>
-      <String _locID='26656' category='UI' scenario='Options' subtitle='false'>Cursor Stickiness</String>
+      <String _locID='26656' category='UI' scenario='Options' subtitle='false'>Độ Dính Của Tâm Nhắm</String>
       <String _locID='26657' category='UI' scenario='1' subtitle='false'>Di chuyển con trỏ của bạn vào mục tiêu. Ấn $$X$$ để tấn công.</String>
       <String _locID='26658' category='Campaign' subtitle='true' scenario='Tutorial'>Bạn chỉ cần di chuyển con trỏ tới nơi mà bạn muốn đơn vị của bạn tới và rồi ấn $$X$$. </String>
       <String _locID='26659' category='Campaign' subtitle='true' scenario='Tutorial'>Di chuyển con trỏ của bạn tới nơi mà bạn muốn tới, và rồi ấn $$X$$.</String>
