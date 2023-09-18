@@ -1,9 +1,5 @@
 ![bulldog_hero_1920_620_final](https://github.com/kecox42069/HaloWars_VietHoa/assets/85168678/f5293ac0-284e-4927-9254-9d1703f0eabe)
 # CÁCH CÀI ĐẶT
-**PC:**
-
-Chạy file halowars_viethoa.bat với quyền Administrator và rồi nhấn phím 1 để cài và chạy game.
-
 **XBOX 360:**
 
 Cập nhật sau.
