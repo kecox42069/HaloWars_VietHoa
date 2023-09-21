@@ -9,7 +9,7 @@
       <Title>Ngày 16 tháng 1 năm 2498</Title>
       <Date>Ngày 16 tháng 1 năm 2498</Date>
       <DetailText>
-         Arcadia Colony opens the DSRA, the Deep Space Research Array, designed to research and study extremely high gravity events, such as black holes, and other areas that exploratory vessels cannot visit directly. The DSRA is eventually destroyed by the Covenant during the initial attack on Arcadia in 2531.
+         Thuộc địa Arcadia đã xây dựng DSRA, viết tắt của Deep Space Research Array (Viện Nghiên cứu Không gian Sâu) để nghiên cứu các hiện tượng như lỗ đen và các khu vực ngoài tầm với của tàu thamw dò. Nhưng rồi DSRA đã bị phá hủy vì cuộc xâm lược Arcadia của Covenant vào năm 2531.
       </DetailText>
       <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
    </Event>
@@ -21,7 +21,7 @@
       <Title>Năm 2506</Title>
       <Date>Năm 2506</Date>
       <DetailText>
-         Project ORION, the original SPARTAN project - the first attempt by the Colonial Military Administration to create and train teams of super-soldiers for covert military operations in the Outer Colonies - is deactivated. Though the Spartans are effective, their abilities fall short of original expectations, and they are far too expensive to develop and field. The soldiers in the program are reassigned to various special operations units.
+         Dự án ORION, nó là dự án nguyên mẫu về SPARTAN - một dự án trong đó cả Chính phủ Quân sự (Colonial Military Administration) cố gắng thành lập một đội siêu chiến binh để thực hiện các hoạt động quân sự bí mật ở Outer Colonies. Mặc dù những Spartan này đạt được một số thành công, nhưng sức mạnh của họ không đáp ứng được kỳ vọng ban đầu, đồng thời chi phí phát triển và thực hiện quá lớn đến mức dự án phải bị hủy bỏ. Những người lính trong dự án này sau đó đã được chuyển đến đội quân đặc biệt khác.
       </DetailText>
       <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
    </Event>
@@ -30,10 +30,10 @@
       <Name>Event002</Name>
       <Status>Unlocked</Status>
       <Position>14.0</Position>
-      <Title>17 August 2517</Title>
-      <Date>17 August 2517</Date>
+      <Title>Ngày 17 tháng 8 năm 2517</Title>
+      <Date>Ngày 17 tháng 8 năm 2517</Date>
       <DetailText>
-         Dr. Catherine Halsey and her aide, Lt. Jacob Keyes, covertly inspect one of the first test subjects for the mysterious "SPARTAN-II" project. The prospective candidate - a six-year-old child named "John" - is ideal for the project. Halsey arranges for the subject to be covertly conscripted.
+         Tiến sĩ Catherine Halsey và trung úy của cô, Jacob Keyes, bí mật sàng lọc các đối tượng thử nghiệm đầu tiên dành cho dự án "SPARTAN-II". Họ kết luận rằng, trong số các ứng cử viên - một nhóc có tên là "John" - là đối tượng lý tưởng nhất cho dự án. Sau đó Tiến sĩ Halsey quyết định đưa nhóc nhập ngũ một cách bí mật.
       </DetailText>
       <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
    </Event>
@@ -42,10 +42,10 @@
       <Name>Event003</Name>
       <Status>Unlocked</Status>
       <Position>15.0</Position>
-      <Title>23 September 2517</Title>
-      <Date>23 September 2517</Date>
+      <Title>Ngày 23 tháng 9 năm 2517</Title>
+      <Date>Ngày 23 tháng 9 năm 2517</Date>
       <DetailText>
-         Halsey's SPARTAN-II project begins, with primary research conducted on the planet Reach in the Epsilon Eridani system. Seventy-five children of both sexes are subjected to an intense program of physical and mental retraining and technological augmentation, including reinforced skeletal structure and improved musculature.
+         Dự án SPARTAN-II của Tiến sĩ Halsey đã bắt đầu trên hành tinh Reach của hệ sao Epsilon Eridani. 75 chàng trai và cô gái đã trải qua quá trình huấn luyện nghiêm ngặt về thể chất và tinh thần, sau đó họ được đưa vào chương trình tăng cường xương và cơ bắp.
       </DetailText>
       <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
    </Event>
@@ -54,10 +54,10 @@
       <Name>BlackBox04</Name>
       <Status>Locked</Status>
       <Position>18.0</Position>
-      <Title>20 July 2520</Title>
-      <Date>20 July 2520</Date>
+      <Title>Ngày 20 tháng 7 năm 2520</Title>
+      <Date>Ngày 20 tháng 7 năm 2520</Date>
       <DetailText>
-         Captain Alexander, the last civilian captain of Spirit of Fire, retires from active duty at the conclusion of the Verent mission. The ship is requisitioned by the UNSC and scheduled for refit.
+         Alexander, dân quân với chức thuyền trưởng cuối cùng của tàu Spirit of Fire, anh ấy đã nghỉ hưu sau khi hoàn thành nhiệm vụ ở Verent. UNSC sau đó đã trưng dụng con tàu và biến nó thành tàu chiến.
       </DetailText>
       <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
    </Event>
@@ -66,10 +66,10 @@
       <Name>BlackBox05</Name>
       <Status>Locked</Status>
       <Position>20.0</Position>
-      <Title>1 September 2520</Title>
-      <Date>1 September 2520</Date>
+      <Title>Ngày 1 tháng 9 năm 2520</Title>
+      <Date>Ngày 1 tháng 9 năm 2520</Date>
       <DetailText>
-         Spirit of Fire completes an extensive refit at the Reach orbital shipyards before entering active military duty as a ground support vessel, initially detailed with providing ground support for Operation TREBUCHET.
+         Lực lượng của tàu Spirit of Fire đã hoàn thành việc tu sửa lớn tại xưởng đóng tàu trên quỹ đạo hành tinh Reach và sẽ bắt đầu sứ mệnh của mình với tư cách là tàu hỗ trợ mặt đất, bắt đầu với Chiến dịch TREBUCHET.
       </DetailText>
       <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
    </Event>
@@ -78,10 +78,10 @@
       <Name>PirthOutskirts01</Name>
       <Status>Locked</Status>
       <Position>22.0</Position>
-      <Title>Edict of the Office of the High Prophet of Restraint</Title>
-      <Date>2524</Date>
+      <Title>Sắc lệnh tối cao của Prophet of Restraint</Title>
+      <Date>Năm 2524</Date>
       <DetailText>
-         It is known the Kig-Yar ship Pitiless has brought forth an Unclean Being's corpse. Hear now all Kig-Yar vessels are to be searched. Let faithful Sangheili lead teams of Unggoy to all Kig-Yar ships and seek further evidence of the Unclean. It is done.
+         Con tàu của Kig-Yar: "Pitiless" đã đưa xác của một người đàn ông ô uế lên con tàu. Hãy nghe đây: Ta phải tìm toàn bộ những con tàu của Kig-Yar. Hãy để Sangheili trung thành dẫn đầu Unggoy và lục soát mọi con tàu của Kig-Yar để tìm thêm bằng chứng về những kẻ ô uế như người đàn ông đó. Hãy thực hiện điều này NGAY BÂY GIỜ.
       </DetailText>
       <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_covenant.ddx</UnlockedImage>
    </Event>
@@ -90,10 +90,10 @@
       <Name>BlackBox11</Name>
       <Status>Locked</Status>
       <Position>23.0</Position>
-      <Title>Edict of the Office of the High Prophet of Tolerance</Title>
-      <Date>2524</Date>
+      <Title>Sắc lệnh tối cao của Prophet of Tolerance</Title>
+      <Date>Năm 2524</Date>
       <DetailText>
-         Hear now that five hundred teams are to be formed to study the language of the Unclean. Each team to consist of the most clever and most educated Unggoy and Sangheili. These teams to speak only the Unclean language among themselves. The Unclean language to be taught to all military strike teams, that the foe shall be vulnerable.
+         Hãy nghe đây: Hơn 500 đội được giao nhiệm vụ nghiên cứu ngôn ngữ của những kẻ ô uế. Mỗi đội phải gồm có Unggoy và Sangheili đủ thông minh. Họ sẽ chỉ nói chuyện với nhau bằng ngôn ngữ của những kẻ ô uế. Nếu toàn bộ lực lượng tấn công của chúng ta học được ngôn ngữ của những kẻ ô uế, chúng sẽ rơi vào tình trạng bối rối.
       </DetailText>
       <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
    </Event>
@@ -102,10 +102,10 @@
       <Name>Prophet02</Name>
       <Status>Locked</Status>
       <Position>26.0</Position>
-      <Title>Excerpt from The Punished Deeds, Vol. III</Title>
-      <Date>2525</Date>
+      <Title>Trích từ Punished Deeds (Quả Báo), Tập III</Title>
+      <Date>Năm 2525</Date>
       <DetailText>
-         The youngest of the new Prophets, Regret ascended by manipulating and blackmailing those around him. Regret was one of the Prophets who visited the Oracle, an ancient AI, where it was learned that the humans were somehow connected to the Forerunner race and that the very foundation of Covenant belief was flawed. Their decision to eradicate humanity to hide these facts is debated to this day.
+         Regret trở thành linh mục cao cấp ở độ tuổi trẻ thông qua việc thao túng dư luận và tống tiền những người xung quanh hắn. Một số Prophet, bao gồm cả Regret, đã gặp được Oracle, một trí tuệ nhân tạo (AI) cổ xưa, nơi mà hắn biết được rằng con người bằng cách nào đó có mối liên hệ với chủng tộc Forerunner và hắn cũng biết được điều gì đó có thể làm lung lay nền tảng đức tin của Covenant. Quyết định tiêu diệt loài người của họ nhằm che giấu những sự thật này vẫn còn gây tranh cãi cho đến ngày nay.
       </DetailText>
       <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_covenant.ddx</UnlockedImage>
    </Event>
@@ -113,7 +113,7 @@
       <Name>Chasms01</Name>
       <Status>Locked</Status>
       <Position>27.0</Position>
-      <Title>Edict of the Office of the High Prophet of Truth</Title>
+      <Title>Sắc lệnh tối cao của Prophet of Truth</Title>
       <Date>2525</Date>
       <DetailText>
          All within the Covenant hear now and obey. Weapons and ships of war to descend upon the inhabited world of Epsilon Indi. Strike with all force. No intelligent survivors may remain, upon severest penalty.
