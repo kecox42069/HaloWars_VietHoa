@@ -130,13 +130,13 @@ BẢNG ID STRING TRONG GAME
       <String _locID='357' category='Code' subtitle='false'>JAMMED!</String>
       <String _locID='358' category='Code' subtitle='false'>RỜI VỊ TRÍ</String>
       <String _locID='359' category='Code' subtitle='false'>Bảo đơn vị đang chiếm đóng ở vị trí này đi ra ngoài và trở về trạng thái chiến đấu thường.</String>
-      <String _locID='360' category='Code' subtitle='false'>LOCK</String>
-      <String _locID='361' category='Code' subtitle='false'>Units train as normal, but are garrisoned inside the base instead of exiting into the world. UNLOCK will release all the garrisoned units at once.</String>
-      <String _locID='362' category='Code' subtitle='false'>UNLOCK</String>
-      <String _locID='363' category='Code' subtitle='false'>Release any garrisoned units and return base training to normal.</String>
+      <String _locID='360' category='Code' subtitle='false'>KHÓA CĂN CỨ</String>
+      <String _locID='361' category='Code' subtitle='false'>Những đơn vị vẫn được huấn luyện như thường, nhưng họ sẽ giữ vị trí ở trong căn cứ thay vì đi ra ngoài. MỞ KHÓA CĂN CỨ sẽ đưa họ ra ngoài ngay lập tức.</String>
+      <String _locID='362' category='Code' subtitle='false'>MỞ KHÓA CĂN CỨ</String>
+      <String _locID='363' category='Code' subtitle='false'>Đưa những đơn vị ở trong căn cứ ra ngoài để chiến đấu.</String>
       <String _locID='364' category='Code' subtitle='false'>(đã mở khóa)</String>
       <String _locID='365' category='Code' subtitle='false'>(đã khóa %1!d!)</String>
-      <String _locID='366' category='Code' subtitle='false'>UNLOCK</String>
+      <String _locID='366' category='Code' subtitle='false'>MỞ KHÓA</String>
       <String _locID='367' category='Code' subtitle='false'>
       </String>
       <String _locID='368' category='Code' subtitle='false'>ĐIỂM TẬP HỢP (CĂN CỨ)</String>
@@ -1918,7 +1918,7 @@ BẢNG ID STRING TRONG GAME
       </String>
       <String _locID='22986' category='Campaign' scenario='' subtitle='false'>
       </String>
-      <String _locID='22987' category='Campaign' scenario='1' subtitle='true'>Thưa ngài, chúng ta có rất nhiều binh lính đang rời khỏi từ Căn cứ Alpha. Nếu Trung sĩ Forge có thể tập hợp họ, chúng ta sẽ có thể chiếm lại căn cứ.</String>
+      <String _locID='22987' category='Campaign' scenario='1' subtitle='true'>Thưa ngài, chúng ta có rất nhiều binh lính đang rời khỏi Căn cứ Alpha. Nếu Trung sĩ Forge có thể tập hợp họ, chúng ta sẽ có thể chiếm lại căn cứ.</String>
       <String _locID='22988' category='Campaign' scenario='' subtitle='false'>
       </String>
       <String _locID='22989' category='Campaign' scenario='4' subtitle='true'>Làm tốt lắm. Chúng ta đã sơ tán thành công một số người dân khỏi Arcadia.</String>
@@ -2454,7 +2454,7 @@ BẢNG ID STRING TRONG GAME
       <String _locID='23513' category='UI' subtitle='false'>Edit Description</String>
       <String _locID='23514' subtitle='false'>Enter a description for your record game.</String>
       <String _locID='23518' category='Campaign' scenario='2' subtitle='true'>Tôi đã đánh dấu khu vực có cấu trúc Trung sĩ Forge tìm thấy.</String>
-      <String _locID='23520' category='UI' scenario='Hooks' subtitle='false'>Buy Sentinel</String>
+      <String _locID='23520' category='UI' scenario='Hooks' subtitle='false'>Mua Sentinel</String>
       <String _locID='23521' category='UI' scenario='Hooks' subtitle='false'>Sentinel</String>
       <String _locID='23522' category='Objects' subtitle='false'>Cyclops power armor </String>
       <String _locID='23523' category='Objects' subtitle='false'>
@@ -2539,7 +2539,7 @@ BẢNG ID STRING TRONG GAME
       <String _locID='23603' category='Squads' subtitle='false'>Sentinel Hạng Nặng của Forerunner có kỹ năng làm chậm những đơn vị của kẻ thù đồng thời tấn công họ cùng một lúc.</String>
       <String _locID='23604' category='Squads' subtitle='false'>RECON DRONE</String>
       <String _locID='23605' category='Squads' subtitle='false'>Scout drone that can cloak and has an expanding visibility range when stationary.</String>
-      <String _locID='23606' category='UI' scenario='Hooks' subtitle='false'>Scout Drone</String>
+      <String _locID='23606' category='UI' scenario='Hooks' subtitle='false'>Drone Do Thám</String>
       <String _locID='23607' category='UI' scenario='Hooks' subtitle='false'>Super Sentinel</String>
       <String _locID='23608' category='Objects' subtitle='false'>BẢNG ĐIỀU KHIỂN</String>
       <String _locID='23609' category='Objects' subtitle='false'>Bảng điều khiển của Forerunner</String>
@@ -2739,7 +2739,7 @@ BẢNG ID STRING TRONG GAME
       <String _locID='23779' category='Campaign' scenario='3' subtitle='true'>Bảng điều khiển hỏng rồi - Tôi không thể kích hoạt lại cây cầu.</String>
       <String _locID='23780' category='Campaign' scenario='3' subtitle='true'>Đưa tôi đến bảng điều khiển cầu ở phía đông. Tôi nghĩ tôi có thể kích hoạt nó.</String>
       <String _locID='23781' category='Campaign' scenario='3' subtitle='true'>Cẩn thận phía sau, chúng ta sẽ đi ra khỏi đây!</String>
-      <String _locID='23782' category='Campaign' scenario='3' subtitle='true'>Hãy cho tôi một phút và tôi sẽ cây cầu này hoạt động.</String>
+      <String _locID='23782' category='Campaign' scenario='3' subtitle='true'>Hãy cho tôi một phút và tôi sẽ đưa cây cầu này vào hoạt động.</String>
       <String _locID='23783' category='Campaign' scenario='3' subtitle='true'>Hmm, không có hướng dẫn à? Không vấn đề gì.</String>
       <String _locID='23784' category='Campaign' scenario='3' subtitle='true'>Sắp được rồi...</String>
       <String _locID='23785' category='Campaign' scenario='3' subtitle='false'>Được rồi, cây cầu đã được kích hoạt.</String>
@@ -2953,29 +2953,29 @@ BẢNG ID STRING TRONG GAME
       <String _locID='23998' category='' scenario='' subtitle='false'>
       </String>
       <String _locID='24000' category='UI' subtitle='false'>Bạn sẽ thua trong 1 phút trừ khi bạn chiếm được một căn cứ.</String>
-      <String _locID='24001' category='UI' subtitle='false'>Đếm ngược đã bị dừng vì căn cứ đang được xây.</String>
+      <String _locID='24001' category='UI' subtitle='false'>Thời gian đếm ngược đã bị dừng vì căn cứ đang được xây.</String>
       <String _locID='24002' category='UI' subtitle='false'>Thời gian đếm ngược thua cuộc đã khôi phục lại.</String>
       <String _locID='24003' category='UI' subtitle='false'>Thời giand đếm ngược thua cuộc đã bị hủy.</String>
-      <String _locID='24004' category='UI' subtitle='false'>Bạn đã bị đánh bại: Tất cả lực lượng đã bị tiêu diệt.</String>
+      <String _locID='24004' category='UI' subtitle='false'>Bạn đã thua vì: Toàn bộ lực lượng đã bị tiêu diệt.</String>
       <String _locID='24005' category='Campaign' scenario='9' subtitle='true'>Đúng vậy - khi thuộc địa bị phá hủy, tôi đã ghi nhận sự suy yếu của sinh vật lớn.</String>
       <String _locID='24006' category='Campaign' subtitle='false'>Nhiệm Vụ Thất Bại</String>
       <String _locID='24007' category='Campaign' subtitle='false'>Nhiệm Vụ Hoàn Thành</String>
       <String _locID='24008' subtitle='false'>This is a really long string that I want to have $$A$$ some buttons embedded in it. I don't know how it's going $$B$$ to look but we will see. This is the latest sentence in this long string.</String>
       <String _locID='24009' category='Objects' subtitle='false'>TRẠM CUNG CẤP TÀI NGUYÊN CỦA FORERUNNER</String>
       <String _locID='24010' category='Objects' subtitle='false'>Cung Cấp Vô Tận Tài Nguyên</String>
-      <String _locID='24011' category='UI' scenario='Hooks' subtitle='false'>FORERUNNER SENTINEL FACTORY</String>
-      <String _locID='24012' category='UI' scenario='Hooks' subtitle='false'>FORERUNNER PROTECTOR FACTORY</String>
-      <String _locID='24013' category='UI' scenario='Hooks' subtitle='false'>FORERUNNER SPIRE OF HEALING</String>
-      <String _locID='24014' category='UI' scenario='Hooks' subtitle='false'>FORERUNNER SECONDARY REACTOR</String>
-      <String _locID='24015' category='UI' scenario='Hooks' subtitle='false'>FORERUNNER SUPPLY ELEVATOR</String>
-      <String _locID='24016' category='UI' scenario='Hooks' subtitle='false'>SNIPER TOWER</String>
+      <String _locID='24011' category='UI' scenario='Hooks' subtitle='false'>NHÀ MÁY SENTINEL CỦA FORERUNNER</String>
+      <String _locID='24012' category='UI' scenario='Hooks' subtitle='false'>NHÀ MÁY SENTINEL HỘ VỆ CỦA FORERUNNER</String>
+      <String _locID='24013' category='UI' scenario='Hooks' subtitle='false'>CỘT HỒI MÁU CỦA FORERUNNER</String>
+      <String _locID='24014' category='UI' scenario='Hooks' subtitle='false'>LÒ PHẢN ỨNG CỦA FORERUNNER</String>
+      <String _locID='24015' category='UI' scenario='Hooks' subtitle='false'>TRẠM CUNG CẤP TÀI NGUYÊN CỦA FORERUNNER</String>
+      <String _locID='24016' category='UI' scenario='Hooks' subtitle='false'>THÁP BẮN TỈA</String>
       <String _locID='24017' category='UI' scenario='Hooks' subtitle='false'>Mua Sentinel</String>
-      <String _locID='24018' category='UI' scenario='Hooks' subtitle='false'>Purchase Protectors</String>
-      <String _locID='24019' category='UI' scenario='Hooks' subtitle='false'>Heals Nearby Units</String>
-      <String _locID='24020' category='UI' scenario='Hooks' subtitle='false'>Provides Reactor when Garrisoned with Infantry</String>
-      <String _locID='24021' category='UI' scenario='Hooks' subtitle='false'>Produces Infinite Supply Crates</String>
-      <String _locID='24022' category='UI' scenario='Hooks' subtitle='false'>FORERUNNER LIFESUPPORT POD</String>
-      <String _locID='24023' category='UI' scenario='Hooks' subtitle='false'>Allows more Troops to be Deployed.</String>
+      <String _locID='24018' category='UI' scenario='Hooks' subtitle='false'>Mua Sentinel Hộ Vệ</String>
+      <String _locID='24019' category='UI' scenario='Hooks' subtitle='false'>Hồi Máu Cho Những Đơn Vị Ở Gần</String>
+      <String _locID='24020' category='UI' scenario='Hooks' subtitle='false'>Cung Cấp Lò Phản Ứng Khi bạn Đóng Quân tại đây bằng Bộ Binh</String>
+      <String _locID='24021' category='UI' scenario='Hooks' subtitle='false'>Cung Cấp Vô Tận Tài Nguyên</String>
+      <String _locID='24022' category='UI' scenario='Hooks' subtitle='false'>THÁP HỖ TRỢ CỦA FORERUNNER</String>
+      <String _locID='24023' category='UI' scenario='Hooks' subtitle='false'>Cho phép bạn mở rộng số lượng Đơn Vị khi bạn Đóng Quân Tại Đây.</String>
       <String _locID='24024' category='UI' scenario='Hooks' subtitle='false'>Insert Text Here</String>
       <String _locID='24025' category='UI' scenario='Hooks' subtitle='false'>Insert Text Here</String>
       <String _locID='24026' category='UI' scenario='Hooks' subtitle='false'>Insert Text Here</String>
@@ -3515,10 +3515,10 @@ BẢNG ID STRING TRONG GAME
       <String _locID='24591' category='UI' scenario='Options' subtitle='false' _mouseKeyboard="26656">Crosshair Stickiness</String>
       <String _locID='24592' category='UI' scenario='Options' subtitle='false'>Tắt</String>
       <String _locID='24593' category='UI' scenario='Options' subtitle='false'>Rất Dính</String>
-      <String _locID='24594' category='UI' scenario='Options' subtitle='false'>Tốc Độ Lăn</String>
+      <String _locID='24594' category='UI' scenario='Options' subtitle='false'>Tốc Độ Di Chuyển Camera</String>
       <String _locID='24595' category='UI' scenario='Options' subtitle='false'>Chậm</String>
       <String _locID='24596' category='UI' scenario='Options' subtitle='false'>Nhanh</String>
-      <String _locID='24597' category='UI' scenario='Options' subtitle='false'>Camera Follow</String>
+      <String _locID='24597' category='UI' scenario='Options' subtitle='false'>Camera Bám Theo Đơn Vị</String>
       <String _locID='24598' category='UI' scenario='Options' subtitle='false'>Show Hints</String>
       <String _locID='24599' category='UI' scenario='Options' subtitle='false'>Selection Speed</String>
       <String _locID='24600' category='UI' scenario='Options' subtitle='false'>Slow</String>
@@ -3539,10 +3539,10 @@ BẢNG ID STRING TRONG GAME
       <String _locID='24615' category='UI' scenario='Options' subtitle='false' _mouseKeyboard="26245">Chọn bật hoặc tắt xoay camera bằng cách sử dụng cần điều khiển bên phải.</String>
       <String _locID='24616' category='UI' scenario='Options' subtitle='false'>Invert X Axis description...</String>
       <String _locID='24617' category='UI' scenario='Options' subtitle='false'>Invert Y Axis description...</String>
-      <String _locID='24618' category='UI' scenario='Options' subtitle='false'>Set how close the camera is to the terrain by default.</String>
+      <String _locID='24618' category='UI' scenario='Options' subtitle='false'>Chỉnh độ xa mặc định của camera.</String>
       <String _locID='24619' category='UI' scenario='Options' subtitle='false' _mouseKeyboard="26634">Chỉnh mức độ dính của tâm nhắm khi bạn di chuyển camera xung quanh chiến trường. Chỉnh càng cao thì tâm nhắm sẽ dễ dàng dính vào đơn vị ở gần.</String>
-      <String _locID='24620' category='UI' scenario='Options' subtitle='false' _mouseKeyboard="26246">Adjust the speed at which the left stick scrolls the camera across the map.</String>
-      <String _locID='24621' category='UI' scenario='Options' subtitle='false' _mouseKeyboard="26247">The camera will follow the unit under the crosshair. Move the left stick to stop the camera from following the targeted unit.</String>
+      <String _locID='24620' category='UI' scenario='Options' subtitle='false' _mouseKeyboard="26246">Tùy chỉnh tốc độ di chuyển của camera khi sử dụng Cần Analog Bên Trái.</String>
+      <String _locID='24621' category='UI' scenario='Options' subtitle='false' _mouseKeyboard="26247">Camera sẽ bám theo đơn vị ở trong tâm nhắm. Di chuyển Cần Analog Bên Trái để dừng việc camera bám theo đơn vị đó.</String>
       <String _locID='24622' category='UI' scenario='Options' subtitle='false'>Show Hints description...</String>
       <String _locID='24623' category='UI' scenario='Options' subtitle='false'>Selection Speed description...</String>
       <String _locID='24624' category='UI' scenario='Options' subtitle='false'>Tùy chỉnh âm lượng nhạc.</String>
@@ -3796,7 +3796,7 @@ BẢNG ID STRING TRONG GAME
       <String _locID='24904' category='Campaign' scenario='3' subtitle='false'>Với sự giúp đỡ của xe tăng Grizzly, Forge và Anders đã chiến đấu và vượt qua lực lượng Covenant và thoát khỏi di tích.</String>
       <String _locID='24905' category='Campaign' scenario='4' subtitle='false'>Mặc dù đã có nhiều thương vong, một số tàu sơ tán đã trốn thoát khỏi Arcadia nhờ nỗ lực đến từ lực lượng Spirit of Fire.</String>
       <String _locID='24906' category='Campaign' scenario='5' subtitle='false'>Sau khi rút lui khỏi thành phố và chạy đến một cái hố lớn, Forge và lính của anh ấy tập hợp lại và phản công, và rồi phá hủy căn cứ của Covenant.</String>
-      <String _locID='24907' category='Campaign' scenario='6' subtitle='false'>Nhờ vị trí chiến lược của Spirit of Fire và sức mạnh của Rhino, đã giúp đánh sập mái vòm năng lượng của Covenant. Siêu vũ khí của Covenant hiện rất dễ bị tấn công.</String>
+      <String _locID='24907' category='Campaign' scenario='6' subtitle='false'>Nhờ vị trí chiến lược của Spirit of Fire và sức mạnh của Rhino, đã giúp đánh sập mái vòm năng lượng của Covenant. Siêu vũ khí của Covenant hiện rất dễ bị phá hủy.</String>
       <String _locID='24908' category='Campaign' scenario='7' subtitle='false'>Những nỗ lực của Covenant nhằm hoàn thành việc chế tạo Scarab đã kết thúc cùng với sự thất bại. Lực lượng UNSC đã hoàn thành công việc, loại bỏ mối đe dọa lớn.</String>
       <String _locID='24909' category='Campaign' scenario='8' subtitle='false'>Một số chiếc Elephant và đội ODST đã được cứu, đồng thời lực lượng mặt đất của tàu Spirit đã giao chiến với một dạng sống ngoài hành tinh bí ẩn.</String>
       <String _locID='24910' category='Campaign' scenario='9' subtitle='false'>Tín hiệu từ bộ liên lạc của Anders là tín hiệu giả do tổ của Flood tạo ra. Sau một cuộc chiến khó khăn, lực lượng UNSC đã tiêu diệt thành công sinh vật này.</String>
@@ -3841,21 +3841,21 @@ BẢNG ID STRING TRONG GAME
       <String _locID='24953' category='Skirmish' scenario='Tutorial' subtitle='false'>Nhấn $$X$$ để gặt hái tài nguyên từ hòm tiếp tế.</String>
       <String _locID='24954' category='Campaign' scenario='2' subtitle='false'>Xây một Trạm Cung Cấp</String>
       <String _locID='24955' category='Campaign' scenario='9' subtitle='true'>Trung sĩ Forge, tập hợp với đội Đỏ và rồi tìm Anders, nhưng hãy cẩn thận - chúng ta không biết những thứ này có khả năng gì đâu.</String>
-      <String _locID='24956' category='Cinematics' subtitle='false'>Captain Cutter reflects on the events that bring Spirit of Fire to Harvest. Sergeant Forge reports that the Covenant are still on the planet surface.</String>
-      <String _locID='24957' category='Cinematics' subtitle='false'>Sergeant Forge makes a startling discovery while Professor Anders prepares to go down to the surface of the planet. Meanwhile, the Arbiter is ordered to destroy the Forerunner installation.</String>
-      <String _locID='24958' category='Cinematics' subtitle='false'>Professor Anders and Sergeant Forge activate the Forerunner installation.</String>
-      <String _locID='24959' category='Cinematics' subtitle='false'>The information from Harvest points the crew of Spirit of Fire towards Arcadia, another UNSC colony world. When Spirit of Fire arrives, the world is already under attack by the Covenant.</String>
-      <String _locID='24960' category='Cinematics' subtitle='false'>The Arbiter is ordered to capture Professor Anders.</String>
-      <String _locID='24961' category='Cinematics' subtitle='false'>The Covenant have built a shield on the surface of Arcadia and the crew debate how to find out what they are hiding.</String>
-      <String _locID='24962' category='Cinematics' subtitle='false'>Professor Anders is kidnapped by the Covenant. Spirit of Fire pursues her kidnappers deep into enemy space.</String>
-      <String _locID='24963' category='Cinematics' subtitle='false'>Serina accidently unlocks the secret of the Shield World and opens the entrance portal, dragging Spirit of Fire inside the planet.</String>
-      <String _locID='24964' category='Cinematics' subtitle='false'>The entrance to the Shield World closes behind Spirit of Fire while the ship descends deep into the planet.</String>
-      <String _locID='24965' category='Cinematics' subtitle='false'>Spirit of Fire enters the interior of the Shield World and collides with a Covenant destroyer.</String>
-      <String _locID='24966' category='Cinematics' subtitle='false'>Professor Anders is forced to unlock the Forerunner dreadnaught ships and escapes to the surface.</String>
-      <String _locID='24967' category='Cinematics' subtitle='false'>The crew decides to detonate their FTL reactor in order to stop the Covenant from using the Forerunner dreadnaughts.</String>
-      <String _locID='24968' category='Cinematics' subtitle='false'>In a final confrontation between the Arbiter and Sergeant Forge, the reactor is damaged and one of the crew must make the ultimate sacrifice.</String>
-      <String _locID='24969' category='Cinematics' subtitle='false'>Spirit of Fire narrowly escapes from the exploding Shield World.</String>
-      <String _locID='24970' category='Cinematics' subtitle='false'>Professor Anders enters cryo sleep under protest.</String>
+      <String _locID='24956' category='Cinematics' subtitle='false'>Thuyền trưởng Cutter phản ánh về những sự kiện đã đưa Spirit of Fire tới Harvest. Trung sĩ Forge báo cáo rằng đám Covenant vẫn đang ở trên mặt đất.</String>
+      <String _locID='24957' category='Cinematics' subtitle='false'>Trung sĩ Forge đã khám phá một thứ đáng kinh ngạc khi Giáo sư Anders chuẩn bị đi xuống bề mặt hành tinh. Trong khi đó, tên Arbiter được mệnh lệnh phá hủy di tích của Forerunner.</String>
+      <String _locID='24958' category='Cinematics' subtitle='false'>Giáo sư Anders và Trung sĩ Forge kích hoạt di tích của Forerunner.</String>
+      <String _locID='24959' category='Cinematics' subtitle='false'>Thông tin từ Harvest đã dẫn tàu Spirit of Fire tới Arcadia, một thuộc địa khác của UNSC. Khi Spirit of Fire đến nơi, hành tinh này đã bị Covenant tấn công.</String>
+      <String _locID='24960' category='Cinematics' subtitle='false'>Tên Arbiter được mệnh lệnh bắt cóc Giáo sư Anders.</String>
+      <String _locID='24961' category='Cinematics' subtitle='false'>Đám Covenant đã xây dựng một chiếc khiên hình mái vòm lớn ở trên mặt đất của Arcadia và nhân sự của Spirit of Fire bàn luận về cách để tìm ra những gì kẻ địch đang che giấu.</String>
+      <String _locID='24962' category='Cinematics' subtitle='false'>Giáo sư Anders đã bị Covenant bắt cóc. Tàu Spirit of Fire sẽ phải truy đuổi những kẻ bắt cóc cô ở sâu trong không gian của kẻ thù.</String>
+      <String _locID='24963' category='Cinematics' subtitle='false'>Serina vô tình mở khóa bí mật của Shield World và cô ấy đã mở được cổng vào, kéo Spirit of Fire vào trong hành tinh.</String>
+      <String _locID='24964' category='Cinematics' subtitle='false'>Lối vào Shield World đóng lại sau khi Spirit of Fire hạ xuống sâu vào hành tinh.</String>
+      <String _locID='24965' category='Cinematics' subtitle='false'>Spirit of Fire đi vào bên trong Shield World và đã va chạm với tàu chiến của Covenant.</String>
+      <String _locID='24966' category='Cinematics' subtitle='false'>Giáo sư Anders buộc phải mở khóa những con tàu thống trị của Forerunner và rồi cô ấy đã trốn thoát xuống mặt đất.</String>
+      <String _locID='24967' category='Cinematics' subtitle='false'>Nhân sự của Spirit of Fire quyết định cho nổ lò phản ứng FTL của họ để ngăn Covenant sử dụng tàu chiến của Forerunner.</String>
+      <String _locID='24968' category='Cinematics' subtitle='false'>Trong cuộc đối đầu cuối cùng giữa Arbiter và Trung sĩ Forge, lò phản ứng đã bị hư hỏng và một người trong đội quân của Spirit of Fire phải hy sinh tột cùng.</String>
+      <String _locID='24969' category='Cinematics' subtitle='false'>Spirit of Fire thoát khỏi Shield World đang bùng nổ trong gang tấc.</String>
+      <String _locID='24970' category='Cinematics' subtitle='false'>Giáo sư Anders bỏ lại sự hối tiếc sau lưng và chìm vào giấc ngủ trong kén ngủ đông.</String>
       <String _locID='24971' category='Campaign' subtitle='false'>In Halo Wars, you (the player) are in control of single units, as well as large armies. You can give those units simple orders to move, attack, or use their special abilities. Ultimately, your goal is to use your units and armies to complete objectives and win scenarios.</String>
       <String _locID='24972' category='Campaign' subtitle='false'>Bases in Halo Wars are very important to your success. You choose which buildings you want to build and upgrade at your base. Buildings at your base can be used to train and upgrade units, creating powerful armies to fight the enemy. But don’t forget - the enemy is doing the same thing and it’s all happening in real time.</String>
       <String _locID='24973' category='Campaign' subtitle='false'>The ship Spirit of Fire is always in orbit above the planet. The ship’s special powers can be called upon to get out of sticky situations. As you progress through the campaign, check this menu to see which powers are available to you. Some of the powers at your fingertips will include Heal and Repair, Carpet Bombing, and a giant MAC Cannon blast.</String>
@@ -4588,8 +4588,8 @@ BẢNG ID STRING TRONG GAME
       <String _locID='25736' category='UI' scenario='UIControllerScreen' subtitle='false'>FAST SCROLL</String>
       <String _locID='25737' category='UI' scenario='UIControllerScreen' subtitle='false'>SUB-SELECT UNITS</String>
       <String _locID='25738' category='Campaign' scenario='Tutorial' subtitle='true'>Hãy nhớ, nếu bạn không biết phải làm gì tiếp, bạn có thể xem nhiệm vụ hiện tại bằng cách ấn nút $$BACK$$.</String>
-      <String _locID='25739' category='Campaign' scenario='Tutorial' subtitle='false'>View the controls from the PAUSE menu.</String>
-      <String _locID='25740' category='Campaign' scenario='All' subtitle='false'>Move near to revive</String>
+      <String _locID='25739' category='Campaign' scenario='Tutorial' subtitle='false'>Bạn có thể xem cách điều khiển ở menu DỪNG.</String>
+      <String _locID='25740' category='Campaign' scenario='All' subtitle='false'>Tới gần để hồi sinh</String>
       <String _locID='25741' category='UI' scenario='Postgame UI' subtitle='false'>BASE</String>
       <String _locID='25742' category='Campaign' scenario='Tutorial hint' subtitle='false'>Nhấn $$A$$ để chọn</String>
       <String _locID='25743' subtitle='false'>Kỹ năng ném Lựu đạn của Thủy quân lục chiến sẽ gây sát thương lớn vào những cấu trúc và cả bộ binh.</String>
@@ -4909,48 +4909,48 @@ BẢNG ID STRING TRONG GAME
       <String _locID='26086' category='UI' scenario='MainMenu' subtitle='false' Update='true'>The content that you are trying to access has not finished downloading, please feel free to try out the tutorials or some Skirmish matches in the meanwhile.</String>
       <String _locID='26087' category='UI' scenario='MainMenu' subtitle='false' Update='true'>The game is only partially installed, the %1!s! menu will not be available until the game completely finishes downloading.</String>
       <String _locID='26088' category='UI' scenario='MainMenu' subtitle='false' Update='true'>The game is only partially installed, the %1!s!, %2!s! menus will not be available until the game completely finishes downloading.</String>
-      <String _locID='26089' category='UI' scenario='Options' subtitle='false' Update='true'>Pause Game/Main Menu</String>
-      <String _locID='26090' category='UI' scenario='Options' subtitle='false' Update='true'>Objectives</String>
-      <String _locID='26091' category='UI' scenario='Options' subtitle='false' Update='true'>Global Units</String>
-      <String _locID='26092' category='UI' scenario='Options' subtitle='false' Update='true'>Sub-select units</String>
-      <String _locID='26093' category='UI' scenario='Options' subtitle='false' Update='true'>Local Units</String>
-      <String _locID='26094' category='UI' scenario='Options' subtitle='false' Update='true'>Game Cancel</String>
-      <String _locID='26095' category='UI' scenario='Options' subtitle='false' Update='true'>Game Action Alternate</String>
-      <String _locID='26096' category='UI' scenario='Options' subtitle='false' Update='true'>Camera Panning Movement Left</String>
-      <String _locID='26097' category='UI' scenario='Options' subtitle='false' Update='true'>Camera Panning Movement Right</String>
-      <String _locID='26098' category='UI' scenario='Options' subtitle='false' Update='true'>Camera Panning Movement Up</String>
-      <String _locID='26099' category='UI' scenario='Options' subtitle='false' Update='true'>Camera Panning Movement Down</String>
-      <String _locID='26100' category='UI' scenario='Options' subtitle='false' Update='true'>Reset Camera</String>
-      <String _locID='26101' category='UI' scenario='Options' subtitle='false' Update='true'>Set Rally Point</String>
-      <String _locID='26102' category='UI' scenario='Options' subtitle='false' Update='true'>Move to Last Alert Location</String>
-      <String _locID='26103' category='UI' scenario='Options' subtitle='false' Update='true'>Move/Cycle to Base Location(s)</String>
-      <String _locID='26104' category='UI' scenario='Options' subtitle='false' Update='true'>Move/Cycle to Next Army</String>
-      <String _locID='26105' category='UI' scenario='Options' subtitle='false' Update='true'>Spirit of Fire Menu</String>
-      <String _locID='26106' category='UI' scenario='Options' subtitle='false' Update='true'>Ping</String>
-      <String _locID='26107' category='UI' scenario='Options' subtitle='false' Update='true'>Bring up in-game chat/Send Message</String>
-      <String _locID='26108' category='UI' scenario='Options' subtitle='false' Update='true'>Pauses the game and brings up the main menu.</String>
-      <String _locID='26109' category='UI' scenario='Options' subtitle='false' Update='true'>Opens the objectives menu.</String>
-      <String _locID='26110' category='UI' scenario='Options' subtitle='false' Update='true'>Select all units, regardless of map location.</String>
-      <String _locID='26111' category='UI' scenario='Options' subtitle='false' Update='true'>Sub-select a group of units from all currently selected units.</String>
-      <String _locID='26112' category='UI' scenario='Options' subtitle='false' Update='true'>Select all units currently on screen.</String>
-      <String _locID='26113' category='UI' scenario='Options' subtitle='false' Update='true'>Cancel action.</String>
-      <String _locID='26114' category='UI' scenario='Options' subtitle='false' Update='true'>Use unit special ability or alternate action.</String>
-      <String _locID='26115' category='UI' scenario='Options' subtitle='false' Update='true'>Pan camera to the left.</String>
-      <String _locID='26116' category='UI' scenario='Options' subtitle='false' Update='true'>Pan camera to the right.</String>
-      <String _locID='26117' category='UI' scenario='Options' subtitle='false' Update='true'>Pan camera up.</String>
-      <String _locID='26118' category='UI' scenario='Options' subtitle='false' Update='true'>Pan camera down.</String>
-      <String _locID='26119' category='UI' scenario='Options' subtitle='false' Update='true'>Reset camera to original position.</String>
-      <String _locID='26120' category='UI' scenario='Options' subtitle='false' Update='true'>Set a rally point that tells new units where to move to.</String>
-      <String _locID='26121' category='UI' scenario='Options' subtitle='false' Update='true'>Move camera to the last alert location.</String>
-      <String _locID='26122' category='UI' scenario='Options' subtitle='false' Update='true'>Move the camera to the next base location.</String>
-      <String _locID='26123' category='UI' scenario='Options' subtitle='false' Update='true'>Move the camera to the next army location.</String>
-      <String _locID='26124' category='UI' scenario='Options' subtitle='false' Update='true'>Open the Spirt of Fire Menu, where strong leader powers and abilities can be found.</String>
-      <String _locID='26125' category='UI' scenario='Options' subtitle='false' Update='true'>Highlight a location on the map for allies to see.</String>
-      <String _locID='26126' category='UI' scenario='Options' subtitle='false' Update='true'>Bring up in-game chat.</String>
-      <String _locID='26127' category='UI' scenario='Options' subtitle='false' Update='true'>HOTKEYS</String>
-      <String _locID='26128' category='UI' scenario='Options' subtitle='false' Update='true'>Input mapping failed. That key cannot be assigned.</String>
-      <String _locID='26129' category='UI' scenario='Options' subtitle='false' Update='true'>Inputs have not been fully mapped. This may hinder your gameplay experience.</String>
-      <String _locID='26130' category='UI' scenario='Options' subtitle='false' Update='true'>This input is already mapped elsewhere. Would you like to overwrite it?</String>
+      <String _locID='26089' category='UI' scenario='Options' subtitle='false' Update='true'>Dừng Trò Chơi/Mở Menu</String>
+      <String _locID='26090' category='UI' scenario='Options' subtitle='false' Update='true'>Nhiệm Vụ</String>
+      <String _locID='26091' category='UI' scenario='Options' subtitle='false' Update='true'>Toàn Bộ Đơn Vị (All Units)</String>
+      <String _locID='26092' category='UI' scenario='Options' subtitle='false' Update='true'>Chọn Đơn Vị Trong Hàng Đơn Vị Đã Chọn</String>
+      <String _locID='26093' category='UI' scenario='Options' subtitle='false' Update='true'>Đơn Vị Trong Tầm Nhìn (Local Units)</String>
+      <String _locID='26094' category='UI' scenario='Options' subtitle='false' Update='true'>Hủy Bỏ</String>
+      <String _locID='26095' category='UI' scenario='Options' subtitle='false' Update='true'>Hành Động Phụ</String>
+      <String _locID='26096' category='UI' scenario='Options' subtitle='false' Update='true'>Di Chuyển Camera Qua Bên Trái</String>
+      <String _locID='26097' category='UI' scenario='Options' subtitle='false' Update='true'>Di Chuyển Camera Qua Bên Phải</String>
+      <String _locID='26098' category='UI' scenario='Options' subtitle='false' Update='true'>Di Chuyển Camera Lên</String>
+      <String _locID='26099' category='UI' scenario='Options' subtitle='false' Update='true'>Di Chuyển Camera Xuống</String>
+      <String _locID='26100' category='UI' scenario='Options' subtitle='false' Update='true'>Khôi Phục Vị Trí Camera</String>
+      <String _locID='26101' category='UI' scenario='Options' subtitle='false' Update='true'>Đặt Điểm Tập Hợp</String>
+      <String _locID='26102' category='UI' scenario='Options' subtitle='false' Update='true'>Di Chuyển Camera Tới Vị Trí Có Cảnh Báo</String>
+      <String _locID='26103' category='UI' scenario='Options' subtitle='false' Update='true'>Di Chuyển Camera tới Những Căn Cứ</String>
+      <String _locID='26104' category='UI' scenario='Options' subtitle='false' Update='true'>Di Chuyển Camera tới Những Đội Quân Của Bạn</String>
+      <String _locID='26105' category='UI' scenario='Options' subtitle='false' Update='true'>Menu Kỹ Năng Thủ Lĩnh Của Spirit of Fire</String>
+      <String _locID='26106' category='UI' scenario='Options' subtitle='false' Update='true'>Đánh Dấu (Ping)</String>
+      <String _locID='26107' category='UI' scenario='Options' subtitle='false' Update='true'>Mở Bảng Chat Trong Trận/Gửi Tin Nhắn</String>
+      <String _locID='26108' category='UI' scenario='Options' subtitle='false' Update='true'>Dừng game và mở menu.</String>
+      <String _locID='26109' category='UI' scenario='Options' subtitle='false' Update='true'>Mở bảng nhiệm vụ.</String>
+      <String _locID='26110' category='UI' scenario='Options' subtitle='false' Update='true'>Chọn toàn bộ đơn vị, bất kỳ đơn vị nào có trên bản đồ.</String>
+      <String _locID='26111' category='UI' scenario='Options' subtitle='false' Update='true'>Nếu bạn đã chọn nhiều đơn vị, bạn có thể sử dụng nút này để chọn đơn vị trong hàng đơn vị ở dưới màn hình của bạn.</String>
+      <String _locID='26112' category='UI' scenario='Options' subtitle='false' Update='true'>Chọn toàn bộ đơn vị đang ở trong tầm nhìn camera của bạn.</String>
+      <String _locID='26113' category='UI' scenario='Options' subtitle='false' Update='true'>Hủy hành động.</String>
+      <String _locID='26114' category='UI' scenario='Options' subtitle='false' Update='true'>Sử dụng kỹ năng đặc biệt hoặc những hành động phụ.</String>
+      <String _locID='26115' category='UI' scenario='Options' subtitle='false' Update='true'>Đưa camera qua bên trái.</String>
+      <String _locID='26116' category='UI' scenario='Options' subtitle='false' Update='true'>Đưa camera qua bên phải.</String>
+      <String _locID='26117' category='UI' scenario='Options' subtitle='false' Update='true'>Đưa camera lên.</String>
+      <String _locID='26118' category='UI' scenario='Options' subtitle='false' Update='true'>Đưa camera xuống.</String>
+      <String _locID='26119' category='UI' scenario='Options' subtitle='false' Update='true'>Đưa camera về vị trí gốc.</String>
+      <String _locID='26120' category='UI' scenario='Options' subtitle='false' Update='true'>Những đơn vị khi được huấn luyện xong sẽ di chuyển tới vị trí của điểm tập hợp.</String>
+      <String _locID='26121' category='UI' scenario='Options' subtitle='false' Update='true'>Đưa camera tới vị trí cảnh báo cuối cùng.</String>
+      <String _locID='26122' category='UI' scenario='Options' subtitle='false' Update='true'>Đưa camera tới vị trí của những căn cứ.</String>
+      <String _locID='26123' category='UI' scenario='Options' subtitle='false' Update='true'>Đưa camera tới vị trí của những đội quân.</String>
+      <String _locID='26124' category='UI' scenario='Options' subtitle='false' Update='true'>Mở menu của tàu Spirt of Fire, nơi mà có những kỹ năng thủ lĩnh.</String>
+      <String _locID='26125' category='UI' scenario='Options' subtitle='false' Update='true'>Đánh dấu vị trí trên bản đồ để đồng đội có thể thấy.</String>
+      <String _locID='26126' category='UI' scenario='Options' subtitle='false' Update='true'>Mở bảng chat trong trận đấu.</String>
+      <String _locID='26127' category='UI' scenario='Options' subtitle='false' Update='true'>PHÍM BẤM</String>
+      <String _locID='26128' category='UI' scenario='Options' subtitle='false' Update='true'>Không thể gắn nút bấm. Nút này không thể được dùng để gắn.</String>
+      <String _locID='26129' category='UI' scenario='Options' subtitle='false' Update='true'>Phím bấm chưa được gắn đầy đủ. Điều này có thể cản trở trải nghiệm chơi của bạn.</String>
+      <String _locID='26130' category='UI' scenario='Options' subtitle='false' Update='true'>Phím bấm này đã được gắn vào cái gì đó khác. Bạn có muốn ghi đè nó không?</String>
       <String _locID='26131' category='UI' scenario='MainMenu' subtitle='false'>TÌM TRẬN</String>
       <String _locID='26132' category='UI' scenario='MainMenu' subtitle='false'>GAME LIST</String>
       <String _locID='26133' category='UI' scenario='MainMenu' subtitle='false'>TẠO PHÒNG ĐẤU</String>
@@ -5032,7 +5032,7 @@ BẢNG ID STRING TRONG GAME
       <String _locID='26214' category='UI' subtitle='false'>Ảnh Phác Thảo Ý Tưởng 11</String>
       <String _locID='26215' category='UI' subtitle='false'>Ảnh Phác Thảo Ý Tưởng 12</String>
       <String _locID='26216' category='UI' subtitle='false'>Nhấn vào đây để nhận tài liệu hướng dẫn chiến lược dành cho Halo Wars được xuất bản bởi Prima! Tìm hiểu bản đồ, chiến lược, và thứ tự xây công trình để chinh phục chế độ chơi mạng hoặc chiến dịch mà không mất một đồng nào!</String>
-      <String _locID='26217' category='UI' subtitle='false'>Ấn nút bất kỳ để tiếp tục.</String>
+      <String _locID='26217' category='UI' subtitle='false'>Ấn nút bất kỳ để bắt đầu chơi.</String>
       <String _locID='26218' category='UI' subtitle='false'>Bạn có thể đổi thiết bị ngoại vi bạn muốn sử dụng ở Menu Chính.</String>
       <String _locID='26219' category='UI' subtitle='false'>Đang lưu nội dung... xin đừng thoát trò chơi.</String>
       <String _locID='26220' category='Skirmish' scenario='Hint Chat' subtitle='false'>Use $$LS$$ to center the cursor over the Warthog next to your base.</String>
@@ -5061,8 +5061,8 @@ BẢNG ID STRING TRONG GAME
       <String _locID='26243' category='UI' scenario='Party Room' subtitle='false'>$$A$$ để xem tùy chọn dành cho người chơi này</String>
       <String _locID='26244' scenario='Hint Display' subtitle='false'>$$A$$ để chọn</String>
       <String _locID='26245' category='UI' scenario='Options' subtitle='false'>Chọn bật hoặc tắt xoay camera bằng cách giữ nút ALT và di chuyển $$LS$$.</String>
-      <String _locID='26246' category='UI' scenario='Options' subtitle='false'>Adjust the speed at which $$LS$$ scrolls the camera across the map.</String>
-      <String _locID='26247' category='UI' scenario='Options' subtitle='false'>The camera will follow the unit under the cursor. Please note that this option will not apply when playing with mouse and keyboard.</String>
+      <String _locID='26246' category='UI' scenario='Options' subtitle='false'>Tùy chỉnh tốc độ di chuyển của camera khi sử dụng $$LS$$.</String>
+      <String _locID='26247' category='UI' scenario='Options' subtitle='false'>Camera sẽ bám theo đơn vị ở trong tâm nhắm. Xin lưu ý rằng cài đặt này không có tác dụng đối với bàn phím/chuột.</String>
       <String _locID='26248' category='Campaign' scenario='6' subtitle='false'>Nhấn $$SoFM$$ để mở menu Kỹ Năng của Spirit of Fire</String>
       <String _locID='26249' category='Powers' subtitle='false'>Sử dụng $$LS$$ để di chuyển tới nơi bạn muốn và rồi nhấn $$X$$ để tấn công.</String>
       <String _locID='26250' category='Campaign' subtitle='true' scenario='Tutorial'>Bạn sẽ cần áp dụng những gì bạn vừa học được về cách điều khiển camera và sử dụng con trỏ chuột để chọn thứ mà bạn muốn.</String>
@@ -5101,7 +5101,7 @@ BẢNG ID STRING TRONG GAME
       <String _locID='26283' subtitle='false' category='UI'>Khi bạn đã chọn một đơn vị hoặc nhiều hơn thế, hãy nhấn CTRL + (số từ 0-9) để gán phím tắt vào phím số, làm như vậy sẽ giúp bạn chọn đơn vị nhanh hơn.</String>
       <String _locID='26284' subtitle='false' category='UI'>Khi bạn đã chọn một đơn vị hoặc nhiều hơn thế, hãy nhấn SHIFT + (số từ 0-9). Nếu những đơn vị bạn chọn chưa được đánh số đội quân, họ sẽ được đánh số.</String>
       <String _locID='26285' subtitle='false' category='UI'>Khi bạn đã chọn một đơn vị hoặc nhiều hơn thế, hãy nhấn ALT + SHIFT + (số từ 0-9). Làm vậy sẽ thêm những đơn vị bạn đã chọn vào đội quân; nó cũng sẽ xóa đi những đơn vị bạn đã chọn khỏi đội quân đã được đánh số nào đó khác (nếu có).</String>
-      <String _locID='26286' subtitle='false' category='UI'>Khi bạn đã chọn một đơn vị hoặc nhiều hơn thế, hãy nhấn ALT + (số từ 0-9). Làm vậy sẽ bỏ đánh số toàn bộ đơn vị khỏi đội quân ngoại trừ đơn vị bạn đã chọn; nó cũng sẽ xóa đi những đơn vị bạn đã chọn khỏi đội quân đã được đánh số nào đó khác (nếu có).</String>
+      <String _locID='26286' subtitle='false' category='UI'>Khi bạn đã chọn một đơn vị hoặc nhiều hơn thế, hãy nhấn ALT + (số từ 0-9). Làm vậy sẽ tạo đội quân hoàn toàn mới dành cho đơn vị bạn chọn; nó cũng sẽ xóa đi những đơn vị bạn đã chọn khỏi đội quân đã được đánh số nào đó khác (nếu có).</String>
       <String _locID='26287' subtitle='false' category='UI'>Nhấn phím số bạn đã gán vào Đội Quân MỘT lần để chọn toàn bộ những đơn vị trong đội quân.</String>
       <String _locID='26288' subtitle='false' category='UI'>Nhấn phím số bạn đã gán vào Đội Quân HAI lần để nhảy camera tới vị trí của Đội Quân.</String>
       <String _locID='26289' subtitle='false' category='UI'>Một vài phím điều khiển giờ đã có thể tùy chỉnh theo ý muốn của bạn, bạn có thể vào menu Cài Đặt và rồi nhấn vào mục Điều Khiển để xem và tùy chỉnh những phím bấm này.</String>
@@ -5114,40 +5114,40 @@ BẢNG ID STRING TRONG GAME
       <String _locID='26296' subtitle='false' category='UI'>Chưa Đăng Nhập</String>
       <String _locID='26297' category='UI' subtitle='false'>High Resolution</String>
       <String _locID='26298' category='UI' subtitle='false'>High Resolution Mode</String>
-      <String _locID='26299' subtitle='false' category='UI'>Rotate Camera Left Alternate</String>
+      <String _locID='26299' subtitle='false' category='UI'>Nút Thay Thế Để Xoay Camera Qua Bên Trái</String>
       <String _locID='26300' subtitle='false' category='UI'>Page Up</String>
-      <String _locID='26301' subtitle='false' category='UI'>Rotate Camera Right Alternate</String>
+      <String _locID='26301' subtitle='false' category='UI'>Nút Thay Thế Để Xoay Camera Qua Bên Phải</String>
       <String _locID='26302' subtitle='false' category='UI'>Page Down</String>
-      <String _locID='26303' subtitle='false' category='UI'>Camera Zoom</String>
-      <String _locID='26304' subtitle='false' category='UI'>Scroll Wheel</String>
-      <String _locID='26305' subtitle='false' category='UI'>Camera Zoom In</String>
-      <String _locID='26306' subtitle='false' category='UI'>Camera Zoom Out</String>
-      <String _locID='26307' subtitle='false' category='UI'>Faster Camera Movement</String>
-      <String _locID='26308' subtitle='false' category='UI'>Shift+Directional Key</String>
-      <String _locID='26309' subtitle='false' category='UI'>Rectangle Multi-Unit Selection</String>
-      <String _locID='26310' subtitle='false' category='UI'>Left Click (Hold)</String>
-      <String _locID='26311' subtitle='false' category='UI'>Select Control Group</String>
-      <String _locID='26312' subtitle='false' category='UI'>Create Control Group</String>
-      <String _locID='26313' subtitle='false' category='UI'>Add Units to Control Group</String>
-      <String _locID='26314' subtitle='false' category='UI'>Add Additional Units Exclusive</String>
-      <String _locID='26315' subtitle='false' category='UI'>Rotate Camera</String>
+      <String _locID='26303' subtitle='false' category='UI'>Phóng To/Nhỏ Camera</String>
+      <String _locID='26304' subtitle='false' category='UI'>Con Lăn Của Chuột</String>
+      <String _locID='26305' subtitle='false' category='UI'>Phóng To Camera</String>
+      <String _locID='26306' subtitle='false' category='UI'>Phóng Nhỏ Camera</String>
+      <String _locID='26307' subtitle='false' category='UI'>Tăng Tốc Độ Camera</String>
+      <String _locID='26308' subtitle='false' category='UI'>Shift+Phím Mũi Tên</String>
+      <String _locID='26309' subtitle='false' category='UI'>Hộp Chọn Đơn Vị Hình Chữ Nhật</String>
+      <String _locID='26310' subtitle='false' category='UI'>Chuột Trái (Giữ)</String>
+      <String _locID='26311' subtitle='false' category='UI'>Chọn Đội Quân Đã Đánh Số</String>
+      <String _locID='26312' subtitle='false' category='UI'>Đánh Số Đội Quân</String>
+      <String _locID='26313' subtitle='false' category='UI'>Thêm Đơn Vị Vào Đội Quân Đã Đánh Số</String>
+      <String _locID='26314' subtitle='false' category='UI'>Thêm/Xóa Đơn Vị Của Tất Cả Đội Quân Đã Đánh Số</String>
+      <String _locID='26315' subtitle='false' category='UI'>Xoay Camera</String>
       <String _locID='26316' subtitle='false' category='UI'>Middle Click (Hold)</String>
-      <String _locID='26317' subtitle='false' category='UI'>Hotkeys</String>
-      <String _locID='26318' subtitle='false' category='UI'>Rotates camera.</String>
-      <String _locID='26319' subtitle='false' category='UI'>Rotates camera left.</String>
-      <String _locID='26320' subtitle='false' category='UI'>Rotate camera right.</String>
-      <String _locID='26321' subtitle='false' category='UI'>Zoom camera level.</String>
-      <String _locID='26322' subtitle='false' category='UI'>Zoom camera in.</String>
-      <String _locID='26323' subtitle='false' category='UI'>Zoom camera out.</String>
-      <String _locID='26324' subtitle='false' category='UI'>Moves camera faster when held down.</String>
-      <String _locID='26325' subtitle='false' category='UI'>Click and Hold the Left Mouse button to create a starting point and drag the mouse in any direction to create a selection box over units you would like to select.</String>
-      <String _locID='26326' subtitle='false' category='UI'>Press (0-9) once to select desired control group. Double click to put camera focus onto the control group.</String>
-      <String _locID='26327' subtitle='false' category='UI'>With a unit or a selection of units press CTRL + (0-9) to assign the selection to the selected number slot.</String>
-      <String _locID='26328' subtitle='false' category='UI'>With a unit or multiple units selected press SHIFT + (0-9) to add units to desired control group.</String>
-      <String _locID='26329' subtitle='false' category='UI'>With a unit or multiple units selected press ALT + SHIFT + (0-9). The selected units are added to the control group and are removed from other control groups.</String>
-      <String _locID='26330' subtitle='false' category='UI'>Control Groups</String>
-      <String _locID='26331' subtitle='false' category='UI'>Create Group Exclusive</String>
-      <String _locID='26332' subtitle='false' category='UI'>With a unit or multiple units selected press ALT + (0-9). The selected units will make a new control group and are removed from other control groups.</String>
+      <String _locID='26317' subtitle='false' category='UI'>Phím Bấm</String>
+      <String _locID='26318' subtitle='false' category='UI'>Xoay camera.</String>
+      <String _locID='26319' subtitle='false' category='UI'>Xoay camera qua bên trái.</String>
+      <String _locID='26320' subtitle='false' category='UI'>Xoay camera qua bên phải.</String>
+      <String _locID='26321' subtitle='false' category='UI'>Phóng to hoặc nhỏ camera.</String>
+      <String _locID='26322' subtitle='false' category='UI'>Phóng to camera.</String>
+      <String _locID='26323' subtitle='false' category='UI'>Phóng nhỏ camera.</String>
+      <String _locID='26324' subtitle='false' category='UI'>Di chuyển camera nhanh hơn khi bạn giữ nút.</String>
+      <String _locID='26325' subtitle='false' category='UI'>Nhấn và giữ nút Chuột Trái trong khi kéo chuột qua hướng bất kỳ để sử dụng hộp chọn, hộp chọn được dùng để chọn đơn vị.</String>
+      <String _locID='26326' subtitle='false' category='UI'>Nhấn (số từ 0-9) một lần để chọn đội quân bạn đã đánh số. Nhấn đúp để đưa camera tới đội quân bạn đã đánh số.</String>
+      <String _locID='26327' subtitle='false' category='UI'>Khi bạn đã chọn một đơn vị hoặc nhiều hơn thế, hãy nhấn CTRL + (số từ 0-9) để gán phím tắt vào phím số.</String>
+      <String _locID='26328' subtitle='false' category='UI'>Khi bạn đã chọn một đơn vị hoặc nhiều hơn thế, hãy nhấn SHIFT + (số từ 0-9) để thêm đơn vị vào phím số.</String>
+      <String _locID='26329' subtitle='false' category='UI'>Khi bạn đã chọn một đơn vị hoặc nhiều hơn thế, hãy nhấn ALT + SHIFT + (số từ 0-9). Làm vậy sẽ thêm những đơn vị bạn đã chọn vào đội quân; nó cũng sẽ xóa đi những đơn vị bạn đã chọn khỏi đội quân đã được đánh số nào đó khác (nếu có).</String>
+      <String _locID='26330' subtitle='false' category='UI'>Điều Khiển Đội Quân</String>
+      <String _locID='26331' subtitle='false' category='UI'>Tạo Mới Đội Quân</String>
+      <String _locID='26332' subtitle='false' category='UI'>Khi bạn đã chọn một đơn vị hoặc nhiều hơn thế, hãy nhấn ALT + (số từ 0-9). Khi làm vậy sẽ tạo đội quân hoàn toàn mới vào phím số bạn đã chọn; nó cũng sẽ xóa đi những đơn vị bạn đã chọn khỏi đội quân đã được đánh số nào đó khác (nếu có).</String>
       <String _locID='26333' category='UI' subtitle='false'>Đồng Bộ Hóa Theo Chiều Dọc (VSync)</String>
       <String _locID='26334' category='UI' subtitle='false'>Chọn bật hoặc tắt VSync, tắt cài đặt này sẽ cải thiện hiệu năng.</String>
       <String _locID='26335' category='UI' subtitle='false'>Bạn có chắc là bạn muốn thoát trò chơi?</String>
@@ -5184,12 +5184,12 @@ BẢNG ID STRING TRONG GAME
       <String _locID='26430' subtitle='false' category='Code'>Nút Chuột Trái</String>
       <String _locID='26431' subtitle='false' category='Code'>Nút Chuột Phải</String>
       <String _locID='26432' subtitle='false' category='Code'>Nút Chuột Giữa</String>
-      <String _locID='26433' subtitle='false' category='Code'>Mouse Button 4</String>
-      <String _locID='26434' subtitle='false' category='Code'>Mouse Button 5</String>
+      <String _locID='26433' subtitle='false' category='Code'>Nút Chuột 4</String>
+      <String _locID='26434' subtitle='false' category='Code'>Nút Chuột 5</String>
       <String _locID='26435' subtitle='false' category='Code'>Lăn Chuột Lên</String>
       <String _locID='26436' subtitle='false' category='Code'>Lăn Chuột Xuống</String>
       <String _locID='26437' subtitle='false' category='Code'>Con Trỏ Chuột</String>
-      <String _locID='26438' subtitle='false' category='Code'>Escape</String>
+      <String _locID='26438' subtitle='false' category='Code'>Nút Escape</String>
       <String _locID='26439' subtitle='false' category='Code'>1</String>
       <String _locID='26440' subtitle='false' category='Code'>2</String>
       <String _locID='26441' subtitle='false' category='Code'>3</String>
@@ -5200,10 +5200,10 @@ BẢNG ID STRING TRONG GAME
       <String _locID='26446' subtitle='false' category='Code'>8</String>
       <String _locID='26447' subtitle='false' category='Code'>9</String>
       <String _locID='26448' subtitle='false' category='Code'>0</String>
-      <String _locID='26449' subtitle='false' category='Code'>Minus</String>
-      <String _locID='26450' subtitle='false' category='Code'>Equals</String>
-      <String _locID='26451' subtitle='false' category='Code'>Backspace</String>
-      <String _locID='26452' subtitle='false' category='Code'>Tab</String>
+      <String _locID='26449' subtitle='false' category='Code'>Nút Trừ ( - )</String>
+      <String _locID='26450' subtitle='false' category='Code'>Nút Bằng ( = )</String>
+      <String _locID='26451' subtitle='false' category='Code'>Nút Backspace</String>
+      <String _locID='26452' subtitle='false' category='Code'>Nút Tab</String>
       <String _locID='26453' subtitle='false' category='Code'>A</String>
       <String _locID='26454' subtitle='false' category='Code'>B</String>
       <String _locID='26455' subtitle='false' category='Code'>C</String>
@@ -5232,7 +5232,7 @@ BẢNG ID STRING TRONG GAME
       <String _locID='26478' subtitle='false' category='Code'>Z</String>
       <String _locID='26479' subtitle='false' category='Code'>Left Bracket</String>
       <String _locID='26480' subtitle='false' category='Code'>Right Bracket</String>
-      <String _locID='26481' subtitle='false' category='Code'>Enter</String>
+      <String _locID='26481' subtitle='false' category='Code'>Nút Enter</String>
       <String _locID='26482' subtitle='false' category='Code'>Semicolon</String>
       <String _locID='26483' subtitle='false' category='Code'>Apostrophe</String>
       <String _locID='26484' subtitle='false' category='Code'>Grave</String>
@@ -5240,10 +5240,10 @@ BẢNG ID STRING TRONG GAME
       <String _locID='26486' subtitle='false' category='Code'>Comma</String>
       <String _locID='26487' subtitle='false' category='Code'>Period</String>
       <String _locID='26488' subtitle='false' category='Code'>Slash</String>
-      <String _locID='26489' subtitle='false' category='Code'>Right Shift</String>
+      <String _locID='26489' subtitle='false' category='Code'>Nút Shift Bên Phải</String>
       <String _locID='26490' subtitle='false' category='Code'>Numpad Multiply</String>
-      <String _locID='26491' subtitle='false' category='Code'>Space</String>
-      <String _locID='26492' subtitle='false' category='Code'>Caps Lock</String>
+      <String _locID='26491' subtitle='false' category='Code'>Nút Cách (Space)</String>
+      <String _locID='26492' subtitle='false' category='Code'>Nút Caps Lock</String>
       <String _locID='26493' subtitle='false' category='Code'>F1</String>
       <String _locID='26494' subtitle='false' category='Code'>F2</String>
       <String _locID='26495' subtitle='false' category='Code'>F3</String>
@@ -5259,8 +5259,8 @@ BẢNG ID STRING TRONG GAME
       <String _locID='26505' subtitle='false' category='Code'>F13</String>
       <String _locID='26506' subtitle='false' category='Code'>F14</String>
       <String _locID='26507' subtitle='false' category='Code'>F15</String>
-      <String _locID='26508' subtitle='false' category='Code'>Num Lock</String>
-      <String _locID='26509' subtitle='false' category='Code'>Scroll Lock</String>
+      <String _locID='26508' subtitle='false' category='Code'>Nút Num Lock</String>
+      <String _locID='26509' subtitle='false' category='Code'>Nút Scroll Lock</String>
       <String _locID='26510' subtitle='false' category='Code'>Num Pad 7</String>
       <String _locID='26511' subtitle='false' category='Code'>Num Pad 8</String>
       <String _locID='26512' subtitle='false' category='Code'>Num Pad 9</String>
@@ -5287,49 +5287,49 @@ BẢNG ID STRING TRONG GAME
       <String _locID='26533' subtitle='false' category='Code'>Colon</String>
       <String _locID='26534' subtitle='false' category='Code'>Underline</String>
       <String _locID='26535' subtitle='false' category='Code'>Kanji</String>
-      <String _locID='26536' subtitle='false' category='Code'>Numpad Enter</String>
-      <String _locID='26537' subtitle='false' category='Code'>Right Ctrl</String>
-      <String _locID='26538' subtitle='false' category='Code'>Numpad Divide</String>
-      <String _locID='26539' subtitle='false' category='Code'>Print Screen</String>
-      <String _locID='26540' subtitle='false' category='Code'>Right Alt</String>
-      <String _locID='26541' subtitle='false' category='Code'>Pause</String>
-      <String _locID='26542' subtitle='false' category='Code'>Home</String>
-      <String _locID='26543' subtitle='false' category='Code'>Up</String>
-      <String _locID='26544' subtitle='false' category='Code'>Page Up</String>
-      <String _locID='26545' subtitle='false' category='Code'>Left</String>
-      <String _locID='26546' subtitle='false' category='Code'>Right</String>
-      <String _locID='26547' subtitle='false' category='Code'>End</String>
-      <String _locID='26548' subtitle='false' category='Code'>Down</String>
-      <String _locID='26549' subtitle='false' category='Code'>Page Down</String>
-      <String _locID='26550' subtitle='false' category='Code'>Insert</String>
-      <String _locID='26551' subtitle='false' category='Code'>Delete</String>
-      <String _locID='26552' subtitle='false' category='Code'>Left Shift</String>
-      <String _locID='26553' subtitle='false' category='Code'>Left Ctrl</String>
-      <String _locID='26554' subtitle='false' category='Code'>Left Alt</String>
+      <String _locID='26536' subtitle='false' category='Code'>Nút Enter Ở Numpad</String>
+      <String _locID='26537' subtitle='false' category='Code'>Nút Ctrl Bên Phải</String>
+      <String _locID='26538' subtitle='false' category='Code'>Nút Chia Ở Numpad</String>
+      <String _locID='26539' subtitle='false' category='Code'>Nút Print Screen</String>
+      <String _locID='26540' subtitle='false' category='Code'>Nút Alt Bên Phải</String>
+      <String _locID='26541' subtitle='false' category='Code'>Nút Pause</String>
+      <String _locID='26542' subtitle='false' category='Code'>Nút Home</String>
+      <String _locID='26543' subtitle='false' category='Code'>Mũi Tên Lên</String>
+      <String _locID='26544' subtitle='false' category='Code'>Nút Page Up</String>
+      <String _locID='26545' subtitle='false' category='Code'>Mũi Tên Bên Trái</String>
+      <String _locID='26546' subtitle='false' category='Code'>Mũi Tên Bên Phải</String>
+      <String _locID='26547' subtitle='false' category='Code'>Nút End</String>
+      <String _locID='26548' subtitle='false' category='Code'>Mũi Tên Xuống</String>
+      <String _locID='26549' subtitle='false' category='Code'>Nút Page Down</String>
+      <String _locID='26550' subtitle='false' category='Code'>Nút Insert</String>
+      <String _locID='26551' subtitle='false' category='Code'>Nút Delete</String>
+      <String _locID='26552' subtitle='false' category='Code'>Nút Shift Bên Trái</String>
+      <String _locID='26553' subtitle='false' category='Code'>Nút Ctrl Bên Trái</String>
+      <String _locID='26554' subtitle='false' category='Code'>Nút Alt Bên Trái</String>
       <String _locID='26555' subtitle='false' category='Code'>ModifierDoubleClick</String>
       <String _locID='26556' subtitle='false' category='Code'>ModifierHold</String>
       <String _locID='26557' subtitle='false' category='Code'>ModifierPrecise</String>
-      <String _locID='26600' subtitle='false' category='Code'>Alternate Hotkeys</String>
-      <String _locID='26601' subtitle='false' category='Code'>Camera Panning Movement Left Alternate</String>
-      <String _locID='26602' subtitle='false' category='Code'>Pan camera to the left.</String>
-      <String _locID='26603' subtitle='false' category='Code'>Camera Panning Movement Right Alternate</String>
-      <String _locID='26604' subtitle='false' category='Code'>Pan camera to the right.</String>
-      <String _locID='26605' subtitle='false' category='Code'>Camera Panning Movement Up Alternate</String>
-      <String _locID='26606' subtitle='false' category='Code'>Pan camera up.</String>
-      <String _locID='26607' subtitle='false' category='Code'>Camera Panning Movement Down Alternate</String>
-      <String _locID='26608' subtitle='false' category='Code'>Pan camera down.</String>
-      <String _locID='26609' subtitle='false' category='Code'>Mouse Clipping Mode</String>
-      <String _locID='26610' subtitle='false' category='Code'>Auto: on when playing in fullscreen, On: always on, Off: always off</String>
-      <String _locID='26611' subtitle='false' category='Code'>Auto</String>
-      <String _locID='26612' subtitle='false' category='Code'>On</String>
-      <String _locID='26613' subtitle='false' category='Code'>Off</String>
-      <String _locID='26614' subtitle='false' category='Code'>Unable to join the session.</String>
-      <String _locID='26615' subtitle='false' category='Code'>The active controller has been disconnected. Please reconnect a controller to continue playing.</String>
+      <String _locID='26600' subtitle='false' category='Code'>Phím Bấm Thay Thế (Phụ)</String>
+      <String _locID='26601' subtitle='false' category='Code'>Di Chuyển Camera Qua Bên Trái (Phụ)</String>
+      <String _locID='26602' subtitle='false' category='Code'>Đưa camera qua bên trái.</String>
+      <String _locID='26603' subtitle='false' category='Code'>Di Chuyển Camera Qua Bên Phải (Phụ)</String>
+      <String _locID='26604' subtitle='false' category='Code'>Đưa camera qua bên phải.</String>
+      <String _locID='26605' subtitle='false' category='Code'>Di Chuyển Camera Lên (Phụ)</String>
+      <String _locID='26606' subtitle='false' category='Code'>Đưa camera lên.</String>
+      <String _locID='26607' subtitle='false' category='Code'>Di Chuyển Camera Xuống (Phụ)</String>
+      <String _locID='26608' subtitle='false' category='Code'>Đưa camera xuống.</String>
+      <String _locID='26609' subtitle='false' category='Code'>Chế Độ Chuột</String>
+      <String _locID='26610' subtitle='false' category='Code'>Cài đặt này sẽ ngăn chuột di chuyển ra ngoài cửa sổ của trò chơi.&lt;br&gt;Tự Động: Cài đặt này sẽ tự động bật khi bạn chơi ở chế độ toàn màn hình, Bật: Cài đặt này sẽ luôn bật, Tắt: Cài đặt này sẽ luôn tắt.</String>
+      <String _locID='26611' subtitle='false' category='Code'>Tự Động</String>
+      <String _locID='26612' subtitle='false' category='Code'>Bật</String>
+      <String _locID='26613' subtitle='false' category='Code'>Tắt</String>
+      <String _locID='26614' subtitle='false' category='Code'>Không thể tham gia phòng chơi.</String>
+      <String _locID='26615' subtitle='false' category='Code'>Tay cầm đã bị ngắt kết nối. Xin hãy kết nối lại với tay cầm để tiếp tục chơi.</String>
       <String _locID='26616' subtitle='false' category='Code'>The user that tried to join the game is not the active user.</String>
       <String _locID='26617' category='UI' scenario='MainMenu' subtitle='false'>PHÒNG CHỜ</String>
       <String _locID='26618' category='UI' scenario='MPGameSetup' subtitle='false'>Đã xảy ra lỗi khi tìm trận. Xin hãy kiểm tra đường truyền mạng của bạn và thử lại.</String>
       <String _locID='26619' category='UI' scenario='MPGameSetup' subtitle='false'>Không thể tìm được trận đấu nào. Xin hãy chỉnh lại cài đặt và thử lại.</String>
-      <String _locID='26620' subtitle='false' category='Code'>The active controller has been disconnected.</String>
+      <String _locID='26620' subtitle='false' category='Code'>Tay cầm đã bị ngắt kết nối.</String>
       <String _locID='26621' subtitle='false' category='Code'>Không thể tham gia phòng chơi. Lỗi: %1!s!</String>
       <String _locID='26622' category='UI' subtitle='false'>THOÁT VỀ MENU</String>
       <String _locID='26623' subtitle='false' category='Code'>Đang tải thông tin hồ sơ người chơi của bạn...</String>
@@ -5344,9 +5344,9 @@ BẢNG ID STRING TRONG GAME
       <String _locID='26632' category='UI' subtitle='false'>HỦY MỞ PHÒNG</String>
       <String _locID='26633' subtitle='false'>Move commands can be queued up for sequential execution by briefly holding down SHIFT when giving commands.</String>
       <String _locID='26634' category='UI' scenario='Options' subtitle='false'>Chỉnh mức độ dính của tâm nhắm khi bạn di chuyển camera xung quanh chiến trường. Xin lưu ý rằng cài đặt này không có tác dụng đối với bàn phím/chuột.</String>
-      <String _locID='26635' category='UI' subtitle='false'>Gamepad</String>
-      <String _locID='26636' category='UI' subtitle='false'>Keyboard/Mouse</String>
-      <String _locID='26637' category='UI' subtitle='false'>Primary input method. This cannot be changed while playing a game.</String>
+      <String _locID='26635' category='UI' subtitle='false'>Tay Cầm</String>
+      <String _locID='26636' category='UI' subtitle='false'>Bàn Phím/Chuột</String>
+      <String _locID='26637' category='UI' subtitle='false'>Tùy chọn thiết bị điều khiển. Cài đặt này sẽ không thể được chỉnh lại khi bạn đang ở trong trận.</String>
       <String _locID='26638' category='UI' subtitle='false'>+</String>
       <String _locID='26639' category='UI' subtitle='false'>-</String>
       <String _locID='26640' category='UI' subtitle='false'>Ctrl+#</String>
@@ -5375,10 +5375,10 @@ BẢNG ID STRING TRONG GAME
       <String _locID='26663' category='Campaign' scenario='Tutorial' subtitle='true'>Để di chuyển một đơn vị, chọn họ, di chuyển con trỏ tới nơi mà bạn muốn họ tới, và rồi ấn $$X$$.</String>
       <String _locID='26664' category='Campaign' scenario='Tutorial' subtitle='true'>Để di chuyển thật nhiều đơn vị, chọn họ, di chuyển con trỏ tới nơi mà bạn muốn họ tới, và rồi ấn $$X$$.</String>
       <String _locID='26665' category='Campaign' scenario='Tutorial' subtitle='true'>Để tấn công, chọn đơn vị, di chuyển con trỏ lên kẻ thù bạn muốn tấn công bằng $$LS$$, và rồi ấn $$X$$.</String>
-      <String _locID='26666' category='UI' scenario='Options' subtitle='true'>Alt + MouseMove Left or Right</String>
-      <String _locID='26667' category='UI' scenario='Options' subtitle='true'>Alt + Scroll wheel</String>
-      <String _locID='26668' subtitle='false' category='Code'>Unable to join the session due to an incompatible firewall configuration. For more support, please open the Xbox App and go to the Network Settings or go to http://support.xbox.com.</String>
-      <String _locID='26669' subtitle='false' category='Code'>An update to your game is now available. Press OK to quit the game and go to the page where you can download the update. You will not be able to play any Halo Wars multiplayer games until the update is applied.</String>
+      <String _locID='26666' category='UI' scenario='Options' subtitle='true'>Alt + Di chuyển Chuột qua Trái hoặc Phải</String>
+      <String _locID='26667' category='UI' scenario='Options' subtitle='true'>Alt + Con Lăn Chuột</String>
+      <String _locID='26668' subtitle='false' category='Code'>Không thể tham gia phòng chơi do thiết bị của bạn đang có cài đặt tường lửa (Windows Firewall) không phù hợp. Để được hỗ trợ, xin vui lòng mở Xbox App và vào Cài Đặt Mạng hoặc truy cập http://support.xbox.com.</String>
+      <String _locID='26669' subtitle='false' category='Code'>Trò chơi đã có bản cập nhật mới. Nhấn OK để thoát trò chơi và rồi tải xuống bản cập nhật. Bạn sẽ không thể chơi bất kỳ trận đấu chơi mạng của Halo Wars cho đến khi bạn đã cập nhật xong trò chơi.</String>
       <String _locID='26670' category='UI' scenario='Options' subtitle='false'>Độ Phân Giải</String>
       <String _locID='26671' category='UI' scenario='Options' subtitle='false'>Tùy chỉnh độ phân giải ở chế độ toàn màn hình.</String>
       <String _locID='26672' subtitle='false'>%1!d!x%2!d!</String>
@@ -5404,39 +5404,39 @@ BẢNG ID STRING TRONG GAME
       <String _locID='26692' subtitle='false' category='UI'>Khi bạn tùy chỉnh xong cài đặt phòng đấu, ấn nút SẴN SÀNG để bắt đầu chơi.</String>
       <String _locID='26693' subtitle='false' category='UI'>Global</String>
       <String _locID='26694' subtitle='false' category='UI'>Team</String>
-      <String _locID='26695' subtitle='false' category='UI'>Radial Menu Hotkeys</String>
-      <String _locID='26696' subtitle='false' category='UI'>Radial Menu Top Use</String>
-      <String _locID='26697' category='UI' subtitle='false'>Activate the radial menu top action.</String>
-      <String _locID='26698' subtitle='false' category='UI'>Radial Menu Top Cancel</String>
-      <String _locID='26699' category='UI' subtitle='false'>Cancel the radial menu top action.</String>
-      <String _locID='26700' subtitle='false' category='UI'>Radial Menu Top-Right Use</String>
-      <String _locID='26701' category='UI' subtitle='false'>Activate the radial menu top-right action.</String>
-      <String _locID='26702' subtitle='false' category='UI'>Radial Menu Top-Right Cancel</String>
-      <String _locID='26703' category='UI' subtitle='false'>Cancel the radial menu top-right action.</String>
-      <String _locID='26704' subtitle='false' category='UI'>Radial Menu Right Use</String>
-      <String _locID='26705' category='UI' subtitle='false'>Activate the radial menu right action.</String>
-      <String _locID='26706' subtitle='false' category='UI'>Radial Menu Right Cancel</String>
-      <String _locID='26707' category='UI' subtitle='false'>Cancel the radial menu right action.</String>
-      <String _locID='26708' subtitle='false' category='UI'>Radial Menu Bottom-Right Use</String>
-      <String _locID='26709' category='UI' subtitle='false'>Activate the radial menu bottom-right action.</String>
-      <String _locID='26710' subtitle='false' category='UI'>Radial Menu Bottom-Right Cancel</String>
-      <String _locID='26711' category='UI' subtitle='false'>Cancel the radial menu bottom-right action.</String>
-      <String _locID='26712' subtitle='false' category='UI'>Radial Menu Bottom Use</String>
-      <String _locID='26713' category='UI' subtitle='false'>Activate the radial menu bottom action.</String>
-      <String _locID='26714' subtitle='false' category='UI'>Radial Menu Bottom Cancel</String>
-      <String _locID='26715' category='UI' subtitle='false'>Cancel the radial menu bottom action.</String>
-      <String _locID='26716' subtitle='false' category='UI'>Radial Menu Bottom-Left Use</String>
-      <String _locID='26717' category='UI' subtitle='false'>Activate the radial menu bottom-left action.</String>
-      <String _locID='26718' subtitle='false' category='UI'>Radial Menu Bottom-Left Cancel</String>
-      <String _locID='26719' category='UI' subtitle='false'>Cancel the radial menu bottom-left action.</String>
-      <String _locID='26720' subtitle='false' category='UI'>Radial Menu Left Use</String>
-      <String _locID='26721' category='UI' subtitle='false'>Activate the radial menu left action.</String>
-      <String _locID='26722' subtitle='false' category='UI'>Radial Menu Left Cancel</String>
-      <String _locID='26723' category='UI' subtitle='false'>Cancel the radial menu left action.</String>
-      <String _locID='26724' subtitle='false' category='UI'>Radial Menu Top-Left Use</String>
-      <String _locID='26725' category='UI' subtitle='false'>Activate the radial menu top-left action.</String>
-      <String _locID='26726' subtitle='false' category='UI'>Radial Menu Top-Left Cancel</String>
-      <String _locID='26727' category='UI' subtitle='false'>Cancel the radial menu top-left action.</String>
+      <String _locID='26695' subtitle='false' category='UI'>Phím Tắt Dành Cho Menu Tròn</String>
+      <String _locID='26696' subtitle='false' category='UI'>Chọn Hành Động Ở Đầu Menu Tròn</String>
+      <String _locID='26697' category='UI' subtitle='false'>Kích hoạt hành động ở đầu của menu hình tròn.</String>
+      <String _locID='26698' subtitle='false' category='UI'>Hủy Hành Động Ở Đầu Menu Tròn</String>
+      <String _locID='26699' category='UI' subtitle='false'>Hủy hành động ở đầu của menu hình tròn.</String>
+      <String _locID='26700' subtitle='false' category='UI'>Chọn Hành Động Ở Đầu Bên Phải Menu Tròn</String>
+      <String _locID='26701' category='UI' subtitle='false'>Kích hoạt hành động ở đầu bên phải của menu hình tròn.</String>
+      <String _locID='26702' subtitle='false' category='UI'>Hủy Hành Động Ở Đầu Bên Phải Menu Tròn</String>
+      <String _locID='26703' category='UI' subtitle='false'>Hủy hành động ở đầu bên phải của menu hình tròn.</String>
+      <String _locID='26704' subtitle='false' category='UI'>Chọn Hành Động Bên Phải Menu Tròn</String>
+      <String _locID='26705' category='UI' subtitle='false'>Kích hoạt hành động ở bên phải của menu hình tròn.</String>
+      <String _locID='26706' subtitle='false' category='UI'>Hủy Hành Động Ở Bên Phải Menu Tròn</String>
+      <String _locID='26707' category='UI' subtitle='false'>Hủy hành động ở bên phải của menu hình tròn.</String>
+      <String _locID='26708' subtitle='false' category='UI'>Chọn Hành Động Ở Dưới Bên Phải Menu Tròn</String>
+      <String _locID='26709' category='UI' subtitle='false'>Kích hoạt hành động ở dưới bên phải của menu hình tròn.</String>
+      <String _locID='26710' subtitle='false' category='UI'>Hủy Hành Động Ở Dưới Bên Phải Menu Tròn</String>
+      <String _locID='26711' category='UI' subtitle='false'>Hủy hành động ở dưới bên phải của menu hình tròn.</String>
+      <String _locID='26712' subtitle='false' category='UI'>Chọn Hành Động Ở Dưới Menu Tròn</String>
+      <String _locID='26713' category='UI' subtitle='false'>Kích hoạt hành động ở dưới của menu hình tròn.</String>
+      <String _locID='26714' subtitle='false' category='UI'>Hủy Hành Động Ở Dưới Menu Tròn</String>
+      <String _locID='26715' category='UI' subtitle='false'>Hủy hành động ở dưới của menu hình tròn.</String>
+      <String _locID='26716' subtitle='false' category='UI'>Chọn Hành Động Ở Dưới Bên Trái Menu Tròn</String>
+      <String _locID='26717' category='UI' subtitle='false'>Kích hoạt hành động ở dưới bên trái của menu hình tròn.</String>
+      <String _locID='26718' subtitle='false' category='UI'>Hủy Hành Động Ở Dưới Bên Trái Menu Tròn</String>
+      <String _locID='26719' category='UI' subtitle='false'>Hủy hành động ở dưới bên trái của menu hình tròn.</String>
+      <String _locID='26720' subtitle='false' category='UI'>Chọn Hành Động Bên Trái Menu Tròn</String>
+      <String _locID='26721' category='UI' subtitle='false'>Kích hoạt hành động ở bên trái của menu hình tròn.</String>
+      <String _locID='26722' subtitle='false' category='UI'>Hủy Hành Động Ở Bên Trái Menu Tròn</String>
+      <String _locID='26723' category='UI' subtitle='false'>Hủy hành động ở bên trái của menu hình tròn.</String>
+      <String _locID='26724' subtitle='false' category='UI'>Chọn Hành Động Ở Đầu Bên Trái Menu Tròn</String>
+      <String _locID='26725' category='UI' subtitle='false'>Kích hoạt hành động ở đầu bên trái của menu hình tròn.</String>
+      <String _locID='26726' subtitle='false' category='UI'>Hủy Hành Động Ở Đầu Bên Trái Menu Tròn</String>
+      <String _locID='26727' category='UI' subtitle='false'>Hủy hành động ở đầu bên trái của menu hình tròn.</String>
       <String _locID='26728' subtitle='false' category='UI'>Tắt tiếng</String>
       <String _locID='26729' subtitle='false' category='UI'>Bỏ tắt tiếng</String>
       <String _locID='26730' category='UI' scenario='MPGameSetup' subtitle='false'>Bạn có chắc là muốn rời phòng chơi này?</String>
