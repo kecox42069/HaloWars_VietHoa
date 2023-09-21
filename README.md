@@ -4,10 +4,6 @@
 
 Chạy file halowars_viethoa.bat với quyền Administrator và rồi nhấn phím 1 để cài và chạy game.
 
-**XBOX 360:**
-
-Cập nhật sau.
-
 # GHI CÔNG
 Việt hóa bởi kecox15670.
 
