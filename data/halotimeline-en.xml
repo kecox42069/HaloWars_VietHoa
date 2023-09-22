@@ -114,9 +114,9 @@
       <Status>Locked</Status>
       <Position>27.0</Position>
       <Title>Sắc lệnh tối cao của Prophet of Truth</Title>
-      <Date>2525</Date>
+      <Date>Năm 2525</Date>
       <DetailText>
-         All within the Covenant hear now and obey. Weapons and ships of war to descend upon the inhabited world of Epsilon Indi. Strike with all force. No intelligent survivors may remain, upon severest penalty.
+         Toàn bộ anh em Covenant hãy nghe và làm theo mệnh lệnh đây. Tất cả bộ binh và tàu chiến đều phải tấn công những hành tinh có con người ở trong hệ sao Epsilon Indi. Tập trung sử dụng toàn bộ hỏa lực. Thực hiện mệnh lệnh thật nghiêm khắc và không để lại bất cứ con người nào sống sót phía sau.
       </DetailText>
       <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_covenant.ddx</UnlockedImage>
    </Event>
@@ -125,10 +125,10 @@
       <Name>Event004</Name>
       <Status>Unlocked</Status>
       <Position>28.0</Position>
-      <Title>3 February 2525</Title>
-      <Date>3 February 2525</Date>
+      <Title>Ngày 3 Tháng 2 năm 2525</Title>
+      <Date>Ngày 3 Tháng 2 năm 2525</Date>
       <DetailText>
-         Contact with the agricultural colony Harvest is lost. Initial attempts to re-establish contact fail. The worst is feared. Meanwhile, in orbiting ONI facilities near Reach, surgical procedures to augment the SPARTAN-II candidates are about to begin. Many candidates will "wash out" - dead or crippled by the process.
+         Liên lạc với thuộc địa nông nghiệp Harvest đã bị ngắt. Khi những nỗ lực để kết nối lại với họ đều thất bại, nỗi sợ hãi về điều tồi tệ nhất bắt đầu xuất hiện. Trong khi đó, tại Office of Naval Intelligence (Cơ quan Tình báo Hải quân) gần hành tinh Reach đang có cuộc phẫu thuật tăng cường sức mạnh cho các ứng cử viên của dự án SPARTAN-II. Trong quá trình này, nhiều ứng viên sẽ chết hoặc bị thương tật.
       </DetailText>
       <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
    </Event>
@@ -137,10 +137,10 @@
       <Name>Arbiter01</Name>
       <Status>Locked</Status>
       <Position>29.0</Position>
-      <Title>Excerpt from The Punished Deeds, Vol. III</Title>
-      <Date>2525</Date>
+      <Title>Trích từ Punished Deeds (Quả Báo), Tập III</Title>
+      <Date>Năm 2525</Date>
       <DetailText>
-         This new Arbiter did not fear death, but even he was afraid of what was inside the relics of the Ancients. Before he entered a relic, he would send in a squad of Unggoy to check for any signs of danger. If all was clear, they would live, but at the slightest sign of trouble the Arbiter would detonate plasma bombs attached to the methane tanks.
+         Tên Arbiter mới được bổ nhiệm này không hề sợ chết, nhưng lại sợ đi vào di tích cổ. Trước khi vào khu di tích, hắn đã cử một đội Unggoy đến kiểm tra xem nó có an toàn không. Nếu an toàn, họ sẽ sống sót, nhưng nếu phát hiện cảm giác nguy hiểm dù là nhỏ nhất, tên Arbiter sẽ cho nổ quả bom plasma được gắn trên bình methan của Unggoy.
       </DetailText>
       <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_covenant.ddx</UnlockedImage>
    </Event>
@@ -149,10 +149,10 @@
       <Name>Event005</Name>
       <Status>Unlocked</Status>
       <Position>30.0</Position>
-      <Title>20 April 2525</Title>
-      <Date>20 April 2525</Date>
+      <Title>Ngày 20 tháng 4 năm 2525</Title>
+      <Date>Ngày 20 tháng 4 năm 2525</Date>
       <DetailText>
-         Contact with the scout ship Argo, sent to investigate the problem on Harvest, is lost. A larger, armed battlegroup is prepared in response.
+         Liên lạc với tàu trinh sát Argo đã bị mất, nó là chiếc tàu được cử đến để điều tra sự cố trên Harvest. Để xử lý vấn đề này, một hạm đội vũ trang lớn đang được tập hợp.
       </DetailText>
       <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
    </Event>
@@ -161,10 +161,10 @@
       <Name>Arbiter02</Name>
       <Status>Locked</Status>
       <Position>31.0</Position>
-      <Title>Excerpt from The Punished Deeds, Vol. III</Title>
-      <Date>2525</Date>
+      <Title>Trích từ Punished Deeds (Quả Báo), Tập III</Title>
+      <Date>Năm 2525</Date>
       <DetailText>
-         The new Arbiter was almost immediately tested. An installation of the Ancients near remnants of a massive space installation that was thought to contain a "key," an object that was believed could be used to activate technology. The installation was heavily defended by a growing faction of Elites who did not agree with the ways of the new Prophets. The Arbiter killed them in a battle that raged for days. A key was never found but the dissident movement was silenced.
+         Tên Arbiter mới được bổ nhiệm ngay lập tức được đưa vào thử thách. Có một căn cứ không gian khổng lồ của những Người Cổ Đại đang ở gần tàn tích bị bỏ hoang, nó được cho là chứa đựng 'chìa khóa' để đánh thức công nghệ cổ đại này. Nhưng căn cứ này đã được bảo vệ nghiêm ngặt bởi một nhóm Elite chống lại các Prophet mới được bổ nhiệm. Tên Arbiter đã đánh bại tất cả bọn họ trong một trận chiến kéo dài vài ngày. Chìa khóa đó vẫn chưa bao giờ được tìm thấy nhưng bằng chứng của cuộc chiến này đã bị giấu kín.
       </DetailText>
       <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_covenant.ddx</UnlockedImage>
    </Event>
@@ -173,10 +173,10 @@
       <Name>Event006</Name>
       <Status>Unlocked</Status>
       <Position>32.0</Position>
-      <Title>7 October 2525</Title>
-      <Date>7 October 2525</Date>
+      <Title>Ngày 7 tháng 10 năm 2525</Title>
+      <Date>Ngày 7 tháng 10 năm 2525</Date>
       <DetailText>
-         Battle Group D arrives at Harvest and engages the Covenant, but is forced to jump away back to Reach after two of its three ships are destroyed by a single Covenant vessel. An audio-only message was transmitted by the Covenant during this engagement: "Your destruction is the will of the gods... and we are their instrument."  It is believed that because the message was transmitted in English, the Covenant have been studying humanity for some time.
+         Phi đội D đã tới Harvest và giao chiến với Covenant, nhưng họ buộc phải nhảy không gian để quay trở về Reach sau khi hai trong số ba con tàu của họ bị phá hủy bởi tàu chiến của Covenant. Trong công cuộc chiến đấu, họ đã nhận được tin nhắn thoại đến từ Covenant, nội dung của tin nhắn là: "Sự tuyệt diệt của các ngươi là ý chí của những vị thần... và ta là công cụ của họ."  Vì tin nhắn này được gửi bằng tiếng Anh, nó cho chúng ta thấy rằng Covenant đã nghiên cứu về loài người được một thời gian.
       </DetailText>
       <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
    </Event>
@@ -185,8 +185,8 @@
       <Name>FrozenValley01</Name>
       <Status>Locked</Status>
       <Position>33.0</Position>
-      <Title>1 November 2525</Title>
-      <Date>1 November 2525</Date>
+      <Title>Ngày 1 tháng 11 năm 2525</Title>
+      <Date>Ngày 1 tháng 11 năm 2525</Date>
       <DetailText>
          The UNSC military goes on full alert and begins making preparations to move in and retake Harvest. All Colonial Military Administration combat forces are immediately placed under NavCom / UniCom "for the duration of the crisis." The SPARTAN-II project is accelerated to its final phase: MJOLNIR, a new form of powered armor specifically designed for Spartan use.
       </DetailText>
@@ -401,7 +401,7 @@
       <Name>BlackBox12</Name>
       <Status>Locked</Status>
       <Position>56.0</Position>
-      <Title>Excerpt from The Punished Deeds, Vol. III</Title>
+      <Title>Trích từ Punished Deeds (Quả Báo), Tập III</Title>
       <Date>2531</Date>
       <DetailText>
          The shield world that Regret intended to activate was one of just a few that the Covenant had uncovered in the quest for the Halos. These treasure chests of technology enabled the Covenant to quickly gain access to advanced weaponry and space propulsion systems allowing them to dominate the galaxy.
