@@ -175,7 +175,7 @@ BẢNG ID STRING TRONG GAME
       <String _locID='519' category='Code' subtitle='false'>Lực Lượng Đặc Biệt</String>
       <String _locID='520' category='Code' subtitle='false'>Thủ Lĩnh</String>
       <!-- ID's  1000 -  2999  reserved for technology names and descriptions -->
-      <String _locID='1000' category='Techs' subtitle='false'>TRẠM</String>
+      <String _locID='1000' category='Techs' subtitle='false'>TRẠM QUÂN SỰ</String>
       <String _locID='1001' category='Techs' subtitle='false'>Nâng cấp căn cứ thành Trạm Quân Sự, nâng cấp này sẽ cho bạn thêm hai ô xây. Mỗi ô xây mới sẽ giúp bạn mở rộng sức mạnh của bạn.</String>
       <String _locID='1002' category='Techs' subtitle='false'>PHÁO ĐÀI</String>
       <String _locID='1003' category='Techs' subtitle='false'>Nâng cấp căn cứ thành Pháo Đài Quân Sự, nâng cấp này sẽ cho bạn thêm hai ô xây. Mỗi ô xây mới sẽ giúp bạn mở rộng sức mạnh của bạn.</String>
@@ -1254,13 +1254,13 @@ BẢNG ID STRING TRONG GAME
       <String _locID='22285' category='Campaign' scenario='1' subtitle='false'>Tiêu diệt đám Covenant ở trong Căn cứ Alpha</String>
       <String _locID='22286' category='Campaign' scenario='1' subtitle='false'>Tùy ý: Tìm và Giải Cứu Thủy Quân Bị Bao Vây</String>
       <String _locID='22299' category='Campaign' scenario='5' subtitle='false'>Phòng thủ tại cái Hố va chạm cho đến khi đội Omega tới</String>
-      <String _locID='22300' category='Powers' subtitle='false'>MAC Cannon</String>
+      <String _locID='22300' category='Powers' subtitle='false'>Pháo MAC</String>
       <String _locID='22303' category='Campaign' scenario='5' subtitle='false'>Rút lui về Hố va chạm phía Nam</String>
       <String _locID='22304' category='Powers' subtitle='false'>
       </String>
       <String _locID='22305' category='Powers' subtitle='false'>
       </String>
-      <String _locID='22306' category='Code' subtitle='false'>Requires Banshees</String>
+      <String _locID='22306' category='Code' subtitle='false'>Yêu cầu Banshees</String>
       <String _locID='22308' category='Skirmish' subtitle='false'>1v1 TwinPeaks SWI</String>
       <String _locID='22309' category='Skirmish' subtitle='false'>Test 3v3 Factory SWI</String>
       <String _locID='22310' category='Skirmish' subtitle='false'>3v3 Gulch SWI</String>
@@ -1282,12 +1282,12 @@ BẢNG ID STRING TRONG GAME
       <String _locID='22326' category='Skirmish' subtitle='false'>3v3 Gulch SWI Information</String>
       <String _locID='22327' category='Skirmish' subtitle='false'>3v3 SnakeRiver Information</String>
       <String _locID='22328' category='Skirmish' subtitle='false'>Halo_fast Information</String>
-      <String _locID='22329' category='Skirmish' subtitle='false'>Bases in this region tend to have two ways in and out. Controlling the center may lead to a larger-than-normal population limit.</String>
+      <String _locID='22329' category='Skirmish' subtitle='false'>Các căn cứ ở khu vực này thường có hai đường ra và vào. Kiểm soát trung tâm bản đồ có thể dẫn đến việc vượt qua giới hạn số lượng đội quân lớn hơn bình thường.</String>
       <String _locID='22330' category='Skirmish' subtitle='false'>2v2 Harvest Dip Information</String>
       <String _locID='22331' category='Skirmish' subtitle='false'>Battle inside the Relic, the side that comes out on top will control the Artifact below.</String>
       <String _locID='22332' category='Skirmish' subtitle='false'>2v2 Wasteland SWI Information</String>
       <String _locID='22333' category='Skirmish' subtitle='false'>Fast-paced gameplay where taking the high ground may be the difference between life and death.</String>
-      <String _locID='22334' category='Skirmish' subtitle='false'>A frozen pond and several craters channel troop movements into killing zones in this battle-scarred region.</String>
+      <String _locID='22334' category='Skirmish' subtitle='false'>Có một cái ao bị đóng băng và một số cái hố sẽ dẫn quân vào những nơi giết chóc ở khu vực đầy vết tích chiến tranh này.</String>
       <String _locID='22335' category='Skirmish' subtitle='false'>Large bodies of water leave narrow choke points between you and your enemies.</String>
       <String _locID='22336' category='Skirmish' subtitle='false'>1v1 TwinPeaks HAR Information</String>
       <String _locID='22337' category='Skirmish' subtitle='false'>3v3 Suddendeath Information</String>
@@ -1365,7 +1365,7 @@ BẢNG ID STRING TRONG GAME
       <String _locID='22412' category='Techs' subtitle='false'>MONUMENT 3</String>
       <String _locID='22413' category='Techs' subtitle='false'>Increases energy rate at all Monuments.</String>
       <String _locID='22414' category='Campaign' scenario='9' subtitle='false'>Giết Flood Boss</String>
-      <String _locID='22415' category='Skirmish' subtitle='false'>Bases in this region must be heavily defended at night, when Flood Swarms emerge from their hiding places.</String>
+      <String _locID='22415' category='Skirmish' subtitle='false'>Khi Flood Bầy Đàn chui ra từ nơi ẩn náu của chúng, các căn cứ ở khu vực này phải được phòng thủ nghiêm ngặt vào ban đêm.</String>
       <String _locID='22416' category='Skirmish' subtitle='false'>CREVICE (2v2)</String>
       <String _locID='22417' category='Skirmish' subtitle='false'>Enemies might be hiding around every corner on this map where large Forerunner structures dominate the landscape</String>
       <String _locID='22418' category='Skirmish' subtitle='false'>2v2 Maze</String>
@@ -1449,10 +1449,10 @@ BẢNG ID STRING TRONG GAME
       <String _locID='22497' category='Objects' subtitle='false'>Only Extractors can be built here.</String>
       <String _locID='22498' category='Objects' subtitle='false'>New base site</String>
       <String _locID='22499' category='Objects' subtitle='false'>A new base is cleared for placement here</String>
-      <String _locID='22500' category='Code' subtitle='false'>RECYCLE</String>
-      <String _locID='22501' category='Code' subtitle='false'>Recycle this building and return some supplies back to your bank.</String>
-      <String _locID='22502' category='Code' subtitle='false'>CANCEL - %1!.f! seconds</String>
-      <String _locID='22503' category='Code' subtitle='false'>RECYCLE:  %1!.f! seconds</String>
+      <String _locID='22500' category='Code' subtitle='false'>TÁI CHẾ</String>
+      <String _locID='22501' category='Code' subtitle='false'>Tái chế công trình này và lấy lại số tài nguyên bạn đã chi trả để xây dựng.</String>
+      <String _locID='22502' category='Code' subtitle='false'>HỦY - Còn %1!.f! giây</String>
+      <String _locID='22503' category='Code' subtitle='false'>TÁI CHẾ: Còn %1!.f! giây</String>
       <String _locID='22505' category='Techs' subtitle='false'>Building 1</String>
       <String _locID='22506' category='Techs' subtitle='false'>Add shields to all buildings and upgrades Turret damage.</String>
       <String _locID='22507' category='Techs' subtitle='false'>Building 2</String>
@@ -2901,7 +2901,7 @@ BẢNG ID STRING TRONG GAME
       <String _locID='23943' category='Squads' subtitle='false'>Gắn Sentinel hộ vệ này vào một đội hình nào đó để nó hồi máu cho chính đội hình đó (chỉ có thể hồi máu khi đội hình không còn ở trong trạng thái chiến đấu).</String>
       <String _locID='23944' category='Squads' subtitle='false'>HỘ VỆ (TẤN CÔNG)</String>
       <String _locID='23945' category='Squads' subtitle='false'>Gắn Sentinel hộ vệ này vào một đội hình nào đó, và nó sẽ tấn công vào kẻ đang bắn vào đội hình mà nó đang bảo vệ.</String>
-      <String _locID='23946' category='Objects' subtitle='false'>TRẠM</String>
+      <String _locID='23946' category='Objects' subtitle='false'>TRẠM QUÂN SỰ</String>
       <String _locID='23947' category='Objects' subtitle='false'>Thuyền trưởng Cutter có thể yêu cầu Trạm Quân Sự đã được nâng cấp từ quỹ đạo.  Và rồi, nó có thể được nâng cấp thành Pháo Đài Quân Sự.</String>
       <String _locID='23948' category='Objects' subtitle='false'>PHÁO ĐÀI</String>
       <String _locID='23949' category='Objects' subtitle='false'>
@@ -2921,11 +2921,11 @@ BẢNG ID STRING TRONG GAME
       <String _locID='23958' category='Objects' subtitle='false'>ĐIỂM TẬP HỢP (CĂN CỨ)</String>
       <String _locID='23959' category='Objects' subtitle='false'>Những đơn vị mới từ căn cứ này sẽ di chuyển tới vị trí này quá trình huấn luyện của họ đã hoàn tất. Sử dụng Điểm Tập Hợp Chung sẽ ghi đè lên Điểm Tập Hợp Căn Cứ.</String>
       <String _locID='23960' category='Skirmish' subtitle='false'>CHASMS (1v1)</String>
-      <String _locID='23961' category='Skirmish' subtitle='false'>The area is dominated by large mountains and chasms, but there are still many possible approaches to traverse the rugged landscape. Scattered Sniper Towers are positioned perfectly to defend key tactical locations.</String>
+      <String _locID='23961' category='Skirmish' subtitle='false'>Khu vực này chủ yếu là những ngọn núi lớn và vực sâu, nhưng vẫn có nhiều cách để vượt qua những hiểm trở. Tháp bắn tỉa xung quanh được bố trí hoàn hảo để bảo vệ các vị trí chiến thuật quan trọng.</String>
       <String _locID='23962' category='Skirmish' subtitle='false'>REPOSITORY (2v2)</String>
-      <String _locID='23963' category='Skirmish' subtitle='false'>With many supplies up for grabs in the middle and dangerous enemies lurking everywhere, the fight for control of this region will be nasty, brutal, and short.</String>
+      <String _locID='23963' category='Skirmish' subtitle='false'>Với rất nhiều tài nguyên để giành lấy ở giữa bản đồ, đi cùng với sự nguy hiểm của kẻ thù đang rình rập khắp nơi, cuộc chiến giành quyền kiểm soát khu vực này sẽ rất khó chịu, tàn bạo và ngắn ngủi.</String>
       <String _locID='23964' category='Skirmish' subtitle='false'>FROZEN VALLEY (3v3)</String>
-      <String _locID='23965' category='Skirmish' subtitle='false'>A wide open map, this cold wasteland features two bonus Reactors and a Forerunner Spire of Healing.</String>
+      <String _locID='23965' category='Skirmish' subtitle='false'>Một bản đồ rộng mở, vùng đất hoang lạnh này có hai Lò phản ứng nhiệt hạch và Cột Hồi Máu của Forerunner.</String>
       <String _locID='23966' category='Objects' subtitle='false'>Bãi Đáp</String>
       <String _locID='23967' category='Objects' subtitle='false'>
       </String>
@@ -3222,7 +3222,7 @@ BẢNG ID STRING TRONG GAME
       <String _locID='24321' category='Skirmish' scenario='FloodControl' subtitle='false'>Wave Type 4</String>
       <String _locID='24322' category='Skirmish' scenario='FloodControl' subtitle='false'>Wave Type 5</String>
       <String _locID='24323' category='Skirmish' scenario='' subtitle='false'>LABYRINTH (2v2)</String>
-      <String _locID='24324' category='Skirmish' subtitle='false'>A maze of Forerunner structures creates a complex and challenging battlefield. The Forerunner Protector units may hold the key to victory.</String>
+      <String _locID='24324' category='Skirmish' subtitle='false'>Đây là nơi mà các công trình của Forerunner được xây dựng, nó trông giống như mê cung khiến các trận chiến trở nên phức tạp và khó khăn. Việc sử dụng Hộ Vệ Forerunner sẽ có thể giúp bạn nắm giữ chiến thắng.</String>
       <String _locID='24325' category='Skirmish' subtitle='false'>RELEASE (1v1)</String>
       <String _locID='24326' category='Campaign' scenario='6' subtitle='true'>Nguồn năng lượng của Mái Vòm đã bị quá tải, chúng ta làm được rồi!</String>
       <String _locID='24327' category='Campaign' scenario='6' subtitle='true'>Chỉ cần đưa một chiếc Rhino nữa vào vị trí thôi.</String>
@@ -3232,9 +3232,9 @@ BẢNG ID STRING TRONG GAME
       <String _locID='24331' category='Campaign' scenario='3' subtitle='true'>Trung sĩ, chúng tôi đang tấn công bọn chúng! Đưa giáo sư ra khỏi đây đi!</String>
       <String _locID='24332' category='Campaign' scenario='3' subtitle='true'>Mong là dữ liệu đó đáng để lấy, trung sĩ - chúng ta đang phải trả cái giá lớn đấy!</String>
       <String _locID='24333' category='Campaign' scenario='3' subtitle='true'>Chúng tôi sẽ yểm trợ anh, trung sĩ!</String>
-      <String _locID='24334' category='Objects' subtitle='false'>REBEL FLAK TURRET</String>
+      <String _locID='24334' category='Objects' subtitle='false'>PHÁO FLAK CỦA QUÂN NỔI LOẠN</String>
       <String _locID='24335' category='Objects' subtitle='false'>Rebel Flak Turret description</String>
-      <String _locID='24336' category='Objects' subtitle='false'>REBEL RAILGUN TURRET</String>
+      <String _locID='24336' category='Objects' subtitle='false'>SÚNG ĐIỆN TỪ CỦA QUÂN NỔI LOẠN</String>
       <String _locID='24337' category='Objects' subtitle='false'>Rebel Railgun Turret description</String>
       <String _locID='24338' category='Objects' subtitle='false'>
       </String>
@@ -3244,9 +3244,9 @@ BẢNG ID STRING TRONG GAME
       </String>
       <String _locID='24341' category='Objects' subtitle='false'>
       </String>
-      <String _locID='24342' category='Squads' subtitle='false'>REBEL INFANTRY</String>
+      <String _locID='24342' category='Squads' subtitle='false'>BỘ BINH CỦA QUÂN NỔI LOẠN</String>
       <String _locID='24343' category='Squads' subtitle='false'>Rebel Infantry description</String>
-      <String _locID='24344' category='Squads' subtitle='false'>REBEL SNIPERS</String>
+      <String _locID='24344' category='Squads' subtitle='false'>TAY BẮN TỈA CỦA QUÂN NỔI LOẠN</String>
       <String _locID='24345' category='Squads' subtitle='false'>Rebel Snipers description</String>
       <String _locID='24346' category='Squads' subtitle='false'>
       </String>
@@ -3562,11 +3562,11 @@ BẢNG ID STRING TRONG GAME
       <String _locID='24639' category='Squads' subtitle='false'>infected Brute description</String>
       <String _locID='24640' scenario='11' subtitle='false'>Tùy ý: Phá hủy 100 Sentinel Drone</String>
       <String _locID='24645' category='Skirmish' scenario='Map Name' subtitle='false'>THE DOCKS (2v2)</String>
-      <String _locID='24646' category='Skirmish' scenario='Map Description' subtitle='false'>This densely built-up urban region of Arcadia features several sniper towers protecting key areas.</String>
+      <String _locID='24646' category='Skirmish' scenario='Map Description' subtitle='false'>Khu đô thị Arcadia đông đúc này có một số tháp bắn tỉa sẽ giúp bạn bảo vệ các khu vực trọng điểm.</String>
       <String _locID='24647' category='Skirmish' scenario='Map Name' subtitle='false'>EXILE (3v3)</String>
-      <String _locID='24648' category='Skirmish' scenario='Map Description' subtitle='false'>Impassable terrain creates a nested trio of rings that defines this large battlefield. More base sites are found on the outermost ring, but controlling the center is tactically superior.</String>
+      <String _locID='24648' category='Skirmish' scenario='Map Description' subtitle='false'>Là khu vực chiến đấu mà địa hình cản trở chỗ này chỗ kia tạo thành một vòng tròn lớn ba tầng. Có một số căn cứ xung quanh vòng tròn bên ngoài, nhưng khu vực quan trọng về mặt chiến thuật lại nằm ở giữa.</String>
       <String _locID='24649' category='Objects' subtitle='false'>NGUỒN NĂNG LƯỢNG</String>
-      <String _locID='24650' category='Objects' subtitle='false'>REBEL BASE</String>
+      <String _locID='24650' category='Objects' subtitle='false'>CĂN CỨ CỦA QUÂN NỔI LOẠN</String>
       <String _locID='24651' category='Objects' subtitle='false'>REBEL BASE Description</String>
       <String _locID='24652' category='Campaign' scenario='11' subtitle='false'>Trường Năng Lượng Tiếp Theo:</String>
       <String _locID='24653' category='Campaign' scenario='11' subtitle='false'>Tiêu Diệt Bộ Phận của Flood</String>
@@ -3581,13 +3581,13 @@ BẢNG ID STRING TRONG GAME
       <String _locID='24662' category='Objects' subtitle='false'>TƯỜNG NĂNG LƯỢNG</String>
       <String _locID='24663' category='Objects' subtitle='false'>Tạo Bức Tường Năng Lượng Không Thể Nào Vượt Qua (khi bạn đã đóng quân ở đây)</String>
       <String _locID='24664' category='Skirmish' subtitle='false'>PIRTH OUTSKIRTS (1v1)</String>
-      <String _locID='24665' category='Skirmish' subtitle='false'>The swampy outskirts of Arcadia's capital city features unclaimed bonus Reactors and offers alternate routes for attacks.</String>
+      <String _locID='24665' category='Skirmish' subtitle='false'>Ở vùng ngoại ô Arcadia có những lò phản ứng hạt nhân không có người quản lý đã được xây dựng và nơi này có rất nhiều tuyến đường tấn công khác nhau.</String>
       <String _locID='24666' category='Skirmish' subtitle='false'>BLOOD GULCH (1v1)</String>
-      <String _locID='24667' category='Skirmish' subtitle='false'>A fast and brutal fight awaits in Blood Gulch. Teleporters allow for surprise attacks, while bonus Reactors offer opportunities for the aggressive.</String>
+      <String _locID='24667' category='Skirmish' subtitle='false'>Những cuộc chiến nhanh chóng và tàn khốc đang chờ đợi ở Blood Gulch. Bạn có thể sử dụng dịch chuyển tức thời để gây bất ngờ cho kẻ thù hoặc chiếm lấy lò phản ứng để tấn công kẻ thù.</String>
       <String _locID='24668' category='Skirmish' subtitle='false'>TERMINAL MORAINE (2v2)</String>
-      <String _locID='24669' category='Skirmish' subtitle='false'>Sections of the map are only accessible by timed light bridges. Watch for the bridges to start blinking - any units on the bridges when the bridges turn off are doomed.</String>
+      <String _locID='24669' category='Skirmish' subtitle='false'>Một số khu vực trên bản đồ chỉ có thể được di chuyển tới bằng cầu năng lượng được đếm ngược. Khi cây cầu nhấp nháy và biến mất, tất cả các đơn vị trên đó sẽ rơi xuống, vì vậy hãy cẩn thận.</String>
       <String _locID='24670' category='Skirmish' subtitle='false'>FORT DEEN (3v3)</String>
-      <String _locID='24671' category='Skirmish' subtitle='false'>Named for a famous UNSC colonel who broke a Covenant siege, this divided map features highly defendable lanes, but strategically-placed teleporters offer clever attackers alternatives.</String>
+      <String _locID='24671' category='Skirmish' subtitle='false'>Bản đồ được đặt theo tên của một đại tá UNSC nổi tiếng, người đã đánh bại cuộc bao vây của Covenant, địa hình của bản đồ cung cấp khả năng phòng thủ tuyệt vời, nhưng một thủ lĩnh khôn ngoan thường sử dụng cổng dịch chuyển tức thời.</String>
       <String _locID='24672' category='UI' subtitle='false'>E3 Demo</String>
       <String _locID='24673' category='UI' subtitle='false'>E3 Demonstration mode</String>
       <String _locID='24674' subtitle='false'>Wraith Special Ability</String>
@@ -3739,7 +3739,7 @@ BẢNG ID STRING TRONG GAME
       <String _locID='24840' category='Campaign' scenario='4' subtitle='false'>Tàu sơ tán 3</String>
       <String _locID='24841' category='Campaign' scenario='4' subtitle='false'>Việc thiếp lập căn cứ thứ 2 sẽ cung cấp thêm tài nguyên cho chúng ta và giúp ngăn chặn lực lượng Covenant.</String>
       <String _locID='24842' category='Campaign' scenario='4' subtitle='false'>One of the transports is heavily damaged. Spirit of Fire's Leader Power menu includes an option to repair it.</String>
-      <String _locID='24845' category='Powers' subtitle='false' _mouseKeyboard="26249">Point $$LS$$ to move. Point $$RS$$ to attack.</String>
+      <String _locID='24845' category='Powers' subtitle='false' _mouseKeyboard="26249">Sử dụng $$LS$$ để di chuyển tới nơi bạn muốn. Sử dụng $$RS$$ để tấn công.</String>
       <String _locID='24846' subtitle='false'>GRUNT BOMBER</String>
       <String _locID='24847' category='Campaign' scenario='8' subtitle='false'>Một số đội ODST đã bị mất tích. Hãy xác định vị trí và giải cứu họ.</String>
       <String _locID='24848' category='Campaign' scenario='8' subtitle='false'>Liên lạc với đội Echo đã bị mất. Bạn phải tìm hiểu điều gì đã xảy ra với họ và cả chiếc Elephant của họ.</String>
@@ -3870,7 +3870,7 @@ BẢNG ID STRING TRONG GAME
       <String _locID='24982' category='Campaign' scenario='13' subtitle='false'>Flood dạng bomber là mối đe dọa lớn đối với lực lượng mặt đất của chúng ta. Bạn có thể chống lại chúng bằng Wolverine.</String>
       <String _locID='24984' category='Campaign' scenario='15' subtitle='false'>Nếu đội quân Spirit of Fire muốn trốn thoát khỏi cấu trúc của Forerunner, cánh cửa phải được mở. Nhưng cơ chế mở khóa dường như là một loại câu đố lớn.</String>
       <String _locID='24985' category='Campaign' scenario='15' subtitle='false'>Là một cỗ máy được bọc thép dày đặc được thiết kế để xuyên thủng quân đội của kẻ thù, Scarab là một cỗ máy giết người gần như bất khả chiến bại. Nếu xuất hiện trên chiến trường, đơn vị khắc chế tốt nhất chỉ có thể là Scorpion và Cobra.</String>
-      <String _locID='24988' category='UI' subtitle='false'>SKULLS</String>
+      <String _locID='24988' category='UI' subtitle='false'>SKULL</String>
       <String _locID='24989' category='Campaign' scenario='6' subtitle='false'>Chúng ta cần biết bên trong mái vòm đó có gì. Chuẩn bị khởi động lại chiến dịch.</String>
       <String _locID='24990' category='UI' subtitle='false'>Look Daddy!</String>
       <String _locID='24991' category='UI' subtitle='false'>Grunt Birthday Party</String>
@@ -3887,25 +3887,25 @@ BẢNG ID STRING TRONG GAME
       <String _locID='25002' category='UI' subtitle='false'>Pain Train</String>
       <String _locID='25003' category='UI' subtitle='false'>Bountiful Harvest</String>
       <String _locID='25004' category='UI' subtitle='false'>Emperor</String>
-      <String _locID='25005' category='UI' subtitle='false'>When Grunts die, their methane tank always shoots off.</String>
-      <String _locID='25006' category='UI' subtitle='false'>Grunts explode into confetti.</String>
-      <String _locID='25007' category='UI' subtitle='false'>Destruction physics magnified.</String>
-      <String _locID='25008' category='UI' subtitle='false'>Scarabs shoot rainbow beams made of Pure Love.</String>
-      <String _locID='25009' category='UI' subtitle='false'>No minimap. Final score will increase.</String>
-      <String _locID='25010' category='UI' subtitle='false'>All player units have 50% fewer hitpoints. Final score will increase.</String>
-      <String _locID='25011' category='UI' subtitle='false'>Non-player units get 25% more hitpoints. Final score will increase.</String>
-      <String _locID='25012' category='UI' subtitle='false'>Non-player units do 50% more damage. Final score will increase.</String>
-      <String _locID='25013' category='UI' subtitle='false'>Non-player units start with extra veterancy. Final score will increase.</String>
-      <String _locID='25014' category='UI' subtitle='false'>All player units recharge unit abilities in half the time. Final score will decrease.</String>
-      <String _locID='25015' category='UI' subtitle='false'>All player units have 50% more hitpoints. Final score will decrease.</String>
-      <String _locID='25016' category='UI' subtitle='false'>5% chance any non-player unit blows up upon death with explosive area of effect damage. Final score will decrease.</String>
-      <String _locID='25017' category='UI' subtitle='false'>All player units train 50% faster. Final score will decrease.</String>
-      <String _locID='25018' category='UI' subtitle='false'>Supplies come in 25% faster. Final score will decrease.</String>
-      <String _locID='25019' category='UI' subtitle='false'>All player powers recharge in half the time. Final score will decrease.</String>
+      <String _locID='25005' category='UI' subtitle='false'>Khi Grunt chết, bình methan của chúng sẽ luôn được nổ tung.</String>
+      <String _locID='25006' category='UI' subtitle='false'>Grunt sẽ phát nổ và phun hoa giấy.</String>
+      <String _locID='25007' category='UI' subtitle='false'>Hiệu ứng vật lý của những cú nổ (như là những cú nổ của phương tiện và công trình) sẽ bị phóng đại quá mức.</String>
+      <String _locID='25008' category='UI' subtitle='false'>Scarab sẽ bắn tia cầu vồng tràn đầy tình yêu.</String>
+      <String _locID='25009' category='UI' subtitle='false'>Bạn sẽ không thể nhìn minimap. Số điểm của bạn sẽ được tăng thêm.</String>
+      <String _locID='25010' category='UI' subtitle='false'>Toàn bộ đơn vị của người chơi sẽ mất đi 50% máu. Số điểm của bạn sẽ được tăng thêm.</String>
+      <String _locID='25011' category='UI' subtitle='false'>Những đơn vị không phải của người chơi sẽ có thêm 25% máu. Số điểm của bạn sẽ được tăng thêm.</String>
+      <String _locID='25012' category='UI' subtitle='false'>Những đơn vị không phải của người chơi sẽ gây thêm 50% sát thương. Số điểm của bạn sẽ được tăng thêm.</String>
+      <String _locID='25013' category='UI' subtitle='false'>Những đơn vị không phải của người chơi sẽ mạnh hơn rất nhiều. Số điểm của bạn sẽ được tăng thêm.</String>
+      <String _locID='25014' category='UI' subtitle='false'>Kỹ năng của toàn bộ đơn vị của người chơi sẽ hồi lại nhanh hơn 50%. Số điểm của bạn sẽ bị giảm đi.</String>
+      <String _locID='25015' category='UI' subtitle='false'>Toàn bộ đơn vị của người chơi sẽ có thêm 50% máu. Số điểm của bạn sẽ bị giảm đi.</String>
+      <String _locID='25016' category='UI' subtitle='false'>Có tỷ lệ 5% bất kỳ đơn vị không phải của người chơi sẽ nổ tung sau cái chết, gây ra sát thương xung quanh vùng ảnh hưởng. Số điểm của bạn sẽ bị giảm đi.</String>
+      <String _locID='25017' category='UI' subtitle='false'>Toàn bộ đơn vị của người chơi sẽ được huấn luyện nhanh hơn 50%. Số điểm của bạn sẽ bị giảm đi.</String>
+      <String _locID='25018' category='UI' subtitle='false'>Tài nguyên sẽ được cung cấp nhanh hơn 25%. Số điểm của bạn sẽ bị giảm đi.</String>
+      <String _locID='25019' category='UI' subtitle='false'>Kỹ năng thủ lĩnh của toàn bộ người chơi sẽ hồi lại nhanh hơn 50%. Số điểm của bạn sẽ bị giảm đi.</String>
       <String _locID='25020' category='Campaign' scenario='9' subtitle='false'>Mối đe dọa mới này nguy hiểm hơn và thông minh hơn tôi tưởng.</String>
-      <String _locID='25021' category='UI' subtitle='false'>Skull Description</String>
-      <String _locID='25022' category='UI' subtitle='false'>SKULL LOCKED</String>
-      <String _locID='25023' category='UI' subtitle='false'>$$A$$ Drop ODST&lt;br&gt;$$B$$ CANCEL&lt;br&gt;Drops Remaining: %1!d!</String>
+      <String _locID='25021' category='UI' subtitle='false'>Mô Tả Của Skull Này</String>
+      <String _locID='25022' category='UI' subtitle='false'>SKULL ĐÃ BỊ KHÓA</String>
+      <String _locID='25023' category='UI' subtitle='false'>$$A$$ Thả Lính ODST&lt;br&gt;$$B$$ HỦY&lt;br&gt;Số Kén Khả Dụng: %1!d!</String>
       <String _locID='25024' category='Skirmish' scenario='Tutorial' subtitle='false'>Học Cách Sử Dụng Kỹ Năng Càn Quét</String>
       <String _locID='25025' category='Skirmish' scenario='Tutorial' subtitle='false'>Học Cách Nâng Cấp Đồ của Covenant</String>
       <String _locID='25026' category='Skirmish' scenario='Tutorial' subtitle='false'>Học Cách Dịch Chuyển Đội Quân</String>
@@ -3913,11 +3913,11 @@ BẢNG ID STRING TRONG GAME
       <String _locID='25030' subtitle='false'>Insert Text Here</String>
       <String _locID='25031' category='Campaign' scenario='2' subtitle='true'>Có vẻ không được như kế hoạch nhỉ. Hãy quay về căn cứ và huấn luyện bộ binh mạnh mẽ hơn.</String>
       <String _locID='25032' category='UI' scenario='GameSetup' subtitle='false'>ĐỤNG ĐỘ (SKIRMISH)</String>
-      <String _locID='25033' category='UI' subtitle='false'>$$A$$ Pick up location&lt;br&gt;$$B$$ CANCEL</String>
-      <String _locID='25034' category='UI' subtitle='false'>$$A$$ Drop off location&lt;br&gt;$$B$$ CANCEL</String>
+      <String _locID='25033' category='UI' subtitle='false'>$$A$$ Chọn đội quân để vận chuyển&lt;br&gt;$$B$$ HỦY</String>
+      <String _locID='25034' category='UI' subtitle='false'>$$A$$ Chọn vị trí bạn muốn đưa tới&lt;br&gt;$$B$$ HỦY</String>
       <String _locID='25036' category='UI' scenario='Menu' subtitle='false'>ĐẦU HÀNG</String>
-      <String _locID='25037' category='UI' scenario='Menu' subtitle='false'>PAUSE</String>
-      <String _locID='25038' category='UI' scenario='Menu' subtitle='false'>RESTART</String>
+      <String _locID='25037' category='UI' scenario='Menu' subtitle='false'>DỪNG TRÒ CHƠI</String>
+      <String _locID='25038' category='UI' scenario='Menu' subtitle='false'>KHỞI ĐỘNG LẠI</String>
       <String _locID='25039' category='UI' scenario='Menu' subtitle='false'>TẢI TIẾN TRÌNH CHƠI</String>
       <String _locID='25040' category='UI' scenario='Menu' subtitle='false'>LƯU GAME</String>
       <String _locID='25041' category='UI' scenario='Menu' subtitle='false'>TIẾP TỤC</String>
@@ -4014,7 +4014,7 @@ BẢNG ID STRING TRONG GAME
       <String _locID='25132' category='UI' scenario='Leaderboards' subtitle='false'>Running Query...</String>
       <String _locID='25133' category='UI' scenario='Leaderboards' subtitle='false'>CO-OP</String>
       <String _locID='25134' category='UI' scenario='Leaderboards' subtitle='false'>SOLO</String>
-      <String _locID='25135' category='Skirmish' scenario='Tutotial' subtitle='false'>Destroy all UNSC resistance</String>
+      <String _locID='25135' category='Skirmish' scenario='Tutotial' subtitle='false'>Đánh bại quân UNSC</String>
       <String _locID='25136' category='UI' subtitle='false'>Recharging in </String>
       <String _locID='25149' category='Campaign' scenario='1' subtitle='false'>Số Grunt Đã Bị Giết:</String>
       <String _locID='25150' category='Campaign' scenario='1' subtitle='false'>Đã Chiếm Lại Căn Cứ</String>
@@ -4479,9 +4479,9 @@ BẢNG ID STRING TRONG GAME
       <String _locID='25627' category='UI' subtitle='false'>Tổng Số Điểm Đạt Được: </String>
       <String _locID='25628' category='UI' subtitle='false'>Skull:</String>
       <String _locID='25629' category='UI' subtitle='false'>Hộp Đen:</String>
-      <String _locID='25630' category='UI' subtitle='false'>Found</String>
+      <String _locID='25630' category='UI' subtitle='false'>Đã Tìm Thấy</String>
       <String _locID='25631' category='UI' subtitle='false'>Par:</String>
-      <String _locID='25632' category='UI' subtitle='false'>Medal: </String>
+      <String _locID='25632' category='UI' subtitle='false'>Huy Chương: </String>
       <String _locID='25633' category='UI' subtitle='false'>Số Điểm: </String>
       <String _locID='25634' category='Objects' subtitle='false'>LÒ PHẢN ỨNG NHIỆT HẠCH CỦA ONI</String>
       <String _locID='25635' category='Objects' subtitle='false'>Lò phản ứng nhiệt hạch của ONI cung cấp năng lượng cần thiết để xây dựng cấu trúc, công nghệ tiên tiến hơn và cả việc huấn luyện đơn vị. Các căn cứ công nghệ cao thường có tới 4 hoặc 5 Lò Phản Ứng.</String>
@@ -4506,8 +4506,8 @@ BẢNG ID STRING TRONG GAME
       <String _locID='25654' category='UI' scenario='Service Record' subtitle='false'>Đại Tướng</String>
       <String _locID='25655' category='UI' scenario='Service Record, 1 - Rank from the previous 8 strings, 2 - level 0-50' subtitle='false'>%1!s! - Cấp %2!d!</String>
       <String _locID='25656' category='UI' scenario='Service Record' subtitle='false'>Không Có Chức Vụ</String>
-      <String _locID='25657' category='Objects' subtitle='false'>REBEL TURRET</String>
-      <String _locID='25658' category='Objects' subtitle='false'>REBEL WATCH TOWER</String>
+      <String _locID='25657' category='Objects' subtitle='false'>PHÁO PHÒNG THỦ CỦA QUÂN NỔI LOẠN</String>
+      <String _locID='25658' category='Objects' subtitle='false'>THÁP QUAN SÁT CỦA QUÂN NỔI LOẠN</String>
       <String _locID='25659' category='Campaign' scenario='8' subtitle='true'>Người của chúng ta đã bị nhiễm! Nhanh lên, giết họ trước khi họ tấn công chúng ta!</String>
       <String _locID='25660' category='Campaign' scenario='8' subtitle='true'>Người của phe ta đang tấn công chúng ta! Bắn họ đi!</String>
       <String _locID='25661' subtitle='false' category='Objects'>VENT</String>
@@ -4601,7 +4601,7 @@ BẢNG ID STRING TRONG GAME
       <String _locID='25749' subtitle='false'>Phương tiện chính của UNSC là chiếc xe tăng Scorpion. Kỹ năng Canister Shell của nó sẽ tăng cường sức tấn công chống lại bộ binh.</String>
       <String _locID='25750' subtitle='false'>Cobra rất hiệu quả trong việc chống lại những phương tiện khác. Hãy chế tạo chúng để tiêu diệt xe tăng của địch.</String>
       <String _locID='25751' subtitle='false'>Cobra có thể khóa vị trí, giúp tăng phạm vi tấn công của chúng. Bạn nên khóa nó vào vị trí nào đó xa và rồi phá hủy cấu trúc của địch.</String>
-      <String _locID='25752' subtitle='false'>Nếu bạn gặp khó khăn trong việc đối phó với sức mạnh của lực lượng cường kích của đối phương, hãy thử chế tạo Wolverine. Chúng rất xuất sắc trong việc hạ gục các đơn vị cường kích.</String>
+      <String _locID='25752' subtitle='false'>Nếu bạn gặp khó khăn trong việc đối phó với sức mạnh của lực lượng cường kích đến từ đối phương, hãy thử chế tạo Wolverine. Chúng rất xuất sắc trong việc hạ gục các đơn vị cường kích.</String>
       <String _locID='25753' subtitle='false'>Hornet là đơn vị cường kích chủ lực của UNSC, họ rất hiệu quả trong việc tấn công và cả do thám.</String>
       <String _locID='25754' subtitle='false'>Kỹ năng "Pháo Kích Càn Quét" của Vulture là cú tấn công cực kỳ chết người bằng nhiều tên lửa. Bạn nên sử dụng kỹ năng này để chống lại bộ binh hoặc căn cứ của kẻ thù.</String>
       <String _locID='25755' subtitle='false'>Elephant là một phương tiện rất khó bị phá hủy và nó có thể dễ dàng chiếm đóng một khu vực nào đó. Vì vậy, hãy sử dụng nó như là tiền đồn.</String>
@@ -4709,7 +4709,7 @@ BẢNG ID STRING TRONG GAME
       <String _locID='25857' subtitle='false'>Đừng bỏ qua kết quả trận đấu. Bạn có thể học được rất nhiều điều về cách cải thiện lối chơi của mình.</String>
       <String _locID='25858' subtitle='false'>Ensemble Studios được thành lập vào năm 1996.</String>
       <String _locID='25859' subtitle='false'>Gợi ý và hướng dẫn sẽ xuất hiện ở đây. Thật đấy.</String>
-      <String _locID='25860' category='UI' subtitle='false'>Once a Skull is activated, it will remain on until the end of the scenario.</String>
+      <String _locID='25860' category='UI' subtitle='false'>Một khi Skull đã được kích hoạt, nó sẽ có hiệu lực cho đến khi bạn hoàn thành trận đấu.</String>
       <String _locID='25861' subtitle='false' category='UI'>Score Multiplier: </String>
       <String _locID='25862' scenario='Deathmatch' subtitle='false'>Powers Fully Upgraded</String>
       <String _locID='25863' category='Campaign' scenario='Tutorial' subtitle='true'>You can tell crates are being gathered when you see small crate icons rising up. A wrench icon will also appear above the gathering unit.</String>
@@ -4794,9 +4794,9 @@ BẢNG ID STRING TRONG GAME
       <String _locID='25943' subtitle='false' category='Campaign' scenario='11'>Trường Năng Lượng có thể Tiêu Diệt Bộ Phận của Flood</String>
       <String _locID='25944' category='UI' scenario='Campaign Postgame' subtitle='false'>VÀNG:&lt;br&gt;BẠC:&lt;br&gt;ĐỒNG:&lt;br&gt;THIẾC:</String>
       <String _locID='25945' category='Squads' subtitle='false'>SIÊU SCARAB</String>
-      <String _locID='25946' category='Skirmish' subtitle='false'>The Flood threatens to overrun this dangerous but crucially important region. Send units to activate the console near the enemy's base to unleash a nasty surprise.</String>
+      <String _locID='25946' category='Skirmish' subtitle='false'>Đây là khu vực nguy hiểm và quan trọng nhưng nó đã bị chiếm đóng. Nếu huy động đội quân và tìm cách kích hoạt những thiết bị gần căn cứ của địch, bạn có thể gây bất ngờ cho kẻ thù.</String>
       <String _locID='25947' category='UI' scenario='MP Party Room' subtitle='false'>Chiến Dịch</String>
-      <String _locID='25949' category='UI' scenario='Main Menu' subtitle='false'>ACHIEVEMENTS</String>
+      <String _locID='25949' category='UI' scenario='Main Menu' subtitle='false'>THÀNH TỰU</String>
       <String _locID='25950' category='Campaign' scenario='13' subtitle='false'>Số Căn Cứ Đã Chiếm Được:</String>
       <String _locID='25951' category='UI' scenario='Objective UI' subtitle='false'>Số Điểm Nhận Được Nếu Hoàn Thành: %d&lt;br&gt;%s</String>
       <String _locID='25952' category='Campaign' scenario='13' subtitle='false'>Bầy đàn Flood là mối đe dọa lớn của việc sơ tán. Bạn có thể chống lại chúng bằng Wolverine.</String>
@@ -4859,11 +4859,11 @@ BẢNG ID STRING TRONG GAME
       <String _locID='26029' category='Skirmish' scenario='CTF' subtitle='false' Update='true'>CƯỚP 3 LÁ CỜ ĐỂ CHIẾN THẮNG</String>
       <String _locID='26030' category='Skirmish' scenario='game mode' subtitle='false' Update='true'>KÉO CO</String>
       <String _locID='26031' category='Skirmish' subtitle='false' Update='true'>BARRENS (1v1)</String>
-      <String _locID='26032' category='Skirmish' subtitle='false' Update='true'>Difficult terrain channels units into killing zones. The side that controls the Forerunner artifacts will have the advantage.</String>
+      <String _locID='26032' category='Skirmish' subtitle='false' Update='true'>Với địa hình cực khó khăn của bản đồ, nó sẽ dễ đưa các đơn vị vào vùng chiến đấu. Bên nào kiểm soát được những công cụ của Forerunner sẽ có lợi thế lớn.</String>
       <String _locID='26033' category='Skirmish' subtitle='false' Update='true'>BLOOD RIVER (1v1)</String>
-      <String _locID='26034' category='Skirmish' subtitle='false' Update='true'>Secure base locations on nearby cliffs overlook this naturally red-tinged river. The soldiers that fought over its two narrow crossings gave the river its name, which has since taken on a greater meaning.</String>
+      <String _locID='26034' category='Skirmish' subtitle='false' Update='true'>Hãy chiếm đóng những căn cứ ở trên các vách đá. Đồng thời, ở gần đó có dòng sông đỏ chảy dưới vách đá. Nó được đặt tên bởi những người lính đã chiến đấu trong một trận chiến đẫm máu trên hai điểm giao cắt.</String>
       <String _locID='26035' category='Skirmish' subtitle='false' Update='true'>MEMORIAL BASIN (2v2)</String>
-      <String _locID='26036' category='Skirmish' subtitle='false' Update='true'>The high ground in the middle offers good cover for infantry, while the generally open terrain transforms organized battle plans into bloodbaths.</String>
+      <String _locID='26036' category='Skirmish' subtitle='false' Update='true'>Vùng đất cao ở giữa có chỗ ấn nấp cực kỳ tốt cho bộ binh, trong khi địa hình rộng mở biến các kế hoạch chiến đấu có tổ chức thành những cuộc chiến đẫm máu.</String>
       <String _locID='26037' category='UI' subtitle='false' Update='true'>DOWNLOADABLE CONTENT</String>
       <String _locID='26038' category='UI' subtitle='false' Update='true'>Halo Wars downloadable content is available. Select Options and Extras off the main menu.</String>
       <String _locID='26039' category='UI' subtitle='false' Update='true'>Player %1!s! is missing the downloadable content required for this game mode.</String>
@@ -4900,9 +4900,9 @@ BẢNG ID STRING TRONG GAME
       <String _locID='26075' category='UI' scenario='Options' subtitle='false'>Chọn bật hoặc tắt skin phương tiện bạn đã sở hữu (ví dụ như: skin Fireball dành cho Warthog và skin Honor Guard dành cho Wraith) khi màn chơi bắt đầu.  Bạn không thể tắt cài đặt này một khi màn chơi đã bắt đầu.</String>
       <String _locID='26076' category='UI' scenario='Options' subtitle='false' Update='true'>ĐỒNG ĐỘI</String>
       <String _locID='26077' category='UI' scenario='Options' subtitle='false' Update='true'>KẺ THÙ</String>
-      <String _locID='26078' category='UI' subtitle='false' Update='true'>Player %1!s! is missing the downloadable content required for this map.</String>
+      <String _locID='26078' category='UI' subtitle='false' Update='true'>Người chơi %1!s! thiếu nội dung mở rộng (DLC) của bản đồ này.</String>
       <String _locID='26081' category='Skirmish' scenario=' Map Name' subtitle='false'>GLACIAL RAVINE (3v3)</String>
-      <String _locID='26082' category='Skirmish' scenario='Map Description' subtitle='false'>A snow-topped mountain range forms a natural barrier that cuts this region in half.  Control of the two energy walls at the narrow central pass often determines the outcome of the battle, though clever use of the Sentinel Factories may play a role as well.</String>
+      <String _locID='26082' category='Skirmish' scenario='Map Description' subtitle='false'>Một ngọn núi lớn phủ tuyết đã bị ngăn cách ở hai bên.  Việc kiểm soát hai bức tường năng lượng ở trung tâm bản đồ thường là thứ quyết định kết quả của trận chiến, nhưng việc tận dụng tốt Nhà máy Sentinel cũng có thể đóng vai trò quan trọng.</String>
       <String _locID='26083' category='UI' scenario='Options' subtitle='false' Update='true'>Graphics Option Test A</String>
       <String _locID='26084' category='UI' scenario='Options' subtitle='false'>This is a test Graphics Options for PC.</String>
       <String _locID='26085' category='UI' scenario='Options' subtitle='false' Update='true'>Graphics Option Test B</String>
