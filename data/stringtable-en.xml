@@ -4185,7 +4185,7 @@ BẢNG ID STRING TRONG GAME
       <String _locID='25318' category='UI' scenario='GameSetup' subtitle='false'>SELECT MISSION</String>
       <String _locID='25319' category='UI' scenario='GameSetup' subtitle='false'>PUBLIC GAME: %1!s!</String>
       <String _locID='25320' category='Campaign' scenario='11' subtitle='true'>Thuyền trưởng, nếu đơn vị cường kích của chúng ta bay thẳng vào trường năng lượng, nó sẽ giảm thiểu sát thương.</String>
-      <String _locID='25321' category='Code' scenario='Role text' subtitle='false'>Garrisonable Cover</String>
+      <String _locID='25321' category='Code' scenario='Role text' subtitle='false'>Chỗ Nấp Có Thể Được Dùng Để Đóng Quân</String>
       <String _locID='25322' category='Campaign' scenario='15' subtitle='false'>Tiêu Diệt Toàn Bộ Kẻ Địch Gần Chốt Khóa</String>
       <String _locID='25323' category='Campaign' scenario='15' subtitle='false'>Kích Hoạt Chốt Khóa</String>
       <String _locID='25324' category='Campaign' scenario='10' subtitle='true'>Này, cảm ơn vì sự giúp đỡ, trung sĩ. Anh cần một chiếc Cobra không?</String>
@@ -5189,7 +5189,7 @@ BẢNG ID STRING TRONG GAME
       <String _locID='26435' subtitle='false' category='Code'>Lăn Chuột Lên</String>
       <String _locID='26436' subtitle='false' category='Code'>Lăn Chuột Xuống</String>
       <String _locID='26437' subtitle='false' category='Code'>Con Trỏ Chuột</String>
-      <String _locID='26438' subtitle='false' category='Code'>Nút Escape</String>
+      <String _locID='26438' subtitle='false' category='Code'>Nút Esc</String>
       <String _locID='26439' subtitle='false' category='Code'>1</String>
       <String _locID='26440' subtitle='false' category='Code'>2</String>
       <String _locID='26441' subtitle='false' category='Code'>3</String>
@@ -5242,7 +5242,7 @@ BẢNG ID STRING TRONG GAME
       <String _locID='26488' subtitle='false' category='Code'>Slash</String>
       <String _locID='26489' subtitle='false' category='Code'>Nút Shift Bên Phải</String>
       <String _locID='26490' subtitle='false' category='Code'>Numpad Multiply</String>
-      <String _locID='26491' subtitle='false' category='Code'>Nút Cách (Space)</String>
+      <String _locID='26491' subtitle='false' category='Code'>Phím Cách</String>
       <String _locID='26492' subtitle='false' category='Code'>Nút Caps Lock</String>
       <String _locID='26493' subtitle='false' category='Code'>F1</String>
       <String _locID='26494' subtitle='false' category='Code'>F2</String>
