@@ -188,7 +188,7 @@
       <Title>Ngày 1 tháng 11 năm 2525</Title>
       <Date>Ngày 1 tháng 11 năm 2525</Date>
       <DetailText>
-         The UNSC military goes on full alert and begins making preparations to move in and retake Harvest. All Colonial Military Administration combat forces are immediately placed under NavCom / UniCom "for the duration of the crisis." The SPARTAN-II project is accelerated to its final phase: MJOLNIR, a new form of powered armor specifically designed for Spartan use.
+         Quân đội UNSC đang hoàn toàn cảnh giác cao độ và bắt đầu chuẩn bị cho một cuộc tấn công nhằm chiếm lại Harvest. Đồng thời tất cả các đơn vị chiến đấu của Chính phủ Quân sự (Colonial Military Administration) ngay lập tức được kiểm soát dưới mệnh lệnh của Bộ Tư lệnh Hải quân/Bộ Tư lệnh Lực lượng Mặt đất "trong suốt tình huống khủng hoảng". Dự án SPARTAN-II đã được đẩy nhanh đến giai đoạn cuối: MJOLNIR, một bộ giáp mới được dành riêng cho Spartan.
       </DetailText>
       <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
    </Event>
@@ -197,10 +197,10 @@
       <Name>Tundra01</Name>
       <Status>Locked</Status>
       <Position>34.0</Position>
-      <Title>27 November 2525</Title>
-      <Date>27 November 2525</Date>
+      <Title>Ngày 27 tháng 11 năm 2525</Title>
+      <Date>Ngày 27 tháng 11 năm 2525</Date>
       <DetailText>
-         All SPARTAN-IIs are transported to the Damascus Materials Testing Facility on Chi Ceti-4 to be equipped with MJOLNIR armor. They only have a matter of hours to test suit operation before an alien vessel enters the system and attacks their orbiting support ship. In the ensuing battle, three Spartans board the enemy ship and encounter their first Covenant soldiers, capturing an energy shield gauntlet. One Spartan is lost in the engagement.
+         Toàn bộ lính SPARTAN-II đều được đưa đến Cơ sở Thử nghiệm Vật liệu Damascus tại thuộc địa Chi Ceti-4 để được trang bị bộ giáp MJOLNIR. Họ chỉ có vài giờ để kiểm tra bộ giáp trước khi tàu của người ngoài hành tinh xâm nhập vào hệ thống và tấn công tàu hỗ trợ đang bay quanh quỹ đạo của họ. Trong trận chiến này, có ba Spartan đã xâm nhập vào tàu địch, giao chiến với binh lính của Covenant và chiếm giữ được chiếc khiên năng lượng của kẻ thù. Nhưng có một Spartan đã thiệt mạng trong trận chiến này.
       </DetailText>
       <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
    </Event>
@@ -209,10 +209,10 @@
       <Name>Prophet01</Name>
       <Status>Locked</Status>
       <Position>35.0</Position>
-      <Title>Edict of the Office of the High Prophet of Regret</Title>
-      <Date>2525</Date>
+      <Title>Sắc lệnh tối cao của Prophet of Regret</Title>
+      <Date>Năm 2525</Date>
       <DetailText>
-         Hear now the infamy in Chi Ceti system. Due to lack of faith on the part of the crew of the vessel Unrelenting, a band of Unclean were able to board and slay. A Science Lance is ordered formed to study the captured weapons and armor that mitigation action can be taken in future.
+         Nghe đây, tin xấu đã đến từ hệ hành tinh Chi Ceti. Do sự thiếu niềm tin đến từ một số nhân sự của con tàu Unrelenting, một nhóm của những Kẻ Ô Uế đã xâm nhập và thực hiện các vụ thảm sát. Ta ra lệnh thành lập Phòng Khoa học để tiến hành nghiên cứu kỹ lưỡng về vũ khí và bộ giáp mà chúng ta lấy được từ chúng.
       </DetailText>
       <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_covenant.ddx</UnlockedImage>
    </Event>
@@ -221,8 +221,8 @@
       <Name>Event007</Name>
       <Status>Unlocked</Status>
       <Position>36.0</Position>
-      <Title>Battle of Harvest, 2526</Title>
-      <Date>2526</Date>
+      <Title>Trận Chiến tại Harvest, năm 2526</Title>
+      <Date>Năm 2526</Date>
       <DetailText>
          At the Battle of Harvest, Vice Admiral Preston Cole's war fleet - one of the largest ever mobilized - engages the alien warship responsible for the decimation of the colony, scoring a victory. Only Cole's last-minute tactical inspiration turns the tide of battle. Upon his return to Earth, Cole is promoted to the rank of Admiral.
       </DetailText>
