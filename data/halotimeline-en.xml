@@ -9,7 +9,7 @@
       <Title>Ngày 16 tháng 1 năm 2498</Title>
       <Date>Ngày 16 tháng 1 năm 2498</Date>
       <DetailText>
-         Thuộc địa Arcadia đã xây dựng DSRA, viết tắt của Deep Space Research Array (Viện Nghiên cứu Không gian Sâu) để nghiên cứu các hiện tượng như lỗ đen và các khu vực ngoài tầm với của tàu thamw dò. Nhưng rồi DSRA đã bị phá hủy vì cuộc xâm lược Arcadia của Covenant vào năm 2531.
+         Thuộc địa Arcadia đã xây dựng DSRA, viết tắt của Deep Space Research Array [Viện Nghiên cứu Không gian Sâu] để nghiên cứu các hiện tượng như lỗ đen và các khu vực ngoài tầm với của tàu thamw dò. Nhưng rồi DSRA đã bị phá hủy vì cuộc xâm lược Arcadia của Covenant vào năm 2531.
       </DetailText>
       <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
    </Event>
@@ -21,7 +21,7 @@
       <Title>Năm 2506</Title>
       <Date>Năm 2506</Date>
       <DetailText>
-         Dự án ORION, nó là dự án nguyên mẫu về SPARTAN - một dự án trong đó cả Chính phủ Quân sự (Colonial Military Administration) cố gắng thành lập một đội siêu chiến binh để thực hiện các hoạt động quân sự bí mật ở Outer Colonies. Mặc dù những Spartan này đạt được một số thành công, nhưng sức mạnh của họ không đáp ứng được kỳ vọng ban đầu, đồng thời chi phí phát triển và thực hiện quá lớn đến mức dự án phải bị hủy bỏ. Những người lính trong dự án này sau đó đã được chuyển đến đội quân đặc biệt khác.
+         Dự án ORION, nó là dự án nguyên mẫu về SPARTAN - một dự án trong đó cả Colonial Military Administration [Chính phủ Quân sự] cố gắng thành lập một đội siêu chiến binh để thực hiện các hoạt động quân sự bí mật ở Outer Colonies. Mặc dù những Spartan này đạt được một số thành công, nhưng sức mạnh của họ không đáp ứng được kỳ vọng ban đầu, đồng thời chi phí phát triển và thực hiện quá lớn đến mức dự án phải bị hủy bỏ. Những người lính trong dự án này sau đó đã được chuyển đến đội quân đặc biệt khác.
       </DetailText>
       <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
    </Event>
@@ -102,7 +102,7 @@
       <Name>Prophet02</Name>
       <Status>Locked</Status>
       <Position>26.0</Position>
-      <Title>Trích từ Punished Deeds (Quả Báo), Tập III</Title>
+      <Title>Trích từ Punished Deeds [Trừng Phạt], Tập III</Title>
       <Date>Năm 2525</Date>
       <DetailText>
          Regret trở thành linh mục cao cấp ở độ tuổi trẻ thông qua việc thao túng dư luận và tống tiền những người xung quanh hắn. Một số Prophet, bao gồm cả Regret, đã gặp được Oracle, một trí tuệ nhân tạo (AI) cổ xưa, nơi mà hắn biết được rằng con người bằng cách nào đó có mối liên hệ với chủng tộc Forerunner và hắn cũng biết được điều gì đó có thể làm lung lay nền tảng đức tin của Covenant. Quyết định tiêu diệt loài người của họ nhằm che giấu những sự thật này vẫn còn gây tranh cãi cho đến ngày nay.
@@ -128,7 +128,7 @@
       <Title>Ngày 3 Tháng 2 năm 2525</Title>
       <Date>Ngày 3 Tháng 2 năm 2525</Date>
       <DetailText>
-         Liên lạc với thuộc địa nông nghiệp Harvest đã bị ngắt. Khi những nỗ lực để kết nối lại với họ đều thất bại, nỗi sợ hãi về điều tồi tệ nhất bắt đầu xuất hiện. Trong khi đó, tại Office of Naval Intelligence (Cơ quan Tình báo Hải quân) gần hành tinh Reach đang có cuộc phẫu thuật tăng cường sức mạnh cho các ứng cử viên của dự án SPARTAN-II. Trong quá trình này, nhiều ứng viên sẽ chết hoặc bị thương tật.
+         Liên lạc với thuộc địa nông nghiệp Harvest đã bị ngắt. Khi những nỗ lực để kết nối lại với họ đều thất bại, nỗi sợ hãi về điều tồi tệ nhất bắt đầu xuất hiện. Trong khi đó, tại Office of Naval Intelligence [Cơ quan Tình báo Hải quân] gần hành tinh Reach đang có cuộc phẫu thuật tăng cường sức mạnh cho các ứng cử viên của dự án SPARTAN-II. Trong quá trình này, nhiều ứng viên sẽ chết hoặc bị thương tật.
       </DetailText>
       <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
    </Event>
@@ -137,7 +137,7 @@
       <Name>Arbiter01</Name>
       <Status>Locked</Status>
       <Position>29.0</Position>
-      <Title>Trích từ Punished Deeds (Quả Báo), Tập III</Title>
+      <Title>Trích từ Punished Deeds [Trừng Phạt], Tập III</Title>
       <Date>Năm 2525</Date>
       <DetailText>
          Tên Arbiter mới được bổ nhiệm này không hề sợ chết, nhưng lại sợ đi vào di tích cổ. Trước khi vào khu di tích, hắn đã cử một đội Unggoy đến kiểm tra xem nó có an toàn không. Nếu an toàn, họ sẽ sống sót, nhưng nếu phát hiện cảm giác nguy hiểm dù là nhỏ nhất, tên Arbiter sẽ cho nổ quả bom plasma được gắn trên bình methan của Unggoy.
@@ -161,7 +161,7 @@
       <Name>Arbiter02</Name>
       <Status>Locked</Status>
       <Position>31.0</Position>
-      <Title>Trích từ Punished Deeds (Quả Báo), Tập III</Title>
+      <Title>Trích từ Punished Deeds [Trừng Phạt], Tập III</Title>
       <Date>Năm 2525</Date>
       <DetailText>
          Tên Arbiter mới được bổ nhiệm ngay lập tức được đưa vào thử thách. Có một căn cứ không gian khổng lồ của những Người Cổ Đại đang ở gần tàn tích bị bỏ hoang, nó được cho là chứa đựng 'chìa khóa' để đánh thức công nghệ cổ đại này. Nhưng căn cứ này đã được bảo vệ nghiêm ngặt bởi một nhóm Elite chống lại các Prophet mới được bổ nhiệm. Tên Arbiter đã đánh bại tất cả bọn họ trong một trận chiến kéo dài vài ngày. Chìa khóa đó vẫn chưa bao giờ được tìm thấy nhưng bằng chứng của cuộc chiến này đã bị giấu kín.
@@ -188,7 +188,7 @@
       <Title>Ngày 1 tháng 11 năm 2525</Title>
       <Date>Ngày 1 tháng 11 năm 2525</Date>
       <DetailText>
-         Quân đội UNSC đang hoàn toàn cảnh giác cao độ và bắt đầu chuẩn bị cho một cuộc tấn công nhằm chiếm lại Harvest. Đồng thời tất cả các đơn vị chiến đấu của Chính phủ Quân sự (Colonial Military Administration) ngay lập tức được kiểm soát dưới mệnh lệnh của Bộ Tư lệnh Hải quân/Bộ Tư lệnh Lực lượng Mặt đất "trong suốt tình huống khủng hoảng". Dự án SPARTAN-II đã được đẩy nhanh đến giai đoạn cuối: MJOLNIR, một bộ giáp mới được dành riêng cho Spartan.
+         Quân đội UNSC đang hoàn toàn cảnh giác cao độ và bắt đầu chuẩn bị cho một cuộc tấn công nhằm chiếm lại Harvest. Đồng thời tất cả các đơn vị chiến đấu của Colonial Military Administration [Chính phủ Quân sự] ngay lập tức được kiểm soát dưới mệnh lệnh của Bộ Tư lệnh Hải quân/Bộ Tư lệnh Lực lượng Mặt đất "trong suốt tình huống khủng hoảng". Dự án SPARTAN-II đã được đẩy nhanh đến giai đoạn cuối: MJOLNIR, một bộ giáp mới được dành riêng cho Spartan.
       </DetailText>
       <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
    </Event>
@@ -224,7 +224,7 @@
       <Title>Trận Chiến tại Harvest, năm 2526</Title>
       <Date>Năm 2526</Date>
       <DetailText>
-         At the Battle of Harvest, Vice Admiral Preston Cole's war fleet - one of the largest ever mobilized - engages the alien warship responsible for the decimation of the colony, scoring a victory. Only Cole's last-minute tactical inspiration turns the tide of battle. Upon his return to Earth, Cole is promoted to the rank of Admiral.
+         Trong Trận chiến tại Harvest, hạm đội chiến tranh của Phó Đô đốc Preston Cole là đội quân chiến đấu lớn nhất từng được huy động - họ đã giao tranh với tàu chiến của đám người ngoài hành tinh chịu trách nhiệm về sự tàn phá của thuộc địa và họ đã chiến thắng. Chiến thuật của Cole và phút cuối đã lật ngược tình thế của cuộc chiến. Khi ông ấy trở về Trái đất, Cole đã được thăng chức làm Đô đốc.
       </DetailText>
       <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
    </Event>
@@ -233,10 +233,10 @@
       <Name>TerminalMoraine01</Name>
       <Status>Locked</Status>
       <Position>37.0</Position>
-      <Title>Edict of the Office of the High Prophet of Regret</Title>
-      <Date>2526</Date>
+      <Title>Sắc lệnh tối cao của Prophet of Regret</Title>
+      <Date>Năm 2526</Date>
       <DetailText>
-         Let the Victory of Episilon Indi be celebrated by fasting and prayer. Unggoy and Kig-Yar food rations to be eliminated for the next three work periods. Sangheili and Jiralhanae to spend two rest periods in public prayer. All attend the public monitors at the sounding of five bells to observe the execution of those who failed their duty at the Victory.
+         Hãy cùng kỷ niệm cuộc Chiến thắng tại Episilon Indi bằng cách nhịn ăn và cầu nguyện. Unggoy và Kig-Yar sẽ không có khẩu phần ăn trong ba ca tiếp theo. Sangheili và Jiralhanae sẽ tổ chức cầu nguyện công khai trong hai kỳ nghỉ tiếp theo. Khi chuông reo năm hồi, mọi người phải tập trung lại đây để xem việc xử tử những người không hoàn thành việc kỷ niệm này.
       </DetailText>
       <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_covenant.ddx</UnlockedImage>
    </Event>
@@ -245,10 +245,10 @@
       <Name>Cutter01</Name>
       <Status>Locked</Status>
       <Position>39.0</Position>
-      <Title>30 January 2528</Title>
-      <Date>30 January 2528</Date>
+      <Title>Ngày 30 tháng 1 năm 2528</Title>
+      <Date>Ngày 30 tháng 1 năm 2528</Date>
       <DetailText>
-         Captain Cutter turns down a command position on board the destroyer class ship The Prophecy. His decision to stay close to his family prompted an ONI psychological examination that determined that while fit to command, his family ties worked against any larger military career.
+         Thuyền trưởng Cutter đã từ chối chức vụ thuyền trưởng của tàu Prophecy. Quyết định ở gần "gia đình" đã khiến ông ấy phải trải qua một cuộc kiểm tra tâm lý của Office of Naval Intelligence [Cơ quan Tình báo Hải quân] và Cutter được kết luận là mặc dù ông ấy có đủ sức để chỉ đạo đội quân, nhưng mối quan hệ gia đình của ông ấy lại là trở ngại cho bất kỳ tham vọng nào của quân sự.
       </DetailText>
       <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
    </Event>
@@ -257,10 +257,10 @@
       <Name>Brute01</Name>
       <Status>Locked</Status>
       <Position>40.0</Position>
-      <Title>Incident Report 16-196901</Title>
-      <Date>2528</Date>
+      <Title>Báo cáo sự cố 16-196901</Title>
+      <Date>Năm 2528</Date>
       <DetailText>
-         Security team called to Jiralhanae Chieftan's quarters at third bell, second shift. Team arrived at location to find quarters door torn from its frame and five chunks of unidentified biological matter in hallway (see attached diagram). Upon inspection, biological matter confirmed as parts of two Unggoy from Deck Four Kitchens. Chieftan was calm and responsive; stated that delivery of his midday meal was not to specifications (thorn beast overdone, dipping sauce insufficient). Maintenance crew notified; official reprimand of D4 Kitchen supervisor filed.
+         Tiếng chuông thứ ba đã vang lên và đội an ninh được gọi đến cabin của Chỉ huy tộc Jiralhanae vào ca thứ hai. Khi đội an ninh đến hiện trường, họ phát hiện cửa cabin bị xé toạc và 5 cục vật liệu sinh học không xác định rơi xuống hành lang (có sơ đồ đính kèm). Khi kiểm tra, vật liệu sinh học được tìm thấy là xác của hai Unggoy từ bếp ở Tầng Bốn. Tên chỉ huy bình tĩnh nói rằng: "Bữa trưa của ta không được như ta đã yêu cầu". (Thịt Thorn chín quá mức và không có đủ nước chấm). Ban quản lý đã coi nó như là biện pháp kỷ luật chính thức đối với đầu bếp ở Tầng 4.
       </DetailText>
       <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_covenant.ddx</UnlockedImage>
    </Event>
@@ -269,10 +269,10 @@
       <Name>Forge01</Name>
       <Status>Locked</Status>
       <Position>42.0</Position>
-      <Title>17 August 2530</Title>
-      <Date>17 August 2530</Date>
+      <Title>Ngày 17 tháng 8 năm 2530</Title>
+      <Date>Ngày 17 tháng 8 năm 2530</Date>
       <DetailText>
-         Sergeant Forge incarcerated for assaulting a senior officer. His career would have been over if Admiral Cole had not intervened and seen that the investigation was fair and above board. The senior officer eventually faced a court martial and Sergeant Forge was assigned to Spirit of Fire in an effort to keep the prior events quiet.
+         Trung sĩ Forge đã bị bắt giữ vì tội hành hung cấp trên của mình. Sự nghiệp của anh ta lẽ ra đã kết thúc nếu Đô đốc Cole không can thiệp để đảm bảo vụ việc được điều tra công bằng. Cuối cùng, tên sĩ quan cấp trên bị đưa ra tòa án quân sự, còn Trung sĩ Forge được chuyển tới tàu Spirit of Fire để tiếp tục thực hiện nghĩa vụ nhằm chấm dứt sự việc.
       </DetailText>
       <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
    </Event>
@@ -281,10 +281,10 @@
       <Name>Anders01</Name>
       <Status>Locked</Status>
       <Position>43.0</Position>
-      <Title>Professor Anders' Log, 30 January 2531</Title>
-      <Date>30 January 2531</Date>
+      <Title>Nhật ký của Giáo sư Anders, ngày 30 tháng 1 năm 2531</Title>
+      <Date>Ngày 30 tháng 1 năm 2531</Date>
       <DetailText>
-         Upon boarding The Last Gleaming, I was shown my quarters. On the door it read "Doctor Anders" - the name my mother wanted me to use in my professional career. I cannot abide being reminded of her wishes. This whole cloak-and-dagger trip has her fingerprints all over it.
+         Sau khi lên tàu Last Gleaming, tôi có đi xem phòng của mình. Cánh cửa có dòng chữ "Tiến sĩ Anders" - cái tên mà mẹ tôi muốn tôi sử dụng khi theo đuổi sự nghiệp của mình. Thật sự tôi rất khó chịu đựng được cảm giác mỗi lần như vậy đều được mẹ kỳ vọng. Chắc hẳn mẹ tôi đã nhúng tay vào tất cả những công việc trên con tàu này.
       </DetailText>
       <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
    </Event>
@@ -293,10 +293,10 @@
       <Name>BlackBox03</Name>
       <Status>Locked</Status>
       <Position>44.0</Position>
-      <Title>From the Office of the High Prophet of Regret</Title>
-      <Date>2531</Date>
+      <Title>Tông thư của Prophet of Regret</Title>
+      <Date>Năm 2531</Date>
       <DetailText>
-         Return at fastest possible speed to the world they know as Harvest. We must learn the secrets inside the holy relic before the Great Journey can continue. The humans must not be allowed to enter the artifact; we will do whatever we must to deny them access. All must be resolute in this task, or face punishment.
+         Quay trở lại hành tinh mà chúng gọi là Harvest càng nhanh càng tốt. Chúng ta phải tìm hiểu những bí mật bên trong thánh tích trước khi "Cuộc Hành Trình Vĩ Đại" (Great Journey). Không được để loài người tiến vào thánh tích; hãy ngăn chặn chúng bằng mọi giá. Tất cả phải kiên quyết thực hiện nhiệm vụ này, nếu không kẻ đó sẽ phải đối mặt với hình phạt.
       </DetailText>
       <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
    </Event>
@@ -305,10 +305,10 @@
       <Name>BlackBox01</Name>
       <Status>Locked</Status>
       <Position>45.0</Position>
-      <Title>4 February 2531</Title>
-      <Date>4 February 2531</Date>
+      <Title>Ngày 4 tháng 2 năm 2531</Title>
+      <Date>Ngày 4 tháng 2 năm 2531</Date>
       <DetailText>
-         The UNSC support ship Spirit of Fire enters orbit around Harvest. While Admiral Cole's fleet is engaged elsewhere, Spirit is sent to Harvest to investigate ongoing Covenant activity in the system and look for survivors from the missing UNSC Destroyer The Prophecy (previously dispatched to Harvest to investigate the same activity). Commanded by Captain Cutter, Spirit has been reassigned by FLEETCOM. ONI has placed Professor Anders onboard to lead the investigation.
+         Tàu hỗ trợ Spirit of Fire của UNSC đã đi vào quỹ đạo quanh hành tinh Harvest. Trong khi hạm đội của Đô đốc Cole đang chiến đấu ở nơi khác, tàu Spirit được cử đến Harvest để điều tra hoạt động của Covenant đang diễn ra trong hệ thống và tìm kiếm những người sống sót từ Tàu chiến Prophecy của UNSC (một con tàu trước đây được phái đi để điều tra hoạt động tương tự). Được chỉ huy bởi Thuyền trưởng Cutter, tàu Spirit đã được Fleet Command [Bộ Tư lệnh Hạm đội] bổ nhiệm. Office of Naval Intelligence [Cơ quan Tình báo Hải quân] đã cử Giáo sư Anders vào làm người đứng đầu cuộc điều tra.
       </DetailText>
       <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
    </Event>
@@ -317,10 +317,10 @@
       <Name>BlackBox09</Name>
       <Status>Locked</Status>
       <Position>46.0</Position>
-      <Title>6 February 2531</Title>
-      <Date>6 February 2531</Date>
+      <Title>Ngày 6 tháng 2 năm 2531</Title>
+      <Date>Ngày 6 tháng 2 năm 2531</Date>
       <DetailText>
-         Professor Anders writes her father what appears to be a detailed analysis of Homer's Odyssey. In fact it is a coded message detailing her mission to Harvest and the result of the find there. ONI censors miss the cipher completely and the message passes unaltered to her father.
+         Giáo sư Anders gửi cho cha cô một tin nhắn có vẻ như là một bài phân tích về Odyssey của Homer. Nhưng thật ra nó lại là một tin nhắn được mã hóa nêu chi tiết những gì Giáo sư Anders phát hiện ra khi thực hiện nhiệm vụ của mình tại Harvest. Bộ phận kiểm duyệt của Office of Naval Intelligence [Cơ quan Tình báo Hải quân] hoàn toàn không nhận ra mật mã này nên tin nhắn được chuyển nguyên vẹn cho cha cô.
       </DetailText>
       <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
    </Event>
@@ -329,10 +329,10 @@
       <Name>BlackBox02</Name>
       <Status>Locked</Status>
       <Position>48.0</Position>
-      <Title>7 February 2531</Title>
-      <Date>7 February 2531</Date>
+      <Title>Ngày 7 tháng 2 năm 2531</Title>
+      <Date>Ngày 7 tháng 2 năm 2531</Date>
       <DetailText>
-         Spirit of Fire holds service for the crew of the Prophecy. The crew roster is read despite objections from ONI personnel. The Prophecy was lost with all hands on a first expedition to Harvest to investigate the Covenant interest in the artifact found near the polar region.
+         Lực lượng của tàu Spirit of Fire tổ chức lễ tưởng niệm nhân sự của tàu Prophecy. Danh sách của nhân sự đã được đọc bất chấp sự phản đối của Office of Naval Intelligence [Cơ quan Tình báo Hải quân]. Tàu Prophecy đã bị bắn hạ cùng toàn bộ nhân sự trên đường đi tới Harvest để điều tra những hoạt động đáng ngờ của Covenant đối với một cổ vật được tìm thấy ở vùng cực.
       </DetailText>
       <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
    </Event>
@@ -341,10 +341,10 @@
       <Name>BlackBox07</Name>
       <Status>Locked</Status>
       <Position>49.0</Position>
-      <Title>9 February 2531</Title>
-      <Date>9 February 2531</Date>
+      <Title>Ngày 9 tháng 2 năm 2531</Title>
+      <Date>Ngày 9 tháng 2 năm 2531</Date>
       <DetailText>
-         After engaging Covenant forces on the surface of Harvest, the UNSC vessel Spirit of Fire arrives at Arcadia - only to find that the Covenant are already there and attacking the colony. Spirit's ground forces assist in the evacuation, and help fight the Covenant to a standstill on the surface of the planet.
+         Sau trận chiến với Covenant trên bề mặt của Harvest, tàu chiến Spirit of Fire của UNSC đã đến Arcadia - khi họ đến, họ mới nhận ra rằng thuộc địa này đã bị Covenant tấn công. Lực lượng mặt đất của tàu Spirit đã hỗ trợ việc sơ tán và đã giúp lực lượng của Arcadia chống lại Covenant trên bề mặt hành tinh.
       </DetailText>
       <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
    </Event>
@@ -353,10 +353,10 @@
       <Name>BlackBox06</Name>
       <Status>Locked</Status>
       <Position>50.0</Position>
-      <Title>From the Office of the High Prophet of Regret</Title>
-      <Date>2531</Date>
+      <Title>Tông thư của Prophet of Regret</Title>
+      <Date>Năm 2531</Date>
       <DetailText>
-         Arbiter, you are the Hand of the Covenant - my hand. You know what must be done. Return to the surface and capture the human female - the one who managed to make fools of us on Harvest. She is the key to unlocking the secrets of the Ancients.
+         Arbiter, ngươi là bàn tay của Covenant - là người luôn trung thành với ta. Ngươi biết sứ mệnh của mình là gì rồi đấy. Quay trở lại mặt đất và bắt giữ ả loài người đã làm ô nhục chúng ta tại Harvest. Ả ta là chìa khóa để mở những bí mật của người Cổ Đại.
       </DetailText>
       <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
    </Event>
@@ -365,10 +365,10 @@
       <Name>BlackBox08</Name>
       <Status>Locked</Status>
       <Position>51.0</Position>
-      <Title>10 February 2531</Title>
-      <Date>10 February 2531</Date>
+      <Title>Ngày 10 tháng 2 năm 2531</Title>
+      <Date>Ngày 10 tháng 2 năm 2531</Date>
       <DetailText>
-         The capture of Professor Anders forces Captain Cutter's hand; Spirit of Fire pursues the enemy into Covenant space. The ship's AI projects an arrival at their destination in 312 hours. The ship remains on high alert for the duration, though nonessential crewmembers are briefly placed in cryo sleep.
+         Việc Covenant bắt giữ Giáo sư Anders buộc Thuyền trưởng Cutter phải ra tay; tàu Spirit of Fire đã theo dõi kẻ thù và tiến tới không gian của Covenant. Theo tính toán của AI, con tàu sẽ mất 312 giờ để đến nơi. Con tàu vẫn ở trạng thái cảnh giác cao độ trong suốt thời gian đó, những nhân sự không cần thiết sẽ được đưa vào trạng thái ngủ đông trong thời gian ngắn.
       </DetailText>
       <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
    </Event>
@@ -377,10 +377,10 @@
       <Name>Forge02</Name>
       <Status>Locked</Status>
       <Position>52.0</Position>
-      <Title>11 February 2531</Title>
-      <Date>11 February 2531</Date>
+      <Title>Ngày 11 tháng 2 năm 2531</Title>
+      <Date>Ngày 11 tháng 2 năm 2531</Date>
       <DetailText>
-         Sergeant Forge confronts SPARTAN Douglas-042 over his recommendation to destroy the Covenant ship carrying Professor Anders. The altercation results in a broken chair, a seal malfunction on a bulkhead door and a stern interruption by the ship's AI, Serina. 42 and Forge always eat together in the mess hall following this event.
+         Trung sĩ Forge đã đối đầu với SPARTAN Douglas-042 vì đề xuất phá hủy con tàu của Covenant chở Giáo sư Anders. Cuộc xung đột dẫn đến một chiếc ghế bị gãy, cửa boong bị hỏng và AI của con tàu, Serina, đã can thiệp vào chuyện này. Sau đó Spartan-042 và Forge đã trở thành bạn thân và luôn đi ăn cùng nhau.
       </DetailText>
       <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
    </Event>
@@ -389,10 +389,10 @@
       <Name>BlackBox10</Name>
       <Status>Locked</Status>
       <Position>54.0</Position>
-      <Title>14 February 2531</Title>
-      <Date>14 February 2531</Date>
+      <Title>Ngày 14 tháng 2 năm 2531</Title>
+      <Date>Ngày 14 tháng 2 năm 2531</Date>
       <DetailText>
-         Serina, knowing that the crew may be on a one way trip, manufactures and delivers fake emails from family members to the crew celebrating Valentine's Day. She uses previous correspondence as a basis for the letters. No one ever suspects her of this deception.
+         Serina biết rằng nhân sự có thể đang có một "chuyến đi không khác gì tự sát", cô ấy đã gửi email giả dưới tên gia đình của toàn bộ nhân sự cho để kỷ niệm Lễ Valentine. Cô ấy sử dụng những bức thư trước đây làm cơ sở cho những bức thư này. Không hề có một ai nghi ngờ cô về sự lừa dối này.
       </DetailText>
       <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
    </Event>
@@ -401,10 +401,10 @@
       <Name>BlackBox12</Name>
       <Status>Locked</Status>
       <Position>56.0</Position>
-      <Title>Trích từ Punished Deeds (Quả Báo), Tập III</Title>
-      <Date>2531</Date>
+      <Title>Trích từ Punished Deeds [Trừng Phạt], Tập III</Title>
+      <Date>Năm 2531</Date>
       <DetailText>
-         The shield world that Regret intended to activate was one of just a few that the Covenant had uncovered in the quest for the Halos. These treasure chests of technology enabled the Covenant to quickly gain access to advanced weaponry and space propulsion systems allowing them to dominate the galaxy.
+         Shield World [Thế Giới Lá Chắn] mà Regret định kích hoạt là một trong số ít thế giới mà Covenant đã khám phá được trong hành trình tìm kiếm những vòng nhẫn Halo. Sử dụng kho tàng công nghệ này, Covenant đã có thể phát triển vũ khí và động cơ không gian tiên tiến cho việc chinh phục thiên hà của chúng.
       </DetailText>
       <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
    </Event>
@@ -413,10 +413,10 @@
       <Name>BlackBox13</Name>
       <Status>Locked</Status>
       <Position>57.0</Position>
-      <Title>23 February 2531</Title>
-      <Date>23 February 2531</Date>
+      <Title>Ngày 23 tháng 2 năm 2531</Title>
+      <Date>Ngày 23 tháng 2 năm 2531</Date>
       <DetailText>
-         Spirit of Fire arrives at an uncharted planet swarming with strange alien lifeforms. Within a day, the ship is drawn into the planet's interior, where the crew confronts the Covenant and eventually rescues Professor Anders.
+         Tàu Spirit of Fire đã tới một hành tinh vô danh chứa đầy những dạng sống của người ngoài hành tinh kỳ lạ. Chưa đầy một ngày sau, con tàu bị hút vào bên trong hành tinh, nhưng sau trận chiến với Covenant, Giáo sư Anders cuối cùng cũng được giải cứu.
       </DetailText>
       <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
    </Event>
@@ -425,10 +425,10 @@
       <Name>Exile01</Name>
       <Status>Locked</Status>
       <Position>58.0</Position>
-      <Title>Cutter's Log, 25 February 2531</Title>
-      <Date>25 February 2531</Date>
+      <Title>Nhật ký của Thuyền trưởng Cutter, ngày 25 tháng 2 năm 2531</Title>
+      <Date>Ngày 25 tháng 2 năm 2531</Date>
       <DetailText>
-         Pelicans engaged in ground operations on the outside of the shell planet failed invariably within four to five flights. The dust adhered to the intakes during entry into the planetary atmosphere in an almost defensive manner, as if the planet itself did not want any space vehicles descending down to its surface.
+         Những chiếc Pelican thực hiện một hoạt động trên bề mặt bên ngoài của hành tinh đã thất bại trong nhiệm vụ của họ sau bốn hoặc năm lần thử. Khi chiếc Pelican cố gắng đi vào bầu khí quyển của hành tinh, vô số chất lạ dính vào tất cả các lỗ thông hơi như muốn ngăn cản chiếc phi cơ. Cứ như thể hành tinh này không muốn bất kỳ phương tiện không gian nào lao xuống bề mặt của nó.
       </DetailText>
       <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
    </Event>
@@ -437,10 +437,10 @@
       <Name>BlackBox15</Name>
       <Status>Locked</Status>
       <Position>59.0</Position>
-      <Title>25 February 2531</Title>
-      <Date>25 February 2531</Date>
+      <Title>Ngày 25 tháng 2 năm 2531</Title>
+      <Date>Ngày 25 tháng 2 năm 2531</Date>
       <DetailText>
-         Thanks to Sergeant Forge's sacrifice, Spirit of Fire escapes from the Forerunner shield world. Spirit of Fire sets a course for home as the majority of the crew prepare to enter cryo sleep for a journey that will take years, if not decades.
+         Nhờ sự hy sinh của Trung sĩ Forge, tàu Spirit of Fire đã thoát khỏi Shield World [Thế Giới Lá Chắn] của Forerunner. Tàu Spirit of Fire lên đường trở về nhà khi phần lớn nhân sự chuẩn bị bước vào ngủ đông, cuộc trở về sẽ có thể kéo dài nhiều năm, nếu không nói là hàng thập kỷ.
       </DetailText>
       <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
    </Event>
@@ -449,10 +449,10 @@
       <Name>Release01</Name>
       <Status>Locked</Status>
       <Position>60.0</Position>
-      <Title>Chief Medical Officer O'Neil's Log, 26 February 2531</Title>
-      <Date>26 February 2531</Date>
+      <Title>Nhật ký của Trưởng Y khoa O'Neil, ngày 26 tháng 2 năm 2531</Title>
+      <Date>Ngày 26 tháng 2 năm 2531</Date>
       <DetailText>
-         The decision to burn bodies infected with the virus was not taken lightly, but the danger to the crew, and the sheer voracity of the infection made taking the bodies aboard Spirit of Fire impossible. Study of the virus and its effects also seems unwise given that we are not equipped with any quarantine labs or have the faintest idea how the virus spreads.
+         Thiêu hủy các thi thể bị nhiễm virus không phải là một quyết định dễ dàng, tôi không thể để virus tham lam nuốt chửng toàn bộ nhân sự của tàu Spirit of Fire. Việc nghiên cứu về virus và tác dụng của nó cũng có vẻ rất nguy hiểm vì chúng ta không được trang bị bất kỳ phòng thí nghiệm kiểm dịch nào và rõ nhất là chúng ta không biết về cách virus lây lan.
       </DetailText>
       <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
    </Event>
@@ -461,10 +461,10 @@
       <Name>BlackBox14</Name>
       <Status>Locked</Status>
       <Position>62.0</Position>
-      <Title>1 March 2531</Title>
-      <Date>1 March 2531</Date>
+      <Title>Ngày 1 tháng 3 năm 2531</Title>
+      <Date>Ngày 1 tháng 3 năm 2531</Date>
       <DetailText>
-         Chief Engineer Prescott finishes his assessment of damage to Spirit of Fire and repairs continue to the hull. The FTL core reactor cannot be replaced and plans to manufacture a spare from base reactor units is considered impossible. The decision is made to run the ship on a skeleton crew and place the rest in suspended animation.
+         Trưởng bộ phận kỹ thuật Prescott đã hoàn thành bài nghiên cứu những thiệt hại của tàu Spirit of Fire và việc sửa chữa thân tàu vẫn tiếp tục. Lò phản ứng FTL không thể thay thế được và kế hoạch sản xuất lò phản ứng dự phòng từ lò phản ứng hiện có được coi là không thể. Cuối cùng, người ta quyết định đưa toàn bộ nhân sự vào trạng thái nghỉ và chỉ để lại tối thiểu số lượng người cần thiết cho công việc.
       </DetailText>
       <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
    </Event>
