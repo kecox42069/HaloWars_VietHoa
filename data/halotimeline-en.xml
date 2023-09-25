@@ -4,7 +4,7 @@
 
    <Event>
       <Name>TheDocks01</Name>
-      <Status>Locked</Status>
+      <Status>Unlocked</Status>
       <Position>1.0</Position>
       <Title>Ngày 16 tháng 1 năm 2498</Title>
       <Date>Ngày 16 tháng 1 năm 2498</Date>
@@ -52,7 +52,7 @@
 
    <Event>
       <Name>BlackBox04</Name>
-      <Status>Locked</Status>
+      <Status>Unlocked</Status>
       <Position>18.0</Position>
       <Title>Ngày 20 tháng 7 năm 2520</Title>
       <Date>Ngày 20 tháng 7 năm 2520</Date>
@@ -64,7 +64,7 @@
 
    <Event>
       <Name>BlackBox05</Name>
-      <Status>Locked</Status>
+      <Status>Unlocked</Status>
       <Position>20.0</Position>
       <Title>Ngày 1 tháng 9 năm 2520</Title>
       <Date>Ngày 1 tháng 9 năm 2520</Date>
@@ -76,7 +76,7 @@
 
    <Event>
       <Name>PirthOutskirts01</Name>
-      <Status>Locked</Status>
+      <Status>Unlocked</Status>
       <Position>22.0</Position>
       <Title>Sắc lệnh tối cao của Prophet of Restraint</Title>
       <Date>Năm 2524</Date>
@@ -88,7 +88,7 @@
 
    <Event>
       <Name>BlackBox11</Name>
-      <Status>Locked</Status>
+      <Status>Unlocked</Status>
       <Position>23.0</Position>
       <Title>Sắc lệnh tối cao của Prophet of Tolerance</Title>
       <Date>Năm 2524</Date>
@@ -100,18 +100,18 @@
 
    <Event>
       <Name>Prophet02</Name>
-      <Status>Locked</Status>
+      <Status>Unlocked</Status>
       <Position>26.0</Position>
       <Title>Trích từ Punished Deeds [Trừng Phạt], Tập III</Title>
       <Date>Năm 2525</Date>
       <DetailText>
-         Regret trở thành linh mục cao cấp ở độ tuổi trẻ thông qua việc thao túng dư luận và tống tiền những người xung quanh hắn. Một số Prophet, bao gồm cả Regret, đã gặp được Oracle, một trí tuệ nhân tạo (AI) cổ xưa, nơi mà hắn biết được rằng con người bằng cách nào đó có mối liên hệ với chủng tộc Forerunner và hắn cũng biết được điều gì đó có thể làm lung lay nền tảng đức tin của Covenant. Quyết định tiêu diệt loài người của họ nhằm che giấu những sự thật này vẫn còn gây tranh cãi cho đến ngày nay.
+         Regret trở thành linh mục cao cấp ở độ tuổi trẻ thông qua việc thao túng dư luận và tống tiền những người xung quanh hắn. Một số Prophet, bao gồm cả Regret, đã gặp được Oracle, một trí tuệ nhân tạo [AI] cổ xưa, nơi mà hắn biết được rằng con người bằng cách nào đó có mối liên hệ với chủng tộc Forerunner và hắn cũng biết được điều gì đó có thể làm lung lay nền tảng đức tin của Covenant. Quyết định tiêu diệt loài người của họ nhằm che giấu những sự thật này vẫn còn gây tranh cãi cho đến ngày nay.
       </DetailText>
       <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_covenant.ddx</UnlockedImage>
    </Event>
    <Event>
       <Name>Chasms01</Name>
-      <Status>Locked</Status>
+      <Status>Unlocked</Status>
       <Position>27.0</Position>
       <Title>Sắc lệnh tối cao của Prophet of Truth</Title>
       <Date>Năm 2525</Date>
@@ -135,7 +135,7 @@
 
    <Event>
       <Name>Arbiter01</Name>
-      <Status>Locked</Status>
+      <Status>Unlocked</Status>
       <Position>29.0</Position>
       <Title>Trích từ Punished Deeds [Trừng Phạt], Tập III</Title>
       <Date>Năm 2525</Date>
@@ -159,7 +159,7 @@
 
    <Event>
       <Name>Arbiter02</Name>
-      <Status>Locked</Status>
+      <Status>Unlocked</Status>
       <Position>31.0</Position>
       <Title>Trích từ Punished Deeds [Trừng Phạt], Tập III</Title>
       <Date>Năm 2525</Date>
@@ -183,7 +183,7 @@
 
    <Event>
       <Name>FrozenValley01</Name>
-      <Status>Locked</Status>
+      <Status>Unlocked</Status>
       <Position>33.0</Position>
       <Title>Ngày 1 tháng 11 năm 2525</Title>
       <Date>Ngày 1 tháng 11 năm 2525</Date>
@@ -195,7 +195,7 @@
 
    <Event>
       <Name>Tundra01</Name>
-      <Status>Locked</Status>
+      <Status>Unlocked</Status>
       <Position>34.0</Position>
       <Title>Ngày 27 tháng 11 năm 2525</Title>
       <Date>Ngày 27 tháng 11 năm 2525</Date>
@@ -207,7 +207,7 @@
 
    <Event>
       <Name>Prophet01</Name>
-      <Status>Locked</Status>
+      <Status>Unlocked</Status>
       <Position>35.0</Position>
       <Title>Sắc lệnh tối cao của Prophet of Regret</Title>
       <Date>Năm 2525</Date>
@@ -231,7 +231,7 @@
 
    <Event>
       <Name>TerminalMoraine01</Name>
-      <Status>Locked</Status>
+      <Status>Unlocked</Status>
       <Position>37.0</Position>
       <Title>Sắc lệnh tối cao của Prophet of Regret</Title>
       <Date>Năm 2526</Date>
@@ -243,7 +243,7 @@
 
    <Event>
       <Name>Cutter01</Name>
-      <Status>Locked</Status>
+      <Status>Unlocked</Status>
       <Position>39.0</Position>
       <Title>Ngày 30 tháng 1 năm 2528</Title>
       <Date>Ngày 30 tháng 1 năm 2528</Date>
@@ -255,7 +255,7 @@
 
    <Event>
       <Name>Brute01</Name>
-      <Status>Locked</Status>
+      <Status>Unlocked</Status>
       <Position>40.0</Position>
       <Title>Báo cáo sự cố 16-196901</Title>
       <Date>Năm 2528</Date>
@@ -267,7 +267,7 @@
 
    <Event>
       <Name>Forge01</Name>
-      <Status>Locked</Status>
+      <Status>Unlocked</Status>
       <Position>42.0</Position>
       <Title>Ngày 17 tháng 8 năm 2530</Title>
       <Date>Ngày 17 tháng 8 năm 2530</Date>
@@ -279,7 +279,7 @@
 
    <Event>
       <Name>Anders01</Name>
-      <Status>Locked</Status>
+      <Status>Unlocked</Status>
       <Position>43.0</Position>
       <Title>Nhật ký của Giáo sư Anders, ngày 30 tháng 1 năm 2531</Title>
       <Date>Ngày 30 tháng 1 năm 2531</Date>
@@ -291,7 +291,7 @@
 
    <Event>
       <Name>BlackBox03</Name>
-      <Status>Locked</Status>
+      <Status>Unlocked</Status>
       <Position>44.0</Position>
       <Title>Tông thư của Prophet of Regret</Title>
       <Date>Năm 2531</Date>
@@ -303,7 +303,7 @@
 
    <Event>
       <Name>BlackBox01</Name>
-      <Status>Locked</Status>
+      <Status>Unlocked</Status>
       <Position>45.0</Position>
       <Title>Ngày 4 tháng 2 năm 2531</Title>
       <Date>Ngày 4 tháng 2 năm 2531</Date>
@@ -315,7 +315,7 @@
 
    <Event>
       <Name>BlackBox09</Name>
-      <Status>Locked</Status>
+      <Status>Unlocked</Status>
       <Position>46.0</Position>
       <Title>Ngày 6 tháng 2 năm 2531</Title>
       <Date>Ngày 6 tháng 2 năm 2531</Date>
@@ -327,7 +327,7 @@
 
    <Event>
       <Name>BlackBox02</Name>
-      <Status>Locked</Status>
+      <Status>Unlocked</Status>
       <Position>48.0</Position>
       <Title>Ngày 7 tháng 2 năm 2531</Title>
       <Date>Ngày 7 tháng 2 năm 2531</Date>
@@ -339,7 +339,7 @@
    
    <Event>
       <Name>BlackBox07</Name>
-      <Status>Locked</Status>
+      <Status>Unlocked</Status>
       <Position>49.0</Position>
       <Title>Ngày 9 tháng 2 năm 2531</Title>
       <Date>Ngày 9 tháng 2 năm 2531</Date>
@@ -351,7 +351,7 @@
 
    <Event>
       <Name>BlackBox06</Name>
-      <Status>Locked</Status>
+      <Status>Unlocked</Status>
       <Position>50.0</Position>
       <Title>Tông thư của Prophet of Regret</Title>
       <Date>Năm 2531</Date>
@@ -363,7 +363,7 @@
 
    <Event>
       <Name>BlackBox08</Name>
-      <Status>Locked</Status>
+      <Status>Unlocked</Status>
       <Position>51.0</Position>
       <Title>Ngày 10 tháng 2 năm 2531</Title>
       <Date>Ngày 10 tháng 2 năm 2531</Date>
@@ -375,7 +375,7 @@
 
    <Event>
       <Name>Forge02</Name>
-      <Status>Locked</Status>
+      <Status>Unlocked</Status>
       <Position>52.0</Position>
       <Title>Ngày 11 tháng 2 năm 2531</Title>
       <Date>Ngày 11 tháng 2 năm 2531</Date>
@@ -387,7 +387,7 @@
 
    <Event>
       <Name>BlackBox10</Name>
-      <Status>Locked</Status>
+      <Status>Unlocked</Status>
       <Position>54.0</Position>
       <Title>Ngày 14 tháng 2 năm 2531</Title>
       <Date>Ngày 14 tháng 2 năm 2531</Date>
@@ -399,7 +399,7 @@
 
    <Event>
       <Name>BlackBox12</Name>
-      <Status>Locked</Status>
+      <Status>Unlocked</Status>
       <Position>56.0</Position>
       <Title>Trích từ Punished Deeds [Trừng Phạt], Tập III</Title>
       <Date>Năm 2531</Date>
@@ -411,7 +411,7 @@
 
    <Event>
       <Name>BlackBox13</Name>
-      <Status>Locked</Status>
+      <Status>Unlocked</Status>
       <Position>57.0</Position>
       <Title>Ngày 23 tháng 2 năm 2531</Title>
       <Date>Ngày 23 tháng 2 năm 2531</Date>
@@ -423,9 +423,9 @@
 
    <Event>
       <Name>Exile01</Name>
-      <Status>Locked</Status>
+      <Status>Unlocked</Status>
       <Position>58.0</Position>
-      <Title>Nhật ký của Thuyền trưởng Cutter, ngày 25 tháng 2 năm 2531</Title>
+      <Title>Nhật ký của Thuyền trưởng Cutter, 25/2/2531</Title>
       <Date>Ngày 25 tháng 2 năm 2531</Date>
       <DetailText>
          Những chiếc Pelican thực hiện một hoạt động trên bề mặt bên ngoài của hành tinh đã thất bại trong nhiệm vụ của họ sau bốn hoặc năm lần thử. Khi chiếc Pelican cố gắng đi vào bầu khí quyển của hành tinh, vô số chất lạ dính vào tất cả các lỗ thông hơi như muốn ngăn cản chiếc phi cơ. Cứ như thể hành tinh này không muốn bất kỳ phương tiện không gian nào lao xuống bề mặt của nó.
@@ -435,7 +435,7 @@
 
    <Event>
       <Name>BlackBox15</Name>
-      <Status>Locked</Status>
+      <Status>Unlocked</Status>
       <Position>59.0</Position>
       <Title>Ngày 25 tháng 2 năm 2531</Title>
       <Date>Ngày 25 tháng 2 năm 2531</Date>
@@ -447,9 +447,9 @@
 
    <Event>
       <Name>Release01</Name>
-      <Status>Locked</Status>
+      <Status>Unlocked</Status>
       <Position>60.0</Position>
-      <Title>Nhật ký của Trưởng Y khoa O'Neil, ngày 26 tháng 2 năm 2531</Title>
+      <Title>Nhật ký của Trưởng Y khoa O'Neil, 26/2/2531</Title>
       <Date>Ngày 26 tháng 2 năm 2531</Date>
       <DetailText>
          Thiêu hủy các thi thể bị nhiễm virus không phải là một quyết định dễ dàng, tôi không thể để virus tham lam nuốt chửng toàn bộ nhân sự của tàu Spirit of Fire. Việc nghiên cứu về virus và tác dụng của nó cũng có vẻ rất nguy hiểm vì chúng ta không được trang bị bất kỳ phòng thí nghiệm kiểm dịch nào và rõ nhất là chúng ta không biết về cách virus lây lan.
@@ -459,7 +459,7 @@
 
    <Event>
       <Name>BlackBox14</Name>
-      <Status>Locked</Status>
+      <Status>Unlocked</Status>
       <Position>62.0</Position>
       <Title>Ngày 1 tháng 3 năm 2531</Title>
       <Date>Ngày 1 tháng 3 năm 2531</Date>
@@ -471,48 +471,48 @@
 
    <Event>
       <Name>Anders02</Name>
-      <Status>Locked</Status>
+      <Status>Unlocked</Status>
       <Position>63.0</Position>
-      <Title>Cutter's Log, 3 March 2531</Title>
-      <Date>3 March 2531</Date>
+      <Title>Nhật ký của Thuyền trưởng Cutter, 3/3/2531</Title>
+      <Date>Ngày 3 tháng 3 năm 2531</Date>
       <DetailText>
-         Professor Anders' captivity by the Covenant has made her the longest known POW in the war so far. She has not sought counseling or talked much about her time in captivity but one can only begin to guess at the nightmares she went through during that terrible time.
+         Giáo sư Anders, người bị Covenant bắt giữ, hiện đang là tù nhân chiến tranh bị giam giữ lâu nhất cho đến nay. Cô ấy không tìm kiếm sự tư vấn hay nói nhiều về thời gian bị bắt giữ nhưng chúng ta chỉ có thể đoán rằng cô ấy đã có khoảng thời gian rất khủng khiếp.
       </DetailText>
       <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
    </Event>
 
    <Event>
       <Name>Labyrinth01</Name>
-      <Status>Locked</Status>
+      <Status>Unlocked</Status>
       <Position>64.0</Position>
-      <Title>Anders' Log, 4 March 2531</Title>
-      <Date>4 March 2531</Date>
+      <Title>Nhật ký của Giáo sư Anders, ngày 4 tháng 3 năm 2531</Title>
+      <Date>Ngày 4 tháng 3 năm 2531</Date>
       <DetailText>
-         The artificial construction of this "world" was far beyond the Covenant. Indeed, they seemed to be scavenging this technology for their own use and were unable to operate the machinery, either by design or advancement. The fact my hand was required to unlock the device leads me to believe the original builders of the planet may have had some knowledge about humans.
+         Việc xây dựng "hành tinh" nhân tạo này là một nhiệm vụ vượt xa trình độ công nghệ của Covenant. Thực tế, chúng dường như đang tìm kiếm công nghệ này để sử dụng cho riêng mình nhưng lại không thể vận hành nó, dù theo thiết kế hay cải tiến, việc tôi phải dùng tay để mở khóa thiết bị khiến tôi tin rằng những người xây dựng nó tại hành tinh này có thể đã có một số kiến thức về con người.
       </DetailText>
       <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
    </Event>
 
    <Event>
       <Name>Cutter02</Name>
-      <Status>Locked</Status>
+      <Status>Unlocked</Status>
       <Position>68.0</Position>
-      <Title>12 March 2531</Title>
-      <Date>12 March 2531</Date>
+      <Title>Ngày 12 tháng 3 năm 2531</Title>
+      <Date>Ngày 12 tháng 3 năm 2531</Date>
       <DetailText>
-         Captain Cutter walks the ship, stepping into medbay to check on the crew still recovering from the battle. He assures Nurse Hershey that a way will be found home and that she will get to see her husband again. He returns to his cabin and after writing five more commendation recommendations, fourteen family condolence letters and a note to his wife, sleeps for the first time in two weeks.
+         THuyền trưởng Cutter đi dạo trên con tàu và ghé qua phòng y tế để kiểm tra xem liệu toàn bộ nhân sự có đang hồi phục sau cuộc chiến hay không. Ông ấy đảm bảo với Y tá Hershey rằng sẽ tìm được cách về nhà và cô ấy sẽ gặp lại chồng của mình. Sau đó, ông trở về phòng, viết 5 lá thư trao huân chương, 14 lá thư chia buồn đến gia đình của các liệt sĩ, một lá thư gửi vợ và rồi ông ấy ngủ thiếp đi lần đầu tiên sau hai tuần.
       </DetailText>
       <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
    </Event>
 
    <Event>
       <Name>Repository01</Name>
-      <Status>Locked</Status>
+      <Status>Unlocked</Status>
       <Position>70.0</Position>
-      <Title>10 February 2534</Title>
-      <Date>10 February 2534</Date>
+      <Title>Ngày 10 tháng 2 năm 2534</Title>
+      <Date>Ngày 10 tháng 2 năm 2534</Date>
       <DetailText>
-         The UNSC designates Spirit of Fire as "lost with all hands." The previous designation of "missing" had given hope to family and friends. The reason for the change is classified top secret. A memorial service is held for the crew, but many prominent family members do not attend, holding out hope that their loved ones are still alive.
+         UNSC đã đổi trạng thái của tàu Spirit of Fire từ "mất tích" thành "mất tích cùng với toàn bộ nhân sự". Điều này đã làm cho niềm hy vọng đến từ người thân của toàn bộ nhân sự trên tàu Spirit bị lụi tàn. Nhưng lý do thay đổi lại là điều bí mật. Lễ tưởng niệm phi hành đoàn của con tàu đã được tổ chức nhưng có nhiều gia đình không tham dự vì họ chưa từ bỏ niềm hy vọng rằng người thân của họ vẫn còn sống.
       </DetailText>
       <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
    </Event>
@@ -521,46 +521,46 @@
       <Name>Event008</Name>
       <Status>Unlocked</Status>
       <Position>73.0</Position>
-      <Title>1 June 2536</Title>
-      <Date>1 June 2536</Date>
+      <Title>Ngày 1 tháng 6 năm 2536</Title>
+      <Date>Ngày 1 tháng 6 năm 2536</Date>
       <DetailText>
-         The Siege of the Inner Colonies begins as Covenant forces swarm into human-controlled space. For several years, the war falls into a pattern: humans win isolated battles, typically during ground operations, but at horrible cost. One by one, the colonies fall.
+         Cuộc chiến tranh toàn diện vào Inner Colonies đã bắt đầu khi lực lượng Covenant xâm chiếm các khu định cư của con người. Trong vài năm, con người chủ yếu giành chiến thắng trong các cuộc chiến tranh cục bộ quy mô nhỏ bằng cách tiến hành các hoạt động trên mặt đất, nhưng cái giá phải trả rất khủng khiếp. Và rồi người này người kia chết, cuối cùng các thuộc địa cứ lần lượt bị phá hủy.
       </DetailText>
       <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
    </Event>
 
    <Event>
       <Name>BeasleysPlateau01</Name>
-      <Status>Locked</Status>
+      <Status>Unlocked</Status>
       <Position>84.0</Position>
-      <Title>9 September 2549</Title>
-      <Date>9 September 2549</Date>
+      <Title>Ngày 9 tháng 9 năm 2549</Title>
+      <Date>Ngày 9 tháng 9 năm 2549</Date>
       <DetailText>
-         The Second Fall of Arcadia. The Covenant left Arcadia alone after their first attack on the planet in 2531 but the humans mostly abandoned it, leaving the capital city Pirth to nature. Eventually a small rural farming community started Abaskun, a rich farmland area on the continent of Mu. Although mostly lawless, the area provided much needed food supplies to the UNSC until the planet was attacked again by the Covenant in the fall of 2549.
+         Sự sụp đổ thứ hai của Arcadia. Sau cuộc xâm lược đầu tiên vào năm 2531, Covenant đã rời Arcadia nhưng rồi loài người hầu như đã bỏ rơi nó, để lại thủ đô Pirth. Thời gian trôi qua, một cộng đồng nông dân nhỏ ở nông thôn đã thành lập Abaskun, một vùng đất nông nghiệp màu mỡ trên lục địa Mu. Ngay cả khi có rất ít luật được ban hành, khu vực này vẫn cung cấp nguồn thực phẩm rất cần thiết tới UNSC cho đến khi thuộc địa này bị Covenant tấn công một lần nữa vào mùa thu năm 2549.
       </DetailText>
       <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
    </Event>
 
    <Event>
       <Name>FortDeen01</Name>
-      <Status>Locked</Status>
+      <Status>Unlocked</Status>
       <Position>86.0</Position>
-      <Title>Edict of the Office of the High Prophet of Truth</Title>
-      <Date>2550</Date>
+      <Title>Sắc lệnh tối cao của Prophet of Truth</Title>
+      <Date>Năm 2550</Date>
       <DetailText>
-         It is known that there is delay installing Luminaries upon newly constructed vessels of war. On each vessel still lacking a Luminary, one Unggoy worker out of every 64 is to be executed. To preserve discipline between the Sangheili overseers and Unggoy, choice of victim and execution is to be by Kig-Yar death squads. This to continue daily until that vessel's Luminary is installed.
+         Được biết, việc lắp đặt Luminary [Ánh Sáng Tổ Tiên] vào các tàu chiến mới được chế tạo đang có sự chậm trễ. Trên mỗi con tàu vẫn còn thiếu Luminary, cứ mỗi 64 công nhân Unggoy thì có một tên bị xử tử. Để duy trì kỷ luật giữa giám sát Sangheili và Unggoy, việc lựa chọn và xử tử nạn nhân sẽ được thực hiện bởi đội sát thủ Kig-Yar. Việc này sẽ được tiếp tục hàng ngày cho đến khi Luminary được lắp đặt vào toàn bộ những tàu chiến.
       </DetailText>
       <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_covenant.ddx</UnlockedImage>
    </Event>
 
    <Event>
       <Name>BloodGulch01</Name>
-      <Status>Locked</Status>
+      <Status>Unlocked</Status>
       <Position>90.0</Position>
-      <Title>27 August 2552</Title>
-      <Date>27 August 2552</Date>
+      <Title>Ngày 27 tháng 8 năm 2552</Title>
+      <Date>Ngày 27 tháng 8 năm 2552</Date>
       <DetailText>
-         Twenty-five of the twenty-eight surviving SPARTAN-IIs, including SPARTAN-117, are recalled to Reach to be briefed on the Covenant threat and to receive their new orders: board a damaged Covenant vessel, use a "mission specialist" to crack the Covenant computer system, and locate the Covenant homeworld. Once accomplished, a covert team will be dispatched to capture the Covenant leadership and broker a truce by force. Despite recent successes, the human military is being systematically slaughtered, and this may be the only chance for survival.
+         25 trong số 28 SPARTAN-II còn sống sót, bao gồm cả SPARTAN-117, được tập hợp về hành tinh Reach để thực hiện một nhiệm vụ mới nhằm ngăn chặn các kế hoạch của Covenant. Nhiệm vụ là: Thâm nhập vào một con tàu bị hư hỏng của Covenant và sử dụng "những công cụ riêng dành cho công việc" để bẻ khóa hệ thống máy tính của Covenant và xác định địa điểm quê nhà của Covenant. Sau khi hoàn thành, một đội ám sát sẽ được cử đi để bắt giữ lãnh đạo Covenant và buộc chúng phải thỏa thuận ngừng bắn. Bất chấp những thành công gần đây, quân đội loài người đang bị tàn sát một cách có hệ thống và đây có thể là cơ hội sống sót duy nhất.
       </DetailText>
       <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
    </Event>
@@ -569,10 +569,10 @@
       <Name>Event009</Name>
       <Status>Unlocked</Status>
       <Position>92.0</Position>
-      <Title>30 August 2552 - 0400 hours</Title>
-      <Date>30 August 2552</Date>
+      <Title>Ngày 30 tháng 8 năm 2552 - 4 giờ sáng</Title>
+      <Date>Ngày 30 tháng 8 năm 2552</Date>
       <DetailText>
-         Reach, the home of ONI's CASTLE facility and the Spartan-II project, is attacked by an overwhelming Covenant force. The vessel Pillar of Autumn, Captain Keyes commanding, transports Spartans into battle, hoping to seize a Covenant vessel. Though the Covenant are prevented from learning Earth's location, most of the Spartans fall in battle and Reach is lost.
+         Một đội quân Covenant hùng mạnh đã xâm chiếm hành tinh Reach, ngôi nhà của Căn cứ Castle đến từ ONI [Cơ quan Tình báo Hải quân] và dự án Spartan-II. Dưới sự chỉ huy của Thuyền trưởng Keyes, tàu Pillar of Autumn đã đưa Spartan vào chiến trường, với hy vọng chiếm được con tàu của Covenant. Mặc dù Covenant không hề biết đến vị trí của Trái đất, nhưng hầu hết những Spartan đã hy sinh và hành tinh Reach bị thất thủ.
       </DetailText>
       <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
    </Event>
@@ -581,34 +581,34 @@
       <Name>Event010</Name>
       <Status>Unlocked</Status>
       <Position>93.0</Position>
-      <Title>30 August 2552 - 0500 hours</Title>
-      <Date>30 August 2552</Date>
+      <Title>Ngày 30 tháng 8 năm 2552 - 5 giờ sáng</Title>
+      <Date>Ngày 30 tháng 8 năm 2552</Date>
       <DetailText>
-         Pillar of Autumn, commanded by Captain Keyes, flees Reach with Covenant ships in pursuit. The ship is heavily damaged, but manages to drop into slipspace and escape. Pillar of Autumn carries the only Spartan thought to have survived the engagement on Reach.
+         Dưới sự chỉ huy của Thuyền trưởng Keyes, tàu Pillar of Autumn rời khỏi hành tinh Reach nhưng lại bị Covenant truy đuổi. Con tàu đã bị hư hại nặng nhưng vẫn có thể nhảy không gian và trốn thoát. Trên tàu Pillar of Autumn có một Spartan được biết đến là người duy nhất sống sót sau trận chiến tại Reach.
       </DetailText>
       <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
    </Event>
 
    <Event>
       <Name>Crevice01</Name>
-      <Status>Locked</Status>
+      <Status>Unlocked</Status>
       <Position>98.0</Position>
-      <Title>Edict of the Office of the High Prophet of Truth</Title>
-      <Date>2552</Date>
+      <Title>Sắc lệnh tối cao của Prophet of Truth</Title>
+      <Date>Năm 2552</Date>
       <DetailText>
-         Hear now all personnel to spend today's second rest period in attentive watchfulness before display monitors. All display monitors to display the humbling and punishment of the Sangheili Supreme Commander of the Fleet of Particular Justice, for failure, cowardice, and lack of faith.
+         Hãy nghe đây. Toàn bộ nhân sự phải dành ngày nghỉ của hôm nay để chăm chú theo dõi trước màn hình. Toàn bộ màn hình phải chiếu cảnh quay trực tiếp về việc trừng phạt tên Tổng Tư lệnh Tối Cao của tộc Sangheili đến từ Hạm đội Particular Justice vì nỗi ô nhục, vì sự thất bại, vì sự hèn nhát, và cũng là một kẻ phản bội đức tín.
       </DetailText>
       <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_covenant.ddx</UnlockedImage>
    </Event>
 
    <Event>
       <Name>Brute02</Name>
-      <Status>Locked</Status>
+      <Status>Unlocked</Status>
       <Position>99.0</Position>
-      <Title>Edict of the Office of the High Prophet of Truth</Title>
-      <Date>2552</Date>
+      <Title>Sắc lệnh tối cao của Prophet of Truth</Title>
+      <Date>Năm 2552</Date>
       <DetailText>
-         In recognition of the virtue of the Jiralhanae, it is ordered that all Sangheili aboard the Fleet of Profound Solitude, The Fleet of Tranquil Composure, and the Fleet of Inner Knowledge to be completely replaced by Jiralhanae. Each removed Sangheili to be assigned other duties. In celebration, all imprisoned or criminal Jiralhanae to be released, rehabilitated, and pardoned.
+         Để ghi nhận những chiến công của tộc Jiralhanae, ta ra lệnh tộc Sangheili của Hạm đội Profound Solitude, Hạm đội Tranquil Composure, và cả Hạm đội Inner Knowledge phải đổi chỗ hoàn toàn với tộc Jiralhanae. Mỗi Sangheili phải được loại bỏ để được giao nhiệm vụ khác. Để ăn mừng, những người bị giam giữ hoặc là tội phạm của tộc Jiralhanae đều được trả tự do, phục hồi, và được ân xá.
       </DetailText>
       <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_covenant.ddx</UnlockedImage>
    </Event>
