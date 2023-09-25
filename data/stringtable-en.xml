@@ -1287,7 +1287,7 @@ BẢNG ID STRING TRONG GAME
       <String _locID='22331' category='Skirmish' subtitle='false'>Battle inside the Relic, the side that comes out on top will control the Artifact below.</String>
       <String _locID='22332' category='Skirmish' subtitle='false'>2v2 Wasteland SWI Information</String>
       <String _locID='22333' category='Skirmish' subtitle='false'>Fast-paced gameplay where taking the high ground may be the difference between life and death.</String>
-      <String _locID='22334' category='Skirmish' subtitle='false'>Có một cái ao bị đóng băng và một số cái hố sẽ dẫn quân vào những nơi giết chóc ở khu vực đầy vết tích chiến tranh này.</String>
+      <String _locID='22334' category='Skirmish' subtitle='false'>Có một vài ao bị đóng băng và một số miệng núi lửa sẽ dẫn quân vào những nơi chết chóc ở khu vực đầy vết tích chiến tranh này.</String>
       <String _locID='22335' category='Skirmish' subtitle='false'>Large bodies of water leave narrow choke points between you and your enemies.</String>
       <String _locID='22336' category='Skirmish' subtitle='false'>1v1 TwinPeaks HAR Information</String>
       <String _locID='22337' category='Skirmish' subtitle='false'>3v3 Suddendeath Information</String>
@@ -5067,7 +5067,7 @@ BẢNG ID STRING TRONG GAME
       <String _locID='26249' category='Powers' subtitle='false'>Sử dụng $$LS$$ để di chuyển tới nơi bạn muốn và rồi nhấn $$X$$ để tấn công.</String>
       <String _locID='26250' category='Campaign' subtitle='true' scenario='Tutorial'>Bạn sẽ cần áp dụng những gì bạn vừa học được về cách điều khiển camera và sử dụng con trỏ chuột để chọn thứ mà bạn muốn.</String>
       <String _locID='26251' category='UI' scenario='MPPartyRoomHelp' subtitle='false'>Đợi những người chơi khác tham gia hoặc ấn $$A$$ vào vị trí để thêm người chơi máy (A.I.).</String>
-      <String _locID='26252' category='UI' scenario='MPGameSetup' subtitle='false'>$$A$$ on a slot for player options</String>
+      <String _locID='26252' category='UI' scenario='MPGameSetup' subtitle='false'>Nhấn $$A$$ để xem tùy chọn dành cho người chơi</String>
       <String _locID='26253' category='Campaign' scenario='Tutorial' subtitle='true'>Để di chuyển camera xung quanh chiến trường, bạn chỉ cần di chuyển $$LS$$ tới góc màn hình.</String>
       <String _locID='26254' subtitle='false'>Nhấn $$Flare$$ sẽ gửi cảnh báo tới đồng đội của bạn. Nó sẽ giúp bạn giao tiếp với đồng đội dễ dàng và nhanh gọn hơn khi bạn muốn nói vị trí bạn muốn tấn công.</String>
       <String _locID='26255' subtitle='false'>Nhấn $$Rally$$ để đặt Điểm Tập Hợp (Tổng).</String>
@@ -5080,7 +5080,7 @@ BẢNG ID STRING TRONG GAME
       <String _locID='26262' subtitle='false'>Việc chọn đơn vị rất là dễ dàng, tất cả những gì bạn cần làm là nhấn nút $$A$$, nhưng bạn cũng có thể giữ nút $$A$$ để sử dụng hộp chọn.</String>
       <String _locID='26263' subtitle='false'>Bạn cần di chuyển xung quanh bản đồ một cách nhanh chóng? Hãy nhấn chuột trái vào nơi bạn muốn di chuyển tới trên minimap.</String>
       <String _locID='26264' subtitle='false'>Kỹ năng "Nộ" của Arbiter biến sự ác độc không thể kìm nén của hắn trở thành một chuỗi diệt vong. Khi bạn đang sử dụng kỹ năng "Nộ", nhấn nút $$X$$ để nhảy nhanh (quick jump).</String>
-      <String _locID='26265' category='UI' scenario='PartyRoomHelp' subtitle='false'>$$A$$ on a slot to add an A.I. player</String>
+      <String _locID='26265' category='UI' scenario='PartyRoomHelp' subtitle='false'>Nhấn $$A$$ vào chỗ trống để thêm người chơi máy</String>
       <String _locID='26266' category='UI' subtitle='false'>Hãy nhớ: Nhấn nút $$Army$$ để nhảy camera tới đội quân của bạn.</String>
       <String _locID='26267' category='UI' subtitle='false'>Hãy nhớ: Nhấn nút $$Alert$$ để nhảy tới những cảnh báo.</String>
       <String _locID='26268' category='UI' subtitle='false'>Hãy nhớ: Nhấn nút $$Base$$ để nhảy camera tới những căn cứ của bạn.</String>
