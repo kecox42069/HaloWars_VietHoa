@@ -1,4 +1,4 @@
-![bulldog_hero_1920_620_final](https://halowarsvh.vercel.app/img/bulldog_hero_1920_620_final.png)
+![phoenix_10858_5197_cropped_halowaypoint_final](https://halowarsvh.vercel.app/img/phoenix_10858_5197_cropped_halowaypoint_final.jpg)
 # CÁCH CÀI ĐẶT
 **XBOX 360:**
 
