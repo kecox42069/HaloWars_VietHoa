@@ -24,7 +24,7 @@ Và rồi đưa file ModManifest.txt vào:
 
 Việc còn lại đó là chạy game!
 
-** Ví dụ: /home/kecox/.local/share/Steam/steamapps/compatdata/459220/pfx/drive_c/
+** Ví dụ: /home/kecox/.local/share/Steam/steamapps/
 
 # GHI CÔNG
 Việt hóa bởi kecox15670.
