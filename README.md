@@ -1,6 +1,6 @@
-![bulldog_hero_1920_620_final](https://halowarsvh.vercel.app/img/bulldog_hero_1920_620_final.png)
+![bulldog_hero_1920_620_final](https://halowarsvh.vercel.app/img/bulldog_hero_1920_620_final.jpg)
 # CÁCH CÀI ĐẶT
-## **PC (Windows):**
+## **PC (Steam/Microsoft Store/Xbox app/Xbox Game Pass - Windows):​:**
 
 **TẢI VỀ:** [Release](https://github.com/kecox42069/HaloWars_VietHoa/releases/tag/bulldog_vhg)
 
