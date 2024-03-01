@@ -3493,7 +3493,7 @@ BẢNG ID STRING TRONG GAME
       <String _locID='24569' category='UI' scenario='Options' subtitle='false'>A.I Cố Vấn</String>
       <String _locID='24570' category='UI' scenario='Options' subtitle='false'>Chọn bật hoặc tắt Cố Vấn A.I trong chế độ Đụng Độ.  Cố Vấn A.I sẽ cung cấp cho bạn những lời khuyên hữu ích và gợi ý trong khi chơi chế độ Đụng Độ.</String>
       <String _locID='24571' category='UI' scenario='Options' subtitle='false'>Độ Khó Mặc Định Của Máy Trong Chế Độ Đụng Độ</String>
-      <String _locID='24572' category='UI' scenario='Options' subtitle='false'>Thiết lập độ khó mặc định dành cho người chơi máy trong chế độ Đụng Độ. Tự Động sẽ chỉnh độ khó của máy sao cho phù hợp với kỹ năng chơi của bạn.</String>
+      <String _locID='24572' category='UI' scenario='Options' subtitle='false'>Thiết lập độ khó mặc định dành cho người chơi máy (A.I) trong chế độ Đụng Độ. Tự Động sẽ chỉnh độ khó của người chơi máy sao cho phù hợp với kỹ năng chơi của bạn.</String>
       <String _locID='24573' category='UI' scenario='Options' subtitle='false'>DỄ</String>
       <String _locID='24574' category='UI' scenario='Options' subtitle='false'>BÌNH THƯỜNG</String>
       <String _locID='24575' category='UI' scenario='Options' subtitle='false'>HÀO HÙNG</String>
@@ -4180,7 +4180,8 @@ BẢNG ID STRING TRONG GAME
       <String _locID='25312' category='UI' scenario='GameSetup' subtitle='false'>Đuổi người chơi</String>
       <String _locID='25313' category='UI' scenario='GameSetup' subtitle='false'>Thay đổi cài đặt</String>
       <String _locID='25315' category='UI' scenario='GameSetup' subtitle='false'>%1!s!</String>
-      <String _locID='25316' category='UI' scenario='GameSetup' subtitle='false'>View gamercard</String>
+      <String _locID='25316' category='UI' scenario='GameSetup' subtitle='false'>Xem hồ sơ Xbox Live</String>
+	  <!-- 25316 View gamercard -->
       <String _locID='25317' category='UI' scenario='GameSetup' subtitle='false'>NHIỆM VỤ: %1!s!</String>
       <String _locID='25318' category='UI' scenario='GameSetup' subtitle='false'>SELECT MISSION</String>
       <String _locID='25319' category='UI' scenario='GameSetup' subtitle='false'>PUBLIC GAME: %1!s!</String>
@@ -4294,9 +4295,9 @@ BẢNG ID STRING TRONG GAME
       <String _locID='25426' category='UI' scenario='Campaign' subtitle='false'>HƯỚNG DẪN</String>
       <String _locID='25427' category='UI' scenario='Campaign' subtitle='false'>CƠ BẢN</String>
       <String _locID='25428' category='UI' scenario='Campaign' subtitle='false'>NÂNG CAO</String>
-      <String _locID='25440' category='UI' subtitle='false'>Please sign-in with an Xbox Live gamer profile.</String>
+      <String _locID='25440' category='UI' subtitle='false'>Vui lòng đăng nhập bằng hồ sơ Xbox Live.</String>
       <String _locID='25441' category='UI' scenario='' subtitle='false'>Bạn có chắc là muốn chạy tiến trình chơi này? Những tiến trình chưa được lưu sẽ bị mất.</String>
-      <String _locID='25442' category='UI' scenario='MP modes' subtitle='false'>You have lost your connection to Xbox Live. Không thể tiếp tục tìm trận.</String>
+      <String _locID='25442' category='UI' scenario='MP modes' subtitle='false'>Bạn đã bị mất kết nối tới máy chủ Xbox Live. Không thể tiếp tục tìm trận.</String>
       <String _locID='25443' category='UI' scenario='MP modes' subtitle='false'>Bạn đã bị mất kết nối tới máy chủ Xbox Live. Không thể tiếp tục phòng chơi trực tuyến.</String>
       <String _locID='25444' category='UI' scenario='MP modes' subtitle='false'>Bạn đã bị mất kết nối mạng.</String>
       <String _locID='25445' category='Campaign' scenario='Tutorial' subtitle='true'>Làm tốt lắm!</String>
@@ -4727,7 +4728,7 @@ BẢNG ID STRING TRONG GAME
       <String _locID='25875' subtitle='false'>Nếu bạn chọn Prophet of Regret làm thủ lĩnh và cho ông ấy một chút thời gian để hồi lại khiên năng lượng, ông ấy có thể tự mình tiêu diệt kẻ thù và công trình xung quanh bản đồ.</String>
       <String _locID='25876' subtitle='false'>Chopper của Brute là phương tiện mạnh mẽ hơn Ghost và Warthog rất nhiều.</String>
       <String _locID='25877' subtitle='false'>Các công trình của Covenant thường yếu hơn UNSC rất nhiều. Vậy nên là, hãy xây một trạm Lá Chắn Năng Lượng.</String>
-      <String _locID='25878' subtitle='false'>Tiêu diệt kẻ thù xung quanh những cấu trúc của bản đồ bằng thủ lĩnh Covenant của bạn để tăng cấp bậc to gain veterancy levels.</String>
+      <String _locID='25878' subtitle='false'>Tiêu diệt kẻ thù xung quanh những cấu trúc của bản đồ bằng thủ lĩnh Covenant để tăng bậc kỳ cựu (veterancy).</String>
       <String _locID='25879' subtitle='false'>Mỗi khi bạn còn thừa một ô xây và bạn không chắc chắn nên xây cái gì, thì Trạm Cung Cấp (đối với UNSC) hoặc Kho Tài Nguyên (đối với Covenant) vẫn luôn là lựa chọn tốt nhất.</String>
       <String _locID='25881' subtitle='false'>Đưa bộ binh của bạn vào Lò Phản Ứng của Forerunner là một cách để nâng cấp trình độ công nghệ cực kỳ hữu dụng mà không cần phải xây Lò Phản Ứng hoặc nghiên cứu về Thời Đại tại Ngôi Đền.</String>
       <String _locID='25882' subtitle='false'>Đưa bộ binh của bạn vào trong Trạm Cung Cấp Tài Nguyên của Forerunner và nó sẽ cung cấp cho bạn những tài nguyên cực kỳ hữu ích.</String>
@@ -4820,7 +4821,7 @@ BẢNG ID STRING TRONG GAME
       <String _locID='25978' subtitle='false'>Ensemble Studios dedicates Halo Wars to all our fans. We owe our success to you and are honored by what you've given us over the last twelve years. Thanks - see you on Xbox Live!</String>
       <String _locID='25979' category='UI' scenario='Message' subtitle='false'>Unable to access the active gamer profile.  Changes to settings or game progress may be lost.</String>
       <String _locID='25980' category='UI' scenario='CommandMenu' subtitle='false'>%1!.0f!s</String>
-      <String _locID='25981' category='UI' scenario='Campaign Menu' subtitle='false'>NO SAVE FILE FOUND</String>
+      <String _locID='25981' category='UI' scenario='Campaign Menu' subtitle='false'>KHÔNG CÓ BẢN LƯU NÀO</String>
       <String _locID='25982' category='UI' scenario='Options' subtitle='false'>Alternate Ability Control</String>
       <String _locID='25983' category='UI' scenario='Options' subtitle='false'>Only the selected unit closest to the enemy will use its Y ability. Double-tap Y to order all units to use abilities.</String>
       <String _locID='25985' category='UI' scenario='SaveGames' subtitle='false'>A storage device is currently not selected. Would you like to select one now?</String>
@@ -4968,9 +4969,9 @@ BẢNG ID STRING TRONG GAME
       <String _locID='26145' category='Campaign' subtitle='true' scenario='Tutorial'>Bạn có thể làm vậy bằng cách ấn nút $$LB$$.</String>
       <String _locID='26146' category='Campaign' scenario='Tutorial' subtitle='true'>Sử dụng $$LS$$, di chuyển con trỏ chuột vào Trạm Cung Cấp, và rồi ấn $$A$$ để bắt đầu xây nó.</String>
       <String _locID='26147' category='Campaign' scenario='Tutorial' subtitle='true'>Nhấn $$SoFM$$ để mở menu Kỹ Năng Chỉ Huy.</String>
-      <String _locID='26148' category='UI' scenario='MPPartyRoomTutorial' subtitle='false'>From this screen, change settings for the types of games you want to find. You can change the mode, map, player count, difficulty, and invite friends before you search what types of games are available.</String>
-      <String _locID='26149' category='UI' scenario='MPPartyRoomTutorial' subtitle='false'>Select SEARCH GAMES to find public games or CREATE GAME to host. A quick access option to the GAME LIST will become available once search settings have been set up for the first time.</String>
-      <String _locID='26150' category='UI' scenario='MPPartyRoomTutorial' subtitle='false'>Search settings have been set up, the GAME LIST option is now available.</String>
+      <String _locID='26148' category='UI' scenario='MPPartyRoomTutorial' subtitle='false'>Từ màn hình này, hãy chỉnh cài đặt để tìm phòng chơi mà bạn muốn. Bạn có thể chỉnh chế độ, bản đồ, số lượng người chơi có trong phòng, độ khó, và mời bạn bè trước khi tìm trận.</String>
+      <String _locID='26149' category='UI' scenario='MPPartyRoomTutorial' subtitle='false'>Nhấn TÌM TRẬN để tìm phòng chơi công khai hoặc nhấn TẠO PHÒNG ĐẤU để mở phòng. Một DANH SÁCH PHÒNG CHƠI sẽ hiện lên một khi cài đặt tìm trận đã được chỉnh xong.</String>
+      <String _locID='26150' category='UI' scenario='MPPartyRoomTutorial' subtitle='false'>Đã chỉnh xong cài đặt tìm trận, DANH SÁCH PHÒNG CHƠI hiện đã khả dụng.</String>
       <String _locID='26153' category='UI' subtitle='false'>TÌM TRẬN</String>
       <String _locID='26154' category='UI' scenario='GameSetup' subtitle='false'>CHẾ ĐỘ CHƠI: %1!s!</String>
       <String _locID='26155' category='UI' scenario='AttractScreen' subtitle='false' >NHẤN CHUỘT ĐỂ BẮT ĐẦU</String>
@@ -5039,7 +5040,7 @@ BẢNG ID STRING TRONG GAME
       <String _locID='26221' category='Skirmish' scenario='Hint Chat' subtitle='false'>Use $$LS$$ to move the cursor over the beacon. Press $$X$$ to tell your Warthog to move there.</String>
       <String _locID='26222' category='Skirmish' scenario='Hint Chat' subtitle='false'>Selecting any building site brings up the BUILDING MENU. Use $$LS$$ to highlight the Supply Pad.</String>
       <String _locID='26223' category='Skirmish' scenario='Hint Chat' subtitle='false'>Use $$LS$$ to highlight the Marines and then press $$A$$ to start the training.</String>
-      <String _locID='26224' category='UI' subtitle='false'>$$A$$ slot for player options</String>
+      <String _locID='26224' category='UI' subtitle='false'>Nhấn $$A$$ vào bảng tên người chơi để xem cài đặt</String>
       <String _locID='26225' category='Skirmish' scenario='Hint Chat' subtitle='false'>Good. Now, select that first Marine squad, but this time, click and hold $$A$$ and use $$LS$$ to "paint" your selection.</String>
       <String _locID='26226' category='Skirmish' scenario='Hint Chat' subtitle='false'>Notice the expanding rectangle selection. The rectangle will select every one of your units that it touches.</String>
       <String _locID='26227' category='Skirmish' scenario='Hint Chat' subtitle='false'>Select all of your Marines by click and holding $$A$$, move the rectangle with $$LS$$.</String>
@@ -5332,7 +5333,7 @@ BẢNG ID STRING TRONG GAME
       <String _locID='26620' subtitle='false' category='Code'>Tay cầm đã bị ngắt kết nối.</String>
       <String _locID='26621' subtitle='false' category='Code'>Không thể tham gia phòng chơi. Lỗi: %1!s!</String>
       <String _locID='26622' category='UI' subtitle='false'>THOÁT VỀ MENU</String>
-      <String _locID='26623' subtitle='false' category='Code'>Đang tải thông tin hồ sơ người chơi của bạn...</String>
+      <String _locID='26623' subtitle='false' category='Code'>Đang tải thông tin hồ sơ người chơi...</String>
       <String _locID='26624' category='UI' scenario='MPGameSetup' subtitle='false'>Lobby is full. You can create a game now with the current players or adjust your search.</String>
       <String _locID='26625' category='UI' scenario='MPGameSetup' subtitle='false'>ADJUST SEARCH</String>
       <String _locID='26626' category='UI' scenario='MPGameSetup' subtitle='false'>Toàn Màn Hình (Không Viền)</String>
@@ -5383,7 +5384,7 @@ BẢNG ID STRING TRONG GAME
       <String _locID='26671' category='UI' scenario='Options' subtitle='false'>Tùy chỉnh độ phân giải ở chế độ toàn màn hình.</String>
       <String _locID='26672' subtitle='false'>%1!d!x%2!d!</String>
       <String _locID='26673' subtitle='false'>ÁP DỤNG ĐỘ PHÂN GIẢI</String>
-      <String _locID='26674' subtitle='false'>Độ phân giải bạn vừa mới chọn sẽ được áp dụng ngay sau khi trò chơi ở chế độ toàn màn hình.</String>
+      <String _locID='26674' subtitle='false'>Độ phân giải bạn vừa mới chọn sẽ được áp dụng ngay sau khi trò chơi được chuyển sang chế độ toàn màn hình.</String>
       <String _locID='26675' category='steamVersion' originally='25045 and 23441' subtitle='false'>HỒ SƠ</String>
       <String _locID='26676' category='steamVersion' originally='25316' subtitle='false'>Xem hồ sơ của người chơi</String>
       <String _locID='26677' category='steamVersion' originally='26179' subtitle='false'>Xem hồ sơ của chủ phòng</String>
