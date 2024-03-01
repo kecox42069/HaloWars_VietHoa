@@ -4180,7 +4180,8 @@ BẢNG ID STRING TRONG GAME
       <String _locID='25312' category='UI' scenario='GameSetup' subtitle='false'>Đuổi người chơi</String>
       <String _locID='25313' category='UI' scenario='GameSetup' subtitle='false'>Thay đổi cài đặt</String>
       <String _locID='25315' category='UI' scenario='GameSetup' subtitle='false'>%1!s!</String>
-      <String _locID='25316' category='UI' scenario='GameSetup' subtitle='false'>View gamercard</String>
+      <String _locID='25316' category='UI' scenario='GameSetup' subtitle='false'>Xem hồ sơ Xbox Live</String>
+	  <!-- 25316 View gamercard -->
       <String _locID='25317' category='UI' scenario='GameSetup' subtitle='false'>NHIỆM VỤ: %1!s!</String>
       <String _locID='25318' category='UI' scenario='GameSetup' subtitle='false'>SELECT MISSION</String>
       <String _locID='25319' category='UI' scenario='GameSetup' subtitle='false'>PUBLIC GAME: %1!s!</String>
@@ -4968,9 +4969,9 @@ BẢNG ID STRING TRONG GAME
       <String _locID='26145' category='Campaign' subtitle='true' scenario='Tutorial'>Bạn có thể làm vậy bằng cách ấn nút $$LB$$.</String>
       <String _locID='26146' category='Campaign' scenario='Tutorial' subtitle='true'>Sử dụng $$LS$$, di chuyển con trỏ chuột vào Trạm Cung Cấp, và rồi ấn $$A$$ để bắt đầu xây nó.</String>
       <String _locID='26147' category='Campaign' scenario='Tutorial' subtitle='true'>Nhấn $$SoFM$$ để mở menu Kỹ Năng Chỉ Huy.</String>
-      <String _locID='26148' category='UI' scenario='MPPartyRoomTutorial' subtitle='false'>From this screen, change settings for the types of games you want to find. You can change the mode, map, player count, difficulty, and invite friends before you search what types of games are available.</String>
-      <String _locID='26149' category='UI' scenario='MPPartyRoomTutorial' subtitle='false'>Select SEARCH GAMES to find public games or CREATE GAME to host. A quick access option to the GAME LIST will become available once search settings have been set up for the first time.</String>
-      <String _locID='26150' category='UI' scenario='MPPartyRoomTutorial' subtitle='false'>Search settings have been set up, the GAME LIST option is now available.</String>
+      <String _locID='26148' category='UI' scenario='MPPartyRoomTutorial' subtitle='false'>Từ màn hình này, hãy chỉnh cài đặt để tìm phòng chơi mà bạn muốn. Bạn có thể chỉnh chế độ, bản đồ, số lượng người chơi có trong phòng, độ khó, và mời bạn bè trước khi tìm trận.</String>
+      <String _locID='26149' category='UI' scenario='MPPartyRoomTutorial' subtitle='false'>Nhấn TÌM TRẬN để tìm phòng chơi công khai hoặc nhấn TẠO PHÒNG ĐẤU để mở phòng. Một DANH SÁCH PHÒNG CHƠI sẽ hiện lên một khi cài đặt tìm trận đã được chỉnh xong.</String>
+      <String _locID='26150' category='UI' scenario='MPPartyRoomTutorial' subtitle='false'>Đã chỉnh xong cài đặt tìm trận, DANH SÁCH PHÒNG CHƠI hiện đã khả dụng.</String>
       <String _locID='26153' category='UI' subtitle='false'>TÌM TRẬN</String>
       <String _locID='26154' category='UI' scenario='GameSetup' subtitle='false'>CHẾ ĐỘ CHƠI: %1!s!</String>
       <String _locID='26155' category='UI' scenario='AttractScreen' subtitle='false' >NHẤN CHUỘT ĐỂ BẮT ĐẦU</String>
@@ -5039,7 +5040,7 @@ BẢNG ID STRING TRONG GAME
       <String _locID='26221' category='Skirmish' scenario='Hint Chat' subtitle='false'>Use $$LS$$ to move the cursor over the beacon. Press $$X$$ to tell your Warthog to move there.</String>
       <String _locID='26222' category='Skirmish' scenario='Hint Chat' subtitle='false'>Selecting any building site brings up the BUILDING MENU. Use $$LS$$ to highlight the Supply Pad.</String>
       <String _locID='26223' category='Skirmish' scenario='Hint Chat' subtitle='false'>Use $$LS$$ to highlight the Marines and then press $$A$$ to start the training.</String>
-      <String _locID='26224' category='UI' subtitle='false'>$$A$$ slot for player options</String>
+      <String _locID='26224' category='UI' subtitle='false'>Nhấn $$A$$ vào bảng tên người chơi để xem cài đặt</String>
       <String _locID='26225' category='Skirmish' scenario='Hint Chat' subtitle='false'>Good. Now, select that first Marine squad, but this time, click and hold $$A$$ and use $$LS$$ to "paint" your selection.</String>
       <String _locID='26226' category='Skirmish' scenario='Hint Chat' subtitle='false'>Notice the expanding rectangle selection. The rectangle will select every one of your units that it touches.</String>
       <String _locID='26227' category='Skirmish' scenario='Hint Chat' subtitle='false'>Select all of your Marines by click and holding $$A$$, move the rectangle with $$LS$$.</String>
