@@ -2,7 +2,9 @@
 # CÁCH CÀI ĐẶT
 **XBOX 360:**
 
-Cập nhật sau.
+**YÊU CẦU:** Bản USA (MS-2056), RGH (không dùng được với JTaG).
+
+**LINK TẢI:** [Release](https://github.com/kecox42069/HaloWars_VietHoa/releases/download/phoenix_vi/locale.era)
 
 # GHI CÔNG
 Việt hóa bởi kecox15670.
